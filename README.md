@@ -1,6 +1,3 @@
-Deep-learning models of NTUA-SLP team 
-submitted in SemEval 2018 tasks 1, 2 and 3.
-
 # Overview
 
 This repository contains the source code for the models submitted 

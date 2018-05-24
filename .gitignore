@@ -113,4 +113,6 @@ _data
 # embeddings
 embeddings/*.txt
 embeddings/*.p
+trained/*.conf
+trained/*.model
 /_cache/
