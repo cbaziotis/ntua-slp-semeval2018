@@ -1,0 +1,450 @@
+ID	Tweet	Affect Dimension	Intensity Class
+2018-En-02354	So @Ryanair site crashes everytime I try to book - how do they help? Tell me there's nothing wrong &amp; hang up #furious #helpless @SimonCalder	valence	-3: very negative emotional state can be inferred
+2018-En-00124	Theme of week: Ask the Lord for strength &amp; perspective to persevere in #integrity and effort, despite being #disheartened &amp; disappointed.	valence	-2: moderately negative emotional state can be inferred
+2018-En-02603	@F1 Why announcing so late, it will be hard to make it from Manchester and organising a day off. #sad	valence	-3: very negative emotional state can be inferred
+2018-En-00450	The greatest happiness is seeing someone you like stay happy - Daidouji Tomoyo [Cardcaptor Sakura ]	valence	3: very positive emotional state can be inferred
+2018-En-00502	omg so grateful to have an education but ive been back at school for 2 (two) days and my back hurts, im exhausted and breaking out already 😍	valence	1: slightly positive emotional state can be inferred
+2018-En-02500	Because of your @smile, you @make the #life more #beautiful:::::::::::::::::::::::::::::::::::::::::	valence	3: very positive emotional state can be inferred
+2018-En-02737	@mashable For some reason this has filled me with delight. See Auntie laugh.	valence	2: moderately positive emotional state can be inferred
+2018-En-01354	@LoveMyFFAJacket FaceTime - we can still annoy you 😂	valence	1: slightly positive emotional state can be inferred
+2018-En-03750	and i shouldve cut them off the moment i started hurting myself over them :o	valence	-2: moderately negative emotional state can be inferred
+2018-En-01292	@VescioDiana You forgot #laughter as well ❤️❤️❤️	valence	1: slightly positive emotional state can be inferred
+2018-En-01838	@maidinaustralia D: That's horrid. *hugs*	valence	-2: moderately negative emotional state can be inferred
+2018-En-01198	I was having a #BadDay and i went on #YouTube and watched @domoandcrissy reaction to old pics. #Thanks #ladies for the #laughs	valence	2: moderately positive emotional state can be inferred
+2018-En-00459	Wtf shawty ass on 😤	valence	-3: very negative emotional state can be inferred
+2018-En-01908	@dom_conlon It’s amazing isn’t it. I’m a big fan of B&amp;W but the life these restorations give the photographs is awe inspiring.	valence	2: moderately positive emotional state can be inferred
+2018-En-01474	Didn't know the @ChickfilA cow day thing ended at 7:30 so showed up 30 min late looking like a cow with no sandwich #sadness 😅😅😅	valence	-1: slightly negative emotional state can be inferred
+2018-En-02459	@BBCWorld Course he didn't. #sarcasm	valence	-2: moderately negative emotional state can be inferred
+2018-En-01733	@thatradiogeek That is a tremendous thing to wake up to and read, man. Glad to hear it, as we need WAY more people helping with this.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03041	#ThingsIveLearned The wise #shepherd never trusts his flock to a #smiling wolf. #TeamFollowBack #fact #wisewords	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00405	Media is so focused on bad news that we forget how much more great/good things happen daily. #Thinkpositive #goodnews #optimism #goodmorning	valence	1: slightly positive emotional state can be inferred
+2018-En-01183	@WhiskurMew Happy birthday, beautiful! I hope today is as lovely, wonderful, and astounding as you are!! You deserve no less than that! 😊🎉🎂💞	valence	3: very positive emotional state can be inferred
+2018-En-03279	Alright Alex and I have party boy neighbors who blast music 	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03129	Happy Amazon Prime day to all my primers 😆	valence	1: slightly positive emotional state can be inferred
+2018-En-02573	@praddy06 sir.. will we have the need for umbrella today evening.. sun seems to be stronger to pave way for clouds.. 😟	valence	-2: moderately negative emotional state can be inferred
+2018-En-02502	Nah but as a governor how do you call someone a bum &amp; that you love calls from 'communist in Montclair' ? 😂 #crying	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02178	#dmme #kikme  #sext #horny  #ass #bbw  #naughty  #pussy #kik   #nudes  only  girls  😩 horny  #snap    jacobgigs	valence	-1: slightly negative emotional state can be inferred
+2018-En-03955	What is this miserable ass weather all about 😭 dark and gloomy #depressing #weekoff #wheresthesun	valence	-3: very negative emotional state can be inferred
+2018-En-00477	@BBCBreaking I have some mistrust of the medical profession.  The cover up was more important than the patients.	valence	-2: moderately negative emotional state can be inferred
+2018-En-02934	Are u #depressed #hypo #manic #lonely #bored #nofriends #needfreinds #friend I feel chatty I wanna help ppl or just #makefriend 's #dm #moms	valence	-2: moderately negative emotional state can be inferred
+2018-En-00749	#anxious don't know why ................. #worry 😶 slowly going #mad hahahahahahahahaha	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01435	@o_pebbles Not of this one sadly! 😪	valence	-3: very negative emotional state can be inferred
+2018-En-04144	'We can throw stones, complain about them, stumble on them, climb over them, or build with them.' — William Arthur Ward. #inspiring	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00653	@JoySparkleBS being able to sit with so much solid info while others came at her ready to kill is a true sign of strength. #inspiring	valence	1: slightly positive emotional state can be inferred
+2018-En-03459	Happy birthday to ma brother from another mother @Official1Cedi dis year More blessing #Break itz	valence	3: very positive emotional state can be inferred
+2018-En-03476	@neobrainless So... Lots of pretty coloured blobs of sugar? I mean I'm willing to try it, I'm just not sure I understand the point of it 😅	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03633	I feel like I should be watching #glee, but #glee will just make me cry and I'm trying to remember happy times	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03935	Went to bed a 1:30, fell asleep after, my niece started crying at 4. I'm dying... 😧	valence	-3: very negative emotional state can be inferred
+2018-En-01696	aleesha—kitchen sink, twenty one pilots (!!)	valence	1: slightly positive emotional state can be inferred
+2018-En-03913	And the #wonderful boy in the Garden grew in wisdom and stature and in favour with God and men, which, literally, were his parents.\n#VSS365	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03719	The blackest abyss of despair, Alonzo	valence	-3: very negative emotional state can be inferred
+2018-En-03255	Ha ha love flats description of Marlie packer... Default setting 'combat mode'.... 😂😂😂😂😂  #brilliant \n@davidflatman @MarliePacker #WRWC2017	valence	3: very positive emotional state can be inferred
+2018-En-00912	#redvelvet #wendy #seulgi #irene #yeri #joy \n1. Which member that can not drink sparkling water ?	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00534	Get the feeling @Eurosport_UK and @itvcycling might be reviewing showing all stages in full. Poor @robhatchtv @nedboulting 😴😴😴 😉 #dull	valence	-2: moderately negative emotional state can be inferred
+2018-En-02789	@bloggerlinds wishing you joy in your day. #joy #happiness #empowerri	valence	3: very positive emotional state can be inferred
+2018-En-03667	@_ruthharvey_ happy bday Ruth, hope you have an amazing day 💘💘x	valence	3: very positive emotional state can be inferred
+2018-En-03237	was one moron  driving his oversize tonka truck with the big flag in the bed back and forth blaring country music. 😐 #disappointment	valence	-3: very negative emotional state can be inferred
+2018-En-03184	I feel bad for meatball, not really but you know what I mean #vetoad #ironic #BB19	valence	-1: slightly negative emotional state can be inferred
+2018-En-01192	@TheEllenShow I follow you bc your TV show keeps me laughing🤣.  When you #startle your guest sitting on that couch...booo...	valence	3: very positive emotional state can be inferred
+2018-En-00095	@PiersatPenn Thank you dear Emily. This is a wonderful share I love it. Emily, have very happy moment over there my beautiful friend	valence	3: very positive emotional state can be inferred
+2018-En-02517	United Airline at Newark needs more Kiosks so that people won't miss their cut off time.  And hire more ppl too.  #horrible	valence	-3: very negative emotional state can be inferred
+2018-En-03002	We need but little learning to live happily - Michel de Montaigne #quote #philosophy #wisdom #wisewords #mentalhealth #psychology #anxiety	valence	1: slightly positive emotional state can be inferred
+2018-En-02148	@hatzepueh and don't call him creepy, he's the most handsome, adorable and nicest shark ever 😭 ok Zora, buuuuuut he looks like a shark	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00332	@IainDale @LBC The only word worse than 'moist' in my opinion is 'scrape'. #ugh #shudder	valence	-2: moderately negative emotional state can be inferred
+2018-En-00999	@KylieSpearsXo Happy birthday to you #beautiful Kylie! 🤗😙❤🎁🎂🥂	valence	2: moderately positive emotional state can be inferred
+2018-En-01120	'This one?' \n'A bit odd looking isn't he? Pointy.' The alien asked. \n'Perhaps. But he'll be #wonderful. He's from the Steve pile.' #vss365	valence	1: slightly positive emotional state can be inferred
+2018-En-04103	@Jack_Septic_Eye Grass growing simulator is offended	valence	-2: moderately negative emotional state can be inferred
+2018-En-01568	@silverstein 13th time seeing you guys today and you cancel the meet and greet because of the storm. We're all soaked.. 😡 #dissapointed	valence	-3: very negative emotional state can be inferred
+2018-En-03625	@LogicIsPowerful Not all of them are bad. But I support your right to offend them all.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-04229	@rachelkennedy84 @callummay @Ned_Donovan @JeyyLowe @jimwaterson @dats Can it do the bell ringing and incense at consecration?	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03286	Finding a store that is closing is both sad and #awesome. 50% off everything!? Get in me now! My bag is nothing but #redbull &amp; aloe water	valence	1: slightly positive emotional state can be inferred
+2018-En-01375	@eben4u #stayed on you...makes you appreciate love worshiping....All i want to do is worship you!!	valence	1: slightly positive emotional state can be inferred
+2018-En-00628	Can't handle rude people. Doesn't matter what job you do, a consultant or not, treat people how you would like to be treated 😡 #disapointed	valence	-3: very negative emotional state can be inferred
+2018-En-01726	A loss ain't a loss it's a lesson #smile	valence	1: slightly positive emotional state can be inferred
+2018-En-01293	My partner's new headphones works 2 well. It's bad. He couldn't hear me yelling @ him when i was about 5ft in front him! #ironic #technology	valence	-2: moderately negative emotional state can be inferred
+2018-En-03037	@airish_cloudly aaww! iam sending virtual hug then, eonnie cares about you so cheer up and study well!	valence	1: slightly positive emotional state can be inferred
+2018-En-02278	Worst dreams. 😥	valence	-2: moderately negative emotional state can be inferred
+2018-En-00338	God favors men and women who delight in being made worthy of happiness before the happiness itself.	valence	1: slightly positive emotional state can be inferred
+2018-En-01197	Jeong su is easy to get along with everybody likes him and not intimidated by him.. I like him.. he reminds me of seunghoon	valence	1: slightly positive emotional state can be inferred
+2018-En-03941	Someone's nicked my lunch out the fridge at work!! Roast dinner as well! #fuming	valence	-3: very negative emotional state can be inferred
+2018-En-04173	Time for a #burst #burstcoin fork??	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03899	Nearly 60% of GOP members think higher education is ruining this country. That includes GOP members with higher education degrees. #irony	valence	-1: slightly negative emotional state can be inferred
+2018-En-02951	@ShojoPower Yes, or those animated comic book movies!	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00102	That moment when the worry is lifted #grateful	valence	2: moderately positive emotional state can be inferred
+2018-En-02055	#lesson from @KevinHart4real #book I'll apply:  In #life U always have a choice.  Kev had grimey things happen &amp; he #chose #optimism	valence	0: neutral or mixed emotional state can be inferred
+2018-En-04125	Lost my appetite for the past 5 days and I swear I already lost 3 pounds #depressing #at #least #i #will #be #skinny #for #pride #weekend	valence	-3: very negative emotional state can be inferred
+2018-En-03974	@HasegawaSona Big, toothy smile as she wiggles about!	valence	1: slightly positive emotional state can be inferred
+2018-En-02331	I wont rt things that might offend your faves bcs I'm better than that	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00790	Been at work for not even 4 hours and I've thrown boiling tea everywhere, smashed a mug, smashed a milk jug and sliced my finger open😐	valence	-3: very negative emotional state can be inferred
+2018-En-00420	I mean, not that I wanted goats to faint... but I wanted to see the goats faint.  #eclipse	valence	-2: moderately negative emotional state can be inferred
+2018-En-04078	So happy to be home from Ibiza the place is some thing else mad gaff that , need find a bird now I wanna start doing romantic things now 😂😂	valence	3: very positive emotional state can be inferred
+2018-En-02368	#lol #funny #comedy #sarcasm me: i don't care :)\n\nme, one second later: *starts crying*	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01472	O, the melancholy Catacombs quickly wandered about the Rue Morgue, Madman!	valence	-2: moderately negative emotional state can be inferred
+2018-En-02484	The same part of roof bar (driver's side) are stolen from Grand Vitara cars. Let it be known. This is really #disheartening #brunei	valence	-2: moderately negative emotional state can be inferred
+2018-En-01491	Whenever I see you my day gets better and better ☺ #sarcastic	valence	1: slightly positive emotional state can be inferred
+2018-En-03165	This is kind of fucked up, but my brother is about to join the police academy....and I'm not happy about. And I'm not the only one.	valence	-3: very negative emotional state can be inferred
+2018-En-00258	@KhaoJimmy Okay awak 😆	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01720	Never heard of #CaraCaraOranges until today. Very #tasty! I highly recommend them! #delicious #GoodForYou #fruits  #oranges	valence	3: very positive emotional state can be inferred
+2018-En-03250	y'all don't understand. this woman's wrath is REAL. 🌹🖤	valence	-2: moderately negative emotional state can be inferred
+2018-En-01723	Am 'ugly' guy whos pleasant geuine  and happy &gt; an evil attractive guy whos bitter and coniving and superficial	valence	-1: slightly negative emotional state can be inferred
+2018-En-04326	#DamilolaOurLovedBoy So upsetting 😢😢. Why do people want to hurt others! Such a cruel world we live in #heartbreaking	valence	-3: very negative emotional state can be inferred
+2018-En-04347	I'm back on Twitter! #madden #madden18 #maddenmobile #ea #nfl #espn #packers	valence	2: moderately positive emotional state can be inferred
+2018-En-00142	+ cant get to tell them what will offend them or not	valence	-2: moderately negative emotional state can be inferred
+2018-En-04256	Woke up feeling fresh with a clear mind. That's never happened before.\n#morning #sober	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02824	@JoyceMeyer @mrsglessman #day of #vengeance of our #God; To #comfort all who #mourn, To console those who #mourn in #Zion, To give [4/7]	valence	-2: moderately negative emotional state can be inferred
+2018-En-00207	5 goals in 87 appearances last season between McKay, Holt and Windass! Simply is horrific! Get midfield balance sorted and team will fire!	valence	-1: slightly negative emotional state can be inferred
+2018-En-02293	The way I'm always on twitter at work is a little alarming 🤦🏾‍♀️	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03381	🇿🇦has become a place where people even the most timid of us all are baying for blood around every corner.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02139	@realDonaldTrump Way to unite the country - such a presidental tweet #sarcasm	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02185	SUCCESS isn't just about what you accomplish in life, it's about what you inspire others to do. #inspiration  #inspire	valence	1: slightly positive emotional state can be inferred
+2018-En-03337	@JoshuaRozenberg Oh dear! #tantrums	valence	-1: slightly negative emotional state can be inferred
+2018-En-02830	@Danger_McLovin Well done! 😀 (your twins Charlii and Cadance)	valence	3: very positive emotional state can be inferred
+2018-En-03770	Brown envelopes can induce panic. #posttruth	valence	-1: slightly negative emotional state can be inferred
+2018-En-01489	Caleb had a nightmare about zombies. I had a dream about freedom.......	valence	-1: slightly negative emotional state can be inferred
+2018-En-02298	What do I do with my heart that is trembling by just the thought of it?\nI really don’t know what love is	valence	-1: slightly negative emotional state can be inferred
+2018-En-01665	Something #awestruck me today as i was laughing to a non subtitle korean variety show...	valence	3: very positive emotional state can be inferred
+2018-En-00155	wow :o this was included in the playlist #awesome	valence	3: very positive emotional state can be inferred
+2018-En-01668	Just watched @JoeNBC on @colbertlateshow -- &amp; have to say... I'm in awe. What hair products is he using, @greggutfeld ?? #beautiful #jealous	valence	3: very positive emotional state can be inferred
+2018-En-02424	work is going to kill me and 5 o'clock is nowhere near 😟	valence	-3: very negative emotional state can be inferred
+2018-En-02798	Whenever I turn on the radio and hear Bob Dylan's Knocking on Heaven's Door being played, I assume he's died. #relieved #notyet #someday	valence	-1: slightly negative emotional state can be inferred
+2018-En-00828	I was glad at that posing that I waited to run when the sun came out cause I usually run when it's dark in the morning.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03475	I just love #humid NYC #summer 🔥🙄💦 #sarcasm	valence	1: slightly positive emotional state can be inferred
+2018-En-01890	The moon tonight 😮 #beautiful	valence	1: slightly positive emotional state can be inferred
+2018-En-00851	@maritzabuys666 Looks wonderful!!!  Wish it was my cock tho!!!  😍	valence	2: moderately positive emotional state can be inferred
+2018-En-02744	If you build up resentment in silence are you really doing anyone any favors	valence	-2: moderately negative emotional state can be inferred
+2018-En-02727	Each and every time I log on to that website to view the Lindsey Vonn pics I am #saddened by the courseness of our culture.	valence	-3: very negative emotional state can be inferred
+2018-En-02511	Don’t let the fear of losing be greater than the excitement of winning. ~Robert Kiyosaki\n\nAllOutDenimFor KISSMARC	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03559	fuck a nigga feelings till I find a nigga I'm feeling 😆	valence	-1: slightly negative emotional state can be inferred
+2018-En-03821	@wengzyjb I don't even know na naa koy beautiful nightmare hahahaha oks	valence	1: slightly positive emotional state can be inferred
+2018-En-01328	coffee the floor; And the soul grew furious as the stillness broken by little,	valence	-2: moderately negative emotional state can be inferred
+2018-En-01395	@_Buddh_ @rohit_mhpl @indujalali @rajnathsingh We are also wating when terrorism willb history. And one thing kashmir is not India's	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00716	@badpostyoongi I know for a fact they'll either ignore the fact tiff isn't or change Cindy's background	valence	-1: slightly negative emotional state can be inferred
+2018-En-03361	if not then #teamchristine bc all tana has done is provoke her by tweeting shady shit and trying to be a hard bitch begging for a fight	valence	-3: very negative emotional state can be inferred
+2018-En-00807	@virtualalien there are more #frightening things in life\n\n#BeyondTheSphereOfReasonableDoubt	valence	-2: moderately negative emotional state can be inferred
+2018-En-02497	Had frustration dream that left me utterly f**king furious. Plus side: so angry couldn't sleep, wrote 1500 words. Minus side: still raging!	valence	-3: very negative emotional state can be inferred
+2018-En-02149	Freakin a...I deleted half the episode of BIP on accident  #bachelorinparadise	valence	-2: moderately negative emotional state can be inferred
+2018-En-03948	She mad sus hung up on me 😂	valence	1: slightly positive emotional state can be inferred
+2018-En-03916	Got woken up by a road sweeper I was trying to sleep 	valence	-2: moderately negative emotional state can be inferred
+2018-En-01031	I'm pale, I no longer wanna laugh, Or smile, All I wanna do is just fucking cry,	valence	-3: very negative emotional state can be inferred
+2018-En-02322	Head hurting 😤	valence	-3: very negative emotional state can be inferred
+2018-En-04314	Please stop ruining my depressing memes with your positivity and optimism	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03499	dreamed that you are laughing and woke up from my sleep for the first time without a sad face , Fair enough to see you in my dream '	valence	3: very positive emotional state can be inferred
+2018-En-04018	@itejasmehta @QTalker My pleasure 😊	valence	2: moderately positive emotional state can be inferred
+2018-En-01685	My dog wouldn't stop barking so now I'm up at eight am with a raging headache	valence	-3: very negative emotional state can be inferred
+2018-En-03033	#wtf what a #wonderful idea \nyou've all bought your tweets and likes that's pretty pointless for Me #bye #bye #Twat	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00745	I got a free Dr.Pepper from the vending machine #awesome	valence	3: very positive emotional state can be inferred
+2018-En-00681	@FangornForest1 @Brexit whose customers love it. Imagine being a hack these days, having to sing the tune the paymaster calls. #dismal	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01580	Suddenly dreams of mine are coming true. #happy	valence	3: very positive emotional state can be inferred
+2018-En-00350	I'm #happy as f*** to be accepted with my #chromesthesia by my #CBT doctress, never called 'crazy' for my #colors :-)	valence	3: very positive emotional state can be inferred
+2018-En-01557	@laurenwils0n_ Happy birthday gorg, have a good one 😘 x	valence	2: moderately positive emotional state can be inferred
+2018-En-03058	@ThomasEWoods I would like to hear a podcast of you going off refuting her entire article. Extra indignation please.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02288	@NewsByKatherine @jonkarl @ABC YOU GUY'S SOUND astounded!! Does anyone working w Trump WH have an any ethical,moral, values? 🙈🙉🙊	valence	-2: moderately negative emotional state can be inferred
+2018-En-04350	Alaina and I are at 90 days on our snap streak. So?	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00076	@1ncamera @Weehugs @DavidYoungPA @PA Stupidity is part of their proud cultural identity. 😠	valence	-2: moderately negative emotional state can be inferred
+2018-En-01678	@ehtesham_toi @RaviShastriOfc unfortunate decision, our players are more of superstars than cricketers. BCCI scared of their tantrums.	valence	-1: slightly negative emotional state can be inferred
+2018-En-03304	@KermodeMovie I shall be mooning him cheerfully when he arrives. Although he probably won't be president by then...	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02434	@ScottAdamsSays broke it down on #snap great analysis on #CNBC	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02702	@CNN talking about meetings on collecting damaging information on a political figure and when best to release by @DonaldJTrumpJr. #ironic	valence	-2: moderately negative emotional state can be inferred
+2018-En-04274	@Cmdr_Hadfield CNN's Wolf Blitzer calls you an American astronaut and you don't correct him? #dissapointed	valence	-3: very negative emotional state can be inferred
+2018-En-01822	@softytwt hi bby today was okay i e-mailed design firms for my internship and now i'm nervous ;u; how's your day? :D	valence	-2: moderately negative emotional state can be inferred
+2018-En-00914	HAPPY BIRTHDAY! :D	valence	2: moderately positive emotional state can be inferred
+2018-En-01617	@ADsXe Actually currently listen to that song as you tweeted me, #ironic	valence	1: slightly positive emotional state can be inferred
+2018-En-02222	Totally scare for this upcoming results .	valence	-1: slightly negative emotional state can be inferred
+2018-En-04041	Chelsea and united must be furious	valence	-2: moderately negative emotional state can be inferred
+2018-En-04276	His interlocutor burst out laughing several times at his answers; and more than ever, when to the question, ‘ whether he had been cured?�	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01176	@elegantlywasted @ChelseaClinton Are they the new kennedy's of American politics.. sadly both mom and daughter are as charming as a toe nail	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01824	God this match is dull #Wimbledon	valence	-3: very negative emotional state can be inferred
+2018-En-01225	@cubewatermelon @JonKimbel It's hilarious but there are legit milkshake Duck apologizers. Yes, just the hypothetic milkshake duck.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01509	Had to delete my Facebook too much for me 🤣	valence	-1: slightly negative emotional state can be inferred
+2018-En-02584	@rickysnecklace I'm so proud Mils! Keep smiling ❤️	valence	2: moderately positive emotional state can be inferred
+2018-En-04214	Will I get in trouble if @Cody_Nolove or @GordonRamsay show up at #UFC215 and I try to find them at Rogers? 😂 (under 3 weeks!!) #excitement	valence	3: very positive emotional state can be inferred
+2018-En-00898	Not sure tequila shots at my family birthday meal is up there with the best ideas I've ever had #grim	valence	0: neutral or mixed emotional state can be inferred
+2018-En-04014	made up my mind to \nmake a new start	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00428	@mrjamesob @LBC 😂 snowflake random such a funny man never a dull moment brilliant	valence	3: very positive emotional state can be inferred
+2018-En-03330	@NitashaKaul @Snehakaul2Kaul so beautiful dear, thanks,everybody knows it is in benefit of India &amp; GOI has done this terror attack as before	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00135	And I'm really pissed the fuck off because I do a good job of keeping my kid well because I don't like to see her sick and sad.	valence	-3: very negative emotional state can be inferred
+2018-En-04352	#Twitter these days is just a massive critical debate on those that people don't like #annoying #depressing and #dull 😑	valence	-3: very negative emotional state can be inferred
+2018-En-01051	I'm so #glad my #baby can't hear what I'm #thinking	valence	2: moderately positive emotional state can be inferred
+2018-En-03411	@OxandCart_UK @jamieoliver I made it too  #quickandeasyfood	valence	1: slightly positive emotional state can be inferred
+2018-En-00357	@azizansari Just finished season 2 of #MasterofNone. You are a gifted storyteller! #charming #cinematography #hilarious	valence	3: very positive emotional state can be inferred
+2018-En-04111	It's a beautiful pout. c:	valence	2: moderately positive emotional state can be inferred
+2018-En-01143	My best friends driving for the first time with me in the car #terrifying	valence	-2: moderately negative emotional state can be inferred
+2018-En-03820	@granlund_aarne Suicide would also help. #sarcasm	valence	-2: moderately negative emotional state can be inferred
+2018-En-01637	I woke up still not hardly believing what all happened last night 😰	valence	-2: moderately negative emotional state can be inferred
+2018-En-02739	HAPPY BIRTHDAY TO THE PANDERIFIC PANDA IK.@TheOrionSound I hope you have an amazing day Oli i love u so much and i ❤️ur vids they make me 😃	valence	3: very positive emotional state can be inferred
+2018-En-00613	Can't stand it when lads put their middle finger up in pics 	valence	-2: moderately negative emotional state can be inferred
+2018-En-04291	@UKSportsZone In other words, I don't like the result of the poll so I'm packing up my polls &amp; taking them home while I pout. 😂😂😻 #bbn	valence	1: slightly positive emotional state can be inferred
+2018-En-02445	If you are going to be a nurse, learn to be a nice patient person, Jesus 🙃 	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03064	Today is 71117. 😀	valence	2: moderately positive emotional state can be inferred
+2018-En-02180	Just paid out my arsehole for a couple of New Found Glory tickets but it's gonna be a GREAT start to my birthday weekend 👊	valence	1: slightly positive emotional state can be inferred
+2018-En-04213	How shit and depressing is this weather wish I can travel the world for a living	valence	-3: very negative emotional state can be inferred
+2018-En-01027	@JohnMayer No DSM shows. #sadness	valence	-3: very negative emotional state can be inferred
+2018-En-03051	Failure is a part of success. You can't experience the joy of success with also experiencing failure. #bethehero #success #failure #joy	valence	1: slightly positive emotional state can be inferred
+2018-En-01936	Serious-looking folks suffer from unused smile muscles \n\n #behappy  #hatersgonnahate	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03097	Shooting more than ever, making more mistakes than ever but I jumped in the pool of sharks a long time ago.  #relentless *#resilient	valence	0: neutral or mixed emotional state can be inferred
+2018-En-04302	guess who stayed up until 2am just incase someone called but they never did like i knew already , it's me, mistakes were made	valence	-2: moderately negative emotional state can be inferred
+2018-En-00469	Baby, I'm dancing in the dark	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01339	When Duane Allman died, I learned to appreciate Stevie Ray Vaughan. True story.  #blues #legends	valence	1: slightly positive emotional state can be inferred
+2018-En-00689	That moment when you look back and realise you've been a #selfish #horrible #judgemental person. #FeelingAshamed	valence	-3: very negative emotional state can be inferred
+2018-En-00938	@_Oteraw unhappy and unfulfilled 😂	valence	-2: moderately negative emotional state can be inferred
+2018-En-03783	@GILMONK1 Maybe to stand in the field to scare away the crows	valence	-1: slightly negative emotional state can be inferred
+2018-En-03087	We're really not afraid of you all. We find you rather #annoying &amp; #amusing. 😎😜🤣😂😂	valence	1: slightly positive emotional state can be inferred
+2018-En-03131	@jaassiieeeee I will not fall to the dark side😂😂	valence	0: neutral or mixed emotional state can be inferred
+2018-En-04051	@denisebatters But for $20k, they'll get to bike ride down the Canal with the Minister herself. #sarcasm #ornot	valence	0: neutral or mixed emotional state can be inferred
+2018-En-04327	@JusticeWillett Lord, we don't understand tragedy. Do what You do best: bring good grom it and comfort those who mourn. Amen	valence	-2: moderately negative emotional state can be inferred
+2018-En-03406	Letting go of anger is key to happiness. Please help me let go of these angry feelings. #happiness #anger	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01155	i don't understand ppl who save wasps , next chance that lil dude gets he gnna sting ur grandma	valence	-2: moderately negative emotional state can be inferred
+2018-En-00862	You would think booking a holiday for 2 you'd be sat next to each other on the bloody plane #fuming 😡@ThomsonHolidays	valence	-3: very negative emotional state can be inferred
+2018-En-03853	[ @TheChicMystique ] — hurting badly and that he can't just leave him like that. Angry and heartless. ]\n\nI promise you that I'll be back, —	valence	-3: very negative emotional state can be inferred
+2018-En-02035	Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. Lao Tzu #wedding #happy #love	valence	2: moderately positive emotional state can be inferred
+2018-En-00535	Finally finished this term's class book, Sky Hawk by @gill_lewis kids in tears and actually cheering at the end #good read	valence	2: moderately positive emotional state can be inferred
+2018-En-03360	Coulda sworn it was Interview With A Vampire. Hmmm......Mandela Effect anyone? \n#interviewwithavampire #annerice #books #horror #ilovevamps	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00520	Quite possibly the worst anthems I've ever heard in pro sports by both singers. I wish I was deaf. #ASG2017 #mlb #MLBAllStarGame 	valence	-3: very negative emotional state can be inferred
+2018-En-01512	Best horror Comedy movie of 2017 #AnandoBrahma @taapsee #SrinivasReddy . In 2nd half I got throat pain #toomuch #laughs	valence	2: moderately positive emotional state can be inferred
+2018-En-01284	@BrettKeeble I guess it never. @smartassunit #worry	valence	-2: moderately negative emotional state can be inferred
+2018-En-03296	Difficulties, by bracing the mind to overcome them, assist cheerfulness, as exercise assists digestion.\nChristian Nestell Bovee #quotes	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01300	@tootaehyung omggg i'll be bloated then ;;-;; but it's a wonderful idea i'll start doing it tomorrow!!	valence	2: moderately positive emotional state can be inferred
+2018-En-04358	Nothing is more #beautiful than a #smile that has struggled through tears.	valence	2: moderately positive emotional state can be inferred
+2018-En-01408	@3lectric5heep Well that must sting doesn't it @CNN ?	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01502	@Activehours I need someone to reply back to me immediately. I am not happy and not getting timely responses through the app! #help 	valence	-2: moderately negative emotional state can be inferred
+2018-En-03322	Definitely something happening today #SolarEclipse2017 #weird #annoyed	valence	-3: very negative emotional state can be inferred
+2018-En-03803	@UNESCO Remember not to spread #hatred and #fakenews on the internet. Do not abuse #Hashtag10 for spreading #ArabNationalism!	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01059	@BillMoyersHQ Elderly belong w/family; our social system is broken.  This egregious 'Meancare' will shake it up, alas.	valence	-2: moderately negative emotional state can be inferred
+2018-En-00036	@SenRonJohnson @Neomi_Rao #25thAmendmentNow Do you mean 'regulations' like clean air and water? Because who needs that, right? #sarcasm	valence	-2: moderately negative emotional state can be inferred
+2018-En-00481	@KicchaSudeep No words Sir... Thank you for the concern..	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03726	I have the best girlfriend in the world 😍 #blessed	valence	3: very positive emotional state can be inferred
+2018-En-04090	EEEEEKKKK!!!!\nProduct LAUNCH 😍✋💖\nI'm am literally B•U•Z•Z•I•N•G!!!\nSingle sachets 😍😍\n \nMessage me for yours! 😜🙆💜#loveyourlifestyle #shakes	valence	3: very positive emotional state can be inferred
+2018-En-02781	The sound of rain is pretty peaceful when you're in a very annoyed mood 😅	valence	-1: slightly negative emotional state can be inferred
+2018-En-00551	#90sWereTheBestBecause assimilation didn't mean loss of individuality. Labels and categories were becoming obsolete. #thanksobama #sarcasm	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00941	@ProfessorF @Mediaite @law_newz Childish temper #tantrums are all the left has left. :)	valence	-2: moderately negative emotional state can be inferred
+2018-En-01896	The @GOP wants to exclude pre-existing conditions. #irony	valence	-1: slightly negative emotional state can be inferred
+2018-En-02842	Soon the trailer will have more likes than views 😆	valence	1: slightly positive emotional state can be inferred
+2018-En-01101	Tonight's run.... #restless	valence	-1: slightly negative emotional state can be inferred
+2018-En-01717	Literally work almost everyday can't wait to start my PT #blessed 🙏💙	valence	3: very positive emotional state can be inferred
+2018-En-03733	Oh @BentleySystems what hast thou done to thy configurations? #despair	valence	-3: very negative emotional state can be inferred
+2018-En-00916	just saw a guy litter out of his Prius😅 #ironic	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03622	Why the FUCK have i just saw a Game of Thrones spoiler on snapchat? SOME OF US HAVENT SAW IT YET 🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻 #arsehole	valence	-3: very negative emotional state can be inferred
+2018-En-01887	If you sit back, watch &amp; listen to every .@TheDemocrats &amp; .@DNC member, you'll quickly learn it's #Victimhood, #racism, &amp; #hatred. I'm #WOKE	valence	-2: moderately negative emotional state can be inferred
+2018-En-02646	Beware the wrath of an angry, frustrated, #agile grandma with a network. 👵🏼😡 I'm just sayin'. #objectlesson	valence	-3: very negative emotional state can be inferred
+2018-En-00657	Damn I'm tired as hell I never get a off day during the week anymore 😭 I wanna call in so bad but these lil 60 hrs sounds so good.	valence	-2: moderately negative emotional state can be inferred
+2018-En-01974	You can have a certain #arrogance, and I think that's fine, but what you should never lose is the #respect for the others.	valence	-1: slightly negative emotional state can be inferred
+2018-En-02366	I feel exhausted ...\nI tried to do a good job, but apparently God does not see me right. I'm weary! I EXIST! 😟💔📢\n#exist #weary #misonorotta	valence	-2: moderately negative emotional state can be inferred
+2018-En-01334	Never regret anything that once made you smile :) \n #positive 	valence	3: very positive emotional state can be inferred
+2018-En-00169	Can't wait to take family pictures 😩💜💜 just so excited to start doing fun things with my babies 👨‍👩‍👧	valence	2: moderately positive emotional state can be inferred
+2018-En-01335	@AGlyndwr @TeaPainUSA All I know is the sentence will start with 'look...' like any high school punk would start a threat.	valence	-2: moderately negative emotional state can be inferred
+2018-En-00255	...with the couple, so you decide to ignore everything and finish yours while dealing with the laughter and everything in the background.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02113	@AmandaHolden Lovely photo Amanda! #summerhols #carefree	valence	2: moderately positive emotional state can be inferred
+2018-En-03464	Simon Bell 'disappointed in WHO' ....that's a big call from the affirmative team!! #sarcasm #PharmEd17	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03432	im clapping and cheering for both teams ...	valence	3: very positive emotional state can be inferred
+2018-En-03758	One of the great/horrible moments as a professor is seeing a wonderful student leaving your university to pursue his/her true passion.	valence	-2: moderately negative emotional state can be inferred
+2018-En-03065	The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02378	How sick must someone be that they wish to 'punish' someone for not being their friend?  #insecure #lonely #miserable #vengeful #RHOC	valence	-3: very negative emotional state can be inferred
+2018-En-00123	At a groovy restaurant. Got a cheeseburger and fries. I don't discriminate. Rating; 5/7 #yummy #delicious #politicallycorrect	valence	2: moderately positive emotional state can be inferred
+2018-En-03010	I just watched the video that i took at troye's concert last year during happy little pill and now im crying i miss him @troyesivan 😭	valence	-2: moderately negative emotional state can be inferred
+2018-En-02296	Imagine how many ksones are crying right now for not getting tickets 😭 Meanwhile, isones dont even get a chance to go on war for tickets 😭	valence	-2: moderately negative emotional state can be inferred
+2018-En-03840	@marcdeacon_ Happy Birthday Marc have a good one! Xx	valence	2: moderately positive emotional state can be inferred
+2018-En-03843	If @TheRock's Presidential run is as bad as his appearance in #Baywatch neither party need fear his run. That's $8 I'll never get back #crap	valence	-3: very negative emotional state can be inferred
+2018-En-00946	I finally decided to create a twitter account. Don't we all need more social media in our lives? #sarcasm 😀	valence	1: slightly positive emotional state can be inferred
+2018-En-00942	@sophieathertonn @lillynewtonx That's actually awful! You are in for a treat when you get home tho!!	valence	-2: moderately negative emotional state can be inferred
+2018-En-01253	@theIeansquad @SatanHeavenly Rap is so unbearable and horrific.	valence	-3: very negative emotional state can be inferred
+2018-En-03875	Everything I order online just comes looking like a piece of shit 😤	valence	-3: very negative emotional state can be inferred
+2018-En-03357	Mood : Happy 🙂 #blessing	valence	3: very positive emotional state can be inferred
+2018-En-00559	Africa has unique and tremendous problems with war, overpopulation, starvation and tribalism which makes moving Africa forward hard.	valence	-2: moderately negative emotional state can be inferred
+2018-En-02116	Can't drink all day if u don't start in the morning .. Drake gets me 😛	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00291	My boyfriend is my whole world 😭	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01022	#Wimbeldon Wouldn't it be great if an immigrant won the title for Britain #ironic #Brexit	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02521	I love anxiety #sarcasm	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03749	@TheView Joy isn't a comedian. She's a bully for fat shaming the governor. Great example she's setting for her grandson.	valence	-2: moderately negative emotional state can be inferred
+2018-En-02341	People were always afraid that stodgy squares would kill rock and roll, but the only legitimate threat was ever child choruses.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01207	Good times never fade away #smile	valence	1: slightly positive emotional state can be inferred
+2018-En-03640	@RGUpdate Have you tried English hospital food ?? #yak #gross 	valence	-2: moderately negative emotional state can be inferred
+2018-En-03920	-c- and disarmed of her equipment on suspicion of being a potential accomplice to Annie Leonhart.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01634	Outside has basically become a horror movie where gypsy moths take over the world by flitting aggressively about.\n\n#creaturedoublefeature	valence	-2: moderately negative emotional state can be inferred
+2018-En-00438	Do people notice that only saying 'You're so pretty' when I have make-up on. Is offense! \n&amp; I take note that they never say it when I don't.	valence	-2: moderately negative emotional state can be inferred
+2018-En-02512	Is it supposed to be this arduous to interact with other people? I'm 'other people' to them and they don't seem to struggle. 	valence	-2: moderately negative emotional state can be inferred
+2018-En-03990	That you have banished your own sadness, the way I am? #somber	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01368	462 appearances in PL and 200 goals!! 2.31 games per goal. That's very nearly a goal in every 2 games #crap 😂😂 🙄🙄🤔🤔 #Rooney	valence	1: slightly positive emotional state can be inferred
+2018-En-00530	@WDA_Punisher @SgtDangerCow @Battlefield I think so too. \nCasual audience was particularly unhappy with server admins and server rules.	valence	-3: very negative emotional state can be inferred
+2018-En-01378	FALL SEASON STARTS TODAY!!!!! 	valence	1: slightly positive emotional state can be inferred
+2018-En-01863	@NisaLocally @CocaCola_GB thanks love share a coke and holiday with my family  #smile for a chance to #Win :)	valence	3: very positive emotional state can be inferred
+2018-En-04082	Leviticus 19:14\nYou shall not curse the #deaf or put a stumbling #block before the #blind, but you shall #fear your #God: I am the [1/2]	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02314	What's worse than feeling discouraged? Not finding an emoji for feeling discouraged	valence	-3: very negative emotional state can be inferred
+2018-En-02447	When the lights shut off and it's my turn to settle down, my main concern...	valence	-1: slightly negative emotional state can be inferred
+2018-En-03053	@GarfieldLineker @TimCRoberts *on his back. Apologies for retweeting a tweet with grammatical error #mybad 😱	valence	-2: moderately negative emotional state can be inferred
+2018-En-01657	Saw my first Larsen trap today with stressed magpie. I NEVER EVER want to see that again  #angry #distressed #wildlife	valence	-3: very negative emotional state can be inferred
+2018-En-02397	It's such a strange juxtaposition of emotions. A sense of euphoria but a sense of out most despair.	valence	-2: moderately negative emotional state can be inferred
+2018-En-03036	So now I have to buy a whole new computer 	valence	-2: moderately negative emotional state can be inferred
+2018-En-02214	When I think about Yondu &amp; his crew, Rocket, &amp; Groot doing 700 jumps to Ego planet, I start laughing.	valence	3: very positive emotional state can be inferred
+2018-En-04353	3 and a half hour more 😤 #EXO	valence	-2: moderately negative emotional state can be inferred
+2018-En-00322	@shoe0nhead @ObscuredLeg Hi I just wanted to wish you two a happy tuesday.😊	valence	3: very positive emotional state can be inferred
+2018-En-02612	#depressed Today was bitter sweet watching all the kids go back to school made me really miss my babies. I'm so broke #backtoschool2017	valence	-3: very negative emotional state can be inferred
+2018-En-01152	@Argos_Online customer service is dreadful, phone bill is huge and get passed from person 2 person and keep taking money off my card #idiots	valence	-3: very negative emotional state can be inferred
+2018-En-03334	peplamb: stevenfurtick #comfort all who #mourn, To console those who #mourn in #Zion, To give them #beauty for #ashes, The #oil of #joy for…	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00688	@AwardsDaily Looks that way.  I don't want to see how Q is going to handle Tate murder.  #shudder	valence	-2: moderately negative emotional state can be inferred
+2018-En-00326	Are u sad or upset?	valence	-1: slightly negative emotional state can be inferred
+2018-En-00133	I think I'll eternally be irritated by our LIT teacher 😂	valence	-2: moderately negative emotional state can be inferred
+2018-En-03269	Listening to these refugee children, barely a decade old, describe the horrific acts they were forced to commit is terrifying. #DatelineSBS	valence	-2: moderately negative emotional state can be inferred
+2018-En-00410	Never been so relived 😆	valence	3: very positive emotional state can be inferred
+2018-En-03022	Omgsh Alexis is sooooo freaking funny on #BachelorInParadise 😂 That pizza segment! Plus I love her and Jazzy's friendship! 	valence	3: very positive emotional state can be inferred
+2018-En-01097	@washingtonpost @silvajanes How awful!!!!!!	valence	-3: very negative emotional state can be inferred
+2018-En-01015	Novak is seeing those balls as melons, perfect conditions for him 😊 #Wimbledon	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01137	Sometimes, you have to smile, pretend everything is okay, and just walk away.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03619	@Bravotv is there a way to watch NYC Million Dollar Listing &amp; filter @FredrikEklundNY OUT of the episodes? #primadonna #duckface #tantrum	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01204	@Smilejamtvj @clarkecooper @DahliaHarris looking fab today pleasing to the artistic eye! #GirlPowerTuesday	valence	1: slightly positive emotional state can be inferred
+2018-En-03355	@del_krushnic I knw you have a temper paaa lol just chill dear don't be pissed waii or I will else worry u saaa but I'm sorry 😫	valence	-2: moderately negative emotional state can be inferred
+2018-En-03440	@Chan_lfc10 @paul_rule @Nuttall1878 @DeadlineDayLive @Everton We'd be fuming if the hijacked our £8m move for a relegated full back 😡	valence	-2: moderately negative emotional state can be inferred
+2018-En-03859	So disappointed in myself for spending £50 on an outfit for meeting a boy #noselfcontrol #nervous	valence	-2: moderately negative emotional state can be inferred
+2018-En-01994	@lauramuiruns @Diamond_League Loved cheering you on with my kids!!!! X	valence	3: very positive emotional state can be inferred
+2018-En-01855	If I hit you with the be blessed it's over 😂	valence	2: moderately positive emotional state can be inferred
+2018-En-00627	@chelseanews4you Best of luck blues army make us feeling goofy this season again  BLUES TILL ETERNITY	valence	1: slightly positive emotional state can be inferred
+2018-En-02952	@SaikalyJihad @RimaNJEIM Best birthy day sexy Rima l'wish to you a happy life	valence	3: very positive emotional state can be inferred
+2018-En-03005	@ThomasSanders This was great, looking forward to next part! 😄	valence	3: very positive emotional state can be inferred
+2018-En-03289	Like I might've set it down on top of my car &amp; if so, that shit is long gone 😭 	valence	-2: moderately negative emotional state can be inferred
+2018-En-00709	Man I feel like crap today 😰	valence	-3: very negative emotional state can be inferred
+2018-En-03398	Paul Ehrlich said that humanity is a threat to all life. Such great news to start the day. If I could blush I would.	valence	1: slightly positive emotional state can be inferred
+2018-En-00334	Migraine hangover has to be the worst thing ever 😣 #burst	valence	-3: very negative emotional state can be inferred
+2018-En-02683	Yes @itv2 @LoveIsland putting that Angel @MikeThalassitis back in the villa was the best move #revenge #returnofthemike #LoveIsland #hot	valence	1: slightly positive emotional state can be inferred
+2018-En-02706	Smile!!! #happy #smile	valence	3: very positive emotional state can be inferred
+2018-En-03662	After sleeping past noon, I look out the window to see my hotel has a HOT TUB!!!!! #bliss	valence	1: slightly positive emotional state can be inferred
+2018-En-01810	Can't Talk To An Incompetent Person. Goes In One Ear and Out The Other. #irritated #NoPoint #MassiveEyeRoll	valence	-3: very negative emotional state can be inferred
+2018-En-03752	That eclipse was  Angelic 🙏🏿 #blessing	valence	2: moderately positive emotional state can be inferred
+2018-En-01052	'we need to do something. something must be done!!!!!'\n\nyour anxiety is amusing. nothing will be done. despair.	valence	-2: moderately negative emotional state can be inferred
+2018-En-03248	Can't wait to perform 2nite at @CrashTestComedy at #Verns! #yyc #Calgary $5 #comedy #comedian #yycComedy #CalgaryComedy #fun #laughs #live	valence	3: very positive emotional state can be inferred
+2018-En-02662	@jihnwi u literally name us a word close to prostitutes ok oomf...... 😰	valence	-3: very negative emotional state can be inferred
+2018-En-02388	@swish41 No offense but the mavs are only my 2nd favorite part about Dallas, 1# is the barbecue #delicious	valence	3: very positive emotional state can be inferred
+2018-En-01961	#Jesus #truth Psalms 32:11 You that are righteous, be glad and rejoice because of what the Lord has done. You that obey him, shout for joy!	valence	3: very positive emotional state can be inferred
+2018-En-02949	I've got builders in my office and I have a game to make. Perhaps ill start sketching the next game... #gamedev #indiedev 	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03798	@angrydwarf9 @carolinesandall It ruins my frigging night each night at 9pm. Mrs loves it, i've been early to bed for a month. #dreadful	valence	-3: very negative emotional state can be inferred
+2018-En-04307	+++ '#Dearly #beloved, avenge not yourselves, but rather give place unto #wrath: for it is #written, #Vengeance is #mine; I …' #Romans12v19	valence	-1: slightly negative emotional state can be inferred
+2018-En-02921	Nobody 'liked' this? Really? #sarcasm #nevergowiththeincrowd #Theincrowdhasalwaysbeensuspect #resisttheincrowd	valence	-2: moderately negative emotional state can be inferred
+2018-En-03238	@hollloman @nessa_babbby @ajvannozzi97 As half a set of twins I resent that!	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03458	Need your help guys 😊 survey for a friend	valence	1: slightly positive emotional state can be inferred
+2018-En-01581	@wizkidayo Bro u just dey burst my brain Bro I need u 2 pls end everything rift BTW u nd my hommie davido pls Bro 4 d sake of luv.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-04370	WAIT...Lawrence's friend dragged the fuck outta him!! 	valence	-1: slightly negative emotional state can be inferred
+2018-En-02832	I'm glad my kids don't fuck with Blac Youngsta. That nigga terrible for our community	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01806	'your marker teacher'.i looked at him n just burst out laughing i swear these kids will never take me seriously 🤦🏻‍♀️	valence	2: moderately positive emotional state can be inferred
+2018-En-04198	@Zineeta_R @RusEmbUSA @mfa_russia The hatred and fear many russians have for anything non-russian is just sad.	valence	-3: very negative emotional state can be inferred
+2018-En-04005	Please ruin this party, @NSWRL. #origin #blues	valence	-1: slightly negative emotional state can be inferred
+2018-En-02590	I'm doing all this to make sure you smiling down on me bro	valence	1: slightly positive emotional state can be inferred
+2018-En-02381	Did men call themselves shy and mean it? So I reassure him that I'm just making sure he's a good investment and alla that 🙄	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03257	05.30 is my time......brew, toast and TV before anyone else gets up  #earlydoors #mumlife #lifewithtoddlers	valence	1: slightly positive emotional state can be inferred
+2018-En-03099	@CTAFails @cta is it ok for your drivers to smile not open the door and drive off 	valence	-2: moderately negative emotional state can be inferred
+2018-En-04047	Blah blah blah Kyrie, IT, etc. @CJC9BOSS leaving Boston is the real news and I am #devastated! #celtics #fave  #someonegetmeajerseyteeasap	valence	-2: moderately negative emotional state can be inferred
+2018-En-01289	Okay @BTS_twt it was fun and all you can change your layout back to something goofy and domestic as usual pls I'm intimidated rn	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02813	@prageru In a state where assisted suicide is legal. Talk about intellectual dishonesty. How stupid does the left think people are? #irony	valence	-3: very negative emotional state can be inferred
+2018-En-00311	Hey, when I die, will someone please do a #Facebook Live thing of me in the casket at my wake? I like to be #ironic sometimes.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01910	I could not be happier with my life right now 😊	valence	3: very positive emotional state can be inferred
+2018-En-00874	A programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.  #puppy	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02079	@Delta.  Are you kidding?  Delayed from 7:30pm to 11:00 - only to cancel it because the pilot is overtime. 	valence	-2: moderately negative emotional state can be inferred
+2018-En-02753	SOLD OUT!!!! Next batch in 3 days!!!!   	valence	1: slightly positive emotional state can be inferred
+2018-En-04360	Desmond was asleep when I called after I got out of my meeting... he still answered and let me vent to him the whole way home 😍 #sweetness	valence	1: slightly positive emotional state can be inferred
+2018-En-01659	I'm soooo annoyed. Wait to start my morning.	valence	-3: very negative emotional state can be inferred
+2018-En-03740	@addicted_spurs Cos they all have it's ok then. #great	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01932	Happy Birthday to #Olympic #great and #champ @jordyn_wieber 🎉 🎂 🎈	valence	3: very positive emotional state can be inferred
+2018-En-02352	#AmericasGotTalent live shows with so many technical faults #disheartening	valence	-3: very negative emotional state can be inferred
+2018-En-00980	I feel intimidated	valence	-2: moderately negative emotional state can be inferred
+2018-En-02759	A #teacher who is attempting to teach without #inspiring the #pupil with a #desire to learn is hammering cold iron. #HoraceMann	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02533	Don't fucking tag me in pictures as 'family first' when you cut me out 5 years ago. You're no one to me. 	valence	-3: very negative emotional state can be inferred
+2018-En-00279	@BAEK0FF @byunglows Philippines 😃	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02593	It was a bright cold day in April, and the clocks were striking thirteen. ~ George Orwell, 1984	valence	1: slightly positive emotional state can be inferred
+2018-En-02845	Literally hanging on by a thread need some taylor ray tonight loving a bad dog sucks #taylorrayholbrook #hurting @TaylorRaysTweet	valence	-2: moderately negative emotional state can be inferred
+2018-En-01168	Three retweets of dumb Fox shit and one original tweet that is a blatant lie from SCROTUS this morning--nada about his wretched offspring. 🤣	valence	-2: moderately negative emotional state can be inferred
+2018-En-03202	@BernadetteAlly cute smile!	valence	1: slightly positive emotional state can be inferred
+2018-En-00622	@nextofficial placed order for nearly a grand SIX weeks ago, called yesterday, order 'missing' and no call back today! #shocking	valence	-3: very negative emotional state can be inferred
+2018-En-00997	At this point I can't tell if I just follow more people in politics on twitter now or if I need new friends. #wheresthefunny #depressing	valence	-3: very negative emotional state can be inferred
+2018-En-02677	@JackRuff4 They have this horrible pudding here. Butterscotch pudding on Mondays, it's dreadful. #Fringe	valence	-3: very negative emotional state can be inferred
+2018-En-01524	@NRO @Acosta @CNN @realDonaldTrump remember when NRO gave CNN grief about their relentless HC email crusade? me either.	valence	-2: moderately negative emotional state can be inferred
+2018-En-03275	#Worry never robs tomorrow of its #sorrow; it only saps today of its #strength - A. J. Crown #faith #positive #motivation	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01131	@Steadi_Lady You're eating skin that could have been sent to a tannery for leather processing. 😄	valence	3: very positive emotional state can be inferred
+2018-En-02820	@SRuhle @MSNBC Sebestian Gorka, what a arrogant A~hole! Has no business speaking! 	valence	-2: moderately negative emotional state can be inferred
+2018-En-04066	@FierzaaRBX hi fierzaa i hope you be my friend in roblox btw i love kat and username:USATylerX 😀	valence	3: very positive emotional state can be inferred
+2018-En-03047	@JadeOdette_ Because one of them has to be wrong :) we just want to believe it's H&amp;M haha 🙃	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01793	Wow! Today, totally seeing alot of #mean #people out in this #world! Turn it around and #start cultivating #kindness! #SuccessTRAIN #warrior	valence	1: slightly positive emotional state can be inferred
+2018-En-00747	5,000 new US #citizens swearing in now! #tears #congratulations	valence	1: slightly positive emotional state can be inferred
+2018-En-02101	Tipoftheday:Do not be distracted by the ones who accuse you for doing what is right for His mission for you.Continue living and pleasing Him	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01294	@H0lliejburrows Congrats beautiful 😘	valence	2: moderately positive emotional state can be inferred
+2018-En-04244	@MonikaGoswamiRK I just see 2 episodes #DilLagi but still curious why you're falling for the Hero 😆 watching more soon.. 😉😃	valence	1: slightly positive emotional state can be inferred
+2018-En-03544	Time for bed in a real bed after four nights camping. #bliss	valence	1: slightly positive emotional state can be inferred
+2018-En-01603	Russia story will infuriate Trump today. Media otherwise would be giving him tongue bath for fall of ISIS in Mosul + al-Baghdadi death.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03161	Hearing the Song by Phone glued to ears like if the singer spoke to me... #mad #mad hahah	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01125	B4 I couldnt get out of bed or look in mirror Thankful4all the support I have recieved here ImWakingUpHappyNot dreading theday 	valence	2: moderately positive emotional state can be inferred
+2018-En-02025	When did it all started? All these depression &amp; anxiety shits?All these suicide thoughts?All of these bad thoughts thts hugging me at night?	valence	-2: moderately negative emotional state can be inferred
+2018-En-03339	@beautifuIbaek Wow! I hope i win. 😭 thanks for this. 😊	valence	1: slightly positive emotional state can be inferred
+2018-En-00755	How do you feel about @Snapchat new feature #SnapMap 👎👍❓ #twitterpoll #polls #vote #Poll #Snapchat  #twitter #tech #technology	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00581	i excepted the eclipse to make me believe in an omniscience force #dissapointed	valence	-3: very negative emotional state can be inferred
+2018-En-01682	@doranadal @JaneForRafffa #big-smile #great post #greatRafa #loveRafa	valence	3: very positive emotional state can be inferred
+2018-En-01835	@chrisyour Don't be sad, ultimately it's apparently not supported completely but mostly working :-)	valence	-1: slightly negative emotional state can be inferred
+2018-En-02255	@iamjpk @NameisNani what the phd!  eesav gattiga 😆	valence	2: moderately positive emotional state can be inferred
+2018-En-00321	@candycmarketing What happens if you don't want to watch this 'content'? Can't vote then 😆	valence	3: very positive emotional state can be inferred
+2018-En-00492	Too much caffeine, and I'm dyyyying. #jitters #shakes #paranoia #heartbeat1000 ☕💔	valence	-2: moderately negative emotional state can be inferred
+2018-En-02386	Hmm...looks like no one @Tampax is available to respond. Its like waiting for a #doomsday reply. That #burning question with no #answer	valence	-3: very negative emotional state can be inferred
+2018-En-01394	Be gracious to me O God...for my soul takes #refuge in You; in the shadow of Your wings I will take #refuge... psalm 57:1 #hope #jesus #joy	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01798	Brighten up a gloomy day with a @SiennaXOfficial spray tan, we have a tan to suit everybody! #spraytan #tan #summer #godalming #hurtmore	valence	-1: slightly negative emotional state can be inferred
+2018-En-01080	@stuael Ano man, I'm stunned! At one point our heads were gone and they were scoring at will! #relieved	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00208	I’m so glad I’m not like some of the sad people online who gossip and bully others for their entertainment because they have no life.	valence	-2: moderately negative emotional state can be inferred
+2018-En-03599	#Hope #youngins #mentalHealth balance crucial to our existence sustenance of life-not too much sad albeit we wish #happy perpetual,it's not🤣	valence	0: neutral or mixed emotional state can be inferred
+2018-En-04196	@jewleree @GameOfThrones Lmao night king smiles 😂	valence	3: very positive emotional state can be inferred
+2018-En-03867	if today is the first time you're playing FFXII I am happy for you. #Zodiacage	valence	3: very positive emotional state can be inferred
+2018-En-00103	i already have 3 Nico URs and i really need a smile UR ;; i'm confused	valence	-2: moderately negative emotional state can be inferred
+2018-En-00161	Waking up to the #scent of #coffee, there's no other #pleasure .\n\n#morning #carliforniadreaming #Writers	valence	2: moderately positive emotional state can be inferred
+2018-En-03091	I like the #glow in the #dark #fidgetspinner. Not because it glows the dark neither. It feels more lighter and smoother than the others	valence	2: moderately positive emotional state can be inferred
+2018-En-03936	You have to learn how to live life regardless of circumstances &amp; not let life leave you. \n#purpose #Growth  #process #confident #happy #joy	valence	3: very positive emotional state can be inferred
+2018-En-04247	@RKsAllyCat82 No, but I'm planning on it before September 😊	valence	1: slightly positive emotional state can be inferred
+2018-En-02922	@devlinjim @SophieLong01 What about Daniel 7:9? - his throne was like the fiery flame, and his wheels as burning fire.	valence	-1: slightly negative emotional state can be inferred
+2018-En-03252	@AliceT120 @shaney_waney1 @shaney_waney1 u horrible non gender binary boy go fangirl over some mediocre singers who CANT EVEN SUPPORT	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00836	Threaten to leave your girl shaking in a wet spot ....	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03817	@elebelfiore Isn't it always about control and mistrust?	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02678	It's not always about the getting but its about the receiving of what has already been given. Receive the joy made available! #jesus 	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02748	#RIPBiwott I think Robert oukos soul can now rejoice and rest in peace. Call an evil man evil and a good man a good man. He was an evil man	valence	-1: slightly negative emotional state can be inferred
+2018-En-04243	Good morning and happy Tuesday! I hope you have a terrific day! Enjoy it tons 😃	valence	3: very positive emotional state can be inferred
+2018-En-03658	That was absolutely the two worst National Anthem singers I've ever heard, both of them screwed up the words #awful	valence	-2: moderately negative emotional state can be inferred
+2018-En-02070	I click on download on my PC. Message says 'Thank you for downloading #iTunes \nSo, where's the download?! #frustrated 	valence	-3: very negative emotional state can be inferred
+2018-En-03249	Israel's recent overtures towards West Africa seems to be attracting some elements of suspicion...an unnecessary suspicion though.	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02937	I have actually watch drugs destroy an entire family 😢Mother's on skid row. Oldest daughter lost her child. Father is estranged. #horrific	valence	-3: very negative emotional state can be inferred
+2018-En-03230	It is a #great start for #beginners to jump into auto #trading. PROFITABLE FX EA will give you full support, manuals &amp; Team Viewer support.	valence	1: slightly positive emotional state can be inferred
+2018-En-00773	@caseydellacqua @ashbar96 Will be cheering for you both! Go @caseydellacqua and @ashbar96	valence	2: moderately positive emotional state can be inferred
+2018-En-01864	@CNN @NewDay If #trump #whitehouse aren't held accountable for their actions,what precedent is being set for future presidencies. #nightmare	valence	-2: moderately negative emotional state can be inferred
+2018-En-01538	If u #smile too much😀\nu get frown lines,\nif u #cry too much😣 \nu get eye wrinkles,\n\n🔂 laugh&amp;cry\n\n ...it's #life 💗\n\nHave a great day\n\n🍯🐝's	valence	1: slightly positive emotional state can be inferred
+2018-En-01504	YES, Joe Buck! Just how I wanna spend my evening. I'm so glad I get to hear his sweet voice for the next 2-3 hours #AllStarGame #sarcasm	valence	1: slightly positive emotional state can be inferred
+2018-En-03715	#Rage and #disappointment man.... Is that life or what? Lol	valence	-2: moderately negative emotional state can be inferred
+2018-En-02808	Someone needs to start listening to @OssoKXLY about #AllStarGame2017 ideas. #brilliant @700espn	valence	0: neutral or mixed emotional state can be inferred
+2018-En-04317	boys are so awful but also so amazing.... right?	valence	0: neutral or mixed emotional state can be inferred
+2018-En-04332	@1720maryknoll I was #fuming Kenny.	valence	-3: very negative emotional state can be inferred
+2018-En-03823	@FFigureFBust How so? I've been thinking of getting it done and now you've given me a frighten.	valence	-2: moderately negative emotional state can be inferred
+2018-En-01997	Coming up shortly #WetinDeyHappen #Satire #laughs #local #Pidgin cc @McTalkinDrum and @Funny_Udeme #stayTuned #premiumTalkStation	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00779	@wvgmltd @DalefootCompost @ThomasEtty Would you like to clean my cooker top, please??? 😉😊 #sparkling #nomess #sunglassesneeded	valence	1: slightly positive emotional state can be inferred
+2018-En-01719	@michaelsloan87 @SkyFootball The disappointment when it's actually a new club sponsor! 😂	valence	0: neutral or mixed emotional state can be inferred
+2018-En-02669	a lot of universities actively discourage even just one part-time job because it has a negative impact on studies--	valence	-2: moderately negative emotional state can be inferred
+2018-En-02878	Happy to share my new video preview with some of my local fav's!\n#compose #excitement @CBCMusic @Musicyyc  @CJSW @BreakOutWest @HifiClub	valence	3: very positive emotional state can be inferred
+2018-En-03680	@theAliceRoberts @FryRsquared @AdamRutherford They've obviously never tried 'repressing' a red head #fiery	valence	-2: moderately negative emotional state can be inferred
+2018-En-02394	@LeahRemini  A 'religion' that pushes people to suicide, and punishes you for doing the right thing?? #heartbreaking	valence	-3: very negative emotional state can be inferred
+2018-En-02948	that alcohol clouds everyone's judgement. It dawns on me that some young men REALLY don't understand what 'vulnerable' means. #ironic	valence	-1: slightly negative emotional state can be inferred
+2018-En-01671	Nigga write me talking bout I dreamt about you, cool I hope I was haunting you in a nightmare	valence	-2: moderately negative emotional state can be inferred
+2018-En-02063	4 hours. \n4,189 words.\n1 story.\n#amwriting #horror #publishorperish	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00159	Hey @NHSEngland imagine being blue lighted to hospital unable to breathe only to be dumped in a cubicle and not seen for 4 hours #horrendous	valence	-3: very negative emotional state can be inferred
+2018-En-01124	How come quiet well behaved cats and dogs have to ride on a plane in a tiny bag while screaming small humans roam free? #outrage #teampet	valence	-2: moderately negative emotional state can be inferred
+2018-En-01501	#LouiseLinton - haters gonna hate keep on being your#fabulous self they'll keep on being  #miserable	valence	-2: moderately negative emotional state can be inferred
+2018-En-02599	Look upon mine #affliction &amp; my ​​​#pain​; &amp; forgive all my sins. -Ps 25:18	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00832	@skh4808 @theveteran425FA @TomiLahren Then why'd they wait until now to start getting pissy? 	valence	-1: slightly negative emotional state can be inferred
+2018-En-01993	@BadHombreNPS @SecretaryPerry If this didn't make me so angry, I'd be laughing at this tweet!	valence	-2: moderately negative emotional state can be inferred
+2018-En-03643	@WhiteJennyB @EmreUslu jenny white  u r the dumbest here .. What r u trying ? Get lost..	valence	-3: very negative emotional state can be inferred
+2018-En-03362	Wrapped In This Burrito, Gotta Sweat This All Out 😰	valence	-2: moderately negative emotional state can be inferred
+2018-En-00452	again i realize some of you may worry about me being gone so long! fear not, for i have made a new life for myself in the sewers,	valence	-2: moderately negative emotional state can be inferred
+2018-En-01563	@emmajckson awe thank you (,:	valence	2: moderately positive emotional state can be inferred
+2018-En-03352	Selling nudes pics and vids kik me to buy! Dirty_becca69\n\n#kik #kikme #kikusernames #snap #snapchat #findom #nudes #slut #kiktrade #horny	valence	0: neutral or mixed emotional state can be inferred
+2018-En-00900	I am shy at first.It usually takes me a few minutes to assess the jaw of the people i am hanging out with and then i will act according🤷🏽‍♀️	valence	0: neutral or mixed emotional state can be inferred
+2018-En-01725	Thanks for such a thrilling #AllStarGame @MLB. #sarcasm	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03236	@andyfleming83 Bastard squirrels. 😡	valence	-3: very negative emotional state can be inferred
+2018-En-02462	Dannie you're a terrible influence, piercing time😂💉	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03571	@realDonaldTrump So hard to believe after you've worked #bigly hard to bring the country together #sarcasm #impeachTrump #25AmendmentNow	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03686	@MikeAndMike @Buster_ESPN if you get time.. @Orioles buyers it sellers or what are we going to do!!?! #panic	valence	-2: moderately negative emotional state can be inferred
+2018-En-02551	The next time I go to Lagos I will gate crash somebody's owambe dressed in lace and gele to eat amala and shake my waist😑	valence	1: slightly positive emotional state can be inferred
+2018-En-03186	@Popstufs3 Coffee is good and view is even better 😊	valence	2: moderately positive emotional state can be inferred
+2018-En-01246	@TikiTakaConnor Eduardo without injury was honestly amazing like so sad he's not looked at in the right light because of his Injuries.	valence	-1: slightly negative emotional state can be inferred
+2018-En-02339	#AI #revolation, soon is possible!\n#fearless #fearful  #good #goodness	valence	2: moderately positive emotional state can be inferred
+2018-En-02522	Post TRNSMT blues	valence	-1: slightly negative emotional state can be inferred
+2018-En-04182	Idk why but when I help someone,  a smile comes on my lips.\n\n#thatisall #ieverwant #noneeds #justyou #love #peace #smiling #faces #kindness	valence	3: very positive emotional state can be inferred
+2018-En-01428	I think 'Sleep' is my favorite from How did we get so dark?, maybe because I'm insomniac	valence	-2: moderately negative emotional state can be inferred
+2018-En-01755	What does Amelia want?! Sarah was v grateful  #CBB	valence	1: slightly positive emotional state can be inferred
+2018-En-01911	It’s lack of #faith that makes #people #afraid of #meeting #challenges …\n\n#MuhammadAli	valence	0: neutral or mixed emotional state can be inferred
+2018-En-03038	James Clapper 'scary and disturbing'.  #25thAmendmentNow #ImpeachTrump  #terrified #nuclearcodes  #Godhelpus	valence	-2: moderately negative emotional state can be inferred

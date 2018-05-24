@@ -1,0 +1,389 @@
+ID	Tweet	Affect Dimension	Intensity Class
+2018-En-01052	'we need to do something. something must be done!!!!!'\n\nyour anxiety is amusing. nothing will be done. despair.	anger	1: low amount of anger can be inferred
+2018-En-03440	@Chan_lfc10 @paul_rule @Nuttall1878 @DeadlineDayLive @Everton We'd be fuming if the hijacked our £8m move for a relegated full back 😡	anger	2: moderate amount of anger can be inferred
+2018-En-01489	Caleb had a nightmare about zombies. I had a dream about freedom.......	anger	0: no anger can be inferred
+2018-En-00490	#CNN really needs to get out of the #Propaganda Business.. 30 seconds on USN fallen Soldiers tragedy. Right back at spewing #hatred #POTUS	anger	2: moderate amount of anger can be inferred
+2018-En-02178	#dmme #kikme  #sext #horny  #ass #bbw  #naughty  #pussy #kik   #nudes  only  girls  😩 horny  #snap    jacobgigs	anger	0: no anger can be inferred
+2018-En-02533	Don't fucking tag me in pictures as 'family first' when you cut me out 5 years ago. You're no one to me. 	anger	3: high amount of anger can be inferred
+2018-En-03360	Coulda sworn it was Interview With A Vampire. Hmmm......Mandela Effect anyone? \n#interviewwithavampire #annerice #books #horror #ilovevamps	anger	0: no anger can be inferred
+2018-En-01552	sick of this shit. #mad #angry. Rowan Atkinson Is Not Dead. Just A Bloody Online Hoax😡😡😡😡🤬🤬🤬🤬	anger	3: high amount of anger can be inferred
+2018-En-01940	@lucybeecoconut A make up remover and insect sting relief!	anger	0: no anger can be inferred
+2018-En-01654	I despair at the mouth foaming hostility &amp; dishonesty of those in the Leave camp, &amp; we should expose that.	anger	2: moderate amount of anger can be inferred
+2018-En-00681	@FangornForest1 @Brexit whose customers love it. Imagine being a hack these days, having to sing the tune the paymaster calls. #dismal	anger	1: low amount of anger can be inferred
+2018-En-02603	@F1 Why announcing so late, it will be hard to make it from Manchester and organising a day off. #sad	anger	2: moderate amount of anger can be inferred
+2018-En-04151	Mother Nature dropping mad beats out there this morning. Just wish they wouldn't shake my shower stall while I'm standing there naked.	anger	0: no anger can be inferred
+2018-En-04326	#DamilolaOurLovedBoy So upsetting 😢😢. Why do people want to hurt others! Such a cruel world we live in #heartbreaking	anger	2: moderate amount of anger can be inferred
+2018-En-00813	Sorry if I annoy any of you. I'm just real passionate about Ruby and always want to give her the love she deserves 😭	anger	0: no anger can be inferred
+2018-En-00780	Jesus drank the cup of wrath you deserve dry, so that you might drink deeply of His cup of salvation that eternally satisfies (Hab 2:15).	anger	0: no anger can be inferred
+2018-En-01209	I spotted the fed and all I got was #Ejaculating live bees and the bees are #angry.	anger	3: high amount of anger can be inferred
+2018-En-02278	Worst dreams. 😥	anger	1: low amount of anger can be inferred
+2018-En-03723	@MarkRDuckett it did, i saw the tweet, it had a crack at u, about a greens tweet. it holds a grudge dude. so pathetic.	anger	2: moderate amount of anger can be inferred
+2018-En-00575	#WalkingSideBySide: Great marriages built on #forgiveness &amp;truthfulness; bad marriages on #resentment, bitterness, #deceit &amp;unfaithfulness.	anger	0: no anger can be inferred
+2018-En-03619	@Bravotv is there a way to watch NYC Million Dollar Listing &amp; filter @FredrikEklundNY OUT of the episodes? #primadonna #duckface #tantrum	anger	0: no anger can be inferred
+2018-En-02376	This time last year I was pissed at the top of the Eiffel Tower. Today I was down a manhole in the rain. Happy Anniversary @Jordannea11 😘♥️	anger	0: no anger can be inferred
+2018-En-02322	Head hurting 😤	anger	2: moderate amount of anger can be inferred
+2018-En-01023	@JustHerrick @iPhone_News Piece of #crap	anger	2: moderate amount of anger can be inferred
+2018-En-03859	So disappointed in myself for spending £50 on an outfit for meeting a boy #noselfcontrol #nervous	anger	2: moderate amount of anger can be inferred
+2018-En-02381	Did men call themselves shy and mean it? So I reassure him that I'm just making sure he's a good investment and alla that 🙄	anger	0: no anger can be inferred
+2018-En-02685	Kid at camp said my inner thigh looked like a slinky👌🤣 buddy those are stretch marks!!!!  #SummerCamp #offended	anger	1: low amount of anger can be inferred
+2018-En-04350	Alaina and I are at 90 days on our snap streak. So?	anger	0: no anger can be inferred
+2018-En-01657	Saw my first Larsen trap today with stressed magpie. I NEVER EVER want to see that again  #angry #distressed #wildlife	anger	3: high amount of anger can be inferred
+2018-En-01152	@Argos_Online customer service is dreadful, phone bill is huge and get passed from person 2 person and keep taking money off my card #idiots	anger	3: high amount of anger can be inferred
+2018-En-04125	Lost my appetite for the past 5 days and I swear I already lost 3 pounds #depressing #at #least #i #will #be #skinny #for #pride #weekend	anger	1: low amount of anger can be inferred
+2018-En-02516	Great...So I got up at 5am only to discover that my Amazon Prime Day deal was $30 more than the regular price. 😡	anger	3: high amount of anger can be inferred
+2018-En-02314	What's worse than feeling discouraged? Not finding an emoji for feeling discouraged	anger	1: low amount of anger can be inferred
+2018-En-03180	@GirlPosts @_matdtaylor actually how annoyed you get 😂	anger	2: moderate amount of anger can be inferred
+2018-En-04198	@Zineeta_R @RusEmbUSA @mfa_russia The hatred and fear many russians have for anything non-russian is just sad.	anger	2: moderate amount of anger can be inferred
+2018-En-00477	@BBCBreaking I have some mistrust of the medical profession.  The cover up was more important than the patients.	anger	1: low amount of anger can be inferred
+2018-En-02949	I've got builders in my office and I have a game to make. Perhaps ill start sketching the next game... #gamedev #indiedev 	anger	0: no anger can be inferred
+2018-En-01187	Wow what's up with #snap 😲📊📉⬇#cnnmoney	anger	0: no anger can be inferred
+2018-En-01798	Brighten up a gloomy day with a @SiennaXOfficial spray tan, we have a tan to suit everybody! #spraytan #tan #summer #godalming #hurtmore	anger	0: no anger can be inferred
+2018-En-03249	Israel's recent overtures towards West Africa seems to be attracting some elements of suspicion...an unnecessary suspicion though.	anger	0: no anger can be inferred
+2018-En-03238	@hollloman @nessa_babbby @ajvannozzi97 As half a set of twins I resent that!	anger	2: moderate amount of anger can be inferred
+2018-En-02366	I feel exhausted ...\nI tried to do a good job, but apparently God does not see me right. I'm weary! I EXIST! 😟💔📢\n#exist #weary #misonorotta	anger	2: moderate amount of anger can be inferred
+2018-En-02651	Why have #Emmerdale had to rob #robron of having their first child together for that vile woman/cheating sl smh #bitter	anger	2: moderate amount of anger can be inferred
+2018-En-01435	@o_pebbles Not of this one sadly! 😪	anger	1: low amount of anger can be inferred
+2018-En-01124	How come quiet well behaved cats and dogs have to ride on a plane in a tiny bag while screaming small humans roam free? #outrage #teampet	anger	2: moderate amount of anger can be inferred
+2018-En-00159	Hey @NHSEngland imagine being blue lighted to hospital unable to breathe only to be dumped in a cubicle and not seen for 4 hours #horrendous	anger	3: high amount of anger can be inferred
+2018-En-04111	It's a beautiful pout. c:	anger	0: no anger can be inferred
+2018-En-03058	@ThomasEWoods I would like to hear a podcast of you going off refuting her entire article. Extra indignation please.	anger	1: low amount of anger can be inferred
+2018-En-03920	-c- and disarmed of her equipment on suspicion of being a potential accomplice to Annie Leonhart.	anger	1: low amount of anger can be inferred
+2018-En-03853	[ @TheChicMystique ] — hurting badly and that he can't just leave him like that. Angry and heartless. ]\n\nI promise you that I'll be back, —	anger	2: moderate amount of anger can be inferred
+2018-En-01719	@michaelsloan87 @SkyFootball The disappointment when it's actually a new club sponsor! 😂	anger	0: no anger can be inferred
+2018-En-02934	Are u #depressed #hypo #manic #lonely #bored #nofriends #needfreinds #friend I feel chatty I wanna help ppl or just #makefriend 's #dm #moms	anger	0: no anger can be inferred
+2018-En-03611	Shit getting me irritated 😠	anger	3: high amount of anger can be inferred
+2018-En-01944	@_elliegillxx @0liviarobertson Poor Lyn 😂😂😂 livv I hope she forgets yours this year in revenge	anger	0: no anger can be inferred
+2018-En-00599	I literally love Paul so much #BB19 #pissed 😂	anger	0: no anger can be inferred
+2018-En-03760	@amjadhussain73 @MehreenFaruqi Don't waste your time on that Muslim crap. Ups you are Arab too. 😂 😂 😂 Greatings fro Pauline Hanson. 😂 😂 😂	anger	0: no anger can be inferred
+2018-En-00318	calling me ugly isn't even an insult bc i know already	anger	1: low amount of anger can be inferred
+2018-En-02298	What do I do with my heart that is trembling by just the thought of it?\nI really don’t know what love is	anger	0: no anger can be inferred
+2018-En-01603	Russia story will infuriate Trump today. Media otherwise would be giving him tongue bath for fall of ISIS in Mosul + al-Baghdadi death.	anger	0: no anger can be inferred
+2018-En-03243	There's still sadness and hatred pero i do feel better than yesterday.	anger	2: moderate amount of anger can be inferred
+2018-En-01634	Outside has basically become a horror movie where gypsy moths take over the world by flitting aggressively about.\n\n#creaturedoublefeature	anger	2: moderate amount of anger can be inferred
+2018-En-02677	@JackRuff4 They have this horrible pudding here. Butterscotch pudding on Mondays, it's dreadful. #Fringe	anger	2: moderate amount of anger can be inferred
+2018-En-02079	@Delta.  Are you kidding?  Delayed from 7:30pm to 11:00 - only to cancel it because the pilot is overtime. 	anger	3: high amount of anger can be inferred
+2018-En-03398	Paul Ehrlich said that humanity is a threat to all life. Such great news to start the day. If I could blush I would.	anger	0: no anger can be inferred
+2018-En-01375	@eben4u #stayed on you...makes you appreciate love worshiping....All i want to do is worship you!!	anger	0: no anger can be inferred
+2018-En-00980	I feel intimidated	anger	0: no anger can be inferred
+2018-En-03131	@jaassiieeeee I will not fall to the dark side😂😂	anger	0: no anger can be inferred
+2018-En-01176	@elegantlywasted @ChelseaClinton Are they the new kennedy's of American politics.. sadly both mom and daughter are as charming as a toe nail	anger	0: no anger can be inferred
+2018-En-01696	aleesha—kitchen sink, twenty one pilots (!!)	anger	0: no anger can be inferred
+2018-En-03948	She mad sus hung up on me 😂	anger	0: no anger can be inferred
+2018-En-01685	My dog wouldn't stop barking so now I'm up at eight am with a raging headache	anger	2: moderate amount of anger can be inferred
+2018-En-02683	Yes @itv2 @LoveIsland putting that Angel @MikeThalassitis back in the villa was the best move #revenge #returnofthemike #LoveIsland #hot	anger	0: no anger can be inferred
+2018-En-04005	Please ruin this party, @NSWRL. #origin #blues	anger	0: no anger can be inferred
+2018-En-00938	@_Oteraw unhappy and unfulfilled 😂	anger	0: no anger can be inferred
+2018-En-04213	How shit and depressing is this weather wish I can travel the world for a living	anger	2: moderate amount of anger can be inferred
+2018-En-00836	Threaten to leave your girl shaking in a wet spot ....	anger	0: no anger can be inferred
+2018-En-00420	I mean, not that I wanted goats to faint... but I wanted to see the goats faint.  #eclipse	anger	0: no anger can be inferred
+2018-En-02438	@MafiaWorldMario Stg everybody say that 😂 then when we tell them they got huff they be mad as shit	anger	2: moderate amount of anger can be inferred
+2018-En-04256	Woke up feeling fresh with a clear mind. That's never happened before.\n#morning #sober	anger	0: no anger can be inferred
+2018-En-01911	It’s lack of #faith that makes #people #afraid of #meeting #challenges …\n\n#MuhammadAli	anger	0: no anger can be inferred
+2018-En-00862	You would think booking a holiday for 2 you'd be sat next to each other on the bloody plane #fuming 😡@ThomsonHolidays	anger	3: high amount of anger can be inferred
+2018-En-03644	#resentment best Beyoncé song #dontdebateme	anger	0: no anger can be inferred
+2018-En-01796	you annoy me, your name annoys me, your EVERYTHING annoys me 🙃	anger	3: high amount of anger can be inferred
+2018-En-00002	'to fill his campaign bank account with tens of millions of dollars'..trump 2020 campaign to start now #sad  #bad	anger	1: low amount of anger can be inferred
+2018-En-04002	and after i got home in such a horrible mood my mom pissed me off the moment i stepped my feet in the house so i really almost go off on her	anger	3: high amount of anger can be inferred
+2018-En-00910	Mint owls are often indignant.	anger	0: no anger can be inferred
+2018-En-03337	@JoshuaRozenberg Oh dear! #tantrums	anger	1: low amount of anger can be inferred
+2018-En-00991	What should I do to teach people effectively? #questions #answer #help #twitter #nice #sad #begging #angry #teacher #what	anger	0: no anger can be inferred
+2018-En-02012	It was at least boiling temperature last night.	anger	0: no anger can be inferred
+2018-En-03065	The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.	anger	0: no anger can be inferred
+2018-En-02760	Desi feminists must have it the hardest. Imagine controlling that rage due to having to dance in a wedding at 'Mai Baarish Kar du Paise ki'	anger	1: low amount of anger can be inferred
+2018-En-01350	Some people are shady a'f 	anger	1: low amount of anger can be inferred
+2018-En-04307	+++ '#Dearly #beloved, avenge not yourselves, but rather give place unto #wrath: for it is #written, #Vengeance is #mine; I …' #Romans12v19	anger	0: no anger can be inferred
+2018-En-03269	Listening to these refugee children, barely a decade old, describe the horrific acts they were forced to commit is terrifying. #DatelineSBS	anger	2: moderate amount of anger can be inferred
+2018-En-00709	Man I feel like crap today 😰	anger	1: low amount of anger can be inferred
+2018-En-00581	i excepted the eclipse to make me believe in an omniscience force #dissapointed	anger	2: moderate amount of anger can be inferred
+2018-En-03941	Someone's nicked my lunch out the fridge at work!! Roast dinner as well! #fuming	anger	3: high amount of anger can be inferred
+2018-En-01289	Okay @BTS_twt it was fun and all you can change your layout back to something goofy and domestic as usual pls I'm intimidated rn	anger	0: no anger can be inferred
+2018-En-01793	Wow! Today, totally seeing alot of #mean #people out in this #world! Turn it around and #start cultivating #kindness! #SuccessTRAIN #warrior	anger	0: no anger can be inferred
+2018-En-04062	#PhoenixRally #Deplorables insult and denigrate #JohnMcCain as he struggles with treatment for #glioblastoma #impeach45 incites 	anger	2: moderate amount of anger can be inferred
+2018-En-03002	We need but little learning to live happily - Michel de Montaigne #quote #philosophy #wisdom #wisewords #mentalhealth #psychology #anxiety	anger	0: no anger can be inferred
+2018-En-02522	Post TRNSMT blues	anger	0: no anger can be inferred
+2018-En-01481	Literally kicking myself for not catching up on GOT and now all I see is SPOILERS #pissed	anger	3: high amount of anger can be inferred
+2018-En-00133	I think I'll eternally be irritated by our LIT teacher 😂	anger	1: low amount of anger can be inferred
+2018-En-03749	@TheView Joy isn't a comedian. She's a bully for fat shaming the governor. Great example she's setting for her grandson.	anger	1: low amount of anger can be inferred
+2018-En-01192	@TheEllenShow I follow you bc your TV show keeps me laughing🤣.  When you #startle your guest sitting on that couch...booo...	anger	0: no anger can be inferred
+2018-En-01568	@silverstein 13th time seeing you guys today and you cancel the meet and greet because of the storm. We're all soaked.. 😡 #dissapointed	anger	3: high amount of anger can be inferred
+2018-En-01101	Tonight's run.... #restless	anger	0: no anger can be inferred
+2018-En-00688	@AwardsDaily Looks that way.  I don't want to see how Q is going to handle Tate murder.  #shudder	anger	1: low amount of anger can be inferred
+2018-En-01059	@BillMoyersHQ Elderly belong w/family; our social system is broken.  This egregious 'Meancare' will shake it up, alas.	anger	2: moderate amount of anger can be inferred
+2018-En-03355	@del_krushnic I knw you have a temper paaa lol just chill dear don't be pissed waii or I will else worry u saaa but I'm sorry 😫	anger	0: no anger can be inferred
+2018-En-00118	There's nothing interesting here besides of retweet for follow #annoyed 😣😣	anger	3: high amount of anger can be inferred
+2018-En-00124	Theme of week: Ask the Lord for strength &amp; perspective to persevere in #integrity and effort, despite being #disheartened &amp; disappointed.	anger	0: no anger can be inferred
+2018-En-00941	@ProfessorF @Mediaite @law_newz Childish temper #tantrums are all the left has left. :)	anger	1: low amount of anger can be inferred
+2018-En-01132	@izzyaline burning up damn	anger	2: moderate amount of anger can be inferred
+2018-En-02149	Freakin a...I deleted half the episode of BIP on accident  #bachelorinparadise	anger	2: moderate amount of anger can be inferred
+2018-En-04209	Ask for my #snapchat #pussy #cock #horny #cum #wet #tits #follow 	anger	0: no anger can be inferred
+2018-En-00628	Can't handle rude people. Doesn't matter what job you do, a consultant or not, treat people how you would like to be treated 😡 #disapointed	anger	3: high amount of anger can be inferred
+2018-En-03073	@AmyJoSmyth #OOC Thing is she holds a grudge like mad	anger	2: moderate amount of anger can be inferred
+2018-En-01368	462 appearances in PL and 200 goals!! 2.31 games per goal. That's very nearly a goal in every 2 games #crap 😂😂 🙄🙄🤔🤔 #Rooney	anger	0: no anger can be inferred
+2018-En-00438	Do people notice that only saying 'You're so pretty' when I have make-up on. Is offense! \n&amp; I take note that they never say it when I don't.	anger	1: low amount of anger can be inferred
+2018-En-01563	@emmajckson awe thank you (,:	anger	0: no anger can be inferred
+2018-En-02063	4 hours. \n4,189 words.\n1 story.\n#amwriting #horror #publishorperish	anger	0: no anger can be inferred
+2018-En-03770	Brown envelopes can induce panic. #posttruth	anger	0: no anger can be inferred
+2018-En-02378	How sick must someone be that they wish to 'punish' someone for not being their friend?  #insecure #lonely #miserable #vengeful #RHOC	anger	3: high amount of anger can be inferred
+2018-En-00291	My boyfriend is my whole world 😭	anger	0: no anger can be inferred
+2018-En-02484	The same part of roof bar (driver's side) are stolen from Grand Vitara cars. Let it be known. This is really #disheartening #brunei	anger	2: moderate amount of anger can be inferred
+2018-En-03381	🇿🇦has become a place where people even the most timid of us all are baying for blood around every corner.	anger	1: low amount of anger can be inferred
+2018-En-04347	I'm back on Twitter! #madden #madden18 #maddenmobile #ea #nfl #espn #packers	anger	0: no anger can be inferred
+2018-En-00790	Been at work for not even 4 hours and I've thrown boiling tea everywhere, smashed a mug, smashed a milk jug and sliced my finger open😐	anger	3: high amount of anger can be inferred
+2018-En-00716	@badpostyoongi I know for a fact they'll either ignore the fact tiff isn't or change Cindy's background	anger	0: no anger can be inferred
+2018-En-03036	So now I have to buy a whole new computer 	anger	1: low amount of anger can be inferred
+2018-En-01253	@theIeansquad @SatanHeavenly Rap is so unbearable and horrific.	anger	2: moderate amount of anger can be inferred
+2018-En-01671	Nigga write me talking bout I dreamt about you, cool I hope I was haunting you in a nightmare	anger	2: moderate amount of anger can be inferred
+2018-En-01302	@kamaalrkhan Which #chutiya #producer #invested in #crap #deshdrohi ??	anger	1: low amount of anger can be inferred
+2018-En-03640	@RGUpdate Have you tried English hospital food ?? #yak #gross 	anger	1: low amount of anger can be inferred
+2018-En-04014	made up my mind to \nmake a new start	anger	0: no anger can be inferred
+2018-En-02824	@JoyceMeyer @mrsglessman #day of #vengeance of our #God; To #comfort all who #mourn, To console those who #mourn in #Zion, To give [4/7]	anger	0: no anger can be inferred
+2018-En-00559	Africa has unique and tremendous problems with war, overpopulation, starvation and tribalism which makes moving Africa forward hard.	anger	0: no anger can be inferred
+2018-En-01889	@itskaiouji Noooo, Sunbae-nim! Don't tease me like that- 😤	anger	1: low amount of anger can be inferred
+2018-En-02097	Now that Ravi Shastri is finally appointed as the head coach, it'll be interesting to see whether Kohli finally stops throwing his tantrums.	anger	0: no anger can be inferred
+2018-En-03498	@PamelaGeller Disgusting. @facebook you just may end up like #snap. #traitor	anger	2: moderate amount of anger can be inferred
+2018-En-01637	I woke up still not hardly believing what all happened last night 😰	anger	0: no anger can be inferred
+2018-En-00613	Can't stand it when lads put their middle finger up in pics 	anger	2: moderate amount of anger can be inferred
+2018-En-03053	@GarfieldLineker @TimCRoberts *on his back. Apologies for retweeting a tweet with grammatical error #mybad 😱	anger	0: no anger can be inferred
+2018-En-03798	@angrydwarf9 @carolinesandall It ruins my frigging night each night at 9pm. Mrs loves it, i've been early to bed for a month. #dreadful	anger	2: moderate amount of anger can be inferred
+2018-En-02468	We can replace #loss with #hope, #hate with #love, #pain with #gain, if we close the window of #bitterness and open doors of #faith. #TryIt	anger	0: no anger can be inferred
+2018-En-01838	@maidinaustralia D: That's horrid. *hugs*	anger	1: low amount of anger can be inferred
+2018-En-02236	@kylegriffin1 #outrage police\ntelling a woman she looks nice for her age is apparently sexist.\nYou #FakeNews people are #crazy	anger	2: moderate amount of anger can be inferred
+2018-En-03362	Wrapped In This Burrito, Gotta Sweat This All Out 😰	anger	0: no anger can be inferred
+2018-En-01197	Jeong su is easy to get along with everybody likes him and not intimidated by him.. I like him.. he reminds me of seunghoon	anger	0: no anger can be inferred
+2018-En-02517	United Airline at Newark needs more Kiosks so that people won't miss their cut off time.  And hire more ppl too.  #horrible	anger	2: moderate amount of anger can be inferred
+2018-En-01648	@Lythero *hugs himself hoping Doom shows up to insult everyone*	anger	0: no anger can be inferred
+2018-En-03120	Good Morning Tuesday! No crap today please 😃 #tantrums #toddler #cuddly #struggles #3 #10 #PMA	anger	0: no anger can be inferred
+2018-En-00689	That moment when you look back and realise you've been a #selfish #horrible #judgemental person. #FeelingAshamed	anger	2: moderate amount of anger can be inferred
+2018-En-00207	5 goals in 87 appearances last season between McKay, Holt and Windass! Simply is horrific! Get midfield balance sorted and team will fire!	anger	1: low amount of anger can be inferred
+2018-En-01284	@BrettKeeble I guess it never. @smartassunit #worry	anger	0: no anger can be inferred
+2018-En-04148	@chelston_dsouza Conte is furious with his board, wants all of them or he quits.	anger	1: low amount of anger can be inferred
+2018-En-01291	@narendramodi @AmitShahOffice @OfficeOfRG @arunjaitley all the politicl prties lv n care fr ppl whn in opstn.  #AmarnathTerrorAttack	anger	0: no anger can be inferred
+2018-En-01362	@CNN thanks Hollywood, (Depp). all these climate change fanatics using private jets and gas guzzling cars are to blame for this! #outrage	anger	2: moderate amount of anger can be inferred
+2018-En-00970	very very irritated 😐	anger	3: high amount of anger can be inferred
+2018-En-01395	@_Buddh_ @rohit_mhpl @indujalali @rajnathsingh We are also wating when terrorism willb history. And one thing kashmir is not India's	anger	0: no anger can be inferred
+2018-En-04348	@KeenanRuggeri You would have been raging as it was probably put in place instead of an extra crisp	anger	2: moderate amount of anger can be inferred
+2018-En-02386	Hmm...looks like no one @Tampax is available to respond. Its like waiting for a #doomsday reply. That #burning question with no #answer	anger	2: moderate amount of anger can be inferred
+2018-En-01474	Didn't know the @ChickfilA cow day thing ended at 7:30 so showed up 30 min late looking like a cow with no sandwich #sadness 😅😅😅	anger	1: low amount of anger can be inferred
+2018-En-02462	Dannie you're a terrible influence, piercing time😂💉	anger	0: no anger can be inferred
+2018-En-03643	@WhiteJennyB @EmreUslu jenny white  u r the dumbest here .. What r u trying ? Get lost..	anger	3: high amount of anger can be inferred
+2018-En-01354	@LoveMyFFAJacket FaceTime - we can still annoy you 😂	anger	0: no anger can be inferred
+2018-En-04276	His interlocutor burst out laughing several times at his answers; and more than ever, when to the question, ‘ whether he had been cured?�	anger	0: no anger can be inferred
+2018-En-02662	@jihnwi u literally name us a word close to prostitutes ok oomf...... 😰	anger	0: no anger can be inferred
+2018-En-01472	O, the melancholy Catacombs quickly wandered about the Rue Morgue, Madman!	anger	1: low amount of anger can be inferred
+2018-En-02120	Not letting anyone anger me or change who I am.	anger	0: no anger can be inferred
+2018-En-03719	The blackest abyss of despair, Alonzo	anger	0: no anger can be inferred
+2018-En-02296	Imagine how many ksones are crying right now for not getting tickets 😭 Meanwhile, isones dont even get a chance to go on war for tickets 😭	anger	2: moderate amount of anger can be inferred
+2018-En-00898	Not sure tequila shots at my family birthday meal is up there with the best ideas I've ever had #grim	anger	0: no anger can be inferred
+2018-En-04314	Please stop ruining my depressing memes with your positivity and optimism	anger	0: no anger can be inferred
+2018-En-00452	again i realize some of you may worry about me being gone so long! fear not, for i have made a new life for myself in the sewers,	anger	0: no anger can be inferred
+2018-En-01125	B4 I couldnt get out of bed or look in mirror Thankful4all the support I have recieved here ImWakingUpHappyNot dreading theday 	anger	0: no anger can be inferred
+2018-En-04274	@Cmdr_Hadfield CNN's Wolf Blitzer calls you an American astronaut and you don't correct him? #dissapointed	anger	2: moderate amount of anger can be inferred
+2018-En-02352	#AmericasGotTalent live shows with so many technical faults #disheartening	anger	1: low amount of anger can be inferred
+2018-En-02523	@vinsquat67 It was indeed, I was raging at the verdict. Can't imagine how the poor lassies family felt.	anger	2: moderate amount of anger can be inferred
+2018-En-04353	3 and a half hour more 😤 #EXO	anger	0: no anger can be inferred
+2018-En-01833	@duthie @Carabao_Cup Lets not mention this again! #QPRvBRE 	anger	0: no anger can be inferred
+2018-En-01755	What does Amelia want?! Sarah was v grateful  #CBB	anger	0: no anger can be inferred
+2018-En-03843	If @TheRock's Presidential run is as bad as his appearance in #Baywatch neither party need fear his run. That's $8 I'll never get back #crap	anger	2: moderate amount of anger can be inferred
+2018-En-03289	Like I might've set it down on top of my car &amp; if so, that shit is long gone 😭 	anger	2: moderate amount of anger can be inferred
+2018-En-03805	@Ben_Ripley42 I dont know but you seem to have annoyed her 😄	anger	1: low amount of anger can be inferred
+2018-En-03781	when everyone you know has died because of a treaty you had no involvement in drawing up, you get an enormous amount of fury	anger	2: moderate amount of anger can be inferred
+2018-En-02963	Fucking fuming is an understatement	anger	2: moderate amount of anger can be inferred
+2018-En-00880	@RoflCritic @NBTDilli @SudamaNBT ,BJP MCD busy collection of suvidha sulk from unauthorised colonies	anger	0: no anger can be inferred
+2018-En-00459	Wtf shawty ass on 😤	anger	1: low amount of anger can be inferred
+2018-En-01148	'When the mind is denied the emotional sting of losing it never figures out how to win.' -Jonah Lehrer	anger	0: no anger can be inferred
+2018-En-01501	#LouiseLinton - haters gonna hate keep on being your#fabulous self they'll keep on being  #miserable	anger	0: no anger can be inferred
+2018-En-02293	The way I'm always on twitter at work is a little alarming 🤦🏾‍♀️	anger	0: no anger can be inferred
+2018-En-02612	#depressed Today was bitter sweet watching all the kids go back to school made me really miss my babies. I'm so broke #backtoschool2017	anger	2: moderate amount of anger can be inferred
+2018-En-00492	Too much caffeine, and I'm dyyyying. #jitters #shakes #paranoia #heartbeat1000 ☕💔	anger	0: no anger can be inferred
+2018-En-00520	Quite possibly the worst anthems I've ever heard in pro sports by both singers. I wish I was deaf. #ASG2017 #mlb #MLBAllStarGame 	anger	2: moderate amount of anger can be inferred
+2018-En-03330	@NitashaKaul @Snehakaul2Kaul so beautiful dear, thanks,everybody knows it is in benefit of India &amp; GOI has done this terror attack as before	anger	0: no anger can be inferred
+2018-En-03322	Definitely something happening today #SolarEclipse2017 #weird #annoyed	anger	3: high amount of anger can be inferred
+2018-En-01360	I haven't lost weight but I appear smaller and I'm pissed 🙄	anger	3: high amount of anger can be inferred
+2018-En-03133	@PayPalUK have well &amp; truly done me over the day before I go on holiday! #fuming	anger	2: moderate amount of anger can be inferred
+2018-En-03970	@Jarrius Send me a FR: Jaygerrr and I'll smoke you on madden when it comes out 😂🤙	anger	0: no anger can be inferred
+2018-En-03010	I just watched the video that i took at troye's concert last year during happy little pill and now im crying i miss him @troyesivan 😭	anger	0: no anger can be inferred
+2018-En-02288	@NewsByKatherine @jonkarl @ABC YOU GUY'S SOUND astounded!! Does anyone working w Trump WH have an any ethical,moral, values? 🙈🙉🙊	anger	0: no anger can be inferred
+2018-En-02017	#revenge marathon has begun ⚡	anger	1: low amount of anger can be inferred
+2018-En-03161	Hearing the Song by Phone glued to ears like if the singer spoke to me... #mad #mad hahah	anger	0: no anger can be inferred
+2018-En-03338	@0510Keisuke devour the unborn\nhuman rejection\nfrom wrath to ruins	anger	2: moderate amount of anger can be inferred
+2018-En-04173	Time for a #burst #burstcoin fork??	anger	0: no anger can be inferred
+2018-En-02512	Is it supposed to be this arduous to interact with other people? I'm 'other people' to them and they don't seem to struggle. 	anger	0: no anger can be inferred
+2018-En-02214	When I think about Yondu &amp; his crew, Rocket, &amp; Groot doing 700 jumps to Ego planet, I start laughing.	anger	0: no anger can be inferred
+2018-En-01678	@ehtesham_toi @RaviShastriOfc unfortunate decision, our players are more of superstars than cricketers. BCCI scared of their tantrums.	anger	1: low amount of anger can be inferred
+2018-En-04327	@JusticeWillett Lord, we don't understand tragedy. Do what You do best: bring good grom it and comfort those who mourn. Amen	anger	0: no anger can be inferred
+2018-En-01335	@AGlyndwr @TeaPainUSA All I know is the sentence will start with 'look...' like any high school punk would start a threat.	anger	0: no anger can be inferred
+2018-En-00156	@byunsolo I DIDN'T ASK FOR THIS EITHER IT JUST HAPPENED 😤	anger	2: moderate amount of anger can be inferred
+2018-En-04047	Blah blah blah Kyrie, IT, etc. @CJC9BOSS leaving Boston is the real news and I am #devastated! #celtics #fave  #someonegetmeajerseyteeasap	anger	2: moderate amount of anger can be inferred
+2018-En-02502	Nah but as a governor how do you call someone a bum &amp; that you love calls from 'communist in Montclair' ? 😂 #crying	anger	1: low amount of anger can be inferred
+2018-En-01810	Can't Talk To An Incompetent Person. Goes In One Ear and Out The Other. #irritated #NoPoint #MassiveEyeRoll	anger	3: high amount of anger can be inferred
+2018-En-03556	i've been to 1 and 1/3 of my classes today and i am already 	anger	0: no anger can be inferred
+2018-En-03237	was one moron  driving his oversize tonka truck with the big flag in the bed back and forth blaring country music. 😐 #disappointment	anger	2: moderate amount of anger can be inferred
+2018-En-04090	EEEEEKKKK!!!!\nProduct LAUNCH 😍✋💖\nI'm am literally B•U•Z•Z•I•N•G!!!\nSingle sachets 😍😍\n \nMessage me for yours! 😜🙆💜#loveyourlifestyle #shakes	anger	0: no anger can be inferred
+2018-En-03823	@FFigureFBust How so? I've been thinking of getting it done and now you've given me a frighten.	anger	0: no anger can be inferred
+2018-En-02781	The sound of rain is pretty peaceful when you're in a very annoyed mood 😅	anger	0: no anger can be inferred
+2018-En-00874	A programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.  #puppy	anger	0: no anger can be inferred
+2018-En-04332	@1720maryknoll I was #fuming Kenny.	anger	2: moderate amount of anger can be inferred
+2018-En-01321	@shanedawson @JeffreeStar @JessButtafuoco No offense but.. Jeffee looks like a pink demon😂	anger	0: no anger can be inferred
+2018-En-01627	@comrade_islaboy HAHAHAHAHA. Hornet's nest. Let them sting each other.	anger	0: no anger can be inferred
+2018-En-01328	coffee the floor; And the soul grew furious as the stillness broken by little,	anger	0: no anger can be inferred
+2018-En-01339	When Duane Allman died, I learned to appreciate Stevie Ray Vaughan. True story.  #blues #legends	anger	0: no anger can be inferred
+2018-En-02820	@SRuhle @MSNBC Sebestian Gorka, what a arrogant A~hole! Has no business speaking! 	anger	3: high amount of anger can be inferred
+2018-En-03962	Protesters in Brazil are burning effigies of their President. He and some of his cabinet are under investigation for corruption. #sabcnews	anger	0: no anger can be inferred
+2018-En-00832	@skh4808 @theveteran425FA @TomiLahren Then why'd they wait until now to start getting pissy? 	anger	2: moderate amount of anger can be inferred
+2018-En-01733	@thatradiogeek That is a tremendous thing to wake up to and read, man. Glad to hear it, as we need WAY more people helping with this.	anger	0: no anger can be inferred
+2018-En-00982	@freemanstanzan2 you're a cowan... that means you're a slimebag. I wouldn't trust you as far as I could throw you. #arsehole @StuartHarker1	anger	3: high amount of anger can be inferred
+2018-En-04328	Holding on to anger is like drinking poison and expecting the other person to die.\n#KissablesLoveSMShopmag\nAllOutDenimFor KISSMARC	anger	0: no anger can be inferred
+2018-En-00697	@Brennan_PB Backs up what I always thought ... yer all as mad as each other 😂	anger	0: no anger can be inferred
+2018-En-02524	1/If the Church is being attacked with such fury, and from the inside, that means that the Church is exactly what we need to belong to!	anger	0: no anger can be inferred
+2018-En-02703	Don't let hatred grow in you, otherwise everything in your life will be affected. It will distract &amp; anger you. It will often end in regret.	anger	0: no anger can be inferred
+2018-En-03733	Oh @BentleySystems what hast thou done to thy configurations? #despair	anger	2: moderate amount of anger can be inferred
+2018-En-00728	since the last episode of fight for my way is airing tonight &amp; taekook will probably watch it together, do y'all think jk might take revenge	anger	0: no anger can be inferred
+2018-En-02475	And I will eat the end of term chocolates we bought as well! #fuming #doesntdeservethem #mightbedead	anger	1: low amount of anger can be inferred
+2018-En-02599	Look upon mine #affliction &amp; my ​​​#pain​; &amp; forgive all my sins. -Ps 25:18	anger	0: no anger can be inferred
+2018-En-04243	Good morning and happy Tuesday! I hope you have a terrific day! Enjoy it tons 😃	anger	0: no anger can be inferred
+2018-En-04123	Very high bond for unrelated offense.  Cops and FBI are digging on a property. Me fears this doesn't end well for families	anger	0: no anger can be inferred
+2018-En-02070	I click on download on my PC. Message says 'Thank you for downloading #iTunes \nSo, where's the download?! #frustrated 	anger	3: high amount of anger can be inferred
+2018-En-02032	Chyna didnt respond to rob cus she knew damn well she was plottin. But i knew he hurt her deeply with that revenge porn	anger	0: no anger can be inferred
+2018-En-03406	Letting go of anger is key to happiness. Please help me let go of these angry feelings. #happiness #anger	anger	0: no anger can be inferred
+2018-En-00162	@mickyrivera29 interesting but a transfer too costly. You can only irritate others when you get a top talent for a low/ avg fee	anger	2: moderate amount of anger can be inferred
+2018-En-00142	+ cant get to tell them what will offend them or not	anger	0: no anger can be inferred
+2018-En-00332	@IainDale @LBC The only word worse than 'moist' in my opinion is 'scrape'. #ugh #shudder	anger	2: moderate amount of anger can be inferred
+2018-En-03024	@AChubbyPanda *He would growl softly and licks his lips.* 'if I need to prove myself, I think we might need to go somewhere private.'	anger	0: no anger can be inferred
+2018-En-01821	Won't be watching ESPN anymore, they took Robert Lee off because of HIS name, PC Police, what insanity! more #hatred #bigots #LeftwingNutJob	anger	3: high amount of anger can be inferred
+2018-En-00515	Also my 80s megamix ain't so mega tonight 	anger	0: no anger can be inferred
+2018-En-04103	@Jack_Septic_Eye Grass growing simulator is offended	anger	1: low amount of anger can be inferred
+2018-En-03658	That was absolutely the two worst National Anthem singers I've ever heard, both of them screwed up the words #awful	anger	3: high amount of anger can be inferred
+2018-En-01027	@JohnMayer No DSM shows. #sadness	anger	1: low amount of anger can be inferred
+2018-En-02434	@ScottAdamsSays broke it down on #snap great analysis on #CNBC	anger	0: no anger can be inferred
+2018-En-04082	Leviticus 19:14\nYou shall not curse the #deaf or put a stumbling #block before the #blind, but you shall #fear your #God: I am the [1/2]	anger	0: no anger can be inferred
+2018-En-02083	Seriously about to smack someone in the face 😵 #arsehole	anger	3: high amount of anger can be inferred
+2018-En-02180	Just paid out my arsehole for a couple of New Found Glory tickets but it's gonna be a GREAT start to my birthday weekend 👊	anger	0: no anger can be inferred
+2018-En-03803	@UNESCO Remember not to spread #hatred and #fakenews on the internet. Do not abuse #Hashtag10 for spreading #ArabNationalism!	anger	2: moderate amount of anger can be inferred
+2018-En-00062	#LoiuseLinton has become the female #MartinShkreli. Most hated woman in America. That takes some skill. #entitlement  #notcute	anger	2: moderate amount of anger can be inferred
+2018-En-00747	5,000 new US #citizens swearing in now! #tears #congratulations	anger	0: no anger can be inferred
+2018-En-00120	@junkersquawker Oh lords. That would have had my blood boiling	anger	2: moderate amount of anger can be inferred
+2018-En-01502	@Activehours I need someone to reply back to me immediately. I am not happy and not getting timely responses through the app! #help 	anger	3: high amount of anger can be inferred
+2018-En-02975	@SteveBakerHW When it comes to CREDIBLE scare stories George Osbourne is crap, still at it I see.	anger	2: moderate amount of anger can be inferred
+2018-En-00076	@1ncamera @Weehugs @DavidYoungPA @PA Stupidity is part of their proud cultural identity. 😠	anger	3: high amount of anger can be inferred
+2018-En-02341	People were always afraid that stodgy squares would kill rock and roll, but the only legitimate threat was ever child choruses.	anger	0: no anger can be inferred
+2018-En-03715	#Rage and #disappointment man.... Is that life or what? Lol	anger	2: moderate amount of anger can be inferred
+2018-En-03889	So great havin @SamGowland123 back on our screens 😁😁 and fingers crossed @MikeThalassitis goes for Georgia 🤞😂 #revenge #loveisland	anger	0: no anger can be inferred
+2018-En-02573	@praddy06 sir.. will we have the need for umbrella today evening.. sun seems to be stronger to pave way for clouds.. 😟	anger	0: no anger can be inferred
+2018-En-03107	Why are girls so bad at letting shit go? That's prolly why they're moody. They're all built up with grudges and anger and regret. 😂	anger	2: moderate amount of anger can be inferred
+2018-En-03275	#Worry never robs tomorrow of its #sorrow; it only saps today of its #strength - A. J. Crown #faith #positive #motivation	anger	0: no anger can be inferred
+2018-En-02316	today i feel like an exposed wire dangerously close to another exposed wire and any provocation will fry me	anger	2: moderate amount of anger can be inferred
+2018-En-00256	@rosieblossoms_ What a miserable piece of shit 😡	anger	3: high amount of anger can be inferred
+2018-En-02922	@devlinjim @SophieLong01 What about Daniel 7:9? - his throne was like the fiery flame, and his wheels as burning fire.	anger	0: no anger can be inferred
+2018-En-03916	Got woken up by a road sweeper I was trying to sleep 	anger	2: moderate amount of anger can be inferred
+2018-En-01239	maybe me and joey should have ignored each other on tinder and posted it on social media for a trip to Hawaii ☹️ #bitter	anger	2: moderate amount of anger can be inferred
+2018-En-01524	@NRO @Acosta @CNN @realDonaldTrump remember when NRO gave CNN grief about their relentless HC email crusade? me either.	anger	1: low amount of anger can be inferred
+2018-En-00171	﻿2|206|When it is said to him, 'Fear Allah', He is led by arrogance to (more) crime. Enough for him is Hell;-	anger	2: moderate amount of anger can be inferred
+2018-En-04370	WAIT...Lawrence's friend dragged the fuck outta him!! 	anger	2: moderate amount of anger can be inferred
+2018-En-02445	If you are going to be a nurse, learn to be a nice patient person, Jesus 🙃 	anger	0: no anger can be inferred
+2018-En-02116	Can't drink all day if u don't start in the morning .. Drake gets me 😛	anger	0: no anger can be inferred
+2018-En-01408	@3lectric5heep Well that must sting doesn't it @CNN ?	anger	0: no anger can be inferred
+2018-En-02937	I have actually watch drugs destroy an entire family 😢Mother's on skid row. Oldest daughter lost her child. Father is estranged. #horrific	anger	2: moderate amount of anger can be inferred
+2018-En-02744	If you build up resentment in silence are you really doing anyone any favors	anger	0: no anger can be inferred
+2018-En-00014	Or all of it, with our displeasure pieced, #shakespeare	anger	0: no anger can be inferred
+2018-En-04352	#Twitter these days is just a massive critical debate on those that people don't like #annoying #depressing and #dull 😑	anger	2: moderate amount of anger can be inferred
+2018-En-01538	If u #smile too much😀\nu get frown lines,\nif u #cry too much😣 \nu get eye wrinkles,\n\n🔂 laugh&amp;cry\n\n ...it's #life 💗\n\nHave a great day\n\n🍯🐝's	anger	0: no anger can be inferred
+2018-En-01312	Why does @DANCEonFOX get rudely interrupted by the worst thing ever imaginable?!? Ugggg #irritated	anger	3: high amount of anger can be inferred
+2018-En-01190	if you wake up somewhere else...you will know some #arsehole has pressed a button ;)	anger	2: moderate amount of anger can be inferred
+2018-En-02222	Totally scare for this upcoming results .	anger	0: no anger can be inferred
+2018-En-03038	James Clapper 'scary and disturbing'.  #25thAmendmentNow #ImpeachTrump  #terrified #nuclearcodes  #Godhelpus	anger	2: moderate amount of anger can be inferred
+2018-En-01458	Remember your identity is in Christ. Give the sting of rejection to Christ. He’s been there he’s done that and He has the scars to prove it.	anger	0: no anger can be inferred
+2018-En-00469	Baby, I'm dancing in the dark	anger	0: no anger can be inferred
+2018-En-00755	How do you feel about @Snapchat new feature #SnapMap 👎👍❓ #twitterpoll #polls #vote #Poll #Snapchat  #twitter #tech #technology	anger	0: no anger can be inferred
+2018-En-03875	Everything I order online just comes looking like a piece of shit 😤	anger	3: high amount of anger can be inferred
+2018-En-02551	The next time I go to Lagos I will gate crash somebody's owambe dressed in lace and gele to eat amala and shake my waist😑	anger	0: no anger can be inferred
+2018-En-01602	@gunghoindallas Proverbs 8:13\nThe #fear of the #Lord is to hate #evil; Pride and #arrogance and the #evil #way And the perverse #mouth [1/2]	anger	0: no anger can be inferred
+2018-En-03279	Alright Alex and I have party boy neighbors who blast music 	anger	0: no anger can be inferred
+2018-En-00292	I live 30 miles away from work, &amp; arrived to realise laptop is still on the bed. 	anger	2: moderate amount of anger can be inferred
+2018-En-00135	And I'm really pissed the fuck off because I do a good job of keeping my kid well because I don't like to see her sick and sad.	anger	3: high amount of anger can be inferred
+2018-En-01665	Something #awestruck me today as i was laughing to a non subtitle korean variety show...	anger	0: no anger can be inferred
+2018-En-03550	@rizikxo @estherolo_ @Corinnetuc17 @ING Her reasonings behind this.  	anger	0: no anger can be inferred
+2018-En-02044	re: thread of that brit freaking out over minor cultural differences - your indignation would be cuter without the imperialist undertones	anger	1: low amount of anger can be inferred
+2018-En-04092	why don't the kids on my street have msn or something to play on instead of enjoying themselves outside #bitter #shush	anger	2: moderate amount of anger can be inferred
+2018-En-03990	That you have banished your own sadness, the way I am? #somber	anger	0: no anger can be inferred
+2018-En-03236	@andyfleming83 Bastard squirrels. 😡	anger	3: high amount of anger can be inferred
+2018-En-00627	@chelseanews4you Best of luck blues army make us feeling goofy this season again  BLUES TILL ETERNITY	anger	0: no anger can be inferred
+2018-En-02845	Literally hanging on by a thread need some taylor ray tonight loving a bad dog sucks #taylorrayholbrook #hurting @TaylorRaysTweet	anger	2: moderate amount of anger can be inferred
+2018-En-00622	@nextofficial placed order for nearly a grand SIX weeks ago, called yesterday, order 'missing' and no call back today! #shocking	anger	3: high amount of anger can be inferred
+2018-En-04291	@UKSportsZone In other words, I don't like the result of the poll so I'm packing up my polls &amp; taking them home while I pout. 😂😂😻 #bbn	anger	1: low amount of anger can be inferred
+2018-En-02447	When the lights shut off and it's my turn to settle down, my main concern...	anger	0: no anger can be inferred
+2018-En-00184	when we're offended. Lol	anger	0: no anger can be inferred
+2018-En-03320	UP students really out there raging against tuition collection #freeeducationnow	anger	1: low amount of anger can be inferred
+2018-En-01895	Sarah is a complete lunatic. How Chad is still giving her his time is beyond me. #cbb #mad #crazy	anger	3: high amount of anger can be inferred
+2018-En-03252	@AliceT120 @shaney_waney1 @shaney_waney1 u horrible non gender binary boy go fangirl over some mediocre singers who CANT EVEN SUPPORT	anger	3: high amount of anger can be inferred
+2018-En-00534	Get the feeling @Eurosport_UK and @itvcycling might be reviewing showing all stages in full. Poor @robhatchtv @nedboulting 😴😴😴 😉 #dull	anger	0: no anger can be inferred
+2018-En-01589	@ParkerMolloy @KFILE Very misleading heading. Not to mention an agenda driven article. 	anger	2: moderate amount of anger can be inferred
+2018-En-01974	You can have a certain #arrogance, and I think that's fine, but what you should never lose is the #respect for the others.	anger	0: no anger can be inferred
+2018-En-01806	'your marker teacher'.i looked at him n just burst out laughing i swear these kids will never take me seriously 🤦🏻‍♀️	anger	0: no anger can be inferred
+2018-En-01449	This is because of people like Saleem Sheikh humanity wins over terrorism n hatred #AmarnathYatraAttacked	anger	1: low amount of anger can be inferred
+2018-En-01824	God this match is dull #Wimbledon	anger	1: low amount of anger can be inferred
+2018-En-03622	Why the FUCK have i just saw a Game of Thrones spoiler on snapchat? SOME OF US HAVENT SAW IT YET 🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻 #arsehole	anger	3: high amount of anger can be inferred
+2018-En-00997	At this point I can't tell if I just follow more people in politics on twitter now or if I need new friends. #wheresthefunny #depressing	anger	2: moderate amount of anger can be inferred
+2018-En-03951	If I have to hear one more time how I am intimidate men... I'm going to explode! Why are guys these days so pussified?	anger	3: high amount of anger can be inferred
+2018-En-00957	get the fuck over yourselves. we are the most capable and you wanna sit and sulk in your bullshit and fear of failure honestly fuck yourself	anger	3: high amount of anger can be inferred
+2018-En-00845	.@PreetBharara's Twitter barbs are both insightful and delightful to read; hell hath no fury like a crusading prosecutor scorned	anger	0: no anger can be inferred
+2018-En-03955	What is this miserable ass weather all about 😭 dark and gloomy #depressing #weekoff #wheresthesun	anger	3: high amount of anger can be inferred
+2018-En-02397	It's such a strange juxtaposition of emotions. A sense of euphoria but a sense of out most despair.	anger	1: low amount of anger can be inferred
+2018-En-01820	Afridi !!! 100 off 42 !! #mad	anger	2: moderate amount of anger can be inferred
+2018-En-00208	I’m so glad I’m not like some of the sad people online who gossip and bully others for their entertainment because they have no life.	anger	0: no anger can be inferred
+2018-En-02669	a lot of universities actively discourage even just one part-time job because it has a negative impact on studies--	anger	0: no anger can be inferred
+2018-En-00807	@virtualalien there are more #frightening things in life\n\n#BeyondTheSphereOfReasonableDoubt	anger	1: low amount of anger can be inferred
+2018-En-00530	@WDA_Punisher @SgtDangerCow @Battlefield I think so too. \nCasual audience was particularly unhappy with server admins and server rules.	anger	1: low amount of anger can be inferred
+2018-En-03352	Selling nudes pics and vids kik me to buy! Dirty_becca69\n\n#kik #kikme #kikusernames #snap #snapchat #findom #nudes #slut #kiktrade #horny	anger	0: no anger can be inferred
+2018-En-02354	So @Ryanair site crashes everytime I try to book - how do they help? Tell me there's nothing wrong &amp; hang up #furious #helpless @SimonCalder	anger	2: moderate amount of anger can be inferred
+2018-En-03097	Shooting more than ever, making more mistakes than ever but I jumped in the pool of sharks a long time ago.  #relentless *#resilient	anger	0: no anger can be inferred
+2018-En-02646	Beware the wrath of an angry, frustrated, #agile grandma with a network. 👵🏼😡 I'm just sayin'. #objectlesson	anger	2: moderate amount of anger can be inferred
+2018-En-00749	#anxious don't know why ................. #worry 😶 slowly going #mad hahahahahahahahaha	anger	1: low amount of anger can be inferred
+2018-En-02424	work is going to kill me and 5 o'clock is nowhere near 😟	anger	2: moderate amount of anger can be inferred
+2018-En-00334	Migraine hangover has to be the worst thing ever 😣 #burst	anger	2: moderate amount of anger can be inferred
+2018-En-01864	@CNN @NewDay If #trump #whitehouse aren't held accountable for their actions,what precedent is being set for future presidencies. #nightmare	anger	0: no anger can be inferred
+2018-En-03099	@CTAFails @cta is it ok for your drivers to smile not open the door and drive off 	anger	0: no anger can be inferred
+2018-En-03250	y'all don't understand. this woman's wrath is REAL. 🌹🖤	anger	0: no anger can be inferred
+2018-En-02727	Each and every time I log on to that website to view the Lindsey Vonn pics I am #saddened by the courseness of our culture.	anger	2: moderate amount of anger can be inferred
+2018-En-01758	@Chawndi @YouTube can i ask im trying to pout a code on csgo roll i cant when i pout the code its red color.. help pls	anger	1: low amount of anger can be inferred
+2018-En-03680	@theAliceRoberts @FryRsquared @AdamRutherford They've obviously never tried 'repressing' a red head #fiery	anger	2: moderate amount of anger can be inferred
+2018-En-01143	My best friends driving for the first time with me in the car #terrifying	anger	0: no anger can be inferred
+2018-En-01581	@wizkidayo Bro u just dey burst my brain Bro I need u 2 pls end everything rift BTW u nd my hommie davido pls Bro 4 d sake of luv.	anger	0: no anger can be inferred
+2018-En-03625	@LogicIsPowerful Not all of them are bad. But I support your right to offend them all.	anger	0: no anger can be inferred
+2018-En-04229	@rachelkennedy84 @callummay @Ned_Donovan @JeyyLowe @jimwaterson @dats Can it do the bell ringing and incense at consecration?	anger	0: no anger can be inferred
+2018-En-01835	@chrisyour Don't be sad, ultimately it's apparently not supported completely but mostly working :-)	anger	0: no anger can be inferred
+2018-En-03471	I'm sorry but also...fuck you #currentfeels #anger #bpd #eupd #borderliner #mentalhealth #anxiety #depression #confused	anger	3: high amount of anger can be inferred
+2018-En-03935	Went to bed a 1:30, fell asleep after, my niece started crying at 4. I'm dying... 😧	anger	2: moderate amount of anger can be inferred
+2018-En-03817	@elebelfiore Isn't it always about control and mistrust?	anger	0: no anger can be inferred
+2018-En-00900	I am shy at first.It usually takes me a few minutes to assess the jaw of the people i am hanging out with and then i will act according🤷🏽‍♀️	anger	0: no anger can be inferred
+2018-En-03091	I like the #glow in the #dark #fidgetspinner. Not because it glows the dark neither. It feels more lighter and smoother than the others	anger	0: no anger can be inferred
+2018-En-01097	@washingtonpost @silvajanes How awful!!!!!!	anger	2: moderate amount of anger can be inferred
+2018-En-00099	I always bounce back, life goes on man..I refuse to sulk in negativity. Yesterday's problems are just that, it's always a new day 🤗	anger	0: no anger can be inferred
+2018-En-01155	i don't understand ppl who save wasps , next chance that lil dude gets he gnna sting ur grandma	anger	0: no anger can be inferred
+2018-En-01887	If you sit back, watch &amp; listen to every .@TheDemocrats &amp; .@DNC member, you'll quickly learn it's #Victimhood, #racism, &amp; #hatred. I'm #WOKE	anger	2: moderate amount of anger can be inferred
+2018-En-00866	@RanaAyyub @rajnathsingh Oh, hidden revenge and anger...I rememberthe time,she rebutted you.	anger	2: moderate amount of anger can be inferred
+2018-En-04041	Chelsea and united must be furious	anger	1: low amount of anger can be inferred
+2018-En-03846	Some 'friends' get bitter when it seems your life is moving better than theirs.	anger	2: moderate amount of anger can be inferred
+2018-En-03879	I swear to god my husband is gonna get us murdered by someone with road rage because he drives like he's in the Indy 500	anger	3: high amount of anger can be inferred
+2018-En-02025	When did it all started? All these depression &amp; anxiety shits?All these suicide thoughts?All of these bad thoughts thts hugging me at night?	anger	2: moderate amount of anger can be inferred
+2018-En-01428	I think 'Sleep' is my favorite from How did we get so dark?, maybe because I'm insomniac	anger	0: no anger can be inferred
+2018-En-04078	So happy to be home from Ibiza the place is some thing else mad gaff that , need find a bird now I wanna start doing romantic things now 😂😂	anger	0: no anger can be inferred
+2018-En-03686	@MikeAndMike @Buster_ESPN if you get time.. @Orioles buyers it sellers or what are we going to do!!?! #panic	anger	2: moderate amount of anger can be inferred
+2018-En-03488	I wish EVERYONE could see how #MSNBC #CNN talked over trumps speech.  You ALL should be ashamed of the along with the sheep followers. 	anger	1: low amount of anger can be inferred
+2018-En-03783	@GILMONK1 Maybe to stand in the field to scare away the crows	anger	0: no anger can be inferred
+2018-En-04302	guess who stayed up until 2am just incase someone called but they never did like i knew already , it's me, mistakes were made	anger	0: no anger can be inferred
+2018-En-01606	We musn't allow bitterness and anger to make our hearts infertile to God’s gifts.	anger	0: no anger can be inferred
+2018-En-03750	and i shouldve cut them off the moment i started hurting myself over them :o	anger	2: moderate amount of anger can be inferred
+2018-En-00326	Are u sad or upset?	anger	0: no anger can be inferred
+2018-En-01487	@AshleyEmrick Whatever floats your incense boat.	anger	0: no anger can be inferred
+2018-En-02394	@LeahRemini  A 'religion' that pushes people to suicide, and punishes you for doing the right thing?? #heartbreaking	anger	2: moderate amount of anger can be inferred
+2018-En-01659	I'm soooo annoyed. Wait to start my morning.	anger	3: high amount of anger can be inferred
+2018-En-02331	I wont rt things that might offend your faves bcs I'm better than that	anger	0: no anger can be inferred
+2018-En-00942	@sophieathertonn @lillynewtonx That's actually awful! You are in for a treat when you get home tho!!	anger	0: no anger can be inferred
+2018-En-03361	if not then #teamchristine bc all tana has done is provoke her by tweeting shady shit and trying to be a hard bitch begging for a fight	anger	2: moderate amount of anger can be inferred
+2018-En-02930	Perks of having that shit: I lost a friend somewhere along in the bitterness	anger	3: high amount of anger can be inferred
+2018-En-00481	@KicchaSudeep No words Sir... Thank you for the concern..	anger	0: no anger can be inferred
+2018-En-02557	Time to #impeachtrump . He is #crazy #mentally #sick and spews #hatred . #America is in trouble with him having #access to #nuclearcodes 👎👎	anger	3: high amount of anger can be inferred
+2018-En-02497	Had frustration dream that left me utterly f**king furious. Plus side: so angry couldn't sleep, wrote 1500 words. Minus side: still raging!	anger	3: high amount of anger can be inferred
+2018-En-02696	@TorridFashion I love you, but between online order drama and your horrible hold music I have a bit of a shopping induced headache. #annoyed	anger	3: high amount of anger can be inferred
+2018-En-00621	quick note about insta stories how the f do you expect me to read a paragraph of a caption in 1 second ???????????? 	anger	1: low amount of anger can be inferred
+2018-En-01543	#revenge or #Change . You #ChooseASide for your country #India	anger	0: no anger can be inferred

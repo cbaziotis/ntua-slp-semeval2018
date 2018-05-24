@@ -1,0 +1,398 @@
+ID	Tweet	Affect Dimension	Intensity Class
+2018-En-01406	We have the opportunity to move away from the gloomy nihilism that characterizes the reign of our deeply patriarchal, dominator culture.	sadness	0: no sadness can be inferred
+2018-En-00716	@badpostyoongi I know for a fact they'll either ignore the fact tiff isn't or change Cindy's background	sadness	0: no sadness can be inferred
+2018-En-02394	@LeahRemini  A 'religion' that pushes people to suicide, and punishes you for doing the right thing?? #heartbreaking	sadness	2: moderate amount of sadness can be inferred
+2018-En-00825	You could have over a hundred million followers and still not a genuine person who understands you or wants to #cantshakethis #sadness	sadness	3: high amount of sadness can be inferred
+2018-En-03817	@elebelfiore Isn't it always about control and mistrust?	sadness	0: no sadness can be inferred
+2018-En-03935	Went to bed a 1:30, fell asleep after, my niece started crying at 4. I'm dying... 😧	sadness	2: moderate amount of sadness can be inferred
+2018-En-00667	@bennymcnugget Very sad and upset and idk :/	sadness	3: high amount of sadness can be inferred
+2018-En-03750	and i shouldve cut them off the moment i started hurting myself over them :o	sadness	3: high amount of sadness can be inferred
+2018-En-00249	@britmerc69 Stop it. You'll discourage people 🙈	sadness	1: low amount of sadness can be inferred
+2018-En-04228	@bxchpls03 U so lucky ahu 😭	sadness	0: no sadness can be inferred
+2018-En-03440	@Chan_lfc10 @paul_rule @Nuttall1878 @DeadlineDayLive @Everton We'd be fuming if the hijacked our £8m move for a relegated full back 😡	sadness	1: low amount of sadness can be inferred
+2018-En-04103	@Jack_Septic_Eye Grass growing simulator is offended	sadness	1: low amount of sadness can be inferred
+2018-En-02322	Head hurting 😤	sadness	1: low amount of sadness can be inferred
+2018-En-00959	i love dark gurl wit da juicy booty	sadness	0: no sadness can be inferred
+2018-En-04221	@RealSkipBayless Your opinions on sports is dreadful	sadness	1: low amount of sadness can be inferred
+2018-En-02288	@NewsByKatherine @jonkarl @ABC YOU GUY'S SOUND astounded!! Does anyone working w Trump WH have an any ethical,moral, values? 🙈🙉🙊	sadness	0: no sadness can be inferred
+2018-En-00956	Fuck small talk tell me about at what age did you start disappointing your parents	sadness	2: moderate amount of sadness can be inferred
+2018-En-00300	my mom's work has discounted riot fest tickets for $147/3 days i'm #saddened	sadness	2: moderate amount of sadness can be inferred
+2018-En-03625	@LogicIsPowerful Not all of them are bad. But I support your right to offend them all.	sadness	0: no sadness can be inferred
+2018-En-01368	462 appearances in PL and 200 goals!! 2.31 games per goal. That's very nearly a goal in every 2 games #crap 😂😂 🙄🙄🤔🤔 #Rooney	sadness	0: no sadness can be inferred
+2018-En-00438	Do people notice that only saying 'You're so pretty' when I have make-up on. Is offense! \n&amp; I take note that they never say it when I don't.	sadness	0: no sadness can be inferred
+2018-En-03334	peplamb: stevenfurtick #comfort all who #mourn, To console those who #mourn in #Zion, To give them #beauty for #ashes, The #oil of #joy for…	sadness	0: no sadness can be inferred
+2018-En-04350	Alaina and I are at 90 days on our snap streak. So?	sadness	0: no sadness can be inferred
+2018-En-02517	United Airline at Newark needs more Kiosks so that people won't miss their cut off time.  And hire more ppl too.  #horrible	sadness	2: moderate amount of sadness can be inferred
+2018-En-03843	If @TheRock's Presidential run is as bad as his appearance in #Baywatch neither party need fear his run. That's $8 I'll never get back #crap	sadness	1: low amount of sadness can be inferred
+2018-En-00627	@chelseanews4you Best of luck blues army make us feeling goofy this season again  BLUES TILL ETERNITY	sadness	0: no sadness can be inferred
+2018-En-02366	I feel exhausted ...\nI tried to do a good job, but apparently God does not see me right. I'm weary! I EXIST! 😟💔📢\n#exist #weary #misonorotta	sadness	1: low amount of sadness can be inferred
+2018-En-03142	@TGowdySC No wonder why we're in this mess. #NoLoyalty #youcaved 	sadness	1: low amount of sadness can be inferred
+2018-En-02820	@SRuhle @MSNBC Sebestian Gorka, what a arrogant A~hole! Has no business speaking! 	sadness	1: low amount of sadness can be inferred
+2018-En-02573	@praddy06 sir.. will we have the need for umbrella today evening.. sun seems to be stronger to pave way for clouds.. 😟	sadness	2: moderate amount of sadness can be inferred
+2018-En-01581	@wizkidayo Bro u just dey burst my brain Bro I need u 2 pls end everything rift BTW u nd my hommie davido pls Bro 4 d sake of luv.	sadness	0: no sadness can be inferred
+2018-En-01097	@washingtonpost @silvajanes How awful!!!!!!	sadness	1: low amount of sadness can be inferred
+2018-En-03065	The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.	sadness	0: no sadness can be inferred
+2018-En-00938	@_Oteraw unhappy and unfulfilled 😂	sadness	3: high amount of sadness can be inferred
+2018-En-03269	Listening to these refugee children, barely a decade old, describe the horrific acts they were forced to commit is terrifying. #DatelineSBS	sadness	2: moderate amount of sadness can be inferred
+2018-En-02063	4 hours. \n4,189 words.\n1 story.\n#amwriting #horror #publishorperish	sadness	1: low amount of sadness can be inferred
+2018-En-02214	When I think about Yondu &amp; his crew, Rocket, &amp; Groot doing 700 jumps to Ego planet, I start laughing.	sadness	0: no sadness can be inferred
+2018-En-03406	Letting go of anger is key to happiness. Please help me let go of these angry feelings. #happiness #anger	sadness	0: no sadness can be inferred
+2018-En-00396	Same ☹	sadness	2: moderate amount of sadness can be inferred
+2018-En-03640	@RGUpdate Have you tried English hospital food ?? #yak #gross 	sadness	0: no sadness can be inferred
+2018-En-03966	@lala Loving your book 'The Power Play'-It is a serious game changer. If nothing else, my dreaming big will land me amongst the stars. 🌠	sadness	0: no sadness can be inferred
+2018-En-03783	@GILMONK1 Maybe to stand in the field to scare away the crows	sadness	0: no sadness can be inferred
+2018-En-01059	@BillMoyersHQ Elderly belong w/family; our social system is broken.  This egregious 'Meancare' will shake it up, alas.	sadness	1: low amount of sadness can be inferred
+2018-En-02937	I have actually watch drugs destroy an entire family 😢Mother's on skid row. Oldest daughter lost her child. Father is estranged. #horrific	sadness	3: high amount of sadness can be inferred
+2018-En-00980	I feel intimidated	sadness	2: moderate amount of sadness can be inferred
+2018-En-03099	@CTAFails @cta is it ok for your drivers to smile not open the door and drive off 	sadness	1: low amount of sadness can be inferred
+2018-En-04232	@RyanHedderick happy birthday big fella, have a good one. up the blues x	sadness	0: no sadness can be inferred
+2018-En-01838	@maidinaustralia D: That's horrid. *hugs*	sadness	2: moderate amount of sadness can be inferred
+2018-En-04302	guess who stayed up until 2am just incase someone called but they never did like i knew already , it's me, mistakes were made	sadness	2: moderate amount of sadness can be inferred
+2018-En-02809	Everytime I think my life is getting better it never comes through #sadly	sadness	3: high amount of sadness can be inferred
+2018-En-03715	#Rage and #disappointment man.... Is that life or what? Lol	sadness	2: moderate amount of sadness can be inferred
+2018-En-01484	So disappointed in E! portrayal of Kylie Jenner! Makes her look so fake &amp; filthy rich @ every turn #disappointment @enews #LifeofKylie 🤢😒	sadness	2: moderate amount of sadness can be inferred
+2018-En-04370	WAIT...Lawrence's friend dragged the fuck outta him!! 	sadness	1: low amount of sadness can be inferred
+2018-En-02613	Hiya everyone if you want please #retweet my pin #rt #help #romance #wattpad    #hurt #tweet #twitter #thanks	sadness	0: no sadness can be inferred
+2018-En-00628	Can't handle rude people. Doesn't matter what job you do, a consultant or not, treat people how you would like to be treated 😡 #disapointed	sadness	2: moderate amount of sadness can be inferred
+2018-En-03348	Are we making the dark, darker or are we shining the light of Jesus into the dark.\n #Jesus  #light #shine	sadness	0: no sadness can be inferred
+2018-En-02278	Worst dreams. 😥	sadness	3: high amount of sadness can be inferred
+2018-En-00314	@apinknumjoo Hello, namjoo unnie! Welcome to paradox.💕 i'm deeply sorry for the late greeting 😥 Chaey is wishing you to have a pleasant +	sadness	0: no sadness can be inferred
+2018-En-00806	#IfOnlyPeopleWould not exist. #humanity #life #ignorance #nature #mothernature #sad #disappointment #smh #personal #opinion #views #animals	sadness	2: moderate amount of sadness can be inferred
+2018-En-02934	Are u #depressed #hypo #manic #lonely #bored #nofriends #needfreinds #friend I feel chatty I wanna help ppl or just #makefriend 's #dm #moms	sadness	1: low amount of sadness can be inferred
+2018-En-04301	Hey @SuperValuIRL #Fields in #skibbereen give your online delivery service a horrible name. 1.5 hours late on the 1 hour delivery window.	sadness	1: low amount of sadness can be inferred
+2018-En-04332	@1720maryknoll I was #fuming Kenny.	sadness	1: low amount of sadness can be inferred
+2018-En-00749	#anxious don't know why ................. #worry 😶 slowly going #mad hahahahahahahahaha	sadness	2: moderate amount of sadness can be inferred
+2018-En-04307	+++ '#Dearly #beloved, avenge not yourselves, but rather give place unto #wrath: for it is #written, #Vengeance is #mine; I …' #Romans12v19	sadness	0: no sadness can be inferred
+2018-En-02909	@tonyposnanski Putin told him not to. #pout #heylookatthedistraction	sadness	1: low amount of sadness can be inferred
+2018-En-04078	So happy to be home from Ibiza the place is some thing else mad gaff that , need find a bird now I wanna start doing romantic things now 😂😂	sadness	0: no sadness can be inferred
+2018-En-00021	@brownjayson @MylesGorham85 I subscribe to this same philosophy but then drafted Michael Floyd anyways because I'm #bad at this	sadness	1: low amount of sadness can be inferred
+2018-En-01395	@_Buddh_ @rohit_mhpl @indujalali @rajnathsingh We are also wating when terrorism willb history. And one thing kashmir is not India's	sadness	0: no sadness can be inferred
+2018-En-01665	Something #awestruck me today as i was laughing to a non subtitle korean variety show...	sadness	0: no sadness can be inferred
+2018-En-02484	The same part of roof bar (driver's side) are stolen from Grand Vitara cars. Let it be known. This is really #disheartening #brunei	sadness	2: moderate amount of sadness can be inferred
+2018-En-03352	Selling nudes pics and vids kik me to buy! Dirty_becca69\n\n#kik #kikme #kikusernames #snap #snapchat #findom #nudes #slut #kiktrade #horny	sadness	0: no sadness can be inferred
+2018-En-01784	Excited to watch #stateoforigin tonight! Come on NSW #origin #blues #nsw #qld #nrl	sadness	0: no sadness can be inferred
+2018-En-04198	@Zineeta_R @RusEmbUSA @mfa_russia The hatred and fear many russians have for anything non-russian is just sad.	sadness	3: high amount of sadness can be inferred
+2018-En-01335	@AGlyndwr @TeaPainUSA All I know is the sentence will start with 'look...' like any high school punk would start a threat.	sadness	0: no sadness can be inferred
+2018-En-01590	All and boy play n0 no play dull and mᴬkes.	sadness	0: no sadness can be inferred
+2018-En-01793	Wow! Today, totally seeing alot of #mean #people out in this #world! Turn it around and #start cultivating #kindness! #SuccessTRAIN #warrior	sadness	0: no sadness can be inferred
+2018-En-01911	It’s lack of #faith that makes #people #afraid of #meeting #challenges …\n\n#MuhammadAli	sadness	1: low amount of sadness can be inferred
+2018-En-02533	Don't fucking tag me in pictures as 'family first' when you cut me out 5 years ago. You're no one to me. 	sadness	2: moderate amount of sadness can be inferred
+2018-En-02941	Can't believe Zain starting secondary this year 😢	sadness	1: low amount of sadness can be inferred
+2018-En-02314	What's worse than feeling discouraged? Not finding an emoji for feeling discouraged	sadness	2: moderate amount of sadness can be inferred
+2018-En-00151	When you have just about enough @marmite in your jar at work for 1/4 of a slice of toast 😩😩 #unhappy	sadness	3: high amount of sadness can be inferred
+2018-En-00349	Remember, for everything you have #lost, you have gained something else. Without the #dark, you would never see the #stars.	sadness	0: no sadness can be inferred
+2018-En-03053	@GarfieldLineker @TimCRoberts *on his back. Apologies for retweeting a tweet with grammatical error #mybad 😱	sadness	1: low amount of sadness can be inferred
+2018-En-02845	Literally hanging on by a thread need some taylor ray tonight loving a bad dog sucks #taylorrayholbrook #hurting @TaylorRaysTweet	sadness	1: low amount of sadness can be inferred
+2018-En-00832	@skh4808 @theveteran425FA @TomiLahren Then why'd they wait until now to start getting pissy? 	sadness	0: no sadness can be inferred
+2018-En-02447	When the lights shut off and it's my turn to settle down, my main concern...	sadness	0: no sadness can be inferred
+2018-En-01253	@theIeansquad @SatanHeavenly Rap is so unbearable and horrific.	sadness	2: moderate amount of sadness can be inferred
+2018-En-02019	@imaorangepeeler Imagine you walking up them sober 😉	sadness	0: no sadness can be inferred
+2018-En-02497	Had frustration dream that left me utterly f**king furious. Plus side: so angry couldn't sleep, wrote 1500 words. Minus side: still raging!	sadness	1: low amount of sadness can be inferred
+2018-En-01869	There's no excuse for making the same mistakes twice. Live &amp; Learn or deal with the consequences of being unhappy #truthbomb	sadness	2: moderate amount of sadness can be inferred
+2018-En-00900	I am shy at first.It usually takes me a few minutes to assess the jaw of the people i am hanging out with and then i will act according🤷🏽‍♀️	sadness	0: no sadness can be inferred
+2018-En-02512	Is it supposed to be this arduous to interact with other people? I'm 'other people' to them and they don't seem to struggle. 	sadness	1: low amount of sadness can be inferred
+2018-En-00137	@mtailor “20% Better Than a Tailor”? Least a tailor would know #navy vs. #blue. $500 and 4 weeks for an #innacurate suit? 	sadness	0: no sadness can be inferred
+2018-En-00681	@FangornForest1 @Brexit whose customers love it. Imagine being a hack these days, having to sing the tune the paymaster calls. #dismal	sadness	2: moderate amount of sadness can be inferred
+2018-En-00207	5 goals in 87 appearances last season between McKay, Holt and Windass! Simply is horrific! Get midfield balance sorted and team will fire!	sadness	1: low amount of sadness can be inferred
+2018-En-02178	#dmme #kikme  #sext #horny  #ass #bbw  #naughty  #pussy #kik   #nudes  only  girls  😩 horny  #snap    jacobgigs	sadness	0: no sadness can be inferred
+2018-En-02354	So @Ryanair site crashes everytime I try to book - how do they help? Tell me there's nothing wrong &amp; hang up #furious #helpless @SimonCalder	sadness	2: moderate amount of sadness can be inferred
+2018-En-00622	@nextofficial placed order for nearly a grand SIX weeks ago, called yesterday, order 'missing' and no call back today! #shocking	sadness	0: no sadness can be inferred
+2018-En-02688	@jamie_93_lee Don't upset me 😢	sadness	2: moderate amount of sadness can be inferred
+2018-En-00452	again i realize some of you may worry about me being gone so long! fear not, for i have made a new life for myself in the sewers,	sadness	1: low amount of sadness can be inferred
+2018-En-03891	“#Woe unto #you that are #full! for ye shall #hunger. #Woe unto you that #laugh now! for ye shall #mourn and #weep.”\nLuke 6:25	sadness	0: no sadness can be inferred
+2018-En-02079	@Delta.  Are you kidding?  Delayed from 7:30pm to 11:00 - only to cancel it because the pilot is overtime. 	sadness	2: moderate amount of sadness can be inferred
+2018-En-03243	There's still sadness and hatred pero i do feel better than yesterday.	sadness	2: moderate amount of sadness can be inferred
+2018-En-00326	Are u sad or upset?	sadness	1: low amount of sadness can be inferred
+2018-En-01871	We know the #speed of #light; so what is the speed of #dark?	sadness	0: no sadness can be inferred
+2018-En-02014	It could be soul-crushing despair, but it also might just be the marshmallows I had for breakfast	sadness	1: low amount of sadness can be inferred
+2018-En-04115	Past my test exam .. CDL achieved 😥	sadness	0: no sadness can be inferred
+2018-En-00718	Every day I always get a bit sad when I've finished my lunch.	sadness	3: high amount of sadness can be inferred
+2018-En-01192	@TheEllenShow I follow you bc your TV show keeps me laughing🤣.  When you #startle your guest sitting on that couch...booo...	sadness	0: no sadness can be inferred
+2018-En-03643	@WhiteJennyB @EmreUslu jenny white  u r the dumbest here .. What r u trying ? Get lost..	sadness	0: no sadness can be inferred
+2018-En-04344	I want to digital art so bad, but my dad won't let me use my iPad till exams are over 😂	sadness	1: low amount of sadness can be inferred
+2018-En-03339	@beautifuIbaek Wow! I hope i win. 😭 thanks for this. 😊	sadness	0: no sadness can be inferred
+2018-En-00469	Baby, I'm dancing in the dark	sadness	0: no sadness can be inferred
+2018-En-03948	She mad sus hung up on me 😂	sadness	0: no sadness can be inferred
+2018-En-01499	@MarkWontUseThis You'll pine for my love one day Crabbe	sadness	0: no sadness can be inferred
+2018-En-03267	@Cex Waste of time had this before nothing gets done. Won't be using you again #awful	sadness	3: high amount of sadness can be inferred
+2018-En-02683	Yes @itv2 @LoveIsland putting that Angel @MikeThalassitis back in the villa was the best move #revenge #returnofthemike #LoveIsland #hot	sadness	0: no sadness can be inferred
+2018-En-01678	@ehtesham_toi @RaviShastriOfc unfortunate decision, our players are more of superstars than cricketers. BCCI scared of their tantrums.	sadness	0: no sadness can be inferred
+2018-En-03289	Like I might've set it down on top of my car &amp; if so, that shit is long gone 😭 	sadness	1: low amount of sadness can be inferred
+2018-En-02298	What do I do with my heart that is trembling by just the thought of it?\nI really don’t know what love is	sadness	2: moderate amount of sadness can be inferred
+2018-En-04326	#DamilolaOurLovedBoy So upsetting 😢😢. Why do people want to hurt others! Such a cruel world we live in #heartbreaking	sadness	3: high amount of sadness can be inferred
+2018-En-03250	y'all don't understand. this woman's wrath is REAL. 🌹🖤	sadness	0: no sadness can be inferred
+2018-En-02378	How sick must someone be that they wish to 'punish' someone for not being their friend?  #insecure #lonely #miserable #vengeful #RHOC	sadness	2: moderate amount of sadness can be inferred
+2018-En-02462	Dannie you're a terrible influence, piercing time😂💉	sadness	0: no sadness can be inferred
+2018-En-01428	I think 'Sleep' is my favorite from How did we get so dark?, maybe because I'm insomniac	sadness	1: low amount of sadness can be inferred
+2018-En-03322	Definitely something happening today #SolarEclipse2017 #weird #annoyed	sadness	1: low amount of sadness can be inferred
+2018-En-00904	@livedarts R.i.p my friend, cant get my head round this,    #devastated    x	sadness	3: high amount of sadness can be inferred
+2018-En-02445	If you are going to be a nurse, learn to be a nice patient person, Jesus 🙃 	sadness	0: no sadness can be inferred
+2018-En-02424	work is going to kill me and 5 o'clock is nowhere near 😟	sadness	2: moderate amount of sadness can be inferred
+2018-En-02222	Totally scare for this upcoming results .	sadness	0: no sadness can be inferred
+2018-En-00332	@IainDale @LBC The only word worse than 'moist' in my opinion is 'scrape'. #ugh #shudder	sadness	0: no sadness can be inferred
+2018-En-01200	@TimmyLDN Looks dreadful... 👀	sadness	1: low amount of sadness can be inferred
+2018-En-03361	if not then #teamchristine bc all tana has done is provoke her by tweeting shady shit and trying to be a hard bitch begging for a fight	sadness	0: no sadness can be inferred
+2018-En-00794	@620wtmj Seriously @620wtmj !? This is news to you?!? #sad \n\nWhy not focus on important issues??	sadness	2: moderate amount of sadness can be inferred
+2018-En-03330	@NitashaKaul @Snehakaul2Kaul so beautiful dear, thanks,everybody knows it is in benefit of India &amp; GOI has done this terror attack as before	sadness	0: no sadness can be inferred
+2018-En-02669	a lot of universities actively discourage even just one part-time job because it has a negative impact on studies--	sadness	1: low amount of sadness can be inferred
+2018-En-03428	@KeithRothfus Your silence=complicity. Obviously you have no problem with Russian interference. #sad #russianhacking #treason	sadness	2: moderate amount of sadness can be inferred
+2018-En-01037	i just wanna be sober with u	sadness	0: no sadness can be inferred
+2018-En-01052	'we need to do something. something must be done!!!!!'\n\nyour anxiety is amusing. nothing will be done. despair.	sadness	2: moderate amount of sadness can be inferred
+2018-En-03749	@TheView Joy isn't a comedian. She's a bully for fat shaming the governor. Great example she's setting for her grandson.	sadness	1: low amount of sadness can be inferred
+2018-En-03853	[ @TheChicMystique ] — hurting badly and that he can't just leave him like that. Angry and heartless. ]\n\nI promise you that I'll be back, —	sadness	2: moderate amount of sadness can be inferred
+2018-En-02949	I've got builders in my office and I have a game to make. Perhaps ill start sketching the next game... #gamedev #indiedev 	sadness	0: no sadness can be inferred
+2018-En-00025	' i can't even tell u a lie I felt like u were special, till I realized wassup and left, got u feeling dreadful '	sadness	2: moderate amount of sadness can be inferred
+2018-En-03686	@MikeAndMike @Buster_ESPN if you get time.. @Orioles buyers it sellers or what are we going to do!!?! #panic	sadness	1: low amount of sadness can be inferred
+2018-En-03091	I like the #glow in the #dark #fidgetspinner. Not because it glows the dark neither. It feels more lighter and smoother than the others	sadness	0: no sadness can be inferred
+2018-En-01075	Damn I lost my keys and I forgot to get the garage opener	sadness	1: low amount of sadness can be inferred
+2018-En-04310	Shame the cashback @mbna @AmexUK credit card comes to an end. I used to look forward to that end of year bonus. Sad really. #cashback 	sadness	3: high amount of sadness can be inferred
+2018-En-02824	@JoyceMeyer @mrsglessman #day of #vengeance of our #God; To #comfort all who #mourn, To console those who #mourn in #Zion, To give [4/7]	sadness	0: no sadness can be inferred
+2018-En-01339	When Duane Allman died, I learned to appreciate Stevie Ray Vaughan. True story.  #blues #legends	sadness	0: no sadness can be inferred
+2018-En-04014	made up my mind to \nmake a new start	sadness	0: no sadness can be inferred
+2018-En-03990	That you have banished your own sadness, the way I am? #somber	sadness	3: high amount of sadness can be inferred
+2018-En-03997	nomore drinking for me 😌😂 #serious	sadness	0: no sadness can be inferred
+2018-En-03381	🇿🇦has become a place where people even the most timid of us all are baying for blood around every corner.	sadness	0: no sadness can be inferred
+2018-En-02468	We can replace #loss with #hope, #hate with #love, #pain with #gain, if we close the window of #bitterness and open doors of #faith. #TryIt	sadness	0: no sadness can be inferred
+2018-En-02342	ARMYs we see you working hard to keep BTS on the Social 50 chart!\nDon't feel discouraged, it's still amazing that BTS is #2 with no promos 💕	sadness	0: no sadness can be inferred
+2018-En-02142	Okay I seriously don't know how this whole twitter thing works #lost	sadness	0: no sadness can be inferred
+2018-En-00685	Happy that we played tgt as a team once. Thought there would be another chance out there but sadly no. Rest In Peace my dear friend. :(	sadness	3: high amount of sadness can be inferred
+2018-En-00581	i excepted the eclipse to make me believe in an omniscience force #dissapointed	sadness	1: low amount of sadness can be inferred
+2018-En-00142	+ cant get to tell them what will offend them or not	sadness	0: no sadness can be inferred
+2018-En-00081	@JuliaHB1 @talkRADIO culture &amp; language already protected.\n£ on 'promoting Welsh' better spent on Tourism or our dreadful schools ed record	sadness	0: no sadness can be inferred
+2018-En-03236	@andyfleming83 Bastard squirrels. 😡	sadness	0: no sadness can be inferred
+2018-En-01501	#LouiseLinton - haters gonna hate keep on being your#fabulous self they'll keep on being  #miserable	sadness	2: moderate amount of sadness can be inferred
+2018-En-00481	@KicchaSudeep No words Sir... Thank you for the concern..	sadness	2: moderate amount of sadness can be inferred
+2018-En-04314	Please stop ruining my depressing memes with your positivity and optimism	sadness	1: low amount of sadness can be inferred
+2018-En-03275	#Worry never robs tomorrow of its #sorrow; it only saps today of its #strength - A. J. Crown #faith #positive #motivation	sadness	0: no sadness can be inferred
+2018-En-01755	What does Amelia want?! Sarah was v grateful  #CBB	sadness	0: no sadness can be inferred
+2018-En-03471	I'm sorry but also...fuck you #currentfeels #anger #bpd #eupd #borderliner #mentalhealth #anxiety #depression #confused	sadness	3: high amount of sadness can be inferred
+2018-En-02341	People were always afraid that stodgy squares would kill rock and roll, but the only legitimate threat was ever child choruses.	sadness	1: low amount of sadness can be inferred
+2018-En-00226	I must be a goblin for it rains every time I'm effin sad. Lol	sadness	2: moderate amount of sadness can be inferred
+2018-En-00459	Wtf shawty ass on 😤	sadness	0: no sadness can be inferred
+2018-En-03177	@jamesmb @DonaldJTrumpJr His knife is clean. He is tough enough to fire a gun, but not tough enough to get his hands dirty. #awful	sadness	2: moderate amount of sadness can be inferred
+2018-En-01176	@elegantlywasted @ChelseaClinton Are they the new kennedy's of American politics.. sadly both mom and daughter are as charming as a toe nail	sadness	2: moderate amount of sadness can be inferred
+2018-En-02529	probably watching sad bts video bc im sad :( iwannacryy :(\n halppp	sadness	3: high amount of sadness can be inferred
+2018-En-02180	Just paid out my arsehole for a couple of New Found Glory tickets but it's gonna be a GREAT start to my birthday weekend 👊	sadness	0: no sadness can be inferred
+2018-En-03733	Oh @BentleySystems what hast thou done to thy configurations? #despair	sadness	1: low amount of sadness can be inferred
+2018-En-03010	I just watched the video that i took at troye's concert last year during happy little pill and now im crying i miss him @troyesivan 😭	sadness	3: high amount of sadness can be inferred
+2018-En-03955	What is this miserable ass weather all about 😭 dark and gloomy #depressing #weekoff #wheresthesun	sadness	3: high amount of sadness can be inferred
+2018-En-03920	-c- and disarmed of her equipment on suspicion of being a potential accomplice to Annie Leonhart.	sadness	0: no sadness can be inferred
+2018-En-02352	#AmericasGotTalent live shows with so many technical faults #disheartening	sadness	2: moderate amount of sadness can be inferred
+2018-En-02509	@DonaldJTrumpJr thinks the Oliver North defense insulates @POTUS but all it does is make @realDonaldTrump look inept! #NYTimes 	sadness	0: no sadness can be inferred
+2018-En-04169	I'm kind of tired of everything #summer #heat #bicycle   #videogames #bookwriting #nothavingacomputer	sadness	2: moderate amount of sadness can be inferred
+2018-En-03875	Everything I order online just comes looking like a piece of shit 😤	sadness	3: high amount of sadness can be inferred
+2018-En-02116	Can't drink all day if u don't start in the morning .. Drake gets me 😛	sadness	0: no sadness can be inferred
+2018-En-01729	MY POWER GOES OUT AND SHORTS OUT MY XBOX!! HAD IT SINCE DAY 1 LAUNCH OF COURSE IT BREAKS ON MY BIRTDAY! #birthday #xbox #sadness	sadness	3: high amount of sadness can be inferred
+2018-En-00941	@ProfessorF @Mediaite @law_newz Childish temper #tantrums are all the left has left. :)	sadness	1: low amount of sadness can be inferred
+2018-En-01634	Outside has basically become a horror movie where gypsy moths take over the world by flitting aggressively about.\n\n#creaturedoublefeature	sadness	0: no sadness can be inferred
+2018-En-02677	@JackRuff4 They have this horrible pudding here. Butterscotch pudding on Mondays, it's dreadful. #Fringe	sadness	2: moderate amount of sadness can be inferred
+2018-En-03283	Can't believe I've lost my phone get me home	sadness	2: moderate amount of sadness can be inferred
+2018-En-01733	@thatradiogeek That is a tremendous thing to wake up to and read, man. Glad to hear it, as we need WAY more people helping with this.	sadness	0: no sadness can be inferred
+2018-En-01798	Brighten up a gloomy day with a @SiennaXOfficial spray tan, we have a tan to suit everybody! #spraytan #tan #summer #godalming #hurtmore	sadness	0: no sadness can be inferred
+2018-En-04173	Time for a #burst #burstcoin fork??	sadness	0: no sadness can be inferred
+2018-En-01375	@eben4u #stayed on you...makes you appreciate love worshiping....All i want to do is worship you!!	sadness	0: no sadness can be inferred
+2018-En-01757	@Aaron_0424 @marquezmark06 This is serious paranormal stuff going on.	sadness	1: low amount of sadness can be inferred
+2018-En-01887	If you sit back, watch &amp; listen to every .@TheDemocrats &amp; .@DNC member, you'll quickly learn it's #Victimhood, #racism, &amp; #hatred. I'm #WOKE	sadness	2: moderate amount of sadness can be inferred
+2018-En-00420	I mean, not that I wanted goats to faint... but I wanted to see the goats faint.  #eclipse	sadness	0: no sadness can be inferred
+2018-En-00997	At this point I can't tell if I just follow more people in politics on twitter now or if I need new friends. #wheresthefunny #depressing	sadness	3: high amount of sadness can be inferred
+2018-En-03367	Really don't want my mom to go back home 😢 😢 😢 😢 😢 😢 😢  #gutted #crying #miserable #why	sadness	3: high amount of sadness can be inferred
+2018-En-03810	Was a huge fan of @Ryanair but last few flights have been horrific. #rude #poorservice #nostock etc etc etc #dissapointed	sadness	3: high amount of sadness can be inferred
+2018-En-00559	Africa has unique and tremendous problems with war, overpopulation, starvation and tribalism which makes moving Africa forward hard.	sadness	1: low amount of sadness can be inferred
+2018-En-03481	Do not presume that richness of poorness will bring you happiness - Santosh Kalwar #quote #mentalhealth #psychology #depression #anxiety	sadness	1: low amount of sadness can be inferred
+2018-En-01328	coffee the floor; And the soul grew furious as the stillness broken by little,	sadness	1: low amount of sadness can be inferred
+2018-En-03131	@jaassiieeeee I will not fall to the dark side😂😂	sadness	0: no sadness can be inferred
+2018-En-01563	@emmajckson awe thank you (,:	sadness	0: no sadness can be inferred
+2018-En-00477	@BBCBreaking I have some mistrust of the medical profession.  The cover up was more important than the patients.	sadness	1: low amount of sadness can be inferred
+2018-En-02599	Look upon mine #affliction &amp; my ​​​#pain​; &amp; forgive all my sins. -Ps 25:18	sadness	1: low amount of sadness can be inferred
+2018-En-01489	Caleb had a nightmare about zombies. I had a dream about freedom.......	sadness	0: no sadness can be inferred
+2018-En-02551	The next time I go to Lagos I will gate crash somebody's owambe dressed in lace and gele to eat amala and shake my waist😑	sadness	0: no sadness can be inferred
+2018-En-00657	Damn I'm tired as hell I never get a off day during the week anymore 😭 I wanna call in so bad but these lil 60 hrs sounds so good.	sadness	2: moderate amount of sadness can be inferred
+2018-En-00440	A bih be on lock down and shit. #depressing	sadness	3: high amount of sadness can be inferred
+2018-En-00755	How do you feel about @Snapchat new feature #SnapMap 👎👍❓ #twitterpoll #polls #vote #Poll #Snapchat  #twitter #tech #technology	sadness	0: no sadness can be inferred
+2018-En-03036	So now I have to buy a whole new computer 	sadness	0: no sadness can be inferred
+2018-En-04245	@who_cares_nvm The destroying of my memory is my goal so ECT might work. Or a zapper thingy like in Men in Black. Or Dumbledore's pensive.	sadness	0: no sadness can be inferred
+2018-En-00428	@mrjamesob @LBC 😂 snowflake random such a funny man never a dull moment brilliant	sadness	0: no sadness can be inferred
+2018-En-04243	Good morning and happy Tuesday! I hope you have a terrific day! Enjoy it tons 😃	sadness	0: no sadness can be inferred
+2018-En-01987	I've come to the conclusion that the online world is seriously 'fucked up' there's absolutely no other words to describe #bleak  #grim	sadness	1: low amount of sadness can be inferred
+2018-En-03707	@Rainbow6Game felt guilt from playing this game. #horrible #RainbowSixSiege	sadness	3: high amount of sadness can be inferred
+2018-En-01304	Imagine suffering chronic depression  and being told 'you have an unattractive chip on your shoulder' #DWP #WRAG #WWW.GOV.UK #Mentalhealth	sadness	3: high amount of sadness can be inferred
+2018-En-00993	@realDonaldTrump You've spent more time and energy protecting Michael Flynn than your own son. You're a coward and an awful parent.	sadness	2: moderate amount of sadness can be inferred
+2018-En-04339	@thealexpeace Not bad at All, think may come back to haunt you's	sadness	0: no sadness can be inferred
+2018-En-02781	The sound of rain is pretty peaceful when you're in a very annoyed mood 😅	sadness	1: low amount of sadness can be inferred
+2018-En-04353	3 and a half hour more 😤 #EXO	sadness	0: no sadness can be inferred
+2018-En-03038	James Clapper 'scary and disturbing'.  #25thAmendmentNow #ImpeachTrump  #terrified #nuclearcodes  #Godhelpus	sadness	2: moderate amount of sadness can be inferred
+2018-En-03803	@UNESCO Remember not to spread #hatred and #fakenews on the internet. Do not abuse #Hashtag10 for spreading #ArabNationalism!	sadness	1: low amount of sadness can be inferred
+2018-En-04082	Leviticus 19:14\nYou shall not curse the #deaf or put a stumbling #block before the #blind, but you shall #fear your #God: I am the [1/2]	sadness	0: no sadness can be inferred
+2018-En-02931	I never thought I would say this but I really miss Todd 😥	sadness	3: high amount of sadness can be inferred
+2018-En-02296	Imagine how many ksones are crying right now for not getting tickets 😭 Meanwhile, isones dont even get a chance to go on war for tickets 😭	sadness	3: high amount of sadness can be inferred
+2018-En-01810	Can't Talk To An Incompetent Person. Goes In One Ear and Out The Other. #irritated #NoPoint #MassiveEyeRoll	sadness	1: low amount of sadness can be inferred
+2018-En-03237	was one moron  driving his oversize tonka truck with the big flag in the bed back and forth blaring country music. 😐 #disappointment	sadness	1: low amount of sadness can be inferred
+2018-En-01155	i don't understand ppl who save wasps , next chance that lil dude gets he gnna sting ur grandma	sadness	0: no sadness can be inferred
+2018-En-00942	@sophieathertonn @lillynewtonx That's actually awful! You are in for a treat when you get home tho!!	sadness	0: no sadness can be inferred
+2018-En-02095	Counting on you, Queensland. #StateOfOrigin #Broncos #maroons #blues #NSWBlues #qld	sadness	0: no sadness can be inferred
+2018-En-04327	@JusticeWillett Lord, we don't understand tragedy. Do what You do best: bring good grom it and comfort those who mourn. Amen	sadness	1: low amount of sadness can be inferred
+2018-En-02163	All this makeup is going on sale....\nBut I ain't got the funds. #heartbreaking	sadness	2: moderate amount of sadness can be inferred
+2018-En-01913	@uzalu_ @Veeh_Ro What a joyless cunt.	sadness	1: low amount of sadness can be inferred
+2018-En-03226	why is everybody seem sp serious?	sadness	0: no sadness can be inferred
+2018-En-03719	The blackest abyss of despair, Alonzo	sadness	2: moderate amount of sadness can be inferred
+2018-En-01284	@BrettKeeble I guess it never. @smartassunit #worry	sadness	0: no sadness can be inferred
+2018-En-03321	#World do you know what the difference is between #drunk and #sober? One word. #Coherence.	sadness	1: low amount of sadness can be inferred
+2018-En-04090	EEEEEKKKK!!!!\nProduct LAUNCH 😍✋💖\nI'm am literally B•U•Z•Z•I•N•G!!!\nSingle sachets 😍😍\n \nMessage me for yours! 😜🙆💜#loveyourlifestyle #shakes	sadness	0: no sadness can be inferred
+2018-En-01408	@3lectric5heep Well that must sting doesn't it @CNN ?	sadness	0: no sadness can be inferred
+2018-En-03300	I posted a snap of my dad, and someone thought he was my GRANDMOTHER #crying	sadness	0: no sadness can be inferred
+2018-En-04289	Last Sunday YouTube glitch making me lose up to 20 subs is heartbreaking for a channel my size! Nearly at 1K though #1Ksubs #youtube soon 😀	sadness	0: no sadness can be inferred
+2018-En-02502	Nah but as a governor how do you call someone a bum &amp; that you love calls from 'communist in Montclair' ? 😂 #crying	sadness	0: no sadness can be inferred
+2018-En-00492	Too much caffeine, and I'm dyyyying. #jitters #shakes #paranoia #heartbeat1000 ☕💔	sadness	2: moderate amount of sadness can be inferred
+2018-En-01799	@KitchenAidUSA  I spent over $500 on your mixer, yet the dough hook chips in my dough.  I buy a new one and the same thing happens. #unhappy	sadness	3: high amount of sadness can be inferred
+2018-En-01197	Jeong su is easy to get along with everybody likes him and not intimidated by him.. I like him.. he reminds me of seunghoon	sadness	0: no sadness can be inferred
+2018-En-02522	Post TRNSMT blues	sadness	0: no sadness can be inferred
+2018-En-03619	@Bravotv is there a way to watch NYC Million Dollar Listing &amp; filter @FredrikEklundNY OUT of the episodes? #primadonna #duckface #tantrum	sadness	1: low amount of sadness can be inferred
+2018-En-00006	My new favourite #film with out a shadow of a doubt it #Okja #beautifull #funny #sad #emotional #real #Netflix #MUSTWATCH #now	sadness	0: no sadness can be inferred
+2018-En-04111	It's a beautiful pout. c:	sadness	0: no sadness can be inferred
+2018-En-01056	@SkyUK not impressed by your customer support. Forcing customers to use fb chat or sms! Very slow. issue is not getting sorted 	sadness	2: moderate amount of sadness can be inferred
+2018-En-02489	@WeAreElektron sadly #digitakt seems to be out of stock all over Europe. Do you know  if any European online store that has it?	sadness	0: no sadness can be inferred
+2018-En-02646	Beware the wrath of an angry, frustrated, #agile grandma with a network. 👵🏼😡 I'm just sayin'. #objectlesson	sadness	1: low amount of sadness can be inferred
+2018-En-04274	@Cmdr_Hadfield CNN's Wolf Blitzer calls you an American astronaut and you don't correct him? #dissapointed	sadness	2: moderate amount of sadness can be inferred
+2018-En-02381	Did men call themselves shy and mean it? So I reassure him that I'm just making sure he's a good investment and alla that 🙄	sadness	0: no sadness can be inferred
+2018-En-01707	She was obviously moved by the music of @RobertCrayBand tonight and wanted to share the love. #blues #concert	sadness	0: no sadness can be inferred
+2018-En-04318	Girls masturbate too,boys cry too!\n#girls # boys #cry #masturbate	sadness	0: no sadness can be inferred
+2018-En-03798	@angrydwarf9 @carolinesandall It ruins my frigging night each night at 9pm. Mrs loves it, i've been early to bed for a month. #dreadful	sadness	3: high amount of sadness can be inferred
+2018-En-01584	Totally regret signing up with @sprintcare @sprint 	sadness	2: moderate amount of sadness can be inferred
+2018-En-00880	@RoflCritic @NBTDilli @SudamaNBT ,BJP MCD busy collection of suvidha sulk from unauthorised colonies	sadness	0: no sadness can be inferred
+2018-En-01603	Russia story will infuriate Trump today. Media otherwise would be giving him tongue bath for fall of ISIS in Mosul + al-Baghdadi death.	sadness	1: low amount of sadness can be inferred
+2018-En-00135	And I'm really pissed the fuck off because I do a good job of keeping my kid well because I don't like to see her sick and sad.	sadness	3: high amount of sadness can be inferred
+2018-En-00159	Hey @NHSEngland imagine being blue lighted to hospital unable to breathe only to be dumped in a cubicle and not seen for 4 hours #horrendous	sadness	1: low amount of sadness can be inferred
+2018-En-00447	Sending love &amp; prayers to the families of @USMC Marines lost in the C-130 crash in Mississippi. May our Lord help abate the grief and sorrow	sadness	2: moderate amount of sadness can be inferred
+2018-En-02243	I like how all itos manga end with the most bleak and hopeless endings, but not doing it in a way to make it look like the protagonist lost	sadness	1: low amount of sadness can be inferred
+2018-En-00898	Not sure tequila shots at my family birthday meal is up there with the best ideas I've ever had #grim	sadness	1: low amount of sadness can be inferred
+2018-En-01671	Nigga write me talking bout I dreamt about you, cool I hope I was haunting you in a nightmare	sadness	0: no sadness can be inferred
+2018-En-02434	@ScottAdamsSays broke it down on #snap great analysis on #CNBC	sadness	0: no sadness can be inferred
+2018-En-00862	You would think booking a holiday for 2 you'd be sat next to each other on the bloody plane #fuming 😡@ThomsonHolidays	sadness	1: low amount of sadness can be inferred
+2018-En-01124	How come quiet well behaved cats and dogs have to ride on a plane in a tiny bag while screaming small humans roam free? #outrage #teampet	sadness	0: no sadness can be inferred
+2018-En-02908	*on a lighter note*\nGG, Nkaissery &amp; Total Man? The rate at which Jubilee is losing these votes!! 😟	sadness	0: no sadness can be inferred
+2018-En-02451	Still #devastated and #sad #Tariq's #TariqLive channel is no more and #ProfessorBlackTruth as well. #YouTubeFAIL #EpicFAIL! #TariqNasheed 😢	sadness	3: high amount of sadness can be inferred
+2018-En-03658	That was absolutely the two worst National Anthem singers I've ever heard, both of them screwed up the words #awful	sadness	2: moderate amount of sadness can be inferred
+2018-En-01659	I'm soooo annoyed. Wait to start my morning.	sadness	2: moderate amount of sadness can be inferred
+2018-En-03161	Hearing the Song by Phone glued to ears like if the singer spoke to me... #mad #mad hahah	sadness	2: moderate amount of sadness can be inferred
+2018-En-01524	@NRO @Acosta @CNN @realDonaldTrump remember when NRO gave CNN grief about their relentless HC email crusade? me either.	sadness	0: no sadness can be inferred
+2018-En-02612	#depressed Today was bitter sweet watching all the kids go back to school made me really miss my babies. I'm so broke #backtoschool2017	sadness	3: high amount of sadness can be inferred
+2018-En-01435	@o_pebbles Not of this one sadly! 😪	sadness	2: moderate amount of sadness can be inferred
+2018-En-01143	My best friends driving for the first time with me in the car #terrifying	sadness	1: low amount of sadness can be inferred
+2018-En-00054	When you just don't know where to go or what to do next.. in life..🤔 #lost	sadness	2: moderate amount of sadness can be inferred
+2018-En-01354	@LoveMyFFAJacket FaceTime - we can still annoy you 😂	sadness	0: no sadness can be inferred
+2018-En-00334	Migraine hangover has to be the worst thing ever 😣 #burst	sadness	2: moderate amount of sadness can be inferred
+2018-En-01974	You can have a certain #arrogance, and I think that's fine, but what you should never lose is the #respect for the others.	sadness	0: no sadness can be inferred
+2018-En-03162	It's rained every day since June 30. That's 13 #dreary, #soggy days in a row. #auckland	sadness	0: no sadness can be inferred
+2018-En-03279	Alright Alex and I have party boy neighbors who blast music 	sadness	0: no sadness can be inferred
+2018-En-03020	Being @ #work #sober 🤦🏽‍♂️ I can not do it	sadness	1: low amount of sadness can be inferred
+2018-En-03097	Shooting more than ever, making more mistakes than ever but I jumped in the pool of sharks a long time ago.  #relentless *#resilient	sadness	1: low amount of sadness can be inferred
+2018-En-01696	aleesha—kitchen sink, twenty one pilots (!!)	sadness	0: no sadness can be inferred
+2018-En-03880	@PuddlesPityP once again you have made me a very happy woman! Thx P and Casey. Sigh. #worththewait #cry #beyootifulll	sadness	0: no sadness can be inferred
+2018-En-00747	5,000 new US #citizens swearing in now! #tears #congratulations	sadness	0: no sadness can be inferred
+2018-En-04319	@vivaonline Oh schade 🙁	sadness	1: low amount of sadness can be inferred
+2018-En-01657	Saw my first Larsen trap today with stressed magpie. I NEVER EVER want to see that again  #angry #distressed #wildlife	sadness	3: high amount of sadness can be inferred
+2018-En-00124	Theme of week: Ask the Lord for strength &amp; perspective to persevere in #integrity and effort, despite being #disheartened &amp; disappointed.	sadness	2: moderate amount of sadness can be inferred
+2018-En-00795	@AllyiahsFace You're page is full of make up. It's a valid question. But you probably prefer to be smashed and dashed	sadness	1: low amount of sadness can be inferred
+2018-En-03238	@hollloman @nessa_babbby @ajvannozzi97 As half a set of twins I resent that!	sadness	0: no sadness can be inferred
+2018-En-01864	@CNN @NewDay If #trump #whitehouse aren't held accountable for their actions,what precedent is being set for future presidencies. #nightmare	sadness	2: moderate amount of sadness can be inferred
+2018-En-00689	That moment when you look back and realise you've been a #selfish #horrible #judgemental person. #FeelingAshamed	sadness	3: high amount of sadness can be inferred
+2018-En-01242	@StateDept #That certainly does not bode well for #Afghan woman and girls #bad option	sadness	1: low amount of sadness can be inferred
+2018-En-01824	God this match is dull #Wimbledon	sadness	0: no sadness can be inferred
+2018-En-03252	@AliceT120 @shaney_waney1 @shaney_waney1 u horrible non gender binary boy go fangirl over some mediocre singers who CANT EVEN SUPPORT	sadness	0: no sadness can be inferred
+2018-En-03151	Listen ... this golden brown is giving me life ... but why the hell did my feet have to get so dark 😓	sadness	2: moderate amount of sadness can be inferred
+2018-En-03916	Got woken up by a road sweeper I was trying to sleep 	sadness	1: low amount of sadness can be inferred
+2018-En-01502	@Activehours I need someone to reply back to me immediately. I am not happy and not getting timely responses through the app! #help 	sadness	3: high amount of sadness can be inferred
+2018-En-01568	@silverstein 13th time seeing you guys today and you cancel the meet and greet because of the storm. We're all soaked.. 😡 #dissapointed	sadness	2: moderate amount of sadness can be inferred
+2018-En-01027	@JohnMayer No DSM shows. #sadness	sadness	2: moderate amount of sadness can be inferred
+2018-En-00688	@AwardsDaily Looks that way.  I don't want to see how Q is going to handle Tate murder.  #shudder	sadness	0: no sadness can be inferred
+2018-En-01598	@FabianisWailea No. No i did not. 	sadness	0: no sadness can be inferred
+2018-En-01152	@Argos_Online customer service is dreadful, phone bill is huge and get passed from person 2 person and keep taking money off my card #idiots	sadness	2: moderate amount of sadness can be inferred
+2018-En-01538	If u #smile too much😀\nu get frown lines,\nif u #cry too much😣 \nu get eye wrinkles,\n\n🔂 laugh&amp;cry\n\n ...it's #life 💗\n\nHave a great day\n\n🍯🐝's	sadness	0: no sadness can be inferred
+2018-En-04256	Woke up feeling fresh with a clear mind. That's never happened before.\n#morning #sober	sadness	0: no sadness can be inferred
+2018-En-00092	By the way...in case you didnt know...joshuas goin out tonight...to take the trash out and then play blues at ever us 6.75	sadness	0: no sadness can be inferred
+2018-En-02408	Julia and I are finally going to be able to meet PTX #crying	sadness	1: low amount of sadness can be inferred
+2018-En-02397	It's such a strange juxtaposition of emotions. A sense of euphoria but a sense of out most despair.	sadness	2: moderate amount of sadness can be inferred
+2018-En-03859	So disappointed in myself for spending £50 on an outfit for meeting a boy #noselfcontrol #nervous	sadness	2: moderate amount of sadness can be inferred
+2018-En-02603	@F1 Why announcing so late, it will be hard to make it from Manchester and organising a day off. #sad	sadness	3: high amount of sadness can be inferred
+2018-En-04213	How shit and depressing is this weather wish I can travel the world for a living	sadness	3: high amount of sadness can be inferred
+2018-En-01289	Okay @BTS_twt it was fun and all you can change your layout back to something goofy and domestic as usual pls I'm intimidated rn	sadness	0: no sadness can be inferred
+2018-En-03249	Israel's recent overtures towards West Africa seems to be attracting some elements of suspicion...an unnecessary suspicion though.	sadness	0: no sadness can be inferred
+2018-En-00776	@Uber very disappointing that support has not responded to my email!! #bad #uber #service	sadness	3: high amount of sadness can be inferred
+2018-En-03362	Wrapped In This Burrito, Gotta Sweat This All Out 😰	sadness	0: no sadness can be inferred
+2018-En-00133	I think I'll eternally be irritated by our LIT teacher 😂	sadness	0: no sadness can be inferred
+2018-En-03337	@JoshuaRozenberg Oh dear! #tantrums	sadness	0: no sadness can be inferred
+2018-En-00807	@virtualalien there are more #frightening things in life\n\n#BeyondTheSphereOfReasonableDoubt	sadness	1: low amount of sadness can be inferred
+2018-En-02125	#Worry, #doubt, #fear and #despair are the enemies which slowly bring us down to the ground and turn us to dust before we die.	sadness	3: high amount of sadness can be inferred
+2018-En-02644	@hdfcergogic yr customer care exec r unable to pull information on l&amp;t insurance #horrible #service #beware #renewal	sadness	2: moderate amount of sadness can be inferred
+2018-En-02149	Freakin a...I deleted half the episode of BIP on accident  #bachelorinparadise	sadness	0: no sadness can be inferred
+2018-En-00208	I’m so glad I’m not like some of the sad people online who gossip and bully others for their entertainment because they have no life.	sadness	1: low amount of sadness can be inferred
+2018-En-03002	We need but little learning to live happily - Michel de Montaigne #quote #philosophy #wisdom #wisewords #mentalhealth #psychology #anxiety	sadness	0: no sadness can be inferred
+2018-En-02797	@mysarazaman Ya it makes me be more selfish and disheartened	sadness	2: moderate amount of sadness can be inferred
+2018-En-00520	Quite possibly the worst anthems I've ever heard in pro sports by both singers. I wish I was deaf. #ASG2017 #mlb #MLBAllStarGame 	sadness	1: low amount of sadness can be inferred
+2018-En-01685	My dog wouldn't stop barking so now I'm up at eight am with a raging headache	sadness	3: high amount of sadness can be inferred
+2018-En-03680	@theAliceRoberts @FryRsquared @AdamRutherford They've obviously never tried 'repressing' a red head #fiery	sadness	0: no sadness can be inferred
+2018-En-00256	@rosieblossoms_ What a miserable piece of shit 😡	sadness	2: moderate amount of sadness can be inferred
+2018-En-00291	My boyfriend is my whole world 😭	sadness	0: no sadness can be inferred
+2018-En-00263	smiling but we're close to tears	sadness	3: high amount of sadness can be inferred
+2018-En-03398	Paul Ehrlich said that humanity is a threat to all life. Such great news to start the day. If I could blush I would.	sadness	0: no sadness can be inferred
+2018-En-00530	@WDA_Punisher @SgtDangerCow @Battlefield I think so too. \nCasual audience was particularly unhappy with server admins and server rules.	sadness	1: low amount of sadness can be inferred
+2018-En-02293	The way I'm always on twitter at work is a little alarming 🤦🏾‍♀️	sadness	0: no sadness can be inferred
+2018-En-02727	Each and every time I log on to that website to view the Lindsey Vonn pics I am #saddened by the courseness of our culture.	sadness	3: high amount of sadness can be inferred
+2018-En-04291	@UKSportsZone In other words, I don't like the result of the poll so I'm packing up my polls &amp; taking them home while I pout. 😂😂😻 #bbn	sadness	0: no sadness can be inferred
+2018-En-00968	depression sucks😔	sadness	3: high amount of sadness can be inferred
+2018-En-00874	A programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.  #puppy	sadness	0: no sadness can be inferred
+2018-En-02922	@devlinjim @SophieLong01 What about Daniel 7:9? - his throne was like the fiery flame, and his wheels as burning fire.	sadness	0: no sadness can be inferred
+2018-En-04131	@GemmaAnneStyles @Fabicelolly we don't have these in america (i think) i'm #upset and #hurt	sadness	2: moderate amount of sadness can be inferred
+2018-En-03941	Someone's nicked my lunch out the fridge at work!! Roast dinner as well! #fuming	sadness	2: moderate amount of sadness can be inferred
+2018-En-04222	To #Wyoming: you have a beautiful state but your road signs, or lack thereof, are terrible. #lost	sadness	1: low amount of sadness can be inferred
+2018-En-00709	Man I feel like crap today 😰	sadness	2: moderate amount of sadness can be inferred
+2018-En-01014	If God had a plan he would've made already #discouraged	sadness	2: moderate amount of sadness can be inferred
+2018-En-04041	Chelsea and united must be furious	sadness	0: no sadness can be inferred
+2018-En-00936	@kylegriffin1 It's disgusting. #sick 	sadness	2: moderate amount of sadness can be inferred
+2018-En-02925	Chopper &lt;&lt;Dammit! Just sink already!&gt;&gt;	sadness	0: no sadness can be inferred
+2018-En-03826	@BecOfTheKop Something for me to ignore then. Sounds dreadful.	sadness	1: low amount of sadness can be inferred
+2018-En-03823	@FFigureFBust How so? I've been thinking of getting it done and now you've given me a frighten.	sadness	2: moderate amount of sadness can be inferred
+2018-En-01472	O, the melancholy Catacombs quickly wandered about the Rue Morgue, Madman!	sadness	0: no sadness can be inferred
+2018-En-04125	Lost my appetite for the past 5 days and I swear I already lost 3 pounds #depressing #at #least #i #will #be #skinny #for #pride #weekend	sadness	3: high amount of sadness can be inferred
+2018-En-01101	Tonight's run.... #restless	sadness	2: moderate amount of sadness can be inferred
+2018-En-00790	Been at work for not even 4 hours and I've thrown boiling tea everywhere, smashed a mug, smashed a milk jug and sliced my finger open😐	sadness	3: high amount of sadness can be inferred
+2018-En-04045	@LoveIsland #loveisand next time there's a dumping get #Olivia out of there! She's #dreadful and not good for Chris	sadness	2: moderate amount of sadness can be inferred
+2018-En-01252	This prison is awfully gloomy. Would you mind if I put some ribbons on the bars?	sadness	2: moderate amount of sadness can be inferred
+2018-En-00836	Threaten to leave your girl shaking in a wet spot ....	sadness	0: no sadness can be inferred
+2018-En-03058	@ThomasEWoods I would like to hear a podcast of you going off refuting her entire article. Extra indignation please.	sadness	0: no sadness can be inferred
+2018-En-01835	@chrisyour Don't be sad, ultimately it's apparently not supported completely but mostly working :-)	sadness	0: no sadness can be inferred
+2018-En-02070	I click on download on my PC. Message says 'Thank you for downloading #iTunes \nSo, where's the download?! #frustrated 	sadness	0: no sadness can be inferred
+2018-En-01474	Didn't know the @ChickfilA cow day thing ended at 7:30 so showed up 30 min late looking like a cow with no sandwich #sadness 😅😅😅	sadness	2: moderate amount of sadness can be inferred
+2018-En-01637	I woke up still not hardly believing what all happened last night 😰	sadness	2: moderate amount of sadness can be inferred
+2018-En-02663	@BorisJohnson unhappy about the cost of leaving the EU ? If only you had published your letter outlining the reasons to stay instead. Idiot.	sadness	2: moderate amount of sadness can be inferred
+2018-En-03355	@del_krushnic I knw you have a temper paaa lol just chill dear don't be pissed waii or I will else worry u saaa but I'm sorry 😫	sadness	2: moderate amount of sadness can be inferred
+2018-En-04347	I'm back on Twitter! #madden #madden18 #maddenmobile #ea #nfl #espn #packers	sadness	0: no sadness can be inferred
+2018-En-02482	@SkyUK I was just put on hold for 20 minutes till I hung up. #not happy #terribleservice #unhappy @virginmedia I should have stayed...	sadness	3: high amount of sadness can be inferred
+2018-En-00816	@smolchika ya and kind of depressing if you think about it\n!	sadness	1: low amount of sadness can be inferred
+2018-En-00540	@The_Lucbomber @EtikaWNetwork Etika is polneraffs long lost brother confirmed	sadness	1: low amount of sadness can be inferred
+2018-En-04005	Please ruin this party, @NSWRL. #origin #blues	sadness	1: low amount of sadness can be inferred
+2018-En-00534	Get the feeling @Eurosport_UK and @itvcycling might be reviewing showing all stages in full. Poor @robhatchtv @nedboulting 😴😴😴 😉 #dull	sadness	0: no sadness can be inferred
+2018-En-02025	When did it all started? All these depression &amp; anxiety shits?All these suicide thoughts?All of these bad thoughts thts hugging me at night?	sadness	3: high amount of sadness can be inferred
+2018-En-04047	Blah blah blah Kyrie, IT, etc. @CJC9BOSS leaving Boston is the real news and I am #devastated! #celtics #fave  #someonegetmeajerseyteeasap	sadness	2: moderate amount of sadness can be inferred
+2018-En-02744	If you build up resentment in silence are you really doing anyone any favors	sadness	0: no sadness can be inferred
+2018-En-00613	Can't stand it when lads put their middle finger up in pics 	sadness	1: low amount of sadness can be inferred
+2018-En-01719	@michaelsloan87 @SkyFootball The disappointment when it's actually a new club sponsor! 😂	sadness	1: low amount of sadness can be inferred
+2018-En-02943	Dirty Chai tea with Rumchata hits the spot on this gloomy Tuesday morning. 😊	sadness	0: no sadness can be inferred
+2018-En-02662	@jihnwi u literally name us a word close to prostitutes ok oomf...... 😰	sadness	1: low amount of sadness can be inferred
+2018-En-00076	@1ncamera @Weehugs @DavidYoungPA @PA Stupidity is part of their proud cultural identity. 😠	sadness	0: no sadness can be inferred
+2018-En-01713	#Hopkinsville #Ky is #total #eclipse #capital of #world #August 2017 #dancing n #moon #dark #eclipse2017 #EclipseAcrossAmerica #Edgar #Cayce	sadness	0: no sadness can be inferred
+2018-En-01125	B4 I couldnt get out of bed or look in mirror Thankful4all the support I have recieved here ImWakingUpHappyNot dreading theday 	sadness	0: no sadness can be inferred
+2018-En-01269	I love seeing @yeahlizzy because it reminds me I'm not the only one miserable at work 😅	sadness	1: low amount of sadness can be inferred
+2018-En-02386	Hmm...looks like no one @Tampax is available to respond. Its like waiting for a #doomsday reply. That #burning question with no #answer	sadness	0: no sadness can be inferred
+2018-En-00309	@morninggloria I came for the 'damn boy' jokes but stayed because you are great at your actual job 👍🏾	sadness	0: no sadness can be inferred
+2018-En-03360	Coulda sworn it was Interview With A Vampire. Hmmm......Mandela Effect anyone? \n#interviewwithavampire #annerice #books #horror #ilovevamps	sadness	0: no sadness can be inferred
+2018-En-01482	Hey, everything is gonna be okay, may God kiss your weary face. Everything is gonna alright, let peace be yours tonight	sadness	0: no sadness can be inferred
+2018-En-04352	#Twitter these days is just a massive critical debate on those that people don't like #annoying #depressing and #dull 😑	sadness	2: moderate amount of sadness can be inferred
+2018-En-03576	Lost without my Mom 😢 plus tired, sick and full of cold is just another day in paradise..... #upset #unwell #missyoumommybear 💖💖	sadness	3: high amount of sadness can be inferred
+2018-En-04229	@rachelkennedy84 @callummay @Ned_Donovan @JeyyLowe @jimwaterson @dats Can it do the bell ringing and incense at consecration?	sadness	0: no sadness can be inferred
+2018-En-03622	Why the FUCK have i just saw a Game of Thrones spoiler on snapchat? SOME OF US HAVENT SAW IT YET 🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻 #arsehole	sadness	1: low amount of sadness can be inferred
+2018-En-00994	@JeffBezos @amazon Who can I talk to about being terminated with no answer and not being paid for hours I worked? ERC have no answers 	sadness	1: low amount of sadness can be inferred
+2018-En-03770	Brown envelopes can induce panic. #posttruth	sadness	1: low amount of sadness can be inferred
+2018-En-02331	I wont rt things that might offend your faves bcs I'm better than that	sadness	0: no sadness can be inferred
+2018-En-04002	and after i got home in such a horrible mood my mom pissed me off the moment i stepped my feet in the house so i really almost go off on her	sadness	2: moderate amount of sadness can be inferred
+2018-En-02112	hit by a sudden wave of sadness	sadness	3: high amount of sadness can be inferred

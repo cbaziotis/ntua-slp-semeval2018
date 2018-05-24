@@ -1,0 +1,1106 @@
+ID	Tweet	Affect Dimension	Intensity Class
+2018-En-00290	People are truly #amazing. #inspiring day	joy	3: high amount of joy can be inferred
+2018-En-03093	What are some good #funny #entertaining #interesting accounts I should follow ? My twitter is dry	joy	1: low amount of joy can be inferred
+2018-En-00588	@NoahWebHouse A review of my book faulted me for spending so much time on Webster's introductory front matter. But I had to, #brilliant!	joy	2: moderate amount of joy can be inferred
+2018-En-01532	#good to learning #wisdom &lt;&lt; reform (v): make in order to improve something &gt;&gt;	joy	0: no joy can be inferred
+2018-En-03258	Really excited to see our team this year, and especially moving in the next 2-3 years when his guys start playing significant minutes.	joy	3: high amount of joy can be inferred
+2018-En-03332	Be happy. Be confident. Be kind.\n\n #KissablesLoveSMShopmag\nAllOutDenimFor KISSMARC	joy	2: moderate amount of joy can be inferred
+2018-En-02369	@ledfordshyenne Little piggy 😂	joy	0: no joy can be inferred
+2018-En-04146	You don't need money to have a great life, be eccentric, be creative, be joyful, be entertaining and all you want will come!	joy	2: moderate amount of joy can be inferred
+2018-En-00231	@SatisfyingTaste @TheAnimalVines I used to make the peanut butter energy balls all the time. My famjam loved them! #recipes #yummy	joy	3: high amount of joy can be inferred
+2018-En-00053	@thedramble Tried it once. Poured into the sink. Didn't bother to make tasting notes :-) Looks like cheap sake, tasted like it too...	joy	0: no joy can be inferred
+2018-En-03178	@RuthieeL &amp; @EamonnHolmes are total entertainment on @thismorning #brilliant #sofunny #myfaves	joy	2: moderate amount of joy can be inferred
+2018-En-04149	being an entrepreneur at 18 is a real blessing 🙏🏼 the flexibility, doing what you love, and being the one in charge is #great #blessed	joy	3: high amount of joy can be inferred
+2018-En-01943	Vin Diesel is pretty cool. I have seen him in that movie Riddick and Pitch Black too. He must work out or something. #smiles	joy	2: moderate amount of joy can be inferred
+2018-En-02634	@TeenMomOG2 @Javimarroquin9 @KailLowry He is so cute! Your #minime for sure! #blessing	joy	2: moderate amount of joy can be inferred
+2018-En-02801	'Knowledge speaks, but wisdom listens.' - Jimi Hendrix #quote #contentment	joy	1: low amount of joy can be inferred
+2018-En-01553	@realDonaldTrump @foxandfriends You are a man after God's heart and I am proud that you are my president.  #BlessedAndGrateful #awesomeness	joy	1: low amount of joy can be inferred
+2018-En-01783	@071304Nathan Happy #blissful birthday	joy	3: high amount of joy can be inferred
+2018-En-04294	@SkyNewsAust Oh for four years these  panelists were the lnp cheer squad hypocrites	joy	0: no joy can be inferred
+2018-En-00063	someone cheer me up	joy	0: no joy can be inferred
+2018-En-02105	Even if Amps are not that much, I'm sure we'll keep growing and we're all genuinely support him for who he is, also want to make him happy.	joy	1: low amount of joy can be inferred
+2018-En-04283	Drizzling Drizzling Cloudy smoky weather .... Weather is so pleasant... I wish I could drive a Car 😭	joy	1: low amount of joy can be inferred
+2018-En-01609	Beautiful morning at the beach on Anna Maria Island with my wife. #vacation #blessed #happy	joy	3: high amount of joy can be inferred
+2018-En-04219	Miss Sylvester wants to see you in her office, Mr. Schue. She doesn't like to be kept waiting.  #glee	joy	1: low amount of joy can be inferred
+2018-En-01111	Happy birthday @primo_can_dance have a blessed one my G 🎂🍾	joy	3: high amount of joy can be inferred
+2018-En-00965	know this makes me a bit sad, but v pleasurable to be spending my birthday quietly edited my book chapter with aid of coffee in cafe. #bliss	joy	1: low amount of joy can be inferred
+2018-En-04311	One of my clients just said that my look reminded her of Kim Kardashian! Oh shoot hey now! Watch out...\nNot bad.. okay #flattered	joy	1: low amount of joy can be inferred
+2018-En-03074	@dwarsrivier_SA Welcome to the industry fellow #guides! Expect a future of #excitement, #hairraising tales and just allround #fun! :D	joy	2: moderate amount of joy can be inferred
+2018-En-02384	and now I got tickets to Hamlet #yay #happy #londontheatre	joy	3: high amount of joy can be inferred
+2018-En-00758	Mastering others is strength. Mastering yourself is true power. - Lao Tzu #meditate #mindful #joy #innerpeace #gratitude #inspire	joy	0: no joy can be inferred
+2018-En-04178	Some people make your laugh a little louder. Your smile a little brighter. and your life a little better	joy	2: moderate amount of joy can be inferred
+2018-En-00406	Hey The Success Novel thanks for the follow! (UN)FOLLOW=(UN)FOLLOW Please visit my #twitter handle #quoteboxindia for #awesome #picture #qu…	joy	1: low amount of joy can be inferred
+2018-En-01180	Granny Smiths with Flapjack Crumble, died and in heaven #yummy @stac28 @Kimtins  #NadiyasBritishFoodAdventure	joy	1: low amount of joy can be inferred
+2018-En-00663	persuade me into taking you out by using lively puns	joy	0: no joy can be inferred
+2018-En-00503	'If you find your delight in the Lord, he will grant your heart's desire' (Ps 37:4) #tuesday #psalms	joy	1: low amount of joy can be inferred
+2018-En-02775	@TweetmeJordan @jordanknight oh, that too! 🤣	joy	0: no joy can be inferred
+2018-En-00259	I'm changing the snowman's into awful looking monsters at night. Its so funny when their owners encounter them and scream!	joy	1: low amount of joy can be inferred
+2018-En-02563	Just seen recent pics of Liz Hurley in swimming costume , she looks amazing 😍 #beauty 	joy	3: high amount of joy can be inferred
+2018-En-00144	[PUBLISHER'S NOTE] We would love to hear how our magazine has been a blessing in your life. #feedback #blessing #ROMag #RunningOnMag	joy	1: low amount of joy can be inferred
+2018-En-03523	Goodevening 😆	joy	2: moderate amount of joy can be inferred
+2018-En-01044	'When I get sad, I stop being sad and be awesome instead. True Story.' \n- Barney Stinson @ActuallyNPH\n#brohosting #motivation #awesomeness	joy	1: low amount of joy can be inferred
+2018-En-02201	#Eclipe2017 An eclipse carries a large jolt of #energy. This one cut a wide swath across the United States. #Change #excitement #transition	joy	2: moderate amount of joy can be inferred
+2018-En-02202	Pogba is too playful	joy	1: low amount of joy can be inferred
+2018-En-00642	@eavesdropann My pleasure my dear. 😘	joy	1: low amount of joy can be inferred
+2018-En-02965	@NewYorkTheater Even better as a monologue. Saw it at one of Martin Charnin's shows. 	joy	1: low amount of joy can be inferred
+2018-En-01688	@rachcolours But smiling 😄☔️	joy	2: moderate amount of joy can be inferred
+2018-En-01203	Bitter afternoon,no sweetness at all #Lenovo	joy	0: no joy can be inferred
+2018-En-02279	It's a #blessing to love it's a blessing to have someone to love	joy	2: moderate amount of joy can be inferred
+2018-En-02499	@England_Netball @NetballSW Please vote for the South West nominees to give us a chance #humbled  #southwestnetballfamily	joy	0: no joy can be inferred
+2018-En-02515	So happy Steven and I were together to experience that 💞 she's so beautiful	joy	3: high amount of joy can be inferred
+2018-En-01992	Super excited and Counting down the hours until I see @Pink tomorrow night!!! #awesomeness 😍	joy	3: high amount of joy can be inferred
+2018-En-00229	@LouiseODonoghu2 You really want Fabinho, lol 😃	joy	1: low amount of joy can be inferred
+2018-En-00966	@AsfandKhan6 Glad it went well 😄	joy	2: moderate amount of joy can be inferred
+2018-En-02048	@Paula_White all who #mourn, To console those who #mourn in #Zion, To give them #beauty for #ashes, The #oil of #joy for #mourning, [4/6]	joy	1: low amount of joy can be inferred
+2018-En-01789	Streetlights coming on. We can see stars! #amazing #SolarEclipse2017	joy	2: moderate amount of joy can be inferred
+2018-En-01402	@jojo110110 @kenanbailey Told you ! It's basically another iron man but a cheaper version 😂	joy	1: low amount of joy can be inferred
+2018-En-03054	Thank you for the M line construction @MTA . Sincerely, all J train riders Essex to Bway Junction. #nycsubway 	joy	1: low amount of joy can be inferred
+2018-En-04346	My grace is sufficient for you...#motivation #bible #optimism	joy	1: low amount of joy can be inferred
+2018-En-03095	@camiIasvibe happy birthday girly. hope you have an amazing day, and I wish you a year of happiness and success 💞	joy	3: high amount of joy can be inferred
+2018-En-03306	Who also miss glee ? #gleek #glee #GleeForever #DreamsComeTrue #dontstopbelieving #gleecast @GLEEonFOX	joy	1: low amount of joy can be inferred
+2018-En-01645	@Zara_Larsson90 @zaralarsson Can you check the date of the screenshot , I'll search for it in YouTube 😅 please	joy	1: low amount of joy can be inferred
+2018-En-00143	@whounfollowedme - I'm #very #glad to see You in my community !	joy	3: high amount of joy can be inferred
+2018-En-03511	5hrs sleep 😅	joy	0: no joy can be inferred
+2018-En-04039	Asked my client to take a twitter photo at the home away from home. He was happy to oblige 🍑#redlightsmakeeverythingbetter	joy	1: low amount of joy can be inferred
+2018-En-00662	Your most unhappy customers are your greatest source of learning Bill Gates, Microsoft co-founder #startup #entrepreneurship #delicious	joy	1: low amount of joy can be inferred
+2018-En-02508	Absolutely love @unqualified but can't listen to it during my commute on the subway because I burst out laughing and people stare!	joy	2: moderate amount of joy can be inferred
+2018-En-02452	Real happiness comes from the person who you truly love the most.. 😍 #071117	joy	3: high amount of joy can be inferred
+2018-En-03194	@LordeWorldRU @lordelive Ur so welcome buddy, u kids were awesome 😘	joy	2: moderate amount of joy can be inferred
+2018-En-02914	@Jo_Caulfield Great GIF! #joyful	joy	3: high amount of joy can be inferred
+2018-En-02164	They've cleared the warehouse floor at work and there's sooo much beautiful smooth concrete 😭	joy	1: low amount of joy can be inferred
+2018-En-00784	TY @PhilDieke: 'To drown out the God of #blessing is a powerful #political act. But the silencing cannot go on forever.' - @FCSCreationSpir	joy	0: no joy can be inferred
+2018-En-00586	“When I get sad, I stop being sad and be awesome instead.” \n― Barney Stinson	joy	0: no joy can be inferred
+2018-En-02837	Be strong. Stay positive. Make them wonder how you're still smiling.	joy	2: moderate amount of joy can be inferred
+2018-En-01535	@realDonaldTrump Hilarious. What about self reflection??? World laughing at you!	joy	1: low amount of joy can be inferred
+2018-En-04112	@BuffettSongs 'life is so spicy up on bar-b-q hill.....looking good, you look so fine' #soveryfine #wow #:)	joy	2: moderate amount of joy can be inferred
+2018-En-02635	@CommsRuss @LuHeron Sooooo needed to be on that call! #adorable #needyaunty #pupster	joy	2: moderate amount of joy can be inferred
+2018-En-02404	The #buthisemails meme is hilarity.	joy	1: low amount of joy can be inferred
+2018-En-03661	'Hello, World' program's finally ready for GitHub 😊	joy	1: low amount of joy can be inferred
+2018-En-00505	@marcrileydj Looks like City fans are already blaming the ref for a shock defeat at Bournemouth, #amusing	joy	0: no joy can be inferred
+2018-En-02156	@SnoopDogg is the man 	joy	0: no joy can be inferred
+2018-En-03782	Best day of my life where my 19 year old bestie scared away a 22 year old thug #amazing #inspiring #mongay	joy	3: high amount of joy can be inferred
+2018-En-03609	@YummyMummiesAU LOL 😍 This show is so funny	joy	3: high amount of joy can be inferred
+2018-En-03825	All the bright places \n#movie💯😍	joy	3: high amount of joy can be inferred
+2018-En-02453	A box of 80 @krispykreme donuts.... #awesome \n\nNow that is how to celebrate a birthday!! Happy Birthday!! \n\nNeed celebration donuts now!	joy	3: high amount of joy can be inferred
+2018-En-00580	Just tried @GoodmanBakery for the 1st time... GF for 13 yrs &amp; these are some of the best baked goods I've ever had! DF is a bonus! #yummy	joy	3: high amount of joy can be inferred
+2018-En-01624	Shaking about your 2 bills on snapchat 😅 you're obviously new to money	joy	1: low amount of joy can be inferred
+2018-En-00840	@xxBambsxx @OriginalFunko @AshWillBradley @Elliewhitt123 I've retweeted and followed #good luck @AshWillBradley @OriginalFunko	joy	0: no joy can be inferred
+2018-En-01138	Marriage is the mourning after the knot before.         #laugh #punoftheday	joy	1: low amount of joy can be inferred
+2018-En-01088	@ThePURCompany I have tried #PUR Mojito Lime mints They are #delicious 😘Happy #NationalMojitoDay to all #contest #win ✅💚	joy	2: moderate amount of joy can be inferred
+2018-En-02966	@Rinoa11 lel I already know the whole plot dont worry I would have warned you :D man... Cid tho... That bitch slapped Gabranths hand away	joy	0: no joy can be inferred
+2018-En-04154	This morning, watched a hummingbird, two cardinals, a bunch of finches, a large bunny, and a baby bunny all feasting in the backyard. #happy	joy	3: high amount of joy can be inferred
+2018-En-03232	I hope you smiling and just laughing your soul out @lebeomak . I love you so much.. My Person\n                 😘😘😘😘\n                    😘😘😘😘	joy	3: high amount of joy can be inferred
+2018-En-02479	@jinsproducer Thank you so much!! I don't draw a whole lot anymore but long haired jun is #inspiring	joy	2: moderate amount of joy can be inferred
+2018-En-01013	just watched @Alicelevine on Love on @BBCiPlayer #hilarious	joy	2: moderate amount of joy can be inferred
+2018-En-01443	Psalm 95:1-7 O come, let us sing to the Lord; let us make a joyful noise to the rock of our salvation!	joy	2: moderate amount of joy can be inferred
+2018-En-03839	So happy that I discovered coding...knowing what you want to do in life at the age of 23 is an amazing feeling.  #webdevelopment	joy	3: high amount of joy can be inferred
+2018-En-02840	Fuck @mariannethyssen  Let us go for #splendid isolation !	joy	0: no joy can be inferred
+2018-En-02537	Can a kangaroo jump higher than a house? Ofcourse, a house doesn’t jump at all.\n#elephantsportsllp #happy #jokeoftheday #laugh #stayhealthy	joy	1: low amount of joy can be inferred
+2018-En-02472	@emaalymaae Looks beautiful 😘	joy	2: moderate amount of joy can be inferred
+2018-En-03725	My parents seen how sad I was n offered to pay the 1st 3 months in rent when he comes home til he get straight 😂😂😂😂 #blessed ❤️	joy	2: moderate amount of joy can be inferred
+2018-En-00892	Another big game day for @FootballSask at the Canada Cup. Next up Ontario. Go get them boys! We'll be cheering you on #306Football #Sask	joy	3: high amount of joy can be inferred
+2018-En-03182	#ever #heard of #flirt #marketing !!\n\n#engaging with a #person in such a #playful way that the person #enjoys, and finds #comfort with.	joy	1: low amount of joy can be inferred
+2018-En-01742	Ain't nothing like a good leg workout to start of the day 🤘	joy	2: moderate amount of joy can be inferred
+2018-En-00601	Happy birthday🎉🎉❤️😘 @courtneymcm142 I love and miss you bunches &amp; hope you have an amazing day beautiful!!🌞🌸💗💞	joy	3: high amount of joy can be inferred
+2018-En-03873	The blue vest Planet of the Apes/ DeRay thing is hilarious. This shows his age because the original literally had a blue vest on.😅	joy	1: low amount of joy can be inferred
+2018-En-03857	@stephenasmith You made me laugh today when you told a caller to turn up the volume, that you weren't doing the #MarvinGaye thing #levity	joy	2: moderate amount of joy can be inferred
+2018-En-01324	Smiles and laughter are always good, but never forget your Poker Face - Kaito Kid  #DCQuotes	joy	1: low amount of joy can be inferred
+2018-En-03454	@lifevantage @MissBeccaClark you should make this for us! #yummy	joy	1: low amount of joy can be inferred
+2018-En-02622	@DannyMcguire6 sad day Danny 😓you have been and still are a true Leeds rhino you have been brilliant at the club I will miss you	joy	0: no joy can be inferred
+2018-En-03991	@ChickfilA has forever changed my life 😍 #blessed	joy	3: high amount of joy can be inferred
+2018-En-02375	When I watch sport at times Andy Murray/rugby, it would be best for me to go into a sound proof box. #animated 😂 😂	joy	2: moderate amount of joy can be inferred
+2018-En-01649	Really hoping that this is one of those take a leap and it will pay off moments. #optimism 💪🏻✨	joy	1: low amount of joy can be inferred
+2018-En-03745	@allthestations Don't worry, no more Pacers by the time you get to Scotland. :D	joy	1: low amount of joy can be inferred
+2018-En-01981	Just #snorted #laughing @CommunityTV #outtakes @donaldglover @dannypudi #hilarious Best duo ever! @community	joy	3: high amount of joy can be inferred
+2018-En-02823	A joyless faith is not one for which Jesus died. #thegospel #joy #Jesus #happiness	joy	1: low amount of joy can be inferred
+2018-En-04048	@jsc_84 Hi Jen 👋 How are you getting on with your new phone? Did you manage to keep your number? 😃 CT	joy	1: low amount of joy can be inferred
+2018-En-02898	@iamacatsby except now everyones saying that 'pee your pants' is code for 'kill yourself' and quite honestly it's hilarious	joy	1: low amount of joy can be inferred
+2018-En-03234	You got me w that one @AmazonPrime ! New #theTICK trailer is #hilarity	joy	1: low amount of joy can be inferred
+2018-En-01655	I just tore my 2nd meniscus in 2 months what the fuck have you accomplished. But seriously, reaching maniacal laughter pain/WTF, self?-ness	joy	0: no joy can be inferred
+2018-En-00738	@riley_sager Happy US Publication day Riley!! So excited for you and for everyone who is yet to read the amazing #FinalGirls #TwoDaysFor🇬🇧	joy	2: moderate amount of joy can be inferred
+2018-En-01403	Crikey I left primary school ten years ago 😱 idc what anyone says primary school was the best school years of my life 	joy	1: low amount of joy can be inferred
+2018-En-03714	I've never been happier. I'm laying awake as I watch @stolenmcments sleep. Thanks for making me happy again, babe.	joy	3: high amount of joy can be inferred
+2018-En-02172	Not a childs play..... Happy Birthday Sir ..be blessed	joy	1: low amount of joy can be inferred
+2018-En-02710	When Austin lets u take a rest day #tears #happy #crying #amazing #bestdayever #kindasad #cantfeelmyarms #actuallydieing	joy	1: low amount of joy can be inferred
+2018-En-03519	@wildpawspics @starbeeston Don't miss out today then 👍💻😋\n\nThey are soooo yummy 😆	joy	2: moderate amount of joy can be inferred
+2018-En-01737	@LouiseLinton just because you married money doesn't mean you have class it just means you are a high prices prostitute.  #adorable	joy	0: no joy can be inferred
+2018-En-02324	Disney having trouble casting Aladdin @tellyleung ....... You should do it! 😊 #warbler #glee	joy	1: low amount of joy can be inferred
+2018-En-00302	Just did Yasso 800s for the first time. Kinda fun (maybe because I only did 4).  😀 Thanks @BartYasso!	joy	2: moderate amount of joy can be inferred
+2018-En-00377	#Gambling Horse racing is animated roulette. ~ Roger Kahn #quotes #followme	joy	0: no joy can be inferred
+2018-En-00253	@WalmartToday your hitting it spot on with your commercials. Love the one with the town coming to eat and bringing chairs. #brilliant	joy	2: moderate amount of joy can be inferred
+2018-En-01492	There is a rollicking kindness that looks like malice.  Friedrich Nietzsche #friedrichnietzsche	joy	0: no joy can be inferred
+2018-En-03394	Summer is drawing to a close. It's been incredible. Build your life on dreams, kindness, hard work &amp; imagination. #manifest  #music	joy	2: moderate amount of joy can be inferred
+2018-En-00614	one of the crew talks of xer home planet, a massive sparkling world with immense moons	joy	1: low amount of joy can be inferred
+2018-En-03500	I'm blessed with a wonderful older sister I'm so happy	joy	3: high amount of joy can be inferred
+2018-En-01222	If you even dream of beating me you'd better wake up and apologise. Muhammad Ali :-) #boxing #droll #funny	joy	1: low amount of joy can be inferred
+2018-En-03753	@kaylynreynolds @katycpstrong Ha brilliant 😂. Its really not ok is it 🙁 xx	joy	0: no joy can be inferred
+2018-En-00324	Guys I just went long on eclipse glasses stock. #investor #takesmoneytomakehoney  #imsosmart #TotalEclipseOfTheHeart	joy	0: no joy can be inferred
+2018-En-03274	threw away 7 bags worth of 'junk' today! #relieved	joy	1: low amount of joy can be inferred
+2018-En-00947	Rabbit races ... 😊 .. simply perfect! \n\nSo glad @LeBatardShow and @Stugotz790 are back!	joy	2: moderate amount of joy can be inferred
+2018-En-00055	Thx @DirectEnergy for hosting us @StampedeShaker ❤️ my boys @TomCochraneMUS @Trooper @Sloanmusic 😍 #great #nite	joy	3: high amount of joy can be inferred
+2018-En-00283	😍🤤😍🤤😍 #foodie #yummy #halalfood \n(twitter saw	joy	2: moderate amount of joy can be inferred
+2018-En-03884	You won't find #excuses if you seek #optimism. #realtalk	joy	1: low amount of joy can be inferred
+2018-En-02203	1. I'm grateful for love.\n2. I'm grateful for miracles.\n3. I'm grateful for music.\n#beatdepression #grateful	joy	3: high amount of joy can be inferred
+2018-En-04025	I'm actually so incredibly happy that my soul and by body connected and I'm able to have amazing time while living on this planet.Grateful🙏🏼	joy	3: high amount of joy can be inferred
+2018-En-02161	There's loads to be #grateful for. Start by just looking in the mirror 💞✨ #ThursdayThoughts	joy	3: high amount of joy can be inferred
+2018-En-00424	@ToddWestervelt Psalm 109:17\nAs he loved #cursing, so let it come to him; As he did not #delight in #blessing, so let it be far from [1/2]	joy	1: low amount of joy can be inferred
+2018-En-02474	@William79825670 @Bienvenuebrexit @UnityRefEire I better bring in the washing then...enjoy yere caveman celebration's laughing 😆 stock 👍	joy	1: low amount of joy can be inferred
+2018-En-02996	@piersmorgan Hey you lost your credibility (not that you had any) also we told you so #🤣	joy	0: no joy can be inferred
+2018-En-02546	#oneday #your #pain will be your #pleasure .#Thursday #motivation #inspirational #quotes #startups #workhardplayhard #DoIT #success #Braves	joy	1: low amount of joy can be inferred
+2018-En-03508	@ldlapinski peas ARE pretty awesome, you make a valid point. (So much for saving ahead of moving away from home) 😂	joy	1: low amount of joy can be inferred
+2018-En-03335	Unrelated: when I see the words crème fraîche, I think of that South Park episode of Randy's obsession with the Food Network. 😃	joy	0: no joy can be inferred
+2018-En-01980	Be weird. Be #happy. Be #grateful. Be #positive. Be open #minded.\r#love #bliss #success	joy	2: moderate amount of joy can be inferred
+2018-En-03144	I'm so in love with that smile of yours🖤.	joy	3: high amount of joy can be inferred
+2018-En-04223	@tompeck AntiLol: for fast, effective relief from mirth.	joy	0: no joy can be inferred
+2018-En-01816	The @StandardDiary nailing @SarahTheDuchess the other day was very amusing! 'I've written 56 books... ' @standardnews #hilarious #funny	joy	3: high amount of joy can be inferred
+2018-En-00287	#glee was my childhood	joy	0: no joy can be inferred
+2018-En-01605	@Mike_J_Lord You're welcome 😃	joy	2: moderate amount of joy can be inferred
+2018-En-00174	'I smile. I laugh. \nBut behind it, is a mysterious me.'	joy	1: low amount of joy can be inferred
+2018-En-03827	Down to one roll... Wonderful I need more toilet paper. #personalassistant 	joy	0: no joy can be inferred
+2018-En-00638	@solshaz @na_myung you bad wife,ate all his food 😂	joy	1: low amount of joy can be inferred
+2018-En-00584	Koi to uso is off to a great start, enjoying it alot. Hope i don't lose interest midway just like i did with the manga xD	joy	1: low amount of joy can be inferred
+2018-En-01412	MOMS - NO Dancing at the bus stop... you might embarrass your kid 😂😂#luckytohaveme\n#momonfire #giggles	joy	2: moderate amount of joy can be inferred
+2018-En-02585	@huedrinkwater happy birthday cuzy xxx	joy	2: moderate amount of joy can be inferred
+2018-En-01939	@NCSNorthEast @NCS It'll start on Sunday when the first groups depart :)	joy	1: low amount of joy can be inferred
+2018-En-00723	Happy 12th birthday to my Neopet! #retro\nHappy 75th birthday, Harrison Ford! #legendary\nHappy 80th birthday, Krispy Kreme! #delicious	joy	2: moderate amount of joy can be inferred
+2018-En-00563	No legit though this is my first ever experience and it's when I don't wear makeup so was pretty ironic tbh #giggle but no ta pal	joy	0: no joy can be inferred
+2018-En-03323	Dick Gregory &amp; Jerry Lewis 2 greats who's creativity and imaginations brought smiles &amp; laughter to place not always illuminated. 	joy	2: moderate amount of joy can be inferred
+2018-En-02501	Morning all! Here's to a #wonderful #Wednesday with #warm #weather &amp; #happy #holiday makers may the #sun #shine on #Cornwall #kernow #enjoy	joy	2: moderate amount of joy can be inferred
+2018-En-03431	I find the term 'poofter' fucking hilarious	joy	1: low amount of joy can be inferred
+2018-En-01856	I would anybody have seen it\nI’ll laugh all the car?\nClothes are really gettin in a night I lost myself, hating myself, I	joy	0: no joy can be inferred
+2018-En-03915	season 6 #glee	joy	1: low amount of joy can be inferred
+2018-En-01147	There are recipes for #porkchops w apple cider glaze but has anyone tried the meat steeped in the vinegar &amp; #BBQ w hickory smoke? #delicious	joy	1: low amount of joy can be inferred
+2018-En-03211	@RealRobFowler @BatTheMusical Fourth Visit in a row... Wow!!! Amazing as ever... Can't believe I can't go again... #whatpart... #brilliant 🦇	joy	2: moderate amount of joy can be inferred
+2018-En-03552	@Dansgaming YES!! I love making my own coffee drinks at home! #super  !!	joy	3: high amount of joy can be inferred
+2018-En-01774	Doing my daily devotionals brings  me such 🙌🏽 joy to my life. Its truly #amazing to study his words. #amen #godisgood #dailydevotionals	joy	3: high amount of joy can be inferred
+2018-En-03469	So excited for the final 10 eps of @MTVteenwolf! So happy @dylanobrien is back and @TylerL_Hoechlin returns, as well as @ColtonLHaynes 😄❤	joy	3: high amount of joy can be inferred
+2018-En-03081	#attacked in the #pool or #lake #swimming? Put your hands around their neck and push em down. #yoursizedoesntmatter bc #water is #buoyant	joy	0: no joy can be inferred
+2018-En-00442	Getting an unexpected phone call that instantly cheers you up &amp; makes you smile! :) #week12 #itsthelittlethings #smiles	joy	3: high amount of joy can be inferred
+2018-En-01808	Sometimes you have to smile to hide your fears and to laugh to hide your tears	joy	0: no joy can be inferred
+2018-En-00172	@bugusdiemon Happy birthday cuzzo many blessing🙌🏾💪🏾🇳🇬💯#KeepGrinding #blessed	joy	3: high amount of joy can be inferred
+2018-En-01926	Worst missing is missing ur ownself u used to be once upon a time. #happy #ambitious#innocent #LifeDreamer	joy	1: low amount of joy can be inferred
+2018-En-03462	#Stitchers season 3 marathon. #FreeForm has some #entertaining shows.	joy	1: low amount of joy can be inferred
+2018-En-01089	My joy is not so light that I will allow Mondays shenanigans to take it away. Hello Tuesday I greet you with a smile	joy	2: moderate amount of joy can be inferred
+2018-En-02114	Shocking business by Real Madrid and Bayern doing great business as usual. Getting a world class player in his peak on loan is brilliant.	joy	1: low amount of joy can be inferred
+2018-En-02065	Happier than I have been in a long time \n#happy #smiles #beingme #wifey	joy	3: high amount of joy can be inferred
+2018-En-02485	@aegyotaetae @oyeakasha One of my favourite clips 😂	joy	2: moderate amount of joy can be inferred
+2018-En-03978	A bit late but had to say Love You Zindagi by The Live 100 experience gave me goosebumps!Big shout to all of them! #awesomeness at its peak	joy	3: high amount of joy can be inferred
+2018-En-02767	max @whitephobe is lit af he rly put up w my dumb ass for abt two yrs ol boy deserves an award &lt;3 i lov him sm hes a delight &amp; a half	joy	2: moderate amount of joy can be inferred
+2018-En-00719	#happy #birthday #day trip #great day #super nice weather #blue sky #good mood #fun #love #ice cream #lycklig #födelsedag #öland	joy	3: high amount of joy can be inferred
+2018-En-02555	All I want is get my sister @ashleyclaw &amp; @chrisdelia in a room and listen to both of them laugh #Hollywoodimprov #laughteristhebestmeds #😂	joy	2: moderate amount of joy can be inferred
+2018-En-00362	@SteveConteNYC lovely! 😀	joy	2: moderate amount of joy can be inferred
+2018-En-01570	@thetimtracker Saw last nights vlog. Sorry bout what u guys went through this weekend. Just glad u r doing better! Happy car shopping.	joy	1: low amount of joy can be inferred
+2018-En-02564	#Pit2PB A barnyard full instruments + 10 rockin' sheep =  one fuming farmer with very little sleep!  #funny #Pit2Pub #C #PB	joy	1: low amount of joy can be inferred
+2018-En-03605	' A good laugh and a long sleep are the two best cures.' — Irish Proverb #laughter #sleep #happiness	joy	2: moderate amount of joy can be inferred
+2018-En-03533	@ArcadeGirl64 I actually really like hearing your thoughts either way, don't hesitate to share :)	joy	2: moderate amount of joy can be inferred
+2018-En-01721	@TimHortons Please please PLEASE make your jalapeño jack sandwich a regular! I LOOOVE it!!! 	joy	3: high amount of joy can be inferred
+2018-En-01730	@MikeyBustos im extremely sad and the parody is not on time 😭 i need to laugh	joy	0: no joy can be inferred
+2018-En-02907	Look at the bright side. Coaches don't get to do commentary.	joy	1: low amount of joy can be inferred
+2018-En-00126	@ChildersRadio @gracepotter #adorable little pony	joy	1: low amount of joy can be inferred
+2018-En-03663	Happy birthday to me ❤️ #blessed	joy	3: high amount of joy can be inferred
+2018-En-02530	Early childhood demonstrates #pleasure seeking behavior and it can’t be considered as the vital tool of knowledge learning. \n#edchat #edtech	joy	0: no joy can be inferred
+2018-En-00056	I love to start a writing session with 'Moon River' from the BREAKFAST AT TIFFANY'S soundtrack performed by Audrey Hepburn #amwriting #bliss	joy	2: moderate amount of joy can be inferred
+2018-En-03811	@stephaniemain2 haha Use separate sheet if necessary 😆	joy	1: low amount of joy can be inferred
+2018-En-01902	Me and @DicksonEmily's snap streak is at 260, if that's not amazing I don't know what is #commitment	joy	3: high amount of joy can be inferred
+2018-En-03042	@DaddysLittleK Wow I've just spotted the cutest human being alive #blessed 😍	joy	3: high amount of joy can be inferred
+2018-En-03319	@mxxxcxxx weekedn cheer	joy	1: low amount of joy can be inferred
+2018-En-03433	A little of # yoga for a #happy day!! #Noeishappy #yogagirl #yogaeverydamnday #namaste #grateful #blessed 🙋😊🙏	joy	3: high amount of joy can be inferred
+2018-En-02538	@Riverford had my first #vegbox last week. Chard and Rosemary Gratin is  #yum	joy	1: low amount of joy can be inferred
+2018-En-02426	2 followers until 420? This should be easy. #bot #moneygiveaway #freemoney #blessing #free #money #likes #payday	joy	1: low amount of joy can be inferred
+2018-En-02198	left coffee on dresser, off to a great start	joy	1: low amount of joy can be inferred
+2018-En-00618	Attention Crew! it's a Happy Tuesday everybody! Make someone #laugh out loud today	joy	3: high amount of joy can be inferred
+2018-En-03303	Dean Fujioka's History Maker is on Spotify as well as Breaking Benjamin's Dear Agony. #amazing #wonderful #iloveyouspotify #noonecaresbutido	joy	2: moderate amount of joy can be inferred
+2018-En-00641	@Villesportslaw You are way late to the party my friend. We were all over this yesterday... #hilarious	joy	1: low amount of joy can be inferred
+2018-En-02580	Great start. Exciting new innovation = new challenges. @VisaSecurity #VSS2017 #brilliance	joy	2: moderate amount of joy can be inferred
+2018-En-02618	Spend your day creating #smiles today!	joy	3: high amount of joy can be inferred
+2018-En-04026	@kikisshh @gyorzeppeli 14 year old me is crying in delight right noW AXELLLLLLLLLL  ♥♥♥♥♥	joy	2: moderate amount of joy can be inferred
+2018-En-04179	@TheOpen @RoyalBirkdale_ I'll be there with @Jimbo_7 cheering on @MattFitz94 on Friday - can't wait!	joy	2: moderate amount of joy can be inferred
+2018-En-01664	Apologies don't have to be sincere. They make great place holders while you quietly harbor rage and plot adequate revenge.#TuesdayMotivation	joy	0: no joy can be inferred
+2018-En-00296	@Karma_cutie aw, you make me smile, too.😉😘	joy	3: high amount of joy can be inferred
+2018-En-00939	@INFOSMESSl Happy birthday, hope you have a good day!	joy	3: high amount of joy can be inferred
+2018-En-01098	It's 6:30 in the morning and I'm dry ass up 😂	joy	1: low amount of joy can be inferred
+2018-En-03675	Happy #NationalFrenchFryDay ! Although I'm not so in the fried thing but I like have a frie once in a while! Have a #beautiful #thursday !❤	joy	3: high amount of joy can be inferred
+2018-En-04380	'Is it that funny to you when someone's sad? In that case, I'll beat you 'till you won't even be able to crack a smile!'	joy	0: no joy can be inferred
+2018-En-00986	@NikkiWoods Start where you are. Use what you have. So what you can. AND do it with a #smile and #confidence. ❤	joy	2: moderate amount of joy can be inferred
+2018-En-01875	Chicks I don't even talk to look up to me. #flattered	joy	1: low amount of joy can be inferred
+2018-En-02507	Codes? Lyft codes? We got em! Use: INVITES -- Want to ride anywhere free? #wonderful	joy	1: low amount of joy can be inferred
+2018-En-02093	@PaulCalafiore_ Absolutely ! Happy blessed Tuesday ❤️	joy	3: high amount of joy can be inferred
+2018-En-00295	@itsjohnjosh yessss!!! i'm so glad 😊	joy	3: high amount of joy can be inferred
+2018-En-02268	Wishing you a blessed and happy morning. Glad to be here. Do you🤔 and brighten someone's day in your pursuit of happiness.	joy	3: high amount of joy can be inferred
+2018-En-00643	@AGT I am sadden by this #great talent # RIP Brandon Rogers🙏# praying 4 his family may his short life brings you comfort# called home early	joy	0: no joy can be inferred
+2018-En-01817	@Not_Yves 😂 me as hell	joy	1: low amount of joy can be inferred
+2018-En-04207	I dont know if i'm able to take care of kids or not. Duduk dengan anak sepupu (boy) pun dah menguji kesabaran 😅	joy	0: no joy can be inferred
+2018-En-00211	@washingtonpost Mr. Trump strongly  believes he will be the greatest President after Lincoln in history books. He lacks restraint. #laughing	joy	0: no joy can be inferred
+2018-En-00708	@TheKylieJxoxo @mr_luvver A few not many #giggles	joy	1: low amount of joy can be inferred
+2018-En-03822	Lying at the pool with John , ice cream , drinks, 29 degrees and listening to busted ✌🏼️ #bliss	joy	2: moderate amount of joy can be inferred
+2018-En-01884	Is it weird to look at your creative work and not know if it looks good or not? 🤷🏻‍♀️ Does this even make sense? #😂 #design #EclipseDay	joy	1: low amount of joy can be inferred
+2018-En-01480	Happy birthday to @LauraJillSomers! Hope you have a lovely and wonderful day. :) *fellow Cancer fist bump*	joy	2: moderate amount of joy can be inferred
+2018-En-02596	@Afi_licious I have at 7am so I have to get up around 5am to get ready! N also 7am classes are never pleasant 😭	joy	0: no joy can be inferred
+2018-En-03870	Genuinely and perfectly #happy	joy	3: high amount of joy can be inferred
+2018-En-01345	i know it shouldn't discourage me but i just really wanna create something amazing and outstanding	joy	0: no joy can be inferred
+2018-En-04249	@morrgancatt you dont have a bad smile at all, you should smile more often and share your smile with all your fans	joy	2: moderate amount of joy can be inferred
+2018-En-03729	Frick! @dalebrisby is hilarious! Lovin his portrayal of a rancher picking up feed bags &amp; climbing over the panel! 😂😂 #peedalittle #laugh	joy	3: high amount of joy can be inferred
+2018-En-01213	I have so many things to look forward to ☺️ #positive  #lifeisgood	joy	3: high amount of joy can be inferred
+2018-En-00412	deni &amp; i on here be4: known as friendship goals by all our adorable mutuals 💘💗🙆🏻✨!⭐️™\nus now: tweets three times a day about depression	joy	0: no joy can be inferred
+2018-En-01151	Well played radio station. Playing the song 'Total Eclipse of the Heart' at the start of the eclipse! #Eclipse #brilliant	joy	2: moderate amount of joy can be inferred
+2018-En-03207	When I chirp, shawty, chirp back.	joy	0: no joy can be inferred
+2018-En-00827	@passagefoods @TKMaxx_UK @Tesco Yes!!! Thank you. Bought loads today! #happy	joy	3: high amount of joy can be inferred
+2018-En-03924	@BollyBigBolt #cheerful That pink makes the other colours pop! x	joy	2: moderate amount of joy can be inferred
+2018-En-03645	What are some of your favorite staple dinners you keep on standby for quick and easy nights? :) #goodmorning #dinner #yummy #foodie	joy	1: low amount of joy can be inferred
+2018-En-01888	@traviswall Strange Fruit. Wow. The story of what America was and what it can be. #brilliant #soyouthinkyoucandance	joy	1: low amount of joy can be inferred
+2018-En-00336	Cory was like family to me. You all were. Glee was my escape in middle school. #glee #CoryMonteith	joy	1: low amount of joy can be inferred
+2018-En-03298	@Flewbys This thread is a bunch of Putin lovers rejoicing over a video posted by Iranian state television. Sad!	joy	0: no joy can be inferred
+2018-En-03461	I didn't know, that there existed such sheer and utter joy and contentment, as that which I am now experiencing. #grateful 🙏🏽	joy	3: high amount of joy can be inferred
+2018-En-01722	Great way to end the day(night?morning?) #😄	joy	2: moderate amount of joy can be inferred
+2018-En-04379	When you're leaving for work and your husband is still sound asleep in bed... 😅 can I just stay home?	joy	0: no joy can be inferred
+2018-En-00901	Feeling all Tuesday blah until @sarahmakesart sent over a bunch of hilarious memes. #spreadthelove 	joy	1: low amount of joy can be inferred
+2018-En-00568	@FoodwiseWomen @GilesMacDonogh Thank you 😊	joy	1: low amount of joy can be inferred
+2018-En-03017	#funny #quote #joke Hilarious joke quote of the day! For more funny jokes pics and great humor quote	joy	2: moderate amount of joy can be inferred
+2018-En-01968	@Girlpower1960 @tomshattuck @realDonaldTrump Oh whoops! Sorry! 😅	joy	1: low amount of joy can be inferred
+2018-En-04279	Excited about the upcoming cheer season! 😬😳#cantsleep #wideawake #eat #sleep #cheer #repeat	joy	3: high amount of joy can be inferred
+2018-En-03614	Literally @TFLN is the best thing. I used to spend HOURS reading this shit when I was in college. Still so fucking funny #dying #hilarious	joy	2: moderate amount of joy can be inferred
+2018-En-00820	@talkfreelyalway @westbrookdanni Haha 👌🏼it's nice to know you take the time to find out so much about me too #flattered 😘	joy	2: moderate amount of joy can be inferred
+2018-En-02804	On my way #London for the #BMC #b2b #marketing meeting 😊	joy	1: low amount of joy can be inferred
+2018-En-03039	Spread #hope, #peace, #love and #joy NOW! #TuesdayThoughts	joy	2: moderate amount of joy can be inferred
+2018-En-00026	@bbcdoctorwho Gliese 581d #smile	joy	1: low amount of joy can be inferred
+2018-En-01708	Happy bday @Dineo_Jazzz . You legit the big sister I never had 😌 have an amazing day dude 🙏🏽	joy	3: high amount of joy can be inferred
+2018-En-03376	trying my best to be happy :-)	joy	1: low amount of joy can be inferred
+2018-En-01827	@wolvesrl @AndreSavelio @NRL Great player gutted to see u go but all the best! We will still be cheering for u in the NRL, Good luck	joy	1: low amount of joy can be inferred
+2018-En-02247	@chichupedathaa ROFL 🤣	joy	1: low amount of joy can be inferred
+2018-En-00030	@LDN_Muscle a #bright and early session this morning before work! #fullbody #ldnmladies surprised that it actually helped reduce my #doms	joy	2: moderate amount of joy can be inferred
+2018-En-01805	@backtwo0 I believe these are my first pieces of artwork lol. A few of us received them. Hysterical 🤣	joy	1: low amount of joy can be inferred
+2018-En-00852	@Swamy39 #4 is brilliant to end terror	joy	1: low amount of joy can be inferred
+2018-En-01099	Are you always looking for quotes of your days? Then follow @kettlewell to learn more!\n #quote  #doubleviz	joy	0: no joy can be inferred
+2018-En-01367	happy birthday girly, hope you have an amazing day :) @kkarlidawson	joy	3: high amount of joy can be inferred
+2018-En-02271	Tonight's episode of #GameOfThrones is just epic went through so many emotions watching it #dragonwhitewalker #flippinheck #brilliant	joy	2: moderate amount of joy can be inferred
+2018-En-02355	Feeling slightly apprehensive, but amazing after this weekend off😊 	joy	1: low amount of joy can be inferred
+2018-En-02460	It's arrived and can't wait to read and learn! #specialneedsandlegalentitlement 2nd edition. If it's as good as the 1st edition 	joy	3: high amount of joy can be inferred
+2018-En-03542	@catherinerusse2 ooh, how I'd dance with glee around the living room if you emerged from the Tardis at Christmas!	joy	2: moderate amount of joy can be inferred
+2018-En-03906	new video will be up very soon!! #newyoutuber #beautyguru #tristinescorner #frenchbraid #howto #style #fun  	joy	1: low amount of joy can be inferred
+2018-En-00170	@kaillekirkham @gimmical_impact @nicefinalbeam I think it's awesome, I'm just going to need some time to marvel and reprogram my brain. 😆	joy	1: low amount of joy can be inferred
+2018-En-02978	@beyond_scratch @ben_nuttall @GuildfordLib The official pi jam kit has arrived! #RaspberryPi #excitement	joy	2: moderate amount of joy can be inferred
+2018-En-02232	When lil bro refills your water bottle cause it's a desert when I sleep... #cheering #lazysis	joy	2: moderate amount of joy can be inferred
+2018-En-00193	Make her burst into laughter bcs of you.	joy	2: moderate amount of joy can be inferred
+2018-En-02764	Good Night everyone... #goodnight #sleep #nice #great #night #music #day	joy	1: low amount of joy can be inferred
+2018-En-03437	The only upside to being deathly ill this week is that I've gotten better at taking pills. #optimism	joy	0: no joy can be inferred
+2018-En-02253	What a #waste of what was a #perfectly #good #planet, the #money must be #worth the #cost into the #future (#eons #worth of #time) I guess?	joy	0: no joy can be inferred
+2018-En-03429	Hey @DonaldJTrumpJr, you're going to go to jail one day. 	joy	0: no joy can be inferred
+2018-En-01960	Some people need psych meds for their depression, All I need is a gyro platter. #Comedy #comedian #funnyshit #funny #greekfood #ComedyCellar	joy	1: low amount of joy can be inferred
+2018-En-03137	Been parked on 610 for about 30 min now 😅	joy	0: no joy can be inferred
+2018-En-02393	This is legit one of the coolest experiences of our lifetime. #amazing #solareclipse	joy	2: moderate amount of joy can be inferred
+2018-En-03372	What a raucous crowd today @GCSchoolsNC #GCSArtsPD17! How often does one hear applause and cheers at PD?! #excitement @ARTSEDNC @nakiahardy	joy	2: moderate amount of joy can be inferred
+2018-En-00665	@DobreLucas You always make me smile 😌	joy	3: high amount of joy can be inferred
+2018-En-01531	@chrisdrunkpoets @MusicHourUK 💞🛸✨ Love your new music Chris!!!🌟🎯🍎It's otherworldly, like you!! #awesomeness 🦄🧜🏽‍♂️🧜🏽‍♀️🧙🏽‍♀️🧙🏽‍♂️✨🔆	joy	3: high amount of joy can be inferred
+2018-En-00086	@16_vica #strange but #amazing but I #love your #pictures 😍	joy	3: high amount of joy can be inferred
+2018-En-03253	@KOlusola @CurlineO Just look at those happy smiles! Beautiful! 💛	joy	3: high amount of joy can be inferred
+2018-En-00197	@burnsjeanie @laurawilshaw_ @_heyitsnic0la @katyjane_ @jesseveson @Tomilicious12 @MichaelCollabro Haha..yes he does! 🤣	joy	1: low amount of joy can be inferred
+2018-En-01622	Great meeting with my great friend and superstar lawyer Bryan Freedman @ftllp .  Such an amazing person who does so much for many. 	joy	2: moderate amount of joy can be inferred
+2018-En-01662	Elle: a delicious, dark, perverse work of intrigue, streaked with cruel humour. Superb performance from Isabelle Huppert. A one off #ElleDVD	joy	1: low amount of joy can be inferred
+2018-En-00453	I wanted to become the top idol! I will make everyone happy so cheer on me a lot♪	joy	3: high amount of joy can be inferred
+2018-En-02182	It will never not be hilarious to me when Joe gets mistaken for Olly Alexander at work	joy	1: low amount of joy can be inferred
+2018-En-04278	@weareremixes yeah he's delicious no need to threaten me	joy	1: low amount of joy can be inferred
+2018-En-01748	Love getting them calls 	joy	2: moderate amount of joy can be inferred
+2018-En-01453	Always look on the bright side of life ☀️ #motivation	joy	3: high amount of joy can be inferred
+2018-En-04126	Going to #BigApple tomorrow! Loving #NJTransit #commute! Wearing #khakis #whiteshirt #maybeblue #brownshoes #macys #joy #jealousyet?\n#usa	joy	2: moderate amount of joy can be inferred
+2018-En-03382	Listen, I love my mutuals so much they're such beautiful people inside and out. I'm so happy to have you in my life. I love you so much	joy	3: high amount of joy can be inferred
+2018-En-02732	gila doh, today sumpah like everyone concern gila esp dia. 😍 #blessed	joy	1: low amount of joy can be inferred
+2018-En-00582	We're all #laughing! Eddie Izzard has begun #his probe #into fuzz wrongdoing involving the house of Osiris.	joy	2: moderate amount of joy can be inferred
+2018-En-04266	Comforting #inspiring. #faith #Housefires #GoodFather Thank you.  Beautiful #song #itswhoiam #itswhoyouare #youtperfectinallofyourways	joy	2: moderate amount of joy can be inferred
+2018-En-03004	So hungry after eclipse. Ate a few slices of roasted beef, some cheese, and a glass of wine. Now I need a nap after reading. #bliss #eclipse	joy	1: low amount of joy can be inferred
+2018-En-01786	please, more comments from #tweeters that don't look at charts! #adorable $snap	joy	1: low amount of joy can be inferred
+2018-En-00560	Taking my first #CreativeWriting class this semester. Never before has my grade been based on writing short stories 	joy	0: no joy can be inferred
+2018-En-01369	It takes a smoke detector 4 months to stop beeping if you were wondering how #lazy I am. #lol #funny #Comedy #laughs #CrackMeUp #hilarious	joy	2: moderate amount of joy can be inferred
+2018-En-02568	Driving down the thruway,pantless. #breezy	joy	1: low amount of joy can be inferred
+2018-En-01164	Music is so empowering. \nit can literally bring people tears, smiles, laughter, and so many emotions	joy	2: moderate amount of joy can be inferred
+2018-En-04303	My daily actions are congruent with my big goals.  I feel incredible about myself. #goals #success #justdoit #happy #enjoy #life	joy	3: high amount of joy can be inferred
+2018-En-02586	New Lyft Code unlocks Free Ride credit: PIP # GT Fish and Oyster #gleeful #COUPONSROCK	joy	1: low amount of joy can be inferred
+2018-En-03569	#happiness can be found, created or curated.\n\n#depression #DepressionAwareness #Depressed	joy	1: low amount of joy can be inferred
+2018-En-00846	@morninggloria You always look more #adorable 😉 after trip to Canada.	joy	2: moderate amount of joy can be inferred
+2018-En-01374	It's my #party #Hashtag10 and I'll #cry if I want to ...... Not really! #Hashtag10 celebrations and I shall #rejoice! I love quirky ones!	joy	2: moderate amount of joy can be inferred
+2018-En-03838	Life will be more #beautiful when you start seeing things differently.	joy	1: low amount of joy can be inferred
+2018-En-02994	First pumpkin coffee of the season this morning! Thank you @DunkinDonuts for an automatic good day! 🎃 #ecstatic #pumpkineverything	joy	3: high amount of joy can be inferred
+2018-En-01712	It takes less #muscles to #laugh than to #frown - stops facial &amp; mental aging too! Laugh strongly &amp; often to #lead effectively! #leadership	joy	1: low amount of joy can be inferred
+2018-En-03589	@jawadhadi But aren't we talking about the font? 😄	joy	0: no joy can be inferred
+2018-En-01686	You guys like my mask? I call it a 'smile' 🙂 #INFJproblems #INFJ #adulting #workingthroughthepain #life #love #joy #mask #smile	joy	1: low amount of joy can be inferred
+2018-En-01185	When you are with your friend and you are still laughing 😂🙌🏻🔝💕 @Tereza_Gray #FriendsForever #laugh #summer	joy	3: high amount of joy can be inferred
+2018-En-02335	Words can't explain how thankful I am that I woke up today! It's all I need to know how blessed I truly am! #iGotAnotherDayToCreateLife 😍	joy	3: high amount of joy can be inferred
+2018-En-02583	@dpm0319 So funny!!!!!!!!! #lol   #clever	joy	3: high amount of joy can be inferred
+2018-En-03003	I love a bright life apart from any darkness and toxicity. Plenty of light and colours, smiles and good feelings, a healthy life..🍃🍂	joy	2: moderate amount of joy can be inferred
+2018-En-01177	Whether my glass is half empty or its half full. I'm just grateful I even have a glass and that there's something in it.\n #optimism 🤔	joy	2: moderate amount of joy can be inferred
+2018-En-01096	@Kiranansi Phew, good. As much as I like adorable cats and dogs, your snek always makes me smile.	joy	2: moderate amount of joy can be inferred
+2018-En-04292	I love being outside right before sunrise/after sunset because the sky is so bright blue and it brings me peace	joy	3: high amount of joy can be inferred
+2018-En-01630	@Kawells00 So bright that kill my heart😂	joy	2: moderate amount of joy can be inferred
+2018-En-03069	How odd to watch a mortal kindle\nThen to dwindle day by day.\nKnowing their bright souls are tinder\nAnd the wind will have its way.	joy	0: no joy can be inferred
+2018-En-01556	@Tayylittle Mmm..is there any other way to start the day? ☕️ #yummy	joy	2: moderate amount of joy can be inferred
+2018-En-00431	Once again up bright &amp; early bc strep has me feeling like someone lit my throat on fire then punched it 50 times before making me eat nails	joy	0: no joy can be inferred
+2018-En-00700	@christinequinty I just knew. #delightful #Eclipse	joy	1: low amount of joy can be inferred
+2018-En-02526	@BroxtonDaniel I love you more than anything. I'm so glad we're able to make each other so infinitely happy😊	joy	3: high amount of joy can be inferred
+2018-En-01160	@_lanimoreno and I had Chem, Anatomy, and now IB Sports together (': #amazing	joy	2: moderate amount of joy can be inferred
+2018-En-02216	@Serious_samuel @Elliecowzer Now there is a team for ya 😃	joy	1: low amount of joy can be inferred
+2018-En-03932	Absolutely loving that people watching the #eclipse are cheering - for the sun! For the moon! For wonder! 💜 #beautiful	joy	3: high amount of joy can be inferred
+2018-En-03138	A SPELLBINDING performance by @DebsNewbold. Electric physicality and sheer awe. A pleasure to watch, thank you. #ueafly	joy	2: moderate amount of joy can be inferred
+2018-En-01753	There's no one right way to live life but: be kind, be genuine, be honest, be open. #Love yourself &amp; #laugh often. #Mindfulness @HealingMB	joy	2: moderate amount of joy can be inferred
+2018-En-00886	Just seeing school idols fills me with energy, makes me want to cheer for them and makes me also want to sing and dance together with them!	joy	3: high amount of joy can be inferred
+2018-En-00458	'Obviously it's great to feel like I'm succeeding ... but I couldn't help but feel guilty,' says Yvonne. 'It feels horrible.' #InsightSBS	joy	0: no joy can be inferred
+2018-En-01036	It was a great feeling being able to cheer you on while you passed me at your second bike loop this weekend. Great race @SebastianKienle !	joy	3: high amount of joy can be inferred
+2018-En-01847	Just enjoyed a delicious salad drenched in Theon Nectar's Greek Extra Virgin Olive Oil  – absolutely DELICIOUS!! Mmmmm! #yummy #healthy	joy	3: high amount of joy can be inferred
+2018-En-00251	1. Burning Desire: You must be in love with your goal. #thinkandgrowrich #health #money #happiness #love	joy	1: low amount of joy can be inferred
+2018-En-03127	@littlebcstcrd Pardon me 😃	joy	0: no joy can be inferred
+2018-En-01697	If the original 'We don't have to take our clothes off' doesn't cheer me up, we're in trouble	joy	1: low amount of joy can be inferred
+2018-En-04270	5,877 #impressions over the last 24 hours. I've had an insightful #pleasure enlightening you all today, I hope I have been of #service. #USA	joy	2: moderate amount of joy can be inferred
+2018-En-00317	Three more shifts then I start the next part of my tutorship in response #enjoyingthelastfewdays #excited #nervous #newchallanges	joy	2: moderate amount of joy can be inferred
+2018-En-02566	A man without a smiling face must not open a shop. -Chinese Proverb	joy	0: no joy can be inferred
+2018-En-00924	@annarxbs @lolitsluan oh my lord I love you both with all of my heart. I feel so good and happy and you make it possible xx	joy	3: high amount of joy can be inferred
+2018-En-03808	Remember what God says about you is most important #food #smoothie  #yummy #Melita	joy	1: low amount of joy can be inferred
+2018-En-04205	Feeling #grateful for the @davidlynchfoundation.la for teaching us how to meditate. Happy #WellnessWednesday! #justbreathe #foreverwellness	joy	3: high amount of joy can be inferred
+2018-En-00876	@DanMinkin1 @bocefied Well, there'd be less evil laughter and more swearing	joy	0: no joy can be inferred
+2018-En-03183	#Bible reading today shows us the Lord has done #great things for us &amp; we are glad. Our mouth is filled with #laughter &amp; tongue with singing	joy	2: moderate amount of joy can be inferred
+2018-En-04001	I allow myself to be . #bekindtoyourself #quote	joy	1: low amount of joy can be inferred
+2018-En-01809	It's my time to shine 😅	joy	3: high amount of joy can be inferred
+2018-En-03302	@hamilou23 oswade😡😡 I won't with you a happy birthday till you pay my 12000 shillings you borrowed on 12th January 2017. 😡😡😡	joy	0: no joy can be inferred
+2018-En-03192	I'm BEYOND entertained 😂 and in this case it's a sad thing to witness 😂😂 watch and loving the dms 😘 #flattered #cantdoitlikeme #poorthing 😋	joy	3: high amount of joy can be inferred
+2018-En-02258	see me #smiling at my #past like what was I thinking? \nFind #rest oh my #soul d #seas ń #storms still know HIS name. \n#JESUS\n#iLoveJesus	joy	2: moderate amount of joy can be inferred
+2018-En-01129	I've had my share of trials and tests. But you know what? God has always stayed with me and brought me through! 😊\n#Survivor #grateful #truth	joy	2: moderate amount of joy can be inferred
+2018-En-03767	Whenever u have a bad day, just remember that there's a bitch stalking you like it's their religion just to see if ur happier than them 😘	joy	2: moderate amount of joy can be inferred
+2018-En-01925	,, The solar eclipse was really cool.. #inspiring!	joy	2: moderate amount of joy can be inferred
+2018-En-02867	@Alibenzkr @floatingboat Memento ending 😄	joy	1: low amount of joy can be inferred
+2018-En-03444	My dads big day is only less than 2 weeks away. 😱 #excited	joy	3: high amount of joy can be inferred
+2018-En-02984	@PeriodLivingMag Even if you have a #small #space, you can ave a #great one! These #tiny #bathrooms definitely prove it! ~JMK	joy	1: low amount of joy can be inferred
+2018-En-02302	@rajnathsingh Looking at your smiling face can give any person an adrenaline rush at this moment. Please for your allah's sake do your duty.	joy	1: low amount of joy can be inferred
+2018-En-04143	@lizritchie7 @donnyosmond You Can Call - Burning Shed And Ask Them ? - Here Is The Number - \n01603767726 - Or Email Them &amp; Ask :-)	joy	0: no joy can be inferred
+2018-En-01592	@KETV Very scary but so glad the nabbed him. Afraid there may be more :(	joy	0: no joy can be inferred
+2018-En-03665	di happy sa life pero may wattpad to fulfill the happiness HAHAHA	joy	2: moderate amount of joy can be inferred
+2018-En-02419	Nice to be able to turn the alarm clock off until next Tuesday morning. #awesome	joy	2: moderate amount of joy can be inferred
+2018-En-03744	A fabulous evening at The Mayflower Theatre watching The Play That Goes Wrong - had us in stitches all evening #veryfunny #laughter	joy	3: high amount of joy can be inferred
+2018-En-03452	Who ever knew it would feel good to have such a wonderful hour and a half interview? 😁 #smiling #success	joy	3: high amount of joy can be inferred
+2018-En-03940	Today's ECLIPSE was a warm fuzzy for the entire country. A GIANT GROUP HUG❤️😎💕#EclipseSolar2017 #repair #smiles	joy	3: high amount of joy can be inferred
+2018-En-03272	@Creative_Voices @ScotParl Happy to help :-)	joy	2: moderate amount of joy can be inferred
+2018-En-01229	@xysist Wise you mean? 😅	joy	1: low amount of joy can be inferred
+2018-En-02912	Quite glad for a spot of rain, and happy it held off until ‘lunch’ so daughter no1 could enjoy circus antics at school this am.	joy	2: moderate amount of joy can be inferred
+2018-En-00221	Life is a #blessing	joy	1: low amount of joy can be inferred
+2018-En-00603	Dating a skinny girl is fun though, anytime you get bored you start counting her ribs and measuring her spinal cord! #happy	joy	1: low amount of joy can be inferred
+2018-En-03030	@missmarilynx Hahaha @BigScottGibson almost fell off the sofa laughing at that point. The wee jump he did as if he was scared too 😭	joy	2: moderate amount of joy can be inferred
+2018-En-02389	LIFE IS JUST A TAFFY PULL- a story told in rhyme #rhyme #poetry #romanticcomedy #laughter #humor #beachread  #SummerReading  #comedy  Amazon	joy	1: low amount of joy can be inferred
+2018-En-00547	Looking for a Lyft ride? $50 free w/ Lyft Code: CLEO # MK #mirthful #LOVETOSAVEMONEY	joy	0: no joy can be inferred
+2018-En-02346	i want u to have wonderful childhood memories \ndulu ticer tak kenal pun lagu2 english baa baa black sheep tu 😭 simply bcos takde exposure	joy	0: no joy can be inferred
+2018-En-01095	Maggie Smith does not get the credit she deserves 😂 hilarious and brilliant actress!	joy	1: low amount of joy can be inferred
+2018-En-00804	Morning! Good vibes today people!! It's July 11, 2017 at 09:00AM #goodmorning #twitter #happy	joy	3: high amount of joy can be inferred
+2018-En-03132	This reminds me of cheer up's location lit	joy	1: low amount of joy can be inferred
+2018-En-03747	happy birthday bb! i hope u had an amazing birthday 🎉 @ultsdonghan	joy	3: high amount of joy can be inferred
+2018-En-01573	@markiplier This is 	joy	0: no joy can be inferred
+2018-En-00329	Watched the #eclipse without glasses and it was #great! Now I'll have an #eclipse over my #retinas for the rest of my life ☺️😵	joy	1: low amount of joy can be inferred
+2018-En-00512	Today I'm #grateful for\n\nMy car\nMy phone\nMy thumbs\nGoing on walks\n@Twitter \n\nWhat are you grateful for today?	joy	2: moderate amount of joy can be inferred
+2018-En-01901	@SSAFA Congratulations #DamianDagg and #JoshuaThorne. I wish you a  #future #together❤️	joy	2: moderate amount of joy can be inferred
+2018-En-01915	We did all more like a fuss #contentment #Momtauk.	joy	0: no joy can be inferred
+2018-En-01175	Wow, only 9 out of 60 pages left in my first full art book :O #amazing	joy	3: high amount of joy can be inferred
+2018-En-01759	Everything is a Miracle. Find a way to give thanks to God. Don't let anyone or any circumstances take that from you. #youareblessed #rejoice	joy	1: low amount of joy can be inferred
+2018-En-02624	Finally its time, i have a cuppa n its time to watch what i already know will be an epic ep of Game of Thrones #bliss	joy	2: moderate amount of joy can be inferred
+2018-En-03417	I hope everyone has a safe and fantastic day!!! 😊	joy	2: moderate amount of joy can be inferred
+2018-En-00624	Nigga you thought you was gone play me ! 🤣	joy	0: no joy can be inferred
+2018-En-00589	Best evening adult drink w/chocolate #satisfaction is @Nestle DARK hot chocolate + chili powder + cinnamon + whiskey #delicious ☕️	joy	3: high amount of joy can be inferred
+2018-En-04016	@VideoGamerCom Wow it looks like red deads long lost online brother.....until red dead 2 brings it's online twin :D	joy	0: no joy can be inferred
+2018-En-02199	finnish 'table manners', to the extent they exist, seem to include only self sufficiency and not getting in people's way so it's hilarious	joy	1: low amount of joy can be inferred
+2018-En-03981	Happy birthday to me 😄 no I'm not lucky I'm blessed yes 😂	joy	3: high amount of joy can be inferred
+2018-En-03160	Behold, how good and how #pleasant it is for brethren to dwell together in unity!”	joy	1: low amount of joy can be inferred
+2018-En-02657	Nearly 12 o'clock and we are here listening to music and my girlie is making me howl with her dancing #oldtunes #daughter #laughs #memories	joy	2: moderate amount of joy can be inferred
+2018-En-03721	@emmiecollison We will have to be patient 😬if two fux is anything to go by it will be worth the wait. 😊	joy	1: low amount of joy can be inferred
+2018-En-01420	I'm dead tired yet can't sleep #wonderful	joy	0: no joy can be inferred
+2018-En-00217	@ul_sang Awhh thanks! Maybe now I'll finally be blessed with some 😭	joy	1: low amount of joy can be inferred
+2018-En-03681	Spending the majority of the day in bed relaxing &amp; catching up on @Hollyoaks 💖  #relax	joy	2: moderate amount of joy can be inferred
+2018-En-04036	After 10 days of suffering from Dengue, I'm finally good and going. 😎 #rejoice	joy	2: moderate amount of joy can be inferred
+2018-En-01003	@vueling being stuffed into shuttles and airport hotel is not equivalent to arriving in Nice on time. Your #squad could also #smile more 😑	joy	1: low amount of joy can be inferred
+2018-En-00020	@Retale It would be #awesomeness to win this for my 2 girls.	joy	2: moderate amount of joy can be inferred
+2018-En-03842	We may always rejoice, if we will only keep our head a little raised above the flood of human things. -St. John Chrysostom #quotes #joy	joy	2: moderate amount of joy can be inferred
+2018-En-00011	““In your anger do not sin”: Do not let the sun go down while you are still angry,”\nEphesians 4:26. #blessed #faith #christ #peace	joy	0: no joy can be inferred
+2018-En-04240	@CutTimeComic They are adorable !!! I need them all 😭	joy	2: moderate amount of joy can be inferred
+2018-En-02976	Did you know the #moon is 400 times smaller than the #sun? #eclipse  #amazing  #SolarEclipse2017	joy	1: low amount of joy can be inferred
+2018-En-00175	@samasaurus6 happy I got it recently on the summer sales :D	joy	2: moderate amount of joy can be inferred
+2018-En-04140	Depression &amp; fear come when we're hyper-focused on what we don't have or who we're not instead all that we have and who we are! #contentment	joy	0: no joy can be inferred
+2018-En-00549	What's with that witch saying 2 popular youtubers are dating?! Lol #laughter #MSPDramaIsOverParty	joy	1: low amount of joy can be inferred
+2018-En-03795	I've come to the conclusion that @AmericanDadTBS is the best #animated #show ever. It really knows how to #tickle my giggle muscle.	joy	2: moderate amount of joy can be inferred
+2018-En-04057	@LeaMichele We miss you all with you Lea ❤️💕 #glee	joy	1: low amount of joy can be inferred
+2018-En-03816	Take #photographs of life and write them in #journals #motivation #inspiration #life  #love #inspire #smile #quotestoliveby	joy	1: low amount of joy can be inferred
+2018-En-03938	everyone says it's funny that no one took tyler seriously when he tried to come out of the closet, but I think it's sad.	joy	0: no joy can be inferred
+2018-En-02829	i got a place at that school and i start monday!! i'm so excited! (even if it is just 3 days haha)	joy	3: high amount of joy can be inferred
+2018-En-01159	@jiminsbeer i cut my own bangs bc my hairdresser fucked it up before 😂	joy	0: no joy can be inferred
+2018-En-01503	Important read on the difference between #pleasure and #happiness and the relationship between #digitaltechnology #addiction &amp; #depression	joy	0: no joy can be inferred
+2018-En-02734	@Benmorris04 happy birthday big man 👀😂⚽️	joy	2: moderate amount of joy can be inferred
+2018-En-01781	#note8 #animated said pen. Amazing. Wife loves this one	joy	2: moderate amount of joy can be inferred
+2018-En-01787	In our daily liveswe must see that it is not happiness that makes us grateful but being grateful that makes us happy.	joy	2: moderate amount of joy can be inferred
+2018-En-03287	Cream tea @NTColbyGarden #delicious	joy	2: moderate amount of joy can be inferred
+2018-En-03049	@gammarus @Steel_Con @Scott_Helme People know your serious now brother! #awesome	joy	2: moderate amount of joy can be inferred
+2018-En-03986	Heading to PNC today to get the ball going for my MA! #goingforit #nervous #excited	joy	2: moderate amount of joy can be inferred
+2018-En-01933	Welcome new followers @GibbonWa @Halmarun @CleanFaceSkin We will mostly be talking #happiness &amp; #ethicalfashion Happy to connect :)	joy	2: moderate amount of joy can be inferred
+2018-En-01006	but i'm still here 😅	joy	1: low amount of joy can be inferred
+2018-En-03445	@TheSocialCTV was a guest at your show today .. Just wanted to say what an enjoyable experience from arriving to leaving #smiling	joy	3: high amount of joy can be inferred
+2018-En-03085	Should I be flattered that locals keep asking if Im Swedish? #Swedish #beautiful #Europe	joy	1: low amount of joy can be inferred
+2018-En-01728	@myouimina U r but idk to what extent u can go with teasing me 😃 u love it too much.	joy	2: moderate amount of joy can be inferred
+2018-En-01090	@breakoutEDU,@GooseChase, pirate style witnessed across the district!@burgessdave #backtoschool #engaged  #tlap #LeadLAP #genoastrong	joy	0: no joy can be inferred
+2018-En-00510	While it's #entertaining to watch other #passengers apply their #makeup on the #bus, I do wonder why they don't get up 5-10 minutes earlier!	joy	0: no joy can be inferred
+2018-En-01224	@_StevenKavuma I know!! #carefree	joy	1: low amount of joy can be inferred
+2018-En-00343	love to see them interacting 😸🙏 #itsbeensolong #laughing	joy	2: moderate amount of joy can be inferred
+2018-En-03814	@FlashDogs \n'It could have been #wonderful, but you ruined it!'\n'I warned you I was a really awful baker.'\n'But the birthday cake!'\n#VSS365	joy	0: no joy can be inferred
+2018-En-03706	Gonna find my baby gonna hold her tight gonna grab me some afternoon delight	joy	2: moderate amount of joy can be inferred
+2018-En-04030	@PearlJam YES!!! Love it!!! 💞💞💞🎶🎶🎶🎥⚾⚾⚾👏👏👏 #thankyou #awesomeness	joy	3: high amount of joy can be inferred
+2018-En-02421	Wooo so happy right now! Just bought my tickets to see @NiallOfficial next summer in Dublin.Can't wait 😁 #niallhoran #Dublin #music 	joy	3: high amount of joy can be inferred
+2018-En-03958	@mcmalveiro Hi Miguel, that's awesome! Thank you very much for updating us! 😄 -Claire	joy	3: high amount of joy can be inferred
+2018-En-00871	Take delight in the Lord , and he will give you your heart’s desires.\nPsalms 37:4	joy	1: low amount of joy can be inferred
+2018-En-03340	@lutonmagoo @GaryLineker @mrjamesob I so love @mrjamesob means @GaryLineker very bright people	joy	1: low amount of joy can be inferred
+2018-En-04297	Remain attached to God during your happiness and during your sadness.	joy	1: low amount of joy can be inferred
+2018-En-03045	@KerryKatona7 Stunner cute like her mum 😃	joy	1: low amount of joy can be inferred
+2018-En-02286	@coutbaek i did, i cried from laughter way too much HAHAHAHAHHAHAHAHAAHGAHAHA 😅😅	joy	3: high amount of joy can be inferred
+2018-En-04020	@Malala Happy day to you Malala 👏🏻😃I seem to share a birthday with you #inspiring #women #education	joy	2: moderate amount of joy can be inferred
+2018-En-01211	Can finally start looking forward to my sisters wedding on Friday now the car is sorted ☺️🎉👰🏻 #relieved	joy	2: moderate amount of joy can be inferred
+2018-En-03836	'Little bit leave it' the best bit of love island so far 😂🌴 #loveisland #hilarious #No1	joy	2: moderate amount of joy can be inferred
+2018-En-00244	i love his smile	joy	2: moderate amount of joy can be inferred
+2018-En-01718	2nd time this week I received services for free. It pays to be nice! #kindness #friendliness #bekind #smile	joy	3: high amount of joy can be inferred
+2018-En-02193	@LivUniLibrary the only enjoyment I have at the moment, that is how sad my life is	joy	0: no joy can be inferred
+2018-En-02372	Don't be afraid to start. Be afraid not to start. #happiness	joy	1: low amount of joy can be inferred
+2018-En-00707	Too much niggas knew where my mum lived so we moved her out 😊 definitely one of the best feelings recently lol	joy	1: low amount of joy can be inferred
+2018-En-00064	@rhyshenllan @disabledsg yes I like the idea of it . Waiting for details 😀	joy	2: moderate amount of joy can be inferred
+2018-En-02771	Because I'm happy clap aLong if you feel like happiness is the truth'	joy	3: high amount of joy can be inferred
+2018-En-00752	@LoganPaul hii logan! 😍 new maverick here!!! :D recently I've been watching your vlogs and I'm soo into it. :)	joy	3: high amount of joy can be inferred
+2018-En-00421	Fear is worse then aversion to risk. Got to do what you got to do.  #beautiful #life	joy	1: low amount of joy can be inferred
+2018-En-03174	When you feel like a smile will be fake, add a laugh to it. You will be surprised how joyful you will become.  #simplylovejesus	joy	2: moderate amount of joy can be inferred
+2018-En-03057	I wish for my Powers be multiplied and the Insight that I had into their understanding be made clearer #joy	joy	2: moderate amount of joy can be inferred
+2018-En-00106	@shlmrie ohh im so kiliigg HAHAHA #flattered thank youuu! 💛	joy	2: moderate amount of joy can be inferred
+2018-En-03140	Happy happy birthday to the girl who never fails to brighten up everyone's day! Thank you for everything! I'll always be here for you. 🤗	joy	3: high amount of joy can be inferred
+2018-En-00225	@Ra_Bies Even #ganja suppliers r also rejoicing with #bandbaja	joy	1: low amount of joy can be inferred
+2018-En-02301	Got to love when you can just power through the #workday and everything works out great! #smiling from ear to ear today! 😊😀☺️️😉😁😄😃😀😁 #happy	joy	3: high amount of joy can be inferred
+2018-En-00501	Living downtown for the first time while #tiff is happening. Schedule is out today! #excitement #thechildrenact #StanleyTucci #EmmaThompson	joy	2: moderate amount of joy can be inferred
+2018-En-00906	@kristeen_battle Your AVI♥♥♥A-one #smile #hairstyle #pretty	joy	1: low amount of joy can be inferred
+2018-En-00895	@TEN_GOP @Dj_MadArab outlier fail. Btw, nothing to see here 😄	joy	0: no joy can be inferred
+2018-En-02862	@pip_tp @Shot_fox Looks like the JRTs have other ideas! 😆	joy	1: low amount of joy can be inferred
+2018-En-00571	You are responsible for your own happiness. If you expect others to make you happy, you will always be disappointed.	joy	1: low amount of joy can be inferred
+2018-En-02380	Guilty pleasure: bending over in public and watching men try not to look at my boobs. #tease #isthisaformofcruelty #boobs #bewbs 	joy	1: low amount of joy can be inferred
+2018-En-00474	@HundredRecs Nashville Sound lyric book edition! #glee	joy	1: low amount of joy can be inferred
+2018-En-03957	Been spoilt even got a Kylie lip kit 😆	joy	2: moderate amount of joy can be inferred
+2018-En-03233	@Radio702 There is nothing comical or funny about corrupt officers and negotiating the rand amount for a bribe 😡	joy	0: no joy can be inferred
+2018-En-00677	@AWilliamson54 dude, you're killing it on KSR #hilarious #AradioNatural	joy	2: moderate amount of joy can be inferred
+2018-En-00746	@bolarotibi @jamesatye @jacksonhull @danielmarion We're done! Interesting, informative and exhilarating 😄 #CollabAndComm	joy	2: moderate amount of joy can be inferred
+2018-En-04371	happy birthday to anne ! we wish her all the best and hope she's having a wonderful day	joy	3: high amount of joy can be inferred
+2018-En-02075	@Bemannn UGH I can't even contain my excitement!! 😍	joy	3: high amount of joy can be inferred
+2018-En-03871	@AmberX994874 Butcher Jim landed on his arse #hilarious #NinjaWarriorAU	joy	2: moderate amount of joy can be inferred
+2018-En-01951	Woke up to my neighbors singing Perfect by Ed Sheeran. 😊 My mood has been set. 😍	joy	3: high amount of joy can be inferred
+2018-En-03926	Good morning! I hope you all have an amazing Wednesday. #wednesday #positivevvibes 	joy	3: high amount of joy can be inferred
+2018-En-02066	After all of the Disney animated films are remade in live action, will they just reanimate them again?	joy	0: no joy can be inferred
+2018-En-03727	@RandyRainbow Brilliant &amp; clever as always. #delight	joy	2: moderate amount of joy can be inferred
+2018-En-03015	@saffronieee thnx fan 😂	joy	1: low amount of joy can be inferred
+2018-En-02483	@mrsebastian696 @Twitter HAPPY BIRTHDAY!! :D	joy	2: moderate amount of joy can be inferred
+2018-En-00927	@MarkACollett Un-fu**ing-real! So glad I don't live I the UK right now. My heart aches for my British cousins over there. 😞	joy	0: no joy can be inferred
+2018-En-02436	@EmberXiao ❝ Ah, I see! Clever! ❞\n[Ruby nodded her head, putting her hands by her sides before smiling up at Yang.]\n❝ Hehe, since when--	joy	1: low amount of joy can be inferred
+2018-En-04099	@tays5h happy birthday baby, i wish you happiness in liiiiife☁💙✨	joy	3: high amount of joy can be inferred
+2018-En-02470	About to watch the eclipse in astral valley with the longest time in totality across the country  #thankful	joy	2: moderate amount of joy can be inferred
+2018-En-01281	Good morning family to all of you who took the time to wish mom a HAPPY BIRTHDAY Thank you from my ❤ love you be blessed	joy	3: high amount of joy can be inferred
+2018-En-02534	Bless me O friends for I've burst the bubble of #happiness &amp; replaced it with #contentment.\n\nEcstasy of the #unstrucksound is pure #Bliss 🙏	joy	3: high amount of joy can be inferred
+2018-En-03266	Trere should be more meet cute ccenes where beautiful young people accidenta.ly.start eating the same cruller.	joy	1: low amount of joy can be inferred
+2018-En-00200	Codes? Lyft codes? We got em! Use: OATH #Great deals are here for you now  #LOVEISLOVE	joy	0: no joy can be inferred
+2018-En-03484	Happy #worldfringeday I can't think of a more appropriate year to perform at the @edfringe for the first time with @CultureClashUK 	joy	2: moderate amount of joy can be inferred
+2018-En-00739	Wow, you guys @FarPostSA truly rock! You got all the transfer deals spot-on! Well done. #credible #concise #spoton #brilliant	joy	2: moderate amount of joy can be inferred
+2018-En-01429	Its hilarious that baby buffoon Trump provides evidence. Nothing new though. Eyes on the prize. Stop this nazi based admin in its tracks.	joy	1: low amount of joy can be inferred
+2018-En-03456	got a channel on my Roku which has 24/7 Invader Zim playing. 	joy	0: no joy can be inferred
+2018-En-02811	All of my friends are so attractive and am grim in comparison lol	joy	1: low amount of joy can be inferred
+2018-En-00220	Don't stop believin' came on in the car and I almost started crying. Who else misses glee. #glee	joy	1: low amount of joy can be inferred
+2018-En-03325	@Muhd_Babba I started reading it but it made no sense kawai I left it 😅	joy	0: no joy can be inferred
+2018-En-01167	So much excitement for Rome this time next week - getting ready to burn and turn red too 😂	joy	3: high amount of joy can be inferred
+2018-En-03529	#Worry steals your #happiness, robs your #energy. #success #quote #BertMartinez	joy	1: low amount of joy can be inferred
+2018-En-01854	Happy happy birthday @mrjaxtaylor  hope your day is f*n awesome! Have a drink or two or five for me!!	joy	3: high amount of joy can be inferred
+2018-En-02528	Laughter is an instant vacation\nTake a vacation now\n#vacation #laughter #happy #AlenaNaron #LifeCoach #Positvity	joy	3: high amount of joy can be inferred
+2018-En-01947	On the bright side ma work pals have treated me too a spotty dotty cookie	joy	1: low amount of joy can be inferred
+2018-En-02520	The best thing about #australianninjawarrior tonight is watching the failed attempts on the bomb slider. #hilarious #laughingsohard 🤣🤣🤣	joy	2: moderate amount of joy can be inferred
+2018-En-01934	skillroads | #AI #Resume creator: Take risks: if you win, you will be #happy; if you lose, you will be wise. #Wisdom #success	joy	1: low amount of joy can be inferred
+2018-En-02078	@TommySandhu @bbcasiannetwork tommy you r phenomenal smashed #ajjdin on the mixes #hilarious and #awesome 😜😂😂👍🏻	joy	2: moderate amount of joy can be inferred
+2018-En-01353	Hoping the Giant ice that broke off will cool the ocean and bring back the Great Barrier Reef #optimism #amirighttho #sigh	joy	1: low amount of joy can be inferred
+2018-En-01963	@_Nafami_ 😂 He looked like a sea weed version of cousin IT from adams family and was reaaaally tall.	joy	1: low amount of joy can be inferred
+2018-En-04098	I keep getting so worried about the amount of plastic that gets thrown away atm as if I didn't panic enough about the environment already :)	joy	0: no joy can be inferred
+2018-En-03260	#TOKYO\nFear death as much as optimism.	joy	0: no joy can be inferred
+2018-En-04201	I'm a proud father to a mustache #babystache #adorable #newborn	joy	3: high amount of joy can be inferred
+2018-En-03080	I feel bad for people who don't understand my sarcasm. They think I'm mean, but really I'm hysterical &amp; they don't realize it. #sad #funny	joy	0: no joy can be inferred
+2018-En-01357	The things I get myself into... #nervous #excited #prayforme	joy	0: no joy can be inferred
+2018-En-00778	Feeling #adorable in my WalMart pajamas. #JenniMiller #JenniMiller29 #louiselinton	joy	2: moderate amount of joy can be inferred
+2018-En-01670	Some days are better than others! ☺️\n\n#life #days #DifferentIsBetter #different #happiness #sadness #tired #poorly #sick #hurt #pain #health	joy	0: no joy can be inferred
+2018-En-03852	Hello everyone! it's 6:30 in the #morning, the #sun is just rising in #DominicanRepublic, hope you have a great #day #today! keep .	joy	3: high amount of joy can be inferred
+2018-En-03659	@hugaarondingle God, the way he said that line... 😭 💔 #amazing #loveDannyBMiller #robron	joy	2: moderate amount of joy can be inferred
+2018-En-04365	@Aidan_Herring_ @JACKElCHEL @NHLNetwork @DallasStars The banner I look at from my seats at the AAC tells me otherwise. #good	joy	1: low amount of joy can be inferred
+2018-En-02692	suddenly I want to be in the middle of chaos, feel the #wonderful sense of sound; my feet are tired of these long stretched silences #vss365	joy	1: low amount of joy can be inferred
+2018-En-02822	DC Young fly is hilarious man.	joy	2: moderate amount of joy can be inferred
+2018-En-04122	Good morning. ❤️ Start every #morning by waking up and thinking of the things you're #grateful for. 🙏 #goodmorning	joy	2: moderate amount of joy can be inferred
+2018-En-01033	2Chainz my nigga 😊	joy	1: low amount of joy can be inferred
+2018-En-00872	@PromilaSingh15 Thank you so much Promila aunty 😃	joy	2: moderate amount of joy can be inferred
+2018-En-02135	Remember, miracles do happen! Like the time Catherine of Aragon died after completely not being poisoned. Wow! #inspiring #MondayMotivation	joy	1: low amount of joy can be inferred
+2018-En-00414	@AnthonyCumiaxyz @jim_jiblets Billy Joel is in huge danger, he's so brave #inspiring	joy	1: low amount of joy can be inferred
+2018-En-02967	Thank you for sending random kind people into my life when I need them the most #smiling #grateful	joy	2: moderate amount of joy can be inferred
+2018-En-02763	@CamilaLolie97 @Camila_Cabello I'm from Greece, but I'll travel anywhere arround Europe the next time she comes, just to meet her. 😊	joy	2: moderate amount of joy can be inferred
+2018-En-02220	Accept the challenges so that you can feel the exhilaration of victory.  \n-- George S. Patton	joy	0: no joy can be inferred
+2018-En-02043	Late dinner with my dad and fam in the mountains. I'm having an appetizer consisting of pop tarts and coffee. #delightful	joy	3: high amount of joy can be inferred
+2018-En-02303	#laughing but #crying bc my life is such a shit show	joy	0: no joy can be inferred
+2018-En-02249	@Ithika Loving it! 😂	joy	3: high amount of joy can be inferred
+2018-En-03896	@D_Bushaiba @nalhussaini_ happy birthday 7ayate❤️	joy	2: moderate amount of joy can be inferred
+2018-En-03895	When do you feel the hungriest?\nThe night before I start a new #diet .\n#hungry #food #HealthyEating #trying #new #funny	joy	0: no joy can be inferred
+2018-En-02505	@KEEMSTAR I mean see tge point but it is a lively hood for some. Really the only ones that should complain are...	joy	0: no joy can be inferred
+2018-En-03886	@charliekirk11 @DonaldJTrumpJr Little Donnie is heading to jail, rejoice.	joy	1: low amount of joy can be inferred
+2018-En-00330	@TheKJTFan That's that #good #praxis	joy	0: no joy can be inferred
+2018-En-03510	@noniiee_n It chases them away, girl. Or Matlakala. 😂	joy	1: low amount of joy can be inferred
+2018-En-02827	@GarimaGupta1508 @SHEROESIndia missing it! Look forward to seeing you all in #Bangalore soon 😀	joy	1: low amount of joy can be inferred
+2018-En-04212	What do you call a camel with no humps?  Humphrey! #joke  #writerslife #HAHAHA #WednesdayWisdom	joy	2: moderate amount of joy can be inferred
+2018-En-04231	Joy comes when you stop choosing circumstances that make you miserable. It takes courage to create a #joyful life.	joy	2: moderate amount of joy can be inferred
+2018-En-03534	@danabente Well, thank you. Sincerely 😊	joy	2: moderate amount of joy can be inferred
+2018-En-02659	smile princess , it looks good on you ..	joy	2: moderate amount of joy can be inferred
+2018-En-00675	Meditation is taking out the garbage. Tuning out the thoughts we don't need. Embracing our true self. #yoga #love #smile	joy	1: low amount of joy can be inferred
+2018-En-01740	When one door closes another one opens #opportunity #growth #optimism	joy	1: low amount of joy can be inferred
+2018-En-02591	@shreyaghoshal Waiting for the FV live session #excited #Happy Bdw you have to sings lots of songs for us during this session	joy	2: moderate amount of joy can be inferred
+2018-En-00521	Strapless wedding dresses look awful on most people. \nJulianne Hough looked great 👌🏼	joy	1: low amount of joy can be inferred
+2018-En-03945	@01mattwhite @Football__Tweet @DeadlineDayLive That's brilliant 😂 The music makes it	joy	2: moderate amount of joy can be inferred
+2018-En-02042	Her #future #bright don't give a 🙊about her #past #RickRoss #DeadPresidents #TuesdayThoughts	joy	0: no joy can be inferred
+2018-En-03284	Watching @JamesAcaster clips in bed. Actual legend. Never fails to put me in a good mood. #comedy #legend #love #laughter #bedtime x	joy	2: moderate amount of joy can be inferred
+2018-En-00223	'You have an amazing problem here' - @sbxr has spotted a huge privacy issue for TracTAG 😱 #SharkTankAU	joy	0: no joy can be inferred
+2018-En-00735	@MarcMero Happy Anniversary!! Have a great day!!	joy	2: moderate amount of joy can be inferred
+2018-En-02092	@dngokingyok They are my hetero guilty pleasure 😂	joy	2: moderate amount of joy can be inferred
+2018-En-03134	@Spicerlies So she's saying that the mountain of verifiable evidence that says otherwise is all fake news? Well, there's a surprise! 🤣	joy	0: no joy can be inferred
+2018-En-02281	Dry overnight here in Newmarket with a cool sunny start but set fair for Ladies Day #good ground	joy	1: low amount of joy can be inferred
+2018-En-03953	Soooooo excited for lost village ✨😎🌈🎪🎷🏕	joy	3: high amount of joy can be inferred
+2018-En-01248	Hello everyone! How are you? Sinong excited na for live shows? Hahaha don't worry we are too 😃😬	joy	2: moderate amount of joy can be inferred
+2018-En-03704	Gooood morning it is such a #blessing to see another day all that Read this I hope have a great morning	joy	3: high amount of joy can be inferred
+2018-En-02141	@pdmcmagic Everyday I'm #stretching my elastic bands ready for #practicing #magic #entertaining	joy	1: low amount of joy can be inferred
+2018-En-00407	madly in love with the love of @ActionBronson for food. &lt;3  &lt;3  &lt;3  #fuckthatis	joy	2: moderate amount of joy can be inferred
+2018-En-04366	#Laughter strengthens #relationships. #Women are more attracted to someone with the ability to make them #laugh.	joy	2: moderate amount of joy can be inferred
+2018-En-01285	supportive friend 😄	joy	1: low amount of joy can be inferred
+2018-En-03694	I've got 5 mins to get to work 😂	joy	0: no joy can be inferred
+2018-En-00687	You turned my world with a smile, and you take my heart with a kiss	joy	2: moderate amount of joy can be inferred
+2018-En-02777	So today, the love of my life moved in with me 😍😉😘 #happy #excited	joy	3: high amount of joy can be inferred
+2018-En-01765	@BrenFosterReal Happy Tuesday, Bren...Just stopping by to wish you a great day ahead filled with love and smiles 😙😙😙....Love and Miss you! ❤	joy	3: high amount of joy can be inferred
+2018-En-00240	I love swimming for the same reason I love meditating...the feeling of weightlessness. 	joy	2: moderate amount of joy can be inferred
+2018-En-00590	@ShadGandel i'm glad that despite my weeks of being MIA we can still talk about the most idiotic shit\n\nTURN AROUND BRIGHT EYES	joy	0: no joy can be inferred
+2018-En-02094	@gjameslago Ngi y do u do this 2 me :-) iloveyou 😘	joy	1: low amount of joy can be inferred
+2018-En-02181	@stevenmnuchin1 Does your wife look #adorable at 6:00 a.m.?  #AdorableWife  #AdorableWedding  #AdorableHoneymoon #AdorableJet  #AdorableJob	joy	2: moderate amount of joy can be inferred
+2018-En-02800	Santorini is so beautiful 😍	joy	2: moderate amount of joy can be inferred
+2018-En-02803	Witnessed pure beauty from Ft. Lauderdale #SolarEclispe2017 	joy	2: moderate amount of joy can be inferred
+2018-En-01954	I lost my touch at focusing with a lot of noise in the background. It's why I can't do anything great at school anymore hahaha	joy	0: no joy can be inferred
+2018-En-00260	@tenderlove listened to your CUSEC 2015 talk again for inspiration in writing my own conference talk #tornado of #laughs	joy	1: low amount of joy can be inferred
+2018-En-00577	Yuko is best known for her cheery personality, dimply smile and prominent squirrel teeth. | She hates ballons. #OshimaYuko	joy	1: low amount of joy can be inferred
+2018-En-03453	animated bts is so cool ok im cryin djdndjenns	joy	0: no joy can be inferred
+2018-En-02206	Me: How much price for this poster of this sexy man? Sales Clerk: That's a mirror, sir.\n #LaughOutLoud 	joy	2: moderate amount of joy can be inferred
+2018-En-00683	Watching Senator Adeleke and his joyful dance steps this morning got me rolling. Dude can bougie	joy	2: moderate amount of joy can be inferred
+2018-En-03490	My take on recent Yatra. Security forces have done s wonderful job fighting terror. They have also made supreme sacrifice. Civilian turn now	joy	0: no joy can be inferred
+2018-En-01619	The enjoyment of seeing the same thing your ex did to you happen to them! #karma #😂 #whatgoesaroundcomesaround	joy	2: moderate amount of joy can be inferred
+2018-En-03710	@HunRaKai Are u going to see her in the airport? 😃	joy	1: low amount of joy can be inferred
+2018-En-01018	When Dino was making a fool of himself with that Ajekun iya stunt, y'll hailing him but a bereaved person got a chance to be joyful = abuse?	joy	0: no joy can be inferred
+2018-En-04177	i was so confused but then my inner fujoshi was screaming and like i was trying so hard not to smile or laugh	joy	1: low amount of joy can be inferred
+2018-En-03126	Another cup of coffee with cookies and smart, intelligent, brilliant ,the best  #attorneysatlaw . What can I do? God made us! #happy	joy	3: high amount of joy can be inferred
+2018-En-02004	Wear a smile, one size fits all. #inspire #simple #simplethings #motivation  #health #healthcare #relax #goals	joy	2: moderate amount of joy can be inferred
+2018-En-02719	@miracles_J yaaay finally brave enought to comment on their vlive 😅	joy	1: low amount of joy can be inferred
+2018-En-02887	Adam Sandler is actually super hilarious &amp; all his movies are funny &amp; heartwarming	joy	3: high amount of joy can be inferred
+2018-En-03268	@KB_KrishnaBeura @Twitter @TwitterIndia @verified Congrats Krishna sir 😃	joy	2: moderate amount of joy can be inferred
+2018-En-04329	@Pontifex To Pope\nDisclose Fatima's prophecy. Command from \nGod is very angry.\nPlease disclose the prophecy.\nI am a blessed 　God's　daughter.	joy	0: no joy can be inferred
+2018-En-00181	PUPPY FOR ADOPTIONS !!! Happy pics!! Please SHARE for exposure! Put out the word to good adopter prospects!...	joy	2: moderate amount of joy can be inferred
+2018-En-00145	When you get a 3/3 in origin tipping 	joy	1: low amount of joy can be inferred
+2018-En-04367	Lyft app is giving you $50 to use free, enter code DUSK #Who doesn't love a great deal!?  #SAVE	joy	1: low amount of joy can be inferred
+2018-En-02264	@niallard @Iainmackay8 If I could just pick 8 of them then I'd have no trouble picking who I wanted 🤣	joy	1: low amount of joy can be inferred
+2018-En-02494	@bravoallstarz looks like it's going to be an amazing season #cheer	joy	1: low amount of joy can be inferred
+2018-En-01834	Before I even understood what was happening, I'd feel this pang of sadness whenever we parted 😥 #firstlove #bliss #books #lovehurts	joy	0: no joy can be inferred
+2018-En-01899	My fave country bumpkin is...drum roll) the collective Daniher family! #hillbillies #Clampetts #yokels #guns #superstars  #AFL360	joy	1: low amount of joy can be inferred
+2018-En-02005	When @Jaclynhill and @JeffreeStar  snap chats get you through the day w/ their words of inspiration #blessed ❤️💕	joy	3: high amount of joy can be inferred
+2018-En-03106	@RobloxDjWest Nice to hear that birds 'chrip' instead of chirp 🙃🌚	joy	0: no joy can be inferred
+2018-En-00909	A loss ain't a loss, it's a lesson .Appreciate  the pain, it's a blessing #jay #JayZ444 #smile	joy	0: no joy can be inferred
+2018-En-03646	@LisaBloom It's #adorable #mnuchinwife thinks she's on a #government mission. #louiselinton	joy	0: no joy can be inferred
+2018-En-00740	This Lyft Code gives you $50 off ZOOT # Carriage House #glad #Lyft4LIFE	joy	0: no joy can be inferred
+2018-En-02825	Smile because you have the promise of tomorrow and the next day and the next day ..endless possibilities ! #focus #live #happiness	joy	3: high amount of joy can be inferred
+2018-En-03691	@cpwomensopen @BrookeHenderson @CHEOhospital @OttawaHuntClub #Priceless  love those #smiles	joy	2: moderate amount of joy can be inferred
+2018-En-01586	@AAnworislam59 Happy birthday #beautiful pussy	joy	1: low amount of joy can be inferred
+2018-En-04343	A simple wallpaper ever 😂	joy	2: moderate amount of joy can be inferred
+2018-En-04080	@20committee Don Jr lawyered up with the wrong folk. He aint so bright.	joy	0: no joy can be inferred
+2018-En-00727	@GaryClarkJr  seriously best turn out for blues i have ever seen. #amazing	joy	3: high amount of joy can be inferred
+2018-En-02234	Ready to start my day after practising my daily #meditation.Today's focus was on #gratitude and there are so many things to be #grateful for	joy	2: moderate amount of joy can be inferred
+2018-En-03742	@ohayyght Dont forget to eat you dinner nunna 😄	joy	1: low amount of joy can be inferred
+2018-En-02859	@katymilligan @LimerickArts @creativeirl @Limerick_ie BTW - lunch is included in the ticket price #yummy #food	joy	1: low amount of joy can be inferred
+2018-En-04097	Cyclist slams breaks to pace it to traffic lights. I slam car breaks&amp;tell him careful nearly ran him over=all the cussing #charming #bulwell	joy	0: no joy can be inferred
+2018-En-02518	I didn't give @chelsopat @s0ccer15 credit for bringing me chocolate milk so here it is 🙏🏼 #grateful	joy	2: moderate amount of joy can be inferred
+2018-En-00097	@BethRigby And you'd even worn an attention-grabbing bright green jacket too...	joy	0: no joy can be inferred
+2018-En-03485	Best thing about the #bossbaby film has to be the wizard alarm clock doing lotr quotes! 	joy	1: low amount of joy can be inferred
+2018-En-00371	Daughter, her husband and kids caught a boatload of red snapper &amp; mackerel off Port Aransas... we enjoyed the #fish feast #delicious	joy	2: moderate amount of joy can be inferred
+2018-En-00073	@Skinnytaste made your Chicken Tikka Masala w/ cauliflower &amp; peas tonight. So delicious didn't even get a chance to snap a pic! #delicious	joy	2: moderate amount of joy can be inferred
+2018-En-01625	@trevschan2 when is fear going to get a truly badass villain? Madison isn't a villan to us.  I'm cheering for the Clarks! Lol	joy	1: low amount of joy can be inferred
+2018-En-01761	@Marcella_Jonas One of the twins was sleeping next to me. I tried to cover my laughter, but I shook so hard she woke up!	joy	1: low amount of joy can be inferred
+2018-En-01016	@JustinOEarlwood #awesome news for the blues	joy	2: moderate amount of joy can be inferred
+2018-En-01256	I got striked by #awesomeness and blinding people by all the #glory! #nosleep48	joy	2: moderate amount of joy can be inferred
+2018-En-00815	@mhodges813 Looks like you'll be working there until your 20 🤣	joy	0: no joy can be inferred
+2018-En-00478	Idiot ni yen 😂 sorry but no one asked for a kill joy	joy	0: no joy can be inferred
+2018-En-02053	@AishaRuby85 thank you very much. I keep gettin the excited kid on ur bday feeling 😊	joy	3: high amount of joy can be inferred
+2018-En-02173	@BloodMoonSaint @Tamaishingo22 definitely agree 😊	joy	1: low amount of joy can be inferred
+2018-En-02971	@MST3K Punt Bunnies, the only #bunnies you can #punt , #love #laughing #whoisSteveSmith	joy	2: moderate amount of joy can be inferred
+2018-En-02846	i just want to fast forward to the part of my day where i take a nap between work and cheer	joy	0: no joy can be inferred
+2018-En-01867	beautiful day Lord has made let us rejoice &amp; be glad in it &amp; rejoice Hillary NOT president! God bless POTUS &amp; United States of America🇺🇸👍	joy	2: moderate amount of joy can be inferred
+2018-En-03145	I just wanna be okay!!\nLike I know I can be all smile and giggles, but hot diggity dang, if that wasn't a mask, life would be swell!	joy	0: no joy can be inferred
+2018-En-02745	@LOLBOOKcom He is #blessing the crap out of these people! ...or something...	joy	1: low amount of joy can be inferred
+2018-En-00209	love getting 5 hours of sleep, and then getting woken up to HORRID allergies. Oh good morning, world. #allergy #wonderful	joy	0: no joy can be inferred
+2018-En-00282	I need this hair done !! I prob will do it the next time I'm off . But good morning 😘	joy	1: low amount of joy can be inferred
+2018-En-03769	Welcome Shy Guys Allegiance! Why does asking for a plant seed seem so sexual in Paper Mario? #PaperMario #game #NotSoShyGuys #sexual #funny	joy	1: low amount of joy can be inferred
+2018-En-02892	Happy birthday @ShanteriaI!! i miss you tons + i'm so excited to be back in florida to hear all about Turkey + to have our 🌮dates!! 💛🎉	joy	3: high amount of joy can be inferred
+2018-En-01749	Who's Your Cat Daddy!?\n\n#cats #love #instagood #photooftheday #beautiful #cute #happy #fashion #follo ...	joy	2: moderate amount of joy can be inferred
+2018-En-01126	If money cannot buy happiness, can you ever be truly happy with no money?	joy	0: no joy can be inferred
+2018-En-00351	Working at my kitchen table, with the 3D whirring next to me. Me working on some Facebook-stuff, the printer on a stimpack.  #bliss	joy	2: moderate amount of joy can be inferred
+2018-En-03467	What makes you feel #joyful?	joy	1: low amount of joy can be inferred
+2018-En-00389	Enjoying #StarGateSG1 on @WatchComet.! 👍🏼😊📺\n#Stargate #SG1 #Watchcomet #Comettv #syfy #scifi #sciencefiction #tv #freetv #antenna #enjoyment	joy	2: moderate amount of joy can be inferred
+2018-En-00671	'Best customer, ... We are pleased to inform you that the order has been sent today.' #butterflies #excitement #technojoy #music ~ OP-1 &lt;3	joy	2: moderate amount of joy can be inferred
+2018-En-01868	@SueLeibman Just got an audition for a lead role in a #SAGFilm #actor #moviestar #awesome #happy  @IMDb #Me #RT	joy	3: high amount of joy can be inferred
+2018-En-01012	@itsjordansroom Good Morning to you as well Miss Jordan!! Have a cheerful day!	joy	2: moderate amount of joy can be inferred
+2018-En-00066	@AmyAndrewsFOX2 Good morning Amy #smiles  😀 It's good to be a @Lions fan. ☕☀👚👠😎😘	joy	3: high amount of joy can be inferred
+2018-En-02884	@LoganPaul You share your jolly cheerful character that it makes so unique:)	joy	2: moderate amount of joy can be inferred
+2018-En-00789	I was deeply struck with her very presence,expressions &amp; soul-penetrating performance.I was lost in her #bliss #NinnuKori  @i_nivethathomas	joy	2: moderate amount of joy can be inferred
+2018-En-01475	@magicpencil I'd just whip up a cake batter or cookies &amp; throw it in 😀 bakewell, frangipani is made with almonds	joy	1: low amount of joy can be inferred
+2018-En-00964	I'm new to the #instructionalcoach world and would love to know your fave resources! I will be in a high school new to IC. #nervous #excited	joy	2: moderate amount of joy can be inferred
+2018-En-01440	Robert called me to make sure I was awake for my night class 	joy	0: no joy can be inferred
+2018-En-04253	Geraldo At Large is an effortless, intelligent entertainment, and a fabulous, fun-filled start to the hugely lucrative franchise. #PraiseFOX	joy	1: low amount of joy can be inferred
+2018-En-02762	I see you smiling through the steam of my coffee cup	joy	2: moderate amount of joy can be inferred
+2018-En-01444	'The happiest moments in life are not actually spent laughing or smiling the whole time with so many people around.'\n#JonaxxBBTWKab39	joy	2: moderate amount of joy can be inferred
+2018-En-03960	@mikepicone55 Heeheeee. 😆 I'm at the point where both can happen simultaneously. It's very disappointing.	joy	0: no joy can be inferred
+2018-En-00433	had noodles for tea\nyummmmmmy\n#yum #yummy #ddlg #abdl #chgl #noodles	joy	2: moderate amount of joy can be inferred
+2018-En-00732	@lil_hooper30 HAPPY BIRTHDAY TWINNN!!!! 💓😘 have a great day love ya!!!	joy	3: high amount of joy can be inferred
+2018-En-01743	Remember when you were a kid and you flipped up the bottom of your shirt to make a pouch and put snacks in there?  #times  #snacks	joy	1: low amount of joy can be inferred
+2018-En-00048	Casper, Wyoming is just about  to witness totality 🌝🌚 #amazing #Eclipse2017	joy	3: high amount of joy can be inferred
+2018-En-03512	Look at this little guy! He is connecting to his magical self.😇\nWhat do you do to keep life magical?🌈 @AnewPerspective #magical  #be	joy	2: moderate amount of joy can be inferred
+2018-En-03400	Amazing how #grief, #anxiety and #joy can all pull on your heart at the same time, isn't it? #highriskpregnancy #bedrest	joy	1: low amount of joy can be inferred
+2018-En-03943	Remember watching a talk show for class 1 day about the Charlie Hebdo aftermath.. guests had a lively debate over religion/free speech.. 4/x	joy	0: no joy can be inferred
+2018-En-02306	@billjoehughes Sounds delightful 😅	joy	3: high amount of joy can be inferred
+2018-En-03579	I've struggled to figure out how lightning works, but then it struck me.        #laughing #lol	joy	2: moderate amount of joy can be inferred
+2018-En-00278	Is that a fashion to wear a tight pants, so u can see a camel toy? Lol 🤣 #fashion #girl #girl #pants  #fact	joy	1: low amount of joy can be inferred
+2018-En-01642	Featuring grilled halibut with a lime basil crust and a yellow tomato and lobster coulis #yummy #seafood	joy	2: moderate amount of joy can be inferred
+2018-En-02225	Some people just need to learn how to #smile 😁 and #laugh 😂😂 #live #life	joy	2: moderate amount of joy can be inferred
+2018-En-02145	So excited for tonight, I actually feel a bit sick 😅	joy	2: moderate amount of joy can be inferred
+2018-En-02144	@GraysonDolan Happy Tuesday Gray ❤❤❤ #excited	joy	3: high amount of joy can be inferred
+2018-En-02119	Being able to sleep in just boxers is probably one of the best pros that comes with being a guy #breezy	joy	2: moderate amount of joy can be inferred
+2018-En-01216	@FuthieMasina Lol nah u subscrib 4 R60/pm. N pay R3 each day thus anada R90/pm. Lol stream n use de app using ur data. #smiles	joy	1: low amount of joy can be inferred
+2018-En-01397	Do what makes you happy, be with who makes you smile, laugh as much as you breathe, and love as long as you live! #f4f	joy	3: high amount of joy can be inferred
+2018-En-01316	The formula of happiness rather than inertia. #elated	joy	2: moderate amount of joy can be inferred
+2018-En-01422	Detest living on the west coast of Scotland with all the bigoted sectarian shite from WATP lowlife. Then I look at Norn iron and I cheer up🙄	joy	0: no joy can be inferred
+2018-En-01653	who needs an alarm clock when u have an excited puppy jumping on you every morning	joy	2: moderate amount of joy can be inferred
+2018-En-01343	@MPSNutrition Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships	joy	2: moderate amount of joy can be inferred
+2018-En-02712	Happy 1 year anniversary to me &amp; my shawty❤️😭🌸 it's been an amazing year together.	joy	3: high amount of joy can be inferred
+2018-En-01070	This officer is a hero! 👏 #dogs_of_instagram #adorable #doglovers	joy	2: moderate amount of joy can be inferred
+2018-En-01439	We're just a bunch of sad kids trying to cheer each other up..	joy	0: no joy can be inferred
+2018-En-03537	We are #successful the moment we start toward a laudable goal #JBenson #success #quoteoftheday #happiness	joy	2: moderate amount of joy can be inferred
+2018-En-00192	@mir_btc Eherium should make everybody happy	joy	1: low amount of joy can be inferred
+2018-En-00236	yas bret you're always making me laugh ily 😘 @bretmanrock	joy	2: moderate amount of joy can be inferred
+2018-En-02679	wow, i really can't believe four years already went by. four years. jeez. we miss you big guy #4yearswithoutcory #corymonteith #glee	joy	1: low amount of joy can be inferred
+2018-En-00216	no matter what i do i find that you’re always in my heart, and forever on my mind.\nlove u endlessly cory... #4yearswithoutcory #glee	joy	1: low amount of joy can be inferred
+2018-En-04356	Man, if you can laugh and be silly with your family &amp; friends, that is enough. That is life. #laughter #goofiness #silly 😂🤗	joy	3: high amount of joy can be inferred
+2018-En-03937	When you realize you start college in literally less than a month hahahaha what the FUCK I just wanna be a #carefree teen forever TF	joy	0: no joy can be inferred
+2018-En-01604	@benoitgomis @AU_SIS @HugoRosemont @alex_corbeil My pleasure: hope it was useful and happy to keep the conversation going!	joy	2: moderate amount of joy can be inferred
+2018-En-00536	Looking for Lyft promo code? Use this for $50: JOX # Slurping Turtle #pleasant #agreeable	joy	1: low amount of joy can be inferred
+2018-En-03671	Enter this code for 10 free Lyfts TRIX # Telegraph #shapely #sparkling	joy	1: low amount of joy can be inferred
+2018-En-03387	- Due to the historically long bond between dogs and humans, dogs have evolved to understand human laughter. #FeelAlive	joy	1: low amount of joy can be inferred
+2018-En-00644	He is holding her so close, wrapped his hands around her shoulder, she is holding them and they're both smiling. I'm still living. ☺️	joy	1: low amount of joy can be inferred
+2018-En-02787	Be the very best you can be. Believe that you can be the best version of you there is. You are the best! #theonlyyou  #iinspiredu	joy	1: low amount of joy can be inferred
+2018-En-03543	Felt like a lost soul in front of @katetempest, shivering more than ever #nowordstodescribe #emotional #beautiful #festival #aufoindelarue	joy	1: low amount of joy can be inferred
+2018-En-02881	@andybainbridge4 Duna what u mean mate, am a delight	joy	1: low amount of joy can be inferred
+2018-En-01594	Wonderful morning at my best friend's house.  She's at work! I'm writing, eating her delicious fresh bread &amp; cake &amp; drinking fresh ☕️ 	joy	3: high amount of joy can be inferred
+2018-En-03276	@SylvesterTurner @HoustonMatters With all the other stuff going on in houston #crime you spend your time bullying the homeless #wonderful	joy	0: no joy can be inferred
+2018-En-04132	Its #amazing watching various news outlets showing mixed crowds of ppl watching #Eclipse with NO #racial tension.. #MSM can't hide this!	joy	2: moderate amount of joy can be inferred
+2018-En-03114	Nobody is very tough in this life. Everybody feels the sadness but they sometimes pretend to smile.	joy	0: no joy can be inferred
+2018-En-01744	Always laugh when you can, it is  cheap medicine 🤣	joy	2: moderate amount of joy can be inferred
+2018-En-01542	@LisaCim @AcaciaEvans This is the best picture I have ever seen! #beautiful #happy	joy	3: high amount of joy can be inferred
+2018-En-02664	If you're not eating @TheHotCorner3b lasagna for dinner tonight, you're doing it wrong. 	joy	0: no joy can be inferred
+2018-En-03969	@Jesus_Luvs_Us Hello Jillian &amp; JC - a nice wisg from Betty for blessings to us all - I wish you the same - have a wonderful Tuesday! 😀	joy	3: high amount of joy can be inferred
+2018-En-03863	@Deyfresco haha harsh but funny! Depends on which Jones we get. The Jones that fought OSP would have lost to DC imo	joy	1: low amount of joy can be inferred
+2018-En-04052	im hard to understand because my personality is so energetic and joyful but my mind often times wanders into the darkest places	joy	0: no joy can be inferred
+2018-En-01813	@HillF1 @SilverstoneUK I'm coming on Saturday for Qually and the race on Sunday, can't wait 😊 #excitement #needalewiscap	joy	3: high amount of joy can be inferred
+2018-En-02665	@sanga_wardene Probably, the way you converse...sounds funny, and I can't suppress a giggle. 😊	joy	2: moderate amount of joy can be inferred
+2018-En-00648	@DrJaninaRamirez @GlosHistFest Hope to come #yay Do u have central accom list plse? (Lone gal trying to avoid taxis 😉) 🏰 #History #joy	joy	1: low amount of joy can be inferred
+2018-En-00859	My author copies have landed in Australia. My agent has them. Soon, I'll be able to hold one and flick through it. #excitement #StoneCircle	joy	3: high amount of joy can be inferred
+2018-En-03159	Bertolacci will join Genoa on a dry loan with no option to buy, done deal- Sky....At last he's gone #rejoice	joy	1: low amount of joy can be inferred
+2018-En-00379	Chicken n stuffing going in the crockpot for din din. #getinmybelly 	joy	1: low amount of joy can be inferred
+2018-En-03674	New Lyft User? Use code to get credit: INVITES #Hey coupon clippers! #cheery #LyftNOW	joy	0: no joy can be inferred
+2018-En-02653	@Dreamsof96 You want me to slap you? 😂	joy	0: no joy can be inferred
+2018-En-03473	When a person can no longer laugh at himself, it is time for others to laugh at him. Thomas Szasz #humor #merryheart #just 	joy	1: low amount of joy can be inferred
+2018-En-04145	Happy birthday to one of the many founders of this fabulous company #blessed #TuesdayMotivation #begreat	joy	2: moderate amount of joy can be inferred
+2018-En-01262	Rewatching RKellys trapped in a closet series 😂😂😂 #classic #hilarious	joy	2: moderate amount of joy can be inferred
+2018-En-03157	#AmazonPrimeDay2017 is basically my new favorite holiday.  GPS watch, food storage, pet toys, books acquired! @amazon #happy #shopping	joy	3: high amount of joy can be inferred
+2018-En-02713	It's #inspiring to see all these CEO's denouncing Trump's response to Charlottesville now that there's zero risk in doing so.	joy	1: low amount of joy can be inferred
+2018-En-04238	@m00nlightjules happy birthday mamon!!! 😄	joy	2: moderate amount of joy can be inferred
+2018-En-00799	Tu me haces reir. - You make me laugh. 🤣 #laughs #friends #jaja #haha	joy	3: high amount of joy can be inferred
+2018-En-01818	﻿Such a serene when you let yourself loose in a breezy weather. Your thoughts are countless at that moment.	joy	1: low amount of joy can be inferred
+2018-En-00308	@ClairePotter @Mermaids_March @2minbeachclean Woohoo! Enjoy Claire! Happy Tuesday :D	joy	2: moderate amount of joy can be inferred
+2018-En-00023	Home … Grab a cheer for and check out our sweet early bird deals. Have a safe, free day	joy	1: low amount of joy can be inferred
+2018-En-02231	@Burning_Up_ .@CrowGirl42 and I also! If you're over 105 wear whatever the hell you want! 😅	joy	1: low amount of joy can be inferred
+2018-En-01578	@AvrilLavigne Mom A. i saw ur insta, why? ur picture black in white, but☝ it's nice ur smile :) winner💕💕🌸🌸🌸	joy	2: moderate amount of joy can be inferred
+2018-En-00444	Temp dropped ...sky dark n our birds went crazy in #pdx we enjoyed #SolarEclipse2017 #amazing	joy	2: moderate amount of joy can be inferred
+2018-En-02385	I've lost many things, but earned many more. #grateful	joy	2: moderate amount of joy can be inferred
+2018-En-02213	Yaaaaaaaaaaaas!!!! Scotty Sinclair #wonderful #magical	joy	3: high amount of joy can be inferred
+2018-En-03757	@beenthatkyd so I scrolled back up on the '17 GC because I missed it earlier and man you toooooooooo funny 😂😂😂😂😂 hilarious headassss!!!	joy	3: high amount of joy can be inferred
+2018-En-00948	Just added a copy of CANDIDE to my local Little Free Library &amp; a guy grabbed it literally 5 seconds later #optimism #BestOfAllPossibleWorlds	joy	1: low amount of joy can be inferred
+2018-En-00205	I don't know why I'm like this but, whenever I see him, I just smile and feel happiness when he's around💕	joy	3: high amount of joy can be inferred
+2018-En-03329	Spirit is joyful. The nature of the Soul is joyful. ~ John-Roger ~ #joy #soultranscendence	joy	1: low amount of joy can be inferred
+2018-En-04216	I am seriously considering takeing a day off just to stream all day really need to 😂 #😂 #streaming #take #the #day #off	joy	2: moderate amount of joy can be inferred
+2018-En-01929	Lady singing really loudly with headphones on making everyone giggle @greateranglia #train #journey #smile	joy	2: moderate amount of joy can be inferred
+2018-En-01423	God bless him in Hong Kong! #ex 	joy	1: low amount of joy can be inferred
+2018-En-02864	Rejoice always, #pray continually, #givethanks in all circumstances; for this is God’s will for you in Christ Jesus. 1 Thess. 5:16-18 #joy	joy	2: moderate amount of joy can be inferred
+2018-En-03677	It's a good morning today and I'm feeling lively 😊 #goodmorning #happy #lively	joy	3: high amount of joy can be inferred
+2018-En-00051	You aren't weathly until you have something, money can't but. \n #goodmorning   #bless #guidelife #usa #uk #ksa	joy	2: moderate amount of joy can be inferred
+2018-En-04187	🔝 #love #instagood #photooftheday @top.tags #photoeveryday #cute #picture #beautiful #followme #happy #follow #fashion #pic #picoftheday	joy	1: low amount of joy can be inferred
+2018-En-03168	@HK9Gaming Yes man 😄	joy	1: low amount of joy can be inferred
+2018-En-03631	Nothing better than a clear head #smiles all round	joy	2: moderate amount of joy can be inferred
+2018-En-02645	I love 'I'm bad', if they can do it without Baekho, I'm sure they can do it without Minhyun 😊 all is good! Minhyun is good in WannaOne too.	joy	1: low amount of joy can be inferred
+2018-En-04065	They say money can't buy happiness... Retweet this if you'd be happy with 27 Million Dollars.	joy	1: low amount of joy can be inferred
+2018-En-00550	First class of the day &amp; I have the hottest professor #god #is #good	joy	3: high amount of joy can be inferred
+2018-En-02589	Cleaning my coffee wear with decanter balls is so therapeutic. #sparkling	joy	0: no joy can be inferred
+2018-En-01505	Never underestimate yourself ; you might be the little voice of reason.... #do #good #believe #rise #communicate #respect #love #everyone 😘	joy	2: moderate amount of joy can be inferred
+2018-En-03465	@H___JB I use Avid Media Composer :D But any editing software will do! Start with Sony Vegas or Premiere is my advice. Good luck mate. ✂️🎞️👍	joy	1: low amount of joy can be inferred
+2018-En-00482	Happy Birthday beautiful 💞🌼🌻 @xan_radebe	joy	2: moderate amount of joy can be inferred
+2018-En-03470	Today in Selfcare: beauty &amp; laughs Kung Fu Panda 3 #Wellness #joy #laughter #selfcare #therapist #philadelphia	joy	2: moderate amount of joy can be inferred
+2018-En-02287	The #eclipse is boring. Check out @MikeOMearaShow , or @TPerkShow , or @robandjoeshow , or @robbandkatie. These shows aren't boring. 	joy	0: no joy can be inferred
+2018-En-02190	@edutopia What an innovative way for admin to see what's going on in classrooms! #leadup #awesomeness	joy	2: moderate amount of joy can be inferred
+2018-En-02318	@Jack_Septic_Eye You do know when most people refer to the hair as “lawn” they mean down there right?? 🤣	joy	1: low amount of joy can be inferred
+2018-En-00988	@sonnuaen @somithehoney DONT WORRY YOU JUST NEED TO GUESS KOROS DRAWING :D	joy	1: low amount of joy can be inferred
+2018-En-00767	Carlsbad #Rouladen is one #delicious, hearty, home-style dish! Stop by and let us know how you like it! #getdtl #ldnont #chaucers #marienbad	joy	1: low amount of joy can be inferred
+2018-En-02215	@domholland You did brilliant on The Chase. Of course, you were with Tucker flippin' Jenkins so we were cheering like mad, but top job!	joy	1: low amount of joy can be inferred
+2018-En-01830	'The heart of one person is also cheerful that it may contain the pain of all people.' #francesco #cheerful #love #people #change #God	joy	1: low amount of joy can be inferred
+2018-En-01074	Instead of asking #blessing from GOD the Father, remain #engaged on #pilgrimage of remembrance. Never get #tired on spiritual pilgrimage.	joy	2: moderate amount of joy can be inferred
+2018-En-03793	Without #laughter life on our planet would be intolerable.	joy	2: moderate amount of joy can be inferred
+2018-En-03520	Oklahoma, South Carolina, Idaho, and Louisiana I'll see you this fall 😍 #excitement	joy	3: high amount of joy can be inferred
+2018-En-02579	@JeannePaulShop @CrocBead This is such a pleasing color palette!	joy	2: moderate amount of joy can be inferred
+2018-En-01497	@S1dharthM @Asli_Jacqueline @foxstarhindi @krishdk @rajnidimoru Looks fun! 😀 cant wait to watch!	joy	3: high amount of joy can be inferred
+2018-En-00218	Well done to all the year 6's at @HarlescottJrSch in their leavers concert today you were #amazing #confident #funny #notadryeyeinthehouse 😍	joy	2: moderate amount of joy can be inferred
+2018-En-02480	Oh yeah, it feels so good to be alive and alone here in my joint! Thank God! #excitement ☺️☺️☺️	joy	3: high amount of joy can be inferred
+2018-En-03102	#31DaysOfJoy Laughter brings me so much joy! It's good for the ❤️. #laughter #laughterishealing #laughterisgoodforthesoul	joy	3: high amount of joy can be inferred
+2018-En-01635	@CoachBru lol, I have my awesome moments here &amp; there! 😄 Also shared it with a blogger friend of mine too.	joy	2: moderate amount of joy can be inferred
+2018-En-03119	is joy okay??? she looked really breathless on stage...	joy	0: no joy can be inferred
+2018-En-01139	#happiness is a by- product of an effort to make someone else #happy.  - Gretta Brooker Palmer	joy	2: moderate amount of joy can be inferred
+2018-En-02297	@Orin_Atlantis 'I am much more cheerful when you are around'	joy	2: moderate amount of joy can be inferred
+2018-En-02405	I need a sparkling bodysuit . No occasion. Just in case. It's my emergency sparkle suit .	joy	1: low amount of joy can be inferred
+2018-En-01488	how are you my love? @Hashtag_DonJon love youu!! thanks for the smile, that motivates me to keep going!! 💛 so blessed to have you 😊	joy	3: high amount of joy can be inferred
+2018-En-03668	Sometimes we create our own heartbreaks through expectations. When #love prevails, fear departs. Learn to be grateful for our moments. Quiet	joy	1: low amount of joy can be inferred
+2018-En-01828	@NEXXhelmets @REVIT thank you guys! It is a #pleasure and an #honor to work with you on the @_Tea2wine_ expedition 💯%‼️👊 🏍️🌍	joy	2: moderate amount of joy can be inferred
+2018-En-01301	See a TrueTwit\nwho's smiling so brightly.\nWell we reckon we're cool\nand we reckon rightly!!	joy	2: moderate amount of joy can be inferred
+2018-En-02425	@AquaRumi9 LMAO YASSSS this is a serious love triangle 😤😫😶 I am cheering for Suhyun tho.. but wait..	joy	1: low amount of joy can be inferred
+2018-En-00199	Today #wanking target: #Long #sexy #tongues\nThat's my #fetish - #long #yummy #tongue\nIf any girl want,sent me your tongue photo :) I love it	joy	2: moderate amount of joy can be inferred
+2018-En-03856	@MartinPincot Haha @MartinPincot -  just sent a sext to the vicar with a holy, holy, twist --- My bad 😂\n \n#Fun #joy #laughter \n👿 ..... 😇	joy	2: moderate amount of joy can be inferred
+2018-En-01311	Good news.  Ten weeks from Friday will be a pretty good day. #carefree	joy	2: moderate amount of joy can be inferred
+2018-En-00616	Happy Winning Wednesday!! Each day is a day of new possibilities. Keep pushing and keep your head up. #live #love #laugh #reachforthestars	joy	2: moderate amount of joy can be inferred
+2018-En-04008	Was watching more Subnatica so fun and funny and IGP is so hilarious #funny #omg #amazing #nice #hilarious	joy	3: high amount of joy can be inferred
+2018-En-02162	Woke up in a great mood, ready to get back to work 😊 	joy	3: high amount of joy can be inferred
+2018-En-00068	damn dave chapelle's new netflix collection is fucking hilarious i love him sm	joy	2: moderate amount of joy can be inferred
+2018-En-00987	EAHelp: mcmalveiro Hi Miguel, that's awesome! Thank you very much for updating us! 😄 -Claire	joy	3: high amount of joy can be inferred
+2018-En-03702	You dont even feel like talking to someone and suddenly there comes someone whom you can spend hours talking , laughing , cheering 💕	joy	2: moderate amount of joy can be inferred
+2018-En-03365	Myatt &amp; Smith open the batting! 12 from the first over. #great start	joy	1: low amount of joy can be inferred
+2018-En-03999	@KimKardashian would u be willing to bless me with $950 #singlemom #blessing #generosity #gettingbackonmyfeet #preschoolfees	joy	1: low amount of joy can be inferred
+2018-En-01234	There are girls on my Facebook cheering on the fact that Chyna got a restraining order against Rob just bc of the 'revenge porn' thing	joy	0: no joy can be inferred
+2018-En-02192	Choose someone who makes you laugh #😂	joy	2: moderate amount of joy can be inferred
+2018-En-00087	@justapenname @lettrs @RealJamesWoods btw you're a #brilliant	joy	2: moderate amount of joy can be inferred
+2018-En-04089	Always beware of the racist liberal smiling in your face. #EmmanuelMacron #makelove #makebabies #racist	joy	0: no joy can be inferred
+2018-En-00157	@helen_bywater @SDWorxUKI @TonynJo9091 Congratulations Jo, that's fantastic #30Years #inspiring	joy	2: moderate amount of joy can be inferred
+2018-En-00327	@MerkTheWorld This thread is hilarious!!!!	joy	2: moderate amount of joy can be inferred
+2018-En-03626	@realDonaldTrump Psalm 149:4\nFor the #Lord takes #pleasure in His #people; He will beautify the #humble with #salvation.	joy	1: low amount of joy can be inferred
+2018-En-02467	It amazes me how many useful videos there are on Youtube.  Everyone sharing knowledge &amp; making money doing it. #wonderful	joy	2: moderate amount of joy can be inferred
+2018-En-01026	As you start and end your day, be thankful for every little thing in your life. You will come to realize how blessed you truly are.	joy	1: low amount of joy can be inferred
+2018-En-02428	'What seems to us as bitter trials are often blessings in disguise.' Oscar Wilde #quote #blessing #motivation	joy	0: no joy can be inferred
+2018-En-01386	What a day!!! What a month!!! #solucky #blessed #cloud9 #ecstatic 👰😆🚘💞	joy	3: high amount of joy can be inferred
+2018-En-00158	@ThomasSanders seems like such a genuinely nice and sweet person. #adorable	joy	1: low amount of joy can be inferred
+2018-En-02843	@doddledisney You're adorable 😭	joy	2: moderate amount of joy can be inferred
+2018-En-01218	I met a new neighbor, bonded with another neighbor all due to the eclipse #blessing	joy	2: moderate amount of joy can be inferred
+2018-En-02920	When I was a kid, I always hoped the alien who found my balloon was happy	joy	1: low amount of joy can be inferred
+2018-En-02088	Are we all aware thar we are using a hashtag that has Eclipse spelled incorrectly?! @ScienceChannel @NebraskaMed  #SolarEclispe  #giggles	joy	2: moderate amount of joy can be inferred
+2018-En-02379	@HUUEducation Thanks! Happy there are other sabbs here. Hope we can talk at lunch :)	joy	2: moderate amount of joy can be inferred
+2018-En-02334	Somebody called y'all president a fucknugget 😂😂 idk what that is but it was the laugh I needed this morning 😭	joy	2: moderate amount of joy can be inferred
+2018-En-02061	fallen for the temptation that is @alwayssunny, brilliant show! #hilarious	joy	2: moderate amount of joy can be inferred
+2018-En-04286	@chadbowers Look forward to next years @heroesonline Con in Charlotte so i can get Darkhawk signed! #awesomeness	joy	2: moderate amount of joy can be inferred
+2018-En-00108	met a cute virgo boy from maine. He shared his joints with me while we harmonized in a garden. 	joy	1: low amount of joy can be inferred
+2018-En-03660	For many years I have despised olives, my thoughts on them have now changed. #delightful	joy	2: moderate amount of joy can be inferred
+2018-En-02133	#good #truth #Jesus #truth Psalms 103:8 The Lord is merciful and loving, slow to become angry and full of constant love.	joy	1: low amount of joy can be inferred
+2018-En-01363	And my mind and my soul. Who made him substitute for my brothers and near me for all the beautiful days and I found you lost and grabbed	joy	1: low amount of joy can be inferred
+2018-En-00833	Keep a relentless eye on your goals! Perseverance, joyful dedication, and unwavering focus will get you @AmyLeighMercree	joy	2: moderate amount of joy can be inferred
+2018-En-03115	Hey Andy Van Dyke Thanks for the recent follow! Happy to connect :) Look forward to your next interesting posts.	joy	3: high amount of joy can be inferred
+2018-En-02750	@ButUCanCallMeZ I always wondered your feelings on this and I'm so glad to hear it. 😊	joy	2: moderate amount of joy can be inferred
+2018-En-00472	@LATMultilingual Thanks for the shoutout! Will we see your team at #MortonPark on Thursday? #Smiles &amp; #laughter guaranteed! 😀	joy	3: high amount of joy can be inferred
+2018-En-00800	These guys really out here disrespecting women while their moms still be doing their laundry. 🤣 	joy	0: no joy can be inferred
+2018-En-01778	McGregor is a clown 😂😂😂 #hilarious #MayweatherVsMcGregor	joy	2: moderate amount of joy can be inferred
+2018-En-01518	Whatever you want to do, if you want to be #great at it, you have to #love it and be able to make sacrifices for it. #Quotes for you	joy	2: moderate amount of joy can be inferred
+2018-En-02277	Hello.. I need Some Grumpy Cat Leggings A.s.a.p. Mmmkay😂😍 #adorable #cute #infj	joy	1: low amount of joy can be inferred
+2018-En-00201	Let's start all over again.....\n#feels #lover #happiness #loyalty #truth	joy	1: low amount of joy can be inferred
+2018-En-03477	@bitterbottom Such an amazing pic 😍	joy	3: high amount of joy can be inferred
+2018-En-04308	i'll have my own apartment and not have to sneak alcohol into my dorm room or worry about being loud #blessed	joy	2: moderate amount of joy can be inferred
+2018-En-01909	@mycharlibrown @pcbcat43 Happy birthday Mom what a wonderful cake delivery youre blessed	joy	2: moderate amount of joy can be inferred
+2018-En-02652	Happy Birthday @RyanRolison24! Have an AWESOME day! We're keeping up with you on the Cape and you're doing great!	joy	3: high amount of joy can be inferred
+2018-En-02989	@muqryyy happy birthday machaaaa 🎈🎉🎊 stay awesome and murah rezeki selalu 👍🏻	joy	3: high amount of joy can be inferred
+2018-En-03907	@Greenarmy46 Thank you! Glad you're enjoying them 😃	joy	3: high amount of joy can be inferred
+2018-En-02578	@WorldFringeDay Heehee. I did chuckle to myself when i saw what it actually was, so you did get a laugh out if me. \n😀	joy	2: moderate amount of joy can be inferred
+2018-En-03532	She'll leave you with a smile	joy	1: low amount of joy can be inferred
+2018-En-00640	When you are able to treat your queen the things that she wants. Such a pleasing feeling	joy	3: high amount of joy can be inferred
+2018-En-02326	i keep watching all the videos i took from two door cinema club and im sad they were so good i miss them	joy	0: no joy can be inferred
+2018-En-03118	A beautiful day starts with you being cheerful and letting the #joy of the #Lord spring out of you &lt;3\n\nNelly Cruz	joy	3: high amount of joy can be inferred
+2018-En-02608	#NoBetterFeelingThan teetering right on the edge..\n\n#joy #pleasure #happiness #bliss #anticipation	joy	3: high amount of joy can be inferred
+2018-En-00848	@AquaticQueenM -He laughs back- 'I may act all grim but I hate see you upset.'	joy	1: low amount of joy can be inferred
+2018-En-00361	@izs @npmjs It'd be #awesome if we get emoji 😆😇😂😃support in #npm readmes. Readmes shouldn't be that serious. @github has it and it's #fun.	joy	1: low amount of joy can be inferred
+2018-En-04363	The next eclipse is in like 2024 and we won't have to deal with it in Nebraska. #relieved 🙄	joy	0: no joy can be inferred
+2018-En-03292	Is @Tonysuniverse on Fourth of July holiday in his mind?\nOr is the heatwave getting to him, ha?\nGOTTA use your mic! 😀\nThanks for the giggle!	joy	2: moderate amount of joy can be inferred
+2018-En-01470	oh how i just love love love glee doing billy joel's numbers!!!!	joy	3: high amount of joy can be inferred
+2018-En-01380	@MGBarbieri @SpalkTalk And just saw your LinkedIn comment after I sent this! Thanks for the message 😀	joy	2: moderate amount of joy can be inferred
+2018-En-03489	For every dark night🌑, there's a brighter day🌞.	joy	1: low amount of joy can be inferred
+2018-En-02542	@AlbinomiteMM4 I'll be cheering you on from the bench	joy	1: low amount of joy can be inferred
+2018-En-03851	This rain had me dancing in the street #rejoice #rejoice #thetimeofgreatsorrowisover	joy	3: high amount of joy can be inferred
+2018-En-02716	#ThursdayThoughts The richest wealth is #Wisdom, the strongest weapon is #peace, the best security is #faith &amp; the best tonic is #laughter	joy	2: moderate amount of joy can be inferred
+2018-En-00645	I can not watch @BobsBurgersFOX  on my lunch anymore. I am laughing way too much by myself for this to be acceptable. #crazylady 	joy	2: moderate amount of joy can be inferred
+2018-En-02300	work was good for the first half 🙃	joy	0: no joy can be inferred
+2018-En-00045	@inseopirit LOL, I never got to that part actually :) ICSYV is a great show, isn't it? Tears and laughter.	joy	2: moderate amount of joy can be inferred
+2018-En-00269	many lead by expectation ,rather than by example. Perpetually holding  Damocles Sword over their staff's head &amp; expecting them to be joyful	joy	0: no joy can be inferred
+2018-En-02290	My mom's Puerto Rican. That's why i'm so lively and colorful.	joy	2: moderate amount of joy can be inferred
+2018-En-04033	Stuck between a rock and a hard place #great	joy	0: no joy can be inferred
+2018-En-00698	4 years 😭rest in piece  #coreymontheith #glee	joy	0: no joy can be inferred
+2018-En-02289	This is the day that the lord has made I will rejoice and BE GLAD IN IT! 🙌🏿🌟 #blessed #favored #loved #	joy	3: high amount of joy can be inferred
+2018-En-03565	@blonderella26 @Seahawksfan7777 @afern_alex @eugenegu @tonyposnanski @realDonaldTrump She's gonna have a meltdown 🤣	joy	1: low amount of joy can be inferred
+2018-En-03995	Subscribe to my YouTube comedy page Greg Offutt #dmv #comedy #film #skits #humor #youtube #webseries #laugh #laughing #lol #thegoshow	joy	1: low amount of joy can be inferred
+2018-En-00495	@AngelaKochuba Thanks for following! Have a #joyful day!	joy	3: high amount of joy can be inferred
+2018-En-03388	Baywatch movie is so friggin #awesome #funny #delightful	joy	3: high amount of joy can be inferred
+2018-En-03246	Cold sores are the worst. The second you smile or laugh, it's over. Blood everywhere	joy	0: no joy can be inferred
+2018-En-00817	@Walu2go @ThisisLukeOwen Yes it is. I especially love the ramble chat love when they go off topic for like ten minutes. #awesomeness	joy	2: moderate amount of joy can be inferred
+2018-En-01061	follow @Twogoodpm  on IG ASAP!! I follow everybody back!!!!\n#follow4follow\n#followers #addemup #pointmagu #good	joy	0: no joy can be inferred
+2018-En-04225	He is very playful and can hardly stay in one spot.	joy	1: low amount of joy can be inferred
+2018-En-03088	If you don't follow @JYSexton, you should. His feed yesterday, all day, was gold. #TrumpJr #baffled 	joy	1: low amount of joy can be inferred
+2018-En-00902	@TarekFatah Wishing you well sir... you are an extremely straightforward and jovial person...	joy	2: moderate amount of joy can be inferred
+2018-En-03832	Spread the love means no matter how hard life is, never stop smilling :) and be happy. Always.	joy	2: moderate amount of joy can be inferred
+2018-En-03416	@SkyNews @CNN @cnnbrk watching the #totalsolareclipse on ur channels right now #amazing what's happening in the #usa	joy	2: moderate amount of joy can be inferred
+2018-En-01982	Omg! It just keeps getting better! #MUGGYMIKE &amp; #Sam have to go back in! #LoveIsland #drama #hilarious	joy	3: high amount of joy can be inferred
+2018-En-04280	@ghibIiyoongi happy birthday love!! 🎉🎁 i hope you're having the best day, i'm glad we met💕	joy	3: high amount of joy can be inferred
+2018-En-01454	I smile	joy	2: moderate amount of joy can be inferred
+2018-En-01158	@ZELO96 That's right! Keep laughing and always smile 🙂🙃😉\nNow wat the heck was deleted I just woke up 😉😏	joy	2: moderate amount of joy can be inferred
+2018-En-01814	@Kazalex_ Happy birthday hope you have and amazing day!	joy	3: high amount of joy can be inferred
+2018-En-02074	How pleasing is it to see the #Djokovic roar? He isn't at his stratospheric level but there are signs that he is going to reach there again.	joy	1: low amount of joy can be inferred
+2018-En-02720	You've wondered why they seek happiness inside. #cheerful	joy	2: moderate amount of joy can be inferred
+2018-En-01184	@Sethrogen HUGE fan of your work!!! But tell me how baked were you guys when y'all came up with the Sausage Party idea?? #hilarious	joy	2: moderate amount of joy can be inferred
+2018-En-01877	Lost my #happiness #my #earphone 😖😟 \nMy only fav thing #music 🎧🎵🎶\nAb nhi soon paungi songs mei 😑	joy	0: no joy can be inferred
+2018-En-00486	@hitRECordJoe Rectify: a man must rediscover life after being released from death row for a crime he may/ may not have committed. #brilliant	joy	0: no joy can be inferred
+2018-En-02490	'Stay close to people who feel like sunshine.' This may just be the great secret to a more #joyful life. #WednesdayWisdom	joy	2: moderate amount of joy can be inferred
+2018-En-00148	Happy Birthday @ElColtonShow continue to be great and blessed to see many more.	joy	2: moderate amount of joy can be inferred
+2018-En-00730	Good insights on the gap between research optimism and research experience from David Smith #solentconf17	joy	0: no joy can be inferred
+2018-En-02629	@SandraOldfield I LOVE the comics! #hilarious	joy	3: high amount of joy can be inferred
+2018-En-04152	my blood sugar is 399 and my anxiety is wrecking me and i have court like right now and i made us late bc im fighting w my mom #great #good	joy	0: no joy can be inferred
+2018-En-01133	I'm kinda glad that I know about 2 to 4 people in all my classes that I can talk to #relieved	joy	1: low amount of joy can be inferred
+2018-En-03509	I'm in such a good place right now, so happy... 💛 I just wanted to share that #positivevibes #optimism #followingmydream	joy	3: high amount of joy can be inferred
+2018-En-03384	@Bombardier Joyeux anniversaire / Happy birthday Bombardier Inc. :)	joy	2: moderate amount of joy can be inferred
+2018-En-00830	Jon Snow is like a cat with 9 lives #GameOfThrones 	joy	0: no joy can be inferred
+2018-En-02674	Yes #depression &amp; #anxiety are real but so is bein #grateful &amp; #happiness \nI choose how i wanna live MY life not some disorder	joy	0: no joy can be inferred
+2018-En-03497	It’s a bit funny to me, although you’re everything to me\nsometimes I am no better than a stranger\n-Sing for you- 😊	joy	2: moderate amount of joy can be inferred
+2018-En-02816	Words are simply amazing people can twist them and make them say anything 😅	joy	2: moderate amount of joy can be inferred
+2018-En-01904	@ian_beckett Have the most wonderful day Ian. 	joy	2: moderate amount of joy can be inferred
+2018-En-00378	@interstinman @pandoramusic One nothing else matter enter sandman unforgiving  all awesome songs 😊	joy	2: moderate amount of joy can be inferred
+2018-En-00672	when will i ever be happy with myself?	joy	0: no joy can be inferred
+2018-En-00232	'First they #ignore you , then they #laugh at you , then they #fight you , then you #win' #Gandhi	joy	1: low amount of joy can be inferred
+2018-En-00803	Also YAY @ChadHoy that's awesome about TX! &amp;I I'm not sure why but it makes me sad ur leaving Indy cuz it's not like we ever hang lol	joy	1: low amount of joy can be inferred
+2018-En-04165	'And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.' ~Luke 2:10	joy	0: no joy can be inferred
+2018-En-00065	im gonna rejoice because im gonna see jr and aron .	joy	2: moderate amount of joy can be inferred
+2018-En-01342	I love watching the bats in the evenings over the vegetable garden. #bliss #happy #urbanfarm	joy	3: high amount of joy can be inferred
+2018-En-00555	nah i jus love carni. the best food, the best music, the best *****, gr8 vibes with family &amp; friends. pure 	joy	3: high amount of joy can be inferred
+2018-En-01331	This is the day the Lord hath made! I will rejoice &amp; be glad in it!	joy	3: high amount of joy can be inferred
+2018-En-00544	@NathanSykes Happy Tuesday. I hope you have an amazing day. Proud of you &amp; blessed to know you. You make my world better by being in it.❤️	joy	3: high amount of joy can be inferred
+2018-En-03205	@ZacZ @oOsnapDC Yah last 4 years have been #sad , I will take any sort #happiness :/ @ZacZ	joy	0: no joy can be inferred
+2018-En-01050	@COFFEECOWal Really Sad News, it's been a pleasure over the years, all the best for the future.	joy	0: no joy can be inferred
+2018-En-00908	@jessmacf_ But his mannerisms are hilarious !!	joy	1: low amount of joy can be inferred
+2018-En-00028	Remember : first come the fear then the blessing. Wooh!	joy	1: low amount of joy can be inferred
+2018-En-03083	Smile it never hurts anyone unless they're unhappy, laugh its spreads like the flu except its pleasant . #jabula #nje	joy	1: low amount of joy can be inferred
+2018-En-01241	#smiles are great investment. The more we collect, the better we feel.. have a nice smiling day... #goodmorning	joy	3: high amount of joy can be inferred
+2018-En-04024	although I laugh and I act like a clown beneath this mask I am wearing a frown my tears are falling like rain from the sky	joy	0: no joy can be inferred
+2018-En-03812	'Don't throw it near her, she's like an octopus'\n\nI'll take that as a compliment? 🐙 #jaunty	joy	1: low amount of joy can be inferred
+2018-En-03841	@NBCNews @MarkHalperin @KeirSimmons Well that's funny cause we all know she is a serious Russian mafia atty	joy	2: moderate amount of joy can be inferred
+2018-En-01588	You choose your mood on weather you're going to be a #blessing or be rude..	joy	1: low amount of joy can be inferred
+2018-En-02900	I was so scared!.. I thought I lost another daughter tonight.  #grateful OTM❤	joy	0: no joy can be inferred
+2018-En-01398	Going to bed with dry and clean hair. #blessing	joy	2: moderate amount of joy can be inferred
+2018-En-03540	So good to see @richie_porte smiling and feeling positive from his hospital bed on #sbstdf tonight. Get well soon!!	joy	2: moderate amount of joy can be inferred
+2018-En-00050	I don't like taking or being in photos, but I'm always unhappy when I find out I don't have any photos of an event. #funny	joy	0: no joy can be inferred
+2018-En-01534	49 away from 1,000 followers 😀 #whisky #whiskyfun #smiles #humour #giggles	joy	3: high amount of joy can be inferred
+2018-En-03007	In less than a month I get to see @NEEDTOBREATHE and @GavinDeGraw in concert with @lilbittysmitty and I already have zero chill! 	joy	1: low amount of joy can be inferred
+2018-En-03282	@TheSocialCTV I'd never leave the couch again! #excited and #weary ❤️	joy	2: moderate amount of joy can be inferred
+2018-En-00060	2 hours of kip #class #blessed #happy #smiling	joy	3: high amount of joy can be inferred
+2018-En-04359	@birdtabs A pleasure! ☺ the directory great way to start exploring new opportunities	joy	1: low amount of joy can be inferred
+2018-En-01153	I love when gg cheering up eo. Apink rv mamamoo jjang!!!!	joy	2: moderate amount of joy can be inferred
+2018-En-01522	@BCFC_Community excellent Jnr blues parents Meeting tonite lots of info given cheers all👍 #futuresbright#development baileyu12s #excited 😃⚽	joy	3: high amount of joy can be inferred
+2018-En-03905	Don't forget to choose #sunshinehorses on #smile this #PrimeDay	joy	1: low amount of joy can be inferred
+2018-En-03530	I hope my eyes were camera that records all happy moments+	joy	2: moderate amount of joy can be inferred
+2018-En-02442	another chunk of #antarctic the size of #wales broke off. The #glee of knowing humans deserve their #extinction. #climatechange	joy	0: no joy can be inferred
+2018-En-01436	From the archives... Strikeforce Champ Ronda Rousey 301 #chirp #church #mayhemmiller #naked #rip #rondarousey #twitter	joy	0: no joy can be inferred
+2018-En-03778	@RealJamesWoods Rumor has you are #wellendowed #awesome! Truth is you are a #big 😲 #notsomuch so you know a bunch of #gaypeople #sowhat	joy	1: low amount of joy can be inferred
+2018-En-01844	@realDonaldTrump 5000 likes. There are 300 million people in the U.S. Ha. You are Real popular 😅	joy	1: low amount of joy can be inferred
+2018-En-04309	The #World and it's communities and #leaders are #laughing at #America as #trump #destroys #America with his #nonstoplies &amp; #racism #hatred.	joy	0: no joy can be inferred
+2018-En-00466	Going to finally start getting ready for my move☺️ 	joy	2: moderate amount of joy can be inferred
+2018-En-02765	There's no better way to relax than putting on a face mask, having a bath while drinking tea and listening to John Mayer #bliss	joy	3: high amount of joy can be inferred
+2018-En-02675	Jordan is helping Arya hunt a moth, lifting her up to get it on the walls. it's super adorable. #kitten #boyfriend #adorable #hunting	joy	3: high amount of joy can be inferred
+2018-En-03993	@fredonair I always laugh during horror movies	joy	1: low amount of joy can be inferred
+2018-En-03773	When I can't sleep I watch #glee @druidDUDE @HarryShumJr @HeatherMorrisTV @NayaRivera @LeaMichele @JennaUshkowitz @DiannaAgron	joy	0: no joy can be inferred
+2018-En-03466	We can complain because rose bushes have thorns, or rejoice because thorn bushes have roses. Abraham Lincoln #optimism #FLOW #nonresistance	joy	0: no joy can be inferred
+2018-En-03712	You can pair me with your smartphone. Just lay it on me and by spinning I'll pair it into pieces / #smart #playful #washer #IoT	joy	1: low amount of joy can be inferred
+2018-En-00869	There's so much anxiety w/i the PGR/ECR community that I think sometimes we forget PhDs are awesome &amp; cool, not just bane of existence	joy	1: low amount of joy can be inferred
+2018-En-02605	just released two videos in honer of Cory Monteith and Finn Hundson go wath link in bio\n@CoryMonteith @LeaMichele #glee	joy	1: low amount of joy can be inferred
+2018-En-01540	May new update nanaman ang Bloody Crayons 😆	joy	1: low amount of joy can be inferred
+2018-En-03649	A man who loves God will visit him.  It is important to go to Church.  #news	joy	0: no joy can be inferred
+2018-En-02403	@lidl_ireland What a wonderful experience in #Trim. What a star ⭐️#Joileta is.  She made my shopping a wonderful experience, helpful 	joy	2: moderate amount of joy can be inferred
+2018-En-02866	@AspynOvard #adorable Aspyn xoxo	joy	1: low amount of joy can be inferred
+2018-En-03341	You get out of a relationship now 'hoe is life' don't make me laugh 😆	joy	1: low amount of joy can be inferred
+2018-En-02704	@lukasbradley use the F word as much as you need to. People may start to listen. :)	joy	0: no joy can be inferred
+2018-En-04156	I can't afford to be unhappy. I've made it this far and there isn't anything or anyone that's going to take my happiness away.	joy	1: low amount of joy can be inferred
+2018-En-02159	Having a movie day with my favorite today 😄 god I love my lil goth bean.	joy	3: high amount of joy can be inferred
+2018-En-02312	@AdamZHerman shocked as well. but bc I cheer for another club in the swiss league…	joy	1: low amount of joy can be inferred
+2018-En-03379	Woke up to what appears to be either a sinus or ear infection. This week is off to a great start so far.	joy	0: no joy can be inferred
+2018-En-01600	@titsjpeg Yeah funny and sexy 😍	joy	2: moderate amount of joy can be inferred
+2018-En-01691	Welcome to our new follower @RahmanAccess Have a #wonderful Tuesday!	joy	2: moderate amount of joy can be inferred
+2018-En-00235	Even though it is raining, sun will shine #AndrewGoldman_I @AndrewGoldman_I #wisdom #think #philosophy #knowledge #life #happy #joy #best	joy	2: moderate amount of joy can be inferred
+2018-En-02152	#Laughter creates a #positive #aura &amp; transforms you into the most #beautiful , #dynamic &amp; #attractive person. \n#Yoga #YogaLaugh	joy	2: moderate amount of joy can be inferred
+2018-En-02353	'Too often we give children answers to remember rather than problems to solve' Roger Lewin Terrific :) Tuesday	joy	0: no joy can be inferred
+2018-En-03834	@yollzbby That brown waist coat was a NO 😂	joy	1: low amount of joy can be inferred
+2018-En-01858	The stupidest and weirdest thing people do. And what's more stupid than that? They upload it online. Oh my god. But good for laughter ah. 🤣🤣	joy	1: low amount of joy can be inferred
+2018-En-01438	He who #laughs last usually had to have #joke explained. #TeamFollowBack #RockTheReTweet	joy	1: low amount of joy can be inferred
+2018-En-00682	I have uploaded my first article for @TheProteinWorks! Keep your eyes open for more 😉💪👌#recipes #nutrition #gainz #delicious #biggestfan	joy	3: high amount of joy can be inferred
+2018-En-04204	Okay but I was sad I was missing out on bubblegum ice cream today at the fair so my friends brought it to my work 🤗 	joy	0: no joy can be inferred
+2018-En-01689	My head is anointed, my cup runneth over Don't pour from an empty cup #delight #love #joy	joy	3: high amount of joy can be inferred
+2018-En-01299	@Kawells00 Oh your art so wonderful 😭	joy	2: moderate amount of joy can be inferred
+2018-En-03311	That moment when you have to laugh to keep from crying: #laughter	joy	1: low amount of joy can be inferred
+2018-En-02069	Sadly I do not have a garden so I watch just for Nigel and Nellie #beautiful  #gardenersworld	joy	1: low amount of joy can be inferred
+2018-En-00003	But his delight is the law of the LORD, And in His law he meditates 🌁 and 🌃\nPsalm 1:2	joy	1: low amount of joy can be inferred
+2018-En-02311	no alarm set, long lie, no plans tomorrow😍 #blissful	joy	3: high amount of joy can be inferred
+2018-En-03893	The beautiful thing is how you be \nSmart\nStrong\nNice\nHappy	joy	2: moderate amount of joy can be inferred
+2018-En-03201	@DoubleEph Happy man. 	joy	2: moderate amount of joy can be inferred
+2018-En-03947	@Kathbum 'I spent so looking want to look like a Kardashian I don't give even give a f**k it's the dad'😂😂😂😂 omfg😂😭😭😂 #hilarious	joy	1: low amount of joy can be inferred
+2018-En-02698	May #Allah keep us safe and your #Providence. May U replace sadness with #happiness and &amp; instill endless #love in your #heart Stay #bless.	joy	2: moderate amount of joy can be inferred
+2018-En-04259	I could 😭 rn I am so blessed with the friends I have, they support and love me through everything and I couldn't thank them enough 😭❤️	joy	3: high amount of joy can be inferred
+2018-En-02577	We face elimination tonight, 6:15 @ Mahoney #RoadToMahoney #optimism	joy	0: no joy can be inferred
+2018-En-03570	This is heart-stopping, take-my-breath-away fun! I. Like. It. A lot. #justsayin #laughing	joy	3: high amount of joy can be inferred
+2018-En-02980	@JustMpumi I understand where the question is coming from. 😄😄. Uyakhumbula ngathi they'll never go to KwaNdebele.  Uyakhumbula?  😄	joy	1: low amount of joy can be inferred
+2018-En-01872	Salted caramel Maryland cookie thins habe definitely kept me on track with slimming world in the last few weeks @MarylandCookie 	joy	1: low amount of joy can be inferred
+2018-En-04157	Utd fans taste on strikers have become SO low. Their enchanted by close to poverty level strikers and it's hilarious to see.	joy	1: low amount of joy can be inferred
+2018-En-00052	@VitaCocoUK WOW 😍 This is wonderfully exciting! Would be a very happy treat to win ✨ Thank you for the chance ❤️️ Retweeted &amp; Following 😀	joy	3: high amount of joy can be inferred
+2018-En-00448	@bronliejacobs Happy Birthday Bronz❣️ love you smmm, have a wonderful day!!!	joy	2: moderate amount of joy can be inferred
+2018-En-03847	@RRakoto42 It only took me 39 seconds to fly over Mozambique. #awesomeness	joy	2: moderate amount of joy can be inferred
+2018-En-02492	There's no pine in it, there's no apple in it, Let's call it Pineapple #funny	joy	2: moderate amount of joy can be inferred
+2018-En-00625	A #happy woman is always ., A #beautiful woman !😊😇\n#womanhood #beingwoman.	joy	3: high amount of joy can be inferred
+2018-En-04068	I'll have the first Question for Followers ready in a few. It's directed at all of you, so please don't be shy and respond when you can! 😀	joy	0: no joy can be inferred
+2018-En-02774	@Harry_Styles Hi H how are you?Thankyou for always making me smile+being so genuinely kind!You deserve all the happiness in the world.67.801	joy	2: moderate amount of joy can be inferred
+2018-En-00096	My lovely barista just invited me to her bday party this weekend and that alone just made my day.😊#happy #grateful #blessed	joy	3: high amount of joy can be inferred
+2018-En-02807	@mrosenbaum711 Happy Birthday 🎈🎊🎁 Have an awesome filled day of awesomeness.	joy	2: moderate amount of joy can be inferred
+2018-En-00783	Full of #optimism after the FP Summit yesterday. Thanks to @melindagates @FP2020Global @UNFPA and @DFID_UK we're thinking about #HerFuture	joy	3: high amount of joy can be inferred
+2018-En-03528	We met for a #reason, either you're a #blessing or a #lesson. #RT #Relationship	joy	0: no joy can be inferred
+2018-En-03070	#ICBM parties in #Pyongyang, People starving to death in the countryside.\n#irony #northkorea #awesome	joy	0: no joy can be inferred
+2018-En-01102	a day without laughter is a day wasted.	joy	1: low amount of joy can be inferred
+2018-En-00690	@na_dirs Omg you're savage prof, this is hilarious 🤣🤣	joy	2: moderate amount of joy can be inferred
+2018-En-01615	Excellent customer service from @ao this morning. Thank you Kharis for your help! #CustomerService 	joy	3: high amount of joy can be inferred
+2018-En-02057	@atrsya_ You truly decide your own happiness 😊	joy	2: moderate amount of joy can be inferred
+2018-En-00940	Hey @TheTimMcGraw #imwearingyourshirt today!! #humbleandkind  #awesomeness #timmcgraw #wqmx @949WQMX @KeepinItCntry @JulieMN13	joy	2: moderate amount of joy can be inferred
+2018-En-02382	You ordered a baby but now you want the chef to take it back #CrownAndCollards 🤣	joy	0: no joy can be inferred
+2018-En-01337	@iBTSJACK @iridiscxnt No he's kind and cheerful hoho!	joy	1: low amount of joy can be inferred
+2018-En-02503	@turabelamedi Wayyyyy wayy wayyyy!! 😄	joy	2: moderate amount of joy can be inferred
+2018-En-00821	Well that was lovely.   Checked church Facebook page and I've been given a five star review for Sats wedding. #bashful 	joy	2: moderate amount of joy can be inferred
+2018-En-00016	Hailing from Izu Beach, a sparkling ★TWINKLE★ star, it's the newcomer everyone's been waiting for, Yohane♪	joy	1: low amount of joy can be inferred
+2018-En-00744	@djallsorts playing Bliss #bliss A Quiet Coversation taken from the Six Senses Album by Claude Challe #claudechalle	joy	1: low amount of joy can be inferred
+2018-En-02184	Done been down so long lost hope done came down so hard I slowed, meditatin all of my wins ain't no limit when I might shine #life #grateful	joy	1: low amount of joy can be inferred
+2018-En-02742	oh no now that i'm back home i actually have to figure out what i'm gonna do with my life #brilliant 😟	joy	0: no joy can be inferred
+2018-En-01091	@thegumsmile I know you readers this 😄	joy	1: low amount of joy can be inferred
+2018-En-02806	ebullient [ih BUL yunt] adj.boiling; bubbling with excitement; exuberant. A boiling liquid can be called ebullient. Excited or enthusiastic.	joy	1: low amount of joy can be inferred
+2018-En-00610	- She was so #artistic, .. painting .. #smiles on every face but her own .. ■|	joy	1: low amount of joy can be inferred
+2018-En-02956	@kellykelman01 You need Hampden stabilisers first 🤣	joy	1: low amount of joy can be inferred
+2018-En-03143	Damn, y'all flamin' him. 😂\n\nI just thought it was funny. 😂😂	joy	2: moderate amount of joy can be inferred
+2018-En-03799	Longing to see Your face, Christ Jesus, I rejoice in the anticipation of Your coming again!	joy	2: moderate amount of joy can be inferred
+2018-En-03854	Every time I see the #GBBO advert..... #sugacravings #yummy #dietgonetohell     😋😋😋	joy	2: moderate amount of joy can be inferred
+2018-En-03078	Easy day at school today; last rehearsal before the show tomorrow... #excited to play #Nancy in #Oliver, then straight into new project! 😍	joy	3: high amount of joy can be inferred
+2018-En-02367	@SaidTheSky @DasEnergiFest @mitchell_thayne Bro, you should be #smiling you're bring all of us smiles. Share the experience #together	joy	2: moderate amount of joy can be inferred
+2018-En-04110	May you find your #center the peace of your #soul, joy in your #heart #understanding in your #mind. This is my #blessing &amp; #prayer for you.🌞	joy	2: moderate amount of joy can be inferred
+2018-En-01763	I have to bury another person this year at the same cemetery my father and nephew are buried in. #great	joy	0: no joy can be inferred
+2018-En-00383	Every GIRL deserves a GUY who can make her SMILE :D	joy	1: low amount of joy can be inferred
+2018-En-01706	Q: We all know 6 was afraid of 7 because 7 8 9, but why did 7 eat 9? A: Because you're supposed to get 3 squared meals a day!  #jokes #funny	joy	2: moderate amount of joy can be inferred
+2018-En-00374	@HollyMecher I'm stealing this one 😎🤘🏻👏🏻👏🏻👏🏻👏🏻 #edtechchat 	joy	1: low amount of joy can be inferred
+2018-En-00557	@joerogan I looked at the eclipse without glasses and now I have x-ray vision! #awesomeness	joy	2: moderate amount of joy can be inferred
+2018-En-03163	@LackWille To much good lookin for one picture 😍	joy	1: low amount of joy can be inferred
+2018-En-04147	@TarigsOptimism The way they laughing tho lol 😆	joy	1: low amount of joy can be inferred
+2018-En-02321	@annie_hawthorne Just one? 😄  Cress and Thorne from the Lunar Chronicles. Good character arcs + absolutely adorable.	joy	2: moderate amount of joy can be inferred
+2018-En-03641	@JenBhen @jenwinget Cos she isn't afraid not to look as aesthetically pleasing to the audience.	joy	0: no joy can be inferred
+2018-En-02945	@karenlynnn I'm just a dabbler but I'm very glad to meet you as well. 😊	joy	2: moderate amount of joy can be inferred
+2018-En-03493	I want a whole show of @chrislhayes just reading emojis. #adorable #inners	joy	2: moderate amount of joy can be inferred
+2018-En-01268	#theearlyshow my musical.ly is mariam_marigold @WhatsTrending #lively #musical.ly	joy	0: no joy can be inferred
+2018-En-01612	@Deb_Renee Good morning, you're very welcome awesome lady 🤗 😍	joy	3: high amount of joy can be inferred
+2018-En-00562	@CCfunkandsoul happy birthday mate ❤ hope you have an amazing day xx	joy	2: moderate amount of joy can be inferred
+2018-En-01507	God is #good all the time.	joy	1: low amount of joy can be inferred
+2018-En-01741	@RealHughJackman B E A utiful #smile \nalways keep smiling be happy &amp; remember me in your smiles	joy	2: moderate amount of joy can be inferred
+2018-En-00008	@ArriFaun This was such a great way to start the day lmao 🤣😂	joy	3: high amount of joy can be inferred
+2018-En-02151	@LuckyStarLights I skip anything below 718 score tbh. Finding other fully SI horse teams is fun though, I added a few through arena. 🤣	joy	1: low amount of joy can be inferred
+2018-En-00788	Well seeing the #Eclipse2017 was #amazing really cool even though it only lasted 2 mins	joy	3: high amount of joy can be inferred
+2018-En-02104	@ChristineRomans @JohnBerman guest so affable and knowledgeable #brilliant @CNN	joy	1: low amount of joy can be inferred
+2018-En-02574	@primo_resmungao @NicolinaGuim Ou geek 😄	joy	1: low amount of joy can be inferred
+2018-En-02329	@VarunsPrincess_ Huhh It's awesome 😍\nI'm obsessed with it 😍😂	joy	3: high amount of joy can be inferred
+2018-En-04185	zayuuum...bey's tatas got huge lol😋 #yummy	joy	2: moderate amount of joy can be inferred
+2018-En-01498	@quick13 i wish she were a servant! i'd have her start at my house by picking up the dog💩in my back yard. #adorable! ... #deplorable!	joy	1: low amount of joy can be inferred
+2018-En-02422	My patient gave me a business card and it's given me so much glee to grind the thing.	joy	1: low amount of joy can be inferred
+2018-En-01519	The dictionary words for #joy are – gladness, cheerfulness, exultation, rapture, pleasure, delight.	joy	2: moderate amount of joy can be inferred
+2018-En-01135	#Stop #crying over #yesterday and #start #smiling for #tomorrow.	joy	1: low amount of joy can be inferred
+2018-En-04003	@Angieavlianos Hey Angie, please see your local dealer, they're happy to assist! :-)	joy	2: moderate amount of joy can be inferred
+2018-En-02648	'She is the clothed with strength and dignity, and she laughs without fear of the future.' 💛🌿 @jessconte	joy	1: low amount of joy can be inferred
+2018-En-03513	@LATMultilingual #whattheworldneedsnow indeed; #laughter #fun #smiles #joy. #VanBiennale team are already in the mood!	joy	3: high amount of joy can be inferred
+2018-En-00877	@Alyssa_Milano @mothergooseAZ @realDonaldTrump is #laughing all the way to the #bank and #America is paying for it all. 💰 💰 💰	joy	0: no joy can be inferred
+2018-En-00893	Woke up with a horrible cloggy summer cold #attractive 😉😩	joy	0: no joy can be inferred
+2018-En-02175	#Thoughtoftheday: 'Perpetual optimism is a force multiplier.' - Colin Powell #quote #optimism #positivity	joy	2: moderate amount of joy can be inferred
+2018-En-01616	I felt myself #laughing so hard in my sleep ...now I don't remember why🤦🏾‍♀️😂😂😂	joy	2: moderate amount of joy can be inferred
+2018-En-02936	Luca is always so vivid and joyful, he has to be more careful-! //runs after him	joy	1: low amount of joy can be inferred
+2018-En-03885	Only in #whitehorse do you see a hubcap going down 2nd ave all by itself #yukontumbleweed #yukon 	joy	0: no joy can be inferred
+2018-En-03350	@LifeWithSelG #Despacito u came into my life\nur aroma flared my life up\nur almond-eyes makes my #Pulse gushing\nur #smiles gleam me bright	joy	2: moderate amount of joy can be inferred
+2018-En-01195	Spread smiles around everywhere you go\n#spreadingsmiles #smiles #healtyliving #LaughOutLoud #happinessallaround	joy	2: moderate amount of joy can be inferred
+2018-En-04203	@matthewpouliot Wow-he had sooo much talent. #glad he is still playing	joy	2: moderate amount of joy can be inferred
+2018-En-02058	@neiltyson my BF and I just rewatched the episode of #GravityFalls you were and he's fanboying  #YeahScience	joy	1: low amount of joy can be inferred
+2018-En-01010	@tabby313 Jen, awful funny how the tide has turned on this show! I am elated and amused! Goes from love fest to oh we have collusion!	joy	2: moderate amount of joy can be inferred
+2018-En-03504	Would be ever so grateful if you could record Garden of Forgiveness gentleman @LukeGoss @mattgoss #amazing	joy	2: moderate amount of joy can be inferred
+2018-En-00766	@bbcbristolsport so proud of City...2 Bristol boys scoring and a great performance...where's the cider  #OTIB	joy	2: moderate amount of joy can be inferred
+2018-En-00600	whats for #breakfast today ? i have 2 slices of #bread out i #toast them #spread them with #butter &amp; #strawberry jem and yum #delicious !	joy	2: moderate amount of joy can be inferred
+2018-En-02416	@nadisaonline i'm very happy glad or whatever the feelings i'm not into dramas	joy	3: high amount of joy can be inferred
+2018-En-00239	@Yummywaterbynad I wanna meet tho 😅	joy	1: low amount of joy can be inferred
+2018-En-02007	On our way to #Gamescom17 What can we expect and who will we meet? #excitement	joy	2: moderate amount of joy can be inferred
+2018-En-00247	Some white folks were jumping in joy when they thought Floyd Mayweather was broke 😂	joy	1: low amount of joy can be inferred
+2018-En-04315	@ananavarro CNN should, for sure 😀	joy	0: no joy can be inferred
+2018-En-00933	“Laugh as much as you breath and love as long as you live.” ~Unknown #laugh	joy	1: low amount of joy can be inferred
+2018-En-01437	@umainoo if you had a bad day cheer up lov!!! ♡♡	joy	2: moderate amount of joy can be inferred
+2018-En-03909	mum got out of a rlly bad car crash completely not injured and i found a rlly sentimental piece of jewellery i thought i'd lost #blessed	joy	2: moderate amount of joy can be inferred
+2018-En-00856	once again, good afternoon to the uk charts only the us charts could take some notes from us 😊	joy	1: low amount of joy can be inferred
+2018-En-00814	@MinxieButt Not even from our own kind 😅 But I don't need any anons if I can feel the appreciation from fellow shippers every other day 😊	joy	2: moderate amount of joy can be inferred
+2018-En-01188	@help_dms___ So good lunch 😊	joy	2: moderate amount of joy can be inferred
+2018-En-03900	@crimemma congratulations on becoming a senior lecturer! Well deserved 😄	joy	2: moderate amount of joy can be inferred
+2018-En-01451	@Squishy_Derg @FiskVelox @Introdile nervous laughter ensues	joy	0: no joy can be inferred
+2018-En-01039	@FairtradeUKNews @adamawine Wishing you a joyful day with great food, wine and company 👌	joy	3: high amount of joy can be inferred
+2018-En-01109	@MarkDice Yeah, his heart is evil and his speech reflected that.  Says a lot about your character that you find it 'awesome'.  How 	joy	0: no joy can be inferred
+2018-En-03009	Do you ever just get so excited that you're trying to sleep &amp; just can't even close you eyes😁like I really need this catnap but #excitement	joy	3: high amount of joy can be inferred
+2018-En-03736	Enter this code for 10 free Lyfts BEG #Time to save #playful #splendid	joy	1: low amount of joy can be inferred
+2018-En-04210	@MarcMero Happy Aniversary to you both! Hope you have a wonderful day!	joy	3: high amount of joy can be inferred
+2018-En-02514	@Hayles_101 Delaney keeping up his awesome Manchester United transfer record...\n\n😂	joy	2: moderate amount of joy can be inferred
+2018-En-03189	@johntassparker Well, at the time, I think there was that concern. Now it is all bright and shiny with a price tag to match.	joy	1: low amount of joy can be inferred
+2018-En-03831	To be really knowledgeable and really petty is such a delight to behold.	joy	1: low amount of joy can be inferred
+2018-En-01296	If I ever got paid to be in impractical jokers as one of the people to tell the guys what to do I would do that in a heartbeat #hilarious	joy	2: moderate amount of joy can be inferred
+2018-En-01085	See me smiling fuck u can't make u crying	joy	0: no joy can be inferred
+2018-En-01001	@dawnymock In the vein of 'Is laughter the best medicine? Or even medicinal at all?'	joy	1: low amount of joy can be inferred
+2018-En-01941	I start my lpn program this October 😌 #blessed	joy	2: moderate amount of joy can be inferred
+2018-En-03558	really wanna dye me hair a bright colour but iv spent all this time growing the dye out	joy	0: no joy can be inferred
+2018-En-00760	Happy birthday annie!!!!!!!!!!hope you have the most #best #beautiful #blessed #brilliant #balsamic #bighearted #birthday ever @anniecarney_	joy	3: high amount of joy can be inferred
+2018-En-00384	When you tell your boyfriend you want a pot bellied pig and he replies with 'I've already got one' and points at you...😩🐷🐷 	joy	0: no joy can be inferred
+2018-En-02123	So it's a proper test match Day-2 now :) ttv' s team responds to yesterday's attack from #AIADMKMERGER team:) #entertaining to be honest	joy	1: low amount of joy can be inferred
+2018-En-00215	it's still kind of weird that this guy was an Atlantic contributor for so long, mostly as a one-man cheering section for Elena Kagan	joy	0: no joy can be inferred
+2018-En-03930	@WYP_FizAhmed Couldn't have delivered without you @WYP_FizAhmed - #inspiring #partnership #women	joy	1: low amount of joy can be inferred
+2018-En-02126	@CNN @cnnbrk what is the #FakeNews of the day? Need my #laughter to start my day. @foxandfriends @realDonaldTrump @kilmeade @PeteHegseth	joy	2: moderate amount of joy can be inferred
+2018-En-02510	Defendant greets the bench with a cheery 'hello!'. He is late arriving at court because he was collecting his methadone script. #SwansMags	joy	0: no joy can be inferred
+2018-En-03418	The excitement I get when I see tipping point is on tv is rather sad	joy	1: low amount of joy can be inferred
+2018-En-03066	Up bright and early for class today 😂👌🏾 I can't miss nane nother one	joy	2: moderate amount of joy can be inferred
+2018-En-00570	Don't let anyone steal your joy! #rejoice #victory #overcomer	joy	2: moderate amount of joy can be inferred
+2018-En-02038	Share your #smile today!	joy	2: moderate amount of joy can be inferred
+2018-En-03515	i was more happy and excited about mamapink's interactions with each other than i was about any of their wins i gtg	joy	3: high amount of joy can be inferred
+2018-En-00930	Niall's handwriting is so beautiful 😭	joy	2: moderate amount of joy can be inferred
+2018-En-02357	“Among the things you can give and still keep are your word, a #smile, and a grateful #heart.” @TheZigZiglar #Success #Leadership	joy	2: moderate amount of joy can be inferred
+2018-En-00031	It's kind of shocking how amazing your rodeo family is when the time comes that you need someone 	joy	0: no joy can be inferred
+2018-En-01431	@NualaBugeye 'personal freedom' to inflict unspeakable cruelty on animals for the voyeuristic pleasure of sadists and simpletons. Amazing. 🙃	joy	1: low amount of joy can be inferred
+2018-En-02390	Today is your day... \nSoar your spirit. \nUnfurl your joy!\nWishing you all a bright week!\n #BloodyCrayonsSpecialScreening	joy	2: moderate amount of joy can be inferred
+2018-En-03135	@Shaftesbury_LRC Genius! Love the poster 😃. The #excitement is on for next Monday 😃	joy	3: high amount of joy can be inferred
+2018-En-02770	party tattoos by dodie has become my cheer up song ✨	joy	1: low amount of joy can be inferred
+2018-En-01220	Stranger Things S2 25secs teaser! #excited 😲	joy	2: moderate amount of joy can be inferred
+2018-En-00358	Why was 6 afraid of 7?\nCause 7 ate 9. BUT, why DID 7 eat 9??\nBecause you should eat 3 squared meals a day! 😜 #jokes #meme #dankmemes #funny	joy	2: moderate amount of joy can be inferred
+2018-En-01290	Listening to @danauerbach and watching the #eclipse at the dog park #bliss	joy	2: moderate amount of joy can be inferred
+2018-En-01500	This morning has been hilarious 😂😂	joy	2: moderate amount of joy can be inferred
+2018-En-02575	@Born2ride69 Hell I much rather spend the day in bed (or wherever)  than run 😊\nPlus it's a great workout for the glutes and thighs	joy	1: low amount of joy can be inferred
+2018-En-02262	Getting a much needed root canal tomorrow! 😆	joy	0: no joy can be inferred
+2018-En-03815	Favorite character who's name starts with the letter M?\n #Prisonbreak5  #The100 #GreysAnatomy	joy	0: no joy can be inferred
+2018-En-01154	LEO TRAITS: Strengths: Creative, passionate, generous, warm-hearted, cheerful, humorous	joy	1: low amount of joy can be inferred
+2018-En-01093	@joannemarie2000 hopefully you are always #smiling TY #appreciate ya	joy	3: high amount of joy can be inferred
+2018-En-01457	@nytimes @pattonoswalt I am so happy that you were able to expands your heart and find happiness again, congratulations! ❤️	joy	3: high amount of joy can be inferred
+2018-En-02000	All these David Brooks sandwich tweets are much-needed comic relief. #hilarious #sopressatta	joy	2: moderate amount of joy can be inferred
+2018-En-01638	@LFC_Povey I'm enjoying this so much😂 they're hilarious. I've a headache from laughing... I need to stop now.	joy	3: high amount of joy can be inferred
+2018-En-00202	Chanyeol always cheering, he'll claps loudly and very happy when talks about something funny	joy	2: moderate amount of joy can be inferred
+2018-En-04354	And yet again, @MarliePacker sets the back row bar high... Tackling and support play outstanding. Congrats on your 50th cap! #inspiring	joy	2: moderate amount of joy can be inferred
+2018-En-02244	themselves so don't let them get to you. #hate #love #loveonhaters #killemwithkindness #laugh #dontcare #whatever #weakness	joy	0: no joy can be inferred
+2018-En-02377	I really love @TheFostersTV really great start to this season.  #resist	joy	2: moderate amount of joy can be inferred

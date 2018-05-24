@@ -1,0 +1,37 @@
+[flake8]
+max-line-length = 80
+
+exclude =
+    .tox,
+    __pycache__,
+    build,
+    dist,
+    _data,
+    data,
+ignore =
+    # E126 continuation line over-indented for hanging indent
+    E126,
+    # F401 imported but unused
+    F401,
+    # E501 line too long
+    E501,
+    # E303 too many blank lines
+    # E303,
+    # E302 expected 2 blank lines, found 1
+    # E302,
+    # E731 do not assign a lambda expression, use a def
+    # E731,
+    # F812: list comprehension redefines ...
+    # F812,
+    # E402 module level import not at top of file
+    E402,
+    # W292 no newline at end of file
+    # W292,
+    # E999 SyntaxError: invalid syntax
+    E999,
+    # W503 line break before binary operator
+    W503,
+    # F821 undefined name
+    # F821,
+    # F841 local variable X is assigned to but never used
+    F841,

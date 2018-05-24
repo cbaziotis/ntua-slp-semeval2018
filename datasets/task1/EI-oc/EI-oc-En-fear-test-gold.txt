@@ -1,0 +1,987 @@
+ID	Tweet	Affect Dimension	Intensity Class
+2018-En-02626	@EdmundPAdamus That's the horrific irony; while we 'cleanse' society of moral value, a new religion will rise up &amp; fill the gap - unhindered	fear	1: low amount of fear can be inferred
+2018-En-00320	@TuckerCarlson @krauthammer @FoxNews They always need the drama and a fight to feel adaquate. Sad power is so insecure!!!	fear	0: no fear can be inferred
+2018-En-03973	@executivegoth I tried a free Alpha trial to watch #dread and I'm sold. Worth the subscription alone. You all are incredible!	fear	0: no fear can be inferred
+2018-En-02615	@anya_sisi Off to jail with lots of other like minded muslims, with his koran, prayer mat, halal #islam = #terrorism	fear	1: low amount of fear can be inferred
+2018-En-03312	My boss said to another girl who is leaving 'i hope your new job is shit.' How pathetic. Hence why people are leaving in droves. 	fear	0: no fear can be inferred
+2018-En-02333	@cnn please get Sebstian Gorka off of my tv.  The whole trump admin. needs to stop deflecting by talking about Hillary. 	fear	0: no fear can be inferred
+2018-En-00741	ever shit and just become another cog in the chat i will not hesitate to smack ur bottoms	fear	0: no fear can be inferred
+2018-En-03288	PC Claire Boddie commended for courageous restraint of an Annunaki male by @RoyalFamily @AandSPCC @theresa_may #news #bbc #cnn #terror #rt	fear	0: no fear can be inferred
+2018-En-04098	I keep getting so worried about the amount of plastic that gets thrown away atm as if I didn't panic enough about the environment already :)	fear	2: moderate amount of fear can be inferred
+2018-En-02371	@republic Inside job so modi can show more tantrums	fear	0: no fear can be inferred
+2018-En-02068	@italianirish81 Any republican stupid enough to attend one of these grotesque abominations would suffer a horrible death.	fear	1: low amount of fear can be inferred
+2018-En-01344	My morning protein shake. Delicious way to assure I start my day the right way with 21 gms of whey protein. #protein #shake #morning	fear	0: no fear can be inferred
+2018-En-02726	#AI #revolation, soon is possible!\n #fearless  #good #goodness	fear	0: no fear can be inferred
+2018-En-01460	Don't fear the enemy that attacks you, but the fake friends that hugs you. #justsaying	fear	0: no fear can be inferred
+2018-En-03455	AJ ends up being a terrible character, but no one in his family ever actually speaks to him. He witnesses so much and just gets sent away.	fear	0: no fear can be inferred
+2018-En-01937	@MicheleKihiu Im terrific thanks.\nI hope you managed to get even if it's just 40 winks of 😴. It was a crushing defeat. He was so dejected	fear	0: no fear can be inferred
+2018-En-04118	#ItComesAtNight has to be the worst film i have ever seen... Nothing happens is the entire film #shocking #iWantMyMoneyBack #Daylightrobbery	fear	0: no fear can be inferred
+2018-En-00437	﻿my phone is oppo. but its alway oppocot 😒 those who always startle will know what i mean	fear	0: no fear can be inferred
+2018-En-02179	'You dare threaten me, Thor, with so puny a weapon?'	fear	0: no fear can be inferred
+2018-En-03293	@ScarletteDrake OMG poor you! It happened to me last summer. I saw my under skin 😰	fear	2: moderate amount of fear can be inferred
+2018-En-01028	Why is an alarm clock going 'off' when it actually turns on? #alarm #alarmclock #ThursdayThoughts	fear	0: no fear can be inferred
+2018-En-01327	@luxlikelindsey because one of the main symptoms is restlessness and it could explain why he isn't able to sleep/might not want to	fear	0: no fear can be inferred
+2018-En-02519	I can't stop shaking my head. People are bullied everywhere, everyday, and it doesn't matter which race, gender or whatever they have.	fear	1: low amount of fear can be inferred
+2018-En-04325	I think #Saudis are responsible for most of the #islamic #terror in the world. Both with their #Wahhabism and by financing terrorists …	fear	2: moderate amount of fear can be inferred
+2018-En-03018	Isis was not defeated in #Mosul. It just changed its address to #Libya.  #Egypt #Sinai	fear	0: no fear can be inferred
+2018-En-01771	@shahidafridi37 at his best.... Great to watch u go big sir. #tremendous hits \nDts boom boom Afridi 😍	fear	0: no fear can be inferred
+2018-En-01956	@n_umira omg why ☹	fear	0: no fear can be inferred
+2018-En-03019	If your nail polish has hardened or is gummy, place the bottle in a pan of boiling water. The polish will be like new.	fear	0: no fear can be inferred
+2018-En-03125	#TrumpRally : divisive, rude, incoherent. This man is truly insane. #terrifying #ridiculous I am an Arizonan Against Trump.	fear	3: high amount of fear can be inferred
+2018-En-01166	no offense to those who love k culture, u can love it all you want bbs!! 💖 but i just personally want to get to know my own country's-	fear	0: no fear can be inferred
+2018-En-03887	Find research about terrorism over time and around the world; extremist and terrorist groups.	fear	1: low amount of fear can be inferred
+2018-En-03587	i want to cry just thinking about college and it was only the first day #a #good 	fear	1: low amount of fear can be inferred
+2018-En-02340	@CPC_HQ Immature...and Trumpy. Sad one guys😕 Does this represent the intelligence and moral depth of CPC ? #bully #notinmycanada	fear	1: low amount of fear can be inferred
+2018-En-03035	It bugs me that people concern themselves so much with what other people CHOOSE to do with their money 😂🙈	fear	0: no fear can be inferred
+2018-En-03203	@DonaldJTrumpJr the all talk no action dem and Rep congressman saying they want u to talk to them. U must be shaking in ur boots lol!	fear	0: no fear can be inferred
+2018-En-00079	@WoodTwcapital01 Ok fine I'll be honest, I just enjoy picking on her becuz she's completely clueless #lowhangingfruit #bully	fear	0: no fear can be inferred
+2018-En-02099	I hate when stupid ass shit irritate me	fear	0: no fear can be inferred
+2018-En-03594	I'm not picky, guys are just intimidated by me... and I don't let dudes run over me or run my life and finances. If u can't respect that bye	fear	0: no fear can be inferred
+2018-En-02410	“Tell me, Doctor, are you afraid of #death?'\n'I guess it depends on how you #die.”	fear	1: low amount of fear can be inferred
+2018-En-01914	things that terrify me: remembering my bf follows me on twitter	fear	3: high amount of fear can be inferred
+2018-En-00210	Don't be discouraged.	fear	0: no fear can be inferred
+2018-En-01413	The craziest thing is it leads me to think past the people bullshit. But then because of the story you still worry about the people bullshit	fear	2: moderate amount of fear can be inferred
+2018-En-02270	#fans #gamers what you think @EAMaddenNFL 18 is going to rate the #Dolphins #offense #defense special teams rating &amp; rank out of 32 teams	fear	0: no fear can be inferred
+2018-En-02003	3 hours of hell again. #anxiety. At this point I'm convinced I'll never get an on site job again or play keyboards live.	fear	3: high amount of fear can be inferred
+2018-En-02893	@EsteemedKompany is dani alves really going to go to PSG in your opinion #nervous	fear	2: moderate amount of fear can be inferred
+2018-En-02970	@QLDmaroons  No matter how many years I watch #origin it atill makes my heart pound and my stomach flutter.  SMASH EM boys! #QLDER 	fear	0: no fear can be inferred
+2018-En-01247	The use of violence, threat of violence and intimidation just tag zany pf. Very good at it.	fear	0: no fear can be inferred
+2018-En-04376	Up early. Kicking ass and taking names. #offense.	fear	0: no fear can be inferred
+2018-En-00179	@mjrgxx This pain is restless even if my eyes are closed. I wish I never had won the race as a sperm.	fear	1: low amount of fear can be inferred
+2018-En-03673	Olivia is a prime example how you can be gorgeous on the outside &amp; have a really shitty personality! #looksainteverything #loveisland 	fear	0: no fear can be inferred
+2018-En-01621	We probably wouldn't #worry about what people think of us if we could know how seldom they do.	fear	0: no fear can be inferred
+2018-En-00484	Time to get my dreads back I miss them 😩😩 #dread head #girlswithdreads	fear	0: no fear can be inferred
+2018-En-00228	@obyezeks #Women#Powerful#Sentiment\nChibok is NIGERIA #concern	fear	0: no fear can be inferred
+2018-En-01173	Dear Emma its my honor to communicate with you directly kindly give me this tremendous opportunity to chat via Whats App 00966504634031 thx	fear	0: no fear can be inferred
+2018-En-00705	Today all India Bank strike? WTH. Was this announced? What's this strike for? 	fear	0: no fear can be inferred
+2018-En-01808	Sometimes you have to smile to hide your fears and to laugh to hide your tears	fear	0: no fear can be inferred
+2018-En-00526	One of those days. #Mentalhealth #Anxiety #agoraphobia #panic #depression #OCD	fear	3: high amount of fear can be inferred
+2018-En-03195	The bathroom sink just spat a spider at me.  I turned on the faucet, and a sizable spider flew up out of the drain.  #spiders #fb	fear	2: moderate amount of fear can be inferred
+2018-En-02325	And plz don't hesitate to come in. We have a translation\nservices either. We all are waiting you to come!	fear	0: no fear can be inferred
+2018-En-00128	A #lockdown of a #building is intended to #secure and #protect #Occupants who are in the proximity of an immediate #threat.	fear	2: moderate amount of fear can be inferred
+2018-En-02250	@Guerrilla I wished.. 😭	fear	0: no fear can be inferred
+2018-En-02457	@Ritsakuru awe sorry na	fear	0: no fear can be inferred
+2018-En-03316	Shortest horror story: School tomorrow	fear	1: low amount of fear can be inferred
+2018-En-00837	The Great and Mighty Warlock edgelordily emanates Eldritch Servant (using a 8th level spell slot) with intent to frighten an enemy Paladin!	fear	0: no fear can be inferred
+2018-En-01146	@queenjlouise @mamaw_gereck awe thanks 😊	fear	0: no fear can be inferred
+2018-En-03460	never had a dull moment with u guys 💕	fear	0: no fear can be inferred
+2018-En-00769	Jock! Pakistani are Firing on loc without reason.They r Killing our Pilgrims. #PMO Thanks! V r safe! R V #warfools ? #fearing PAK nuke??	fear	2: moderate amount of fear can be inferred
+2018-En-01030	@1ShawnT Yall hoes better learn how to hip-hop dance  and stop shaking yall ass all the time😂	fear	0: no fear can be inferred
+2018-En-00233	That took longer than expected lol. Was hella fun though and a good learning experience. If you've got any questions don't hesitate to ask!	fear	0: no fear can be inferred
+2018-En-00043	it takes sadness to know happiness\nabsence to value presence	fear	0: no fear can be inferred
+2018-En-03869	@realDonaldTrump Why don't you try nominating qualified people; B.DeVos, T.Pruitt, R.Perry,etc...really? They are terrible!	fear	0: no fear can be inferred
+2018-En-02361	@SWATI_V_JOSHI Goons of Mamata spread everywhere as terror elements.	fear	2: moderate amount of fear can be inferred
+2018-En-03086	@narendramodi There should need to take serious action over terrorism sir	fear	1: low amount of fear can be inferred
+2018-En-01072	@sportive_tricks A horrific take.	fear	2: moderate amount of fear can be inferred
+2018-En-01410	@h258_laura @leiafrater I don't like horror movies, leave me alone	fear	1: low amount of fear can be inferred
+2018-En-00894	@TheyCallMePansy @PUBATTLEGROUNDS 17 kills, dear god 😱	fear	2: moderate amount of fear can be inferred
+2018-En-01113	#jeremyvine take a slightly dull subject and makes it so tediously boring you actually want to rip your own throat out!	fear	0: no fear can be inferred
+2018-En-03709	@raygibson @CNN Sadly it's people who think like you that is causing this problem which by the way according to Scientist is dire	fear	2: moderate amount of fear can be inferred
+2018-En-00146	@PressSec Psalm 128:1\nA Song of Ascents. Blessed is every one who #fears the #Lord, Who #walks in His #ways.	fear	0: no fear can be inferred
+2018-En-01807	#Being a #terrible #mother makes me uncomfortable.	fear	2: moderate amount of fear can be inferred
+2018-En-04084	13) mutual whos always online - @Lafa_YEET bc we have to bully her to get to sleep	fear	0: no fear can be inferred
+2018-En-03708	@benavides_412 awe feels or que :,(	fear	0: no fear can be inferred
+2018-En-01746	@hugnkiss Ugh you just set me back like five more years on it now 	fear	0: no fear can be inferred
+2018-En-02009	Do not linger too long near the howff or you risk the displeasure of a chuhaister with pubes more underwhelming than those of an aurochs.	fear	0: no fear can be inferred
+2018-En-03399	Wanting to leave this planet, listening to what gets radio-play #grim	fear	1: low amount of fear can be inferred
+2018-En-01779	first ever doctors appointment without my mum, how daunting	fear	2: moderate amount of fear can be inferred
+2018-En-03096	man I hate Spider-Man and I ain't even watch it yet 😤	fear	0: no fear can be inferred
+2018-En-02549	i'm nervous	fear	2: moderate amount of fear can be inferred
+2018-En-01549	'Im so sad Im shocking bcoz she suddenly grab my hair and pushing and pull'\n\nhoooooooy jezaz panabangi😭🙏😆😂😂	fear	2: moderate amount of fear can be inferred
+2018-En-00961	@Independent He will be jeered even more by next year. Doesn't seem to get it that every last European including Brits think he is dreadful	fear	0: no fear can be inferred
+2018-En-02465	solar eclipse = annoyed mood but grateful. #cantwait #awe #cool #soon	fear	0: no fear can be inferred
+2018-En-01040	@worldonalert horrible when and where exactly happen ?	fear	2: moderate amount of fear can be inferred
+2018-En-02167	'She trapped me, but I love her' #insecure #killingme @insecurehbo	fear	1: low amount of fear can be inferred
+2018-En-02856	NEW MUSIC FRIDAY: FIRST SINGLE OFF THE NEXT PROJECT. #untitled #mattrod #hiphop #boston #hartford #animosity #thesemycities	fear	0: no fear can be inferred
+2018-En-02414	Ugh @easyJet really do have the worst customer service!!!!!!! #astounded	fear	0: no fear can be inferred
+2018-En-03824	The moment I joined BTS, I was nervous &amp; felt lost. I still have those feelings but whenever I do, the people who bring me back are you guys	fear	2: moderate amount of fear can be inferred
+2018-En-02554	The sounds of #summer #cicada so loud today. Catching up on some @JoinTeamAlpha #dread	fear	0: no fear can be inferred
+2018-En-02972	@idktaehyng the possibilities terrify me	fear	3: high amount of fear can be inferred
+2018-En-01650	@CapehartJ I woke up in dread too. #2017	fear	2: moderate amount of fear can be inferred
+2018-En-01935	@ChipotleTweets Never a good experience at 919 E Fort Ave location. I never learn because I love chipotle #terrible #badservice	fear	0: no fear can be inferred
+2018-En-03656	Every time I fart my dog jumps in fear hahahaha yass	fear	0: no fear can be inferred
+2018-En-00694	I finally got my drivers permit #yes #readytodrive #nervous #scared	fear	3: high amount of fear can be inferred
+2018-En-00736	@thetribunechd Which are sensible terror attacks parnab da???	fear	1: low amount of fear can be inferred
+2018-En-03217	Am I in labor yet?? 😭😫 #miserable	fear	2: moderate amount of fear can be inferred
+2018-En-02256	@sonyxperia @SonyUK I need a mobile phone screen repair..... Help (Newcastle UK) #devastated	fear	1: low amount of fear can be inferred
+2018-En-03366	Free yourself from the poisonous and laborious burden of holding a grudge. @SteveMaraboli #quote	fear	0: no fear can be inferred
+2018-En-01906	Believing in yourself is key in attaining what you want in your life. #start believing in yourself	fear	0: no fear can be inferred
+2018-En-01194	@funnyrealfact Thx 4 follow! I #terrify with letters&amp;tweets.Prefer I hand out sweets.Perhaps they are powerful like Apostle Paul 2Cor10:9-10	fear	0: no fear can be inferred
+2018-En-03517	1 Samuel 18:15\nAnd when #Saul saw that he had great #success, he stood in #fearful #awe of him.	fear	0: no fear can be inferred
+2018-En-03264	Have you ever spoke in tongues, don't be afraid.	fear	0: no fear can be inferred
+2018-En-01235	@empireofthekop Are we sponsored by #Tango now ? #whopicksthesecolours #youvebeentangoed  #kak	fear	0: no fear can be inferred
+2018-En-00567	@bulbamyeon @joonmyuni Yes I also wrote to them cause my friend was getting nervous about it. Hope we get what we want &gt;&lt;	fear	0: no fear can be inferred
+2018-En-02310	Good Morning #start 2Wheel #free course *Pune *8888006565	fear	0: no fear can be inferred
+2018-En-01425	@womensmarch I remember when Ron Reagan said tear down that wall.  Trump is so afraid of 'others' he obviously doesn't feel safe. 	fear	0: no fear can be inferred
+2018-En-03904	Man, filling out your dad's life insurance paperwork will really put a damper on your Tuesday morning. Really makes it feel final...	fear	1: low amount of fear can be inferred
+2018-En-03610	@AppleSupport worst customer service. 3days to get a diagnostic appt?! #disappointing #ittakes3minutestorunadiagnostic	fear	0: no fear can be inferred
+2018-En-01656	@Arquipimp 😂😂😂😂\nU mean overprice English clubs\nReal Madrid see bayern as no threat then look 😂	fear	0: no fear can be inferred
+2018-En-01677	@JanclydeCEspino at one point this is what i wanted rba sa? hahaha pero di jud oy di jud ☹ what if ga humss ta? 😭	fear	0: no fear can be inferred
+2018-En-00521	Strapless wedding dresses look awful on most people. \nJulianne Hough looked great 👌🏼	fear	0: no fear can be inferred
+2018-En-00268	@_madelinemdn @aMARAyt24 bully 😩	fear	0: no fear can be inferred
+2018-En-02722	@NateRosenblatt Everyone in the world uses the word #terror so it serves his own purpose, that's not only in the #GCC the case...	fear	0: no fear can be inferred
+2018-En-03522	psa: if you read while you're laying out you sort of forget about the boiling sun and the sweat poring down your face 🙌	fear	0: no fear can be inferred
+2018-En-01441	@jaden_lindner If I acquire a deadly scowl like that I'm going to be pretty happy to be old	fear	0: no fear can be inferred
+2018-En-02261	@e662354c8e02466 @AlSure5 You. Sir are a alarmist unsubstantiated facts. And a idiot	fear	0: no fear can be inferred
+2018-En-00868	@virginmedia I was just on the phone are twenty minutes with 3 people, non could help and then it cut out your end. What's going on? #awful	fear	0: no fear can be inferred
+2018-En-01794	@ColleenRich Exactly! #horror	fear	2: moderate amount of fear can be inferred
+2018-En-01666	@milksol he knows wonwoo can't hold any longer when his fingers trembling uncontrollably :( so sol gives his mask for wonwoo and	fear	0: no fear can be inferred
+2018-En-03545	@StreamPlanetHD #crap sorry but doesn’t work	fear	0: no fear can be inferred
+2018-En-04295	#Sleep is my #drug. My bed is my dealer. My #alarm is the #cops. #School is the #jail. #TeamFollowBack	fear	0: no fear can be inferred
+2018-En-01651	@realDonaldTrump A president would at least express sympathy and concern instead of waking up attacking Americans AGAIN!	fear	1: low amount of fear can be inferred
+2018-En-00176	Oh Canada 🇨🇦 shouldn't be sung like that. #terrible #MLBTHESHOW17	fear	0: no fear can be inferred
+2018-En-00792	@realDonaldTrump Maybe we can save them all from the desolate hell that I have no idea about	fear	1: low amount of fear can be inferred
+2018-En-01283	@RachelStothard1 @Jomarshall6 No room at the inn when we arrived due to computer error. 24hrs of messing around to get sorted. 	fear	1: low amount of fear can be inferred
+2018-En-01391	I am so freaking annoyed that he constantly feels the need to be a time in my life where I'd be happy with just one monitor on my PC	fear	0: no fear can be inferred
+2018-En-01912	@FilY0 @VPPilipinas @lenirobredo You are in dire need of therapy.	fear	0: no fear can be inferred
+2018-En-03209	Potentially going on holiday in 7 days.. can you get fit in that time? #panic 🤔	fear	3: high amount of fear can be inferred
+2018-En-01613	Aw, bummer. @WckdLbrn (Maura Rankin) blocked me for calling her out as a #bully. Some people just #CantHandleTheTruth, can they?	fear	0: no fear can be inferred
+2018-En-00565	Even the devil was once an Angel. #TuesdayThoughts #change #think #devil #Angels #anxiety #WordsOfWisdom	fear	1: low amount of fear can be inferred
+2018-En-01230	@Skyscanner horrified to learn that I cant change/exchange by flight to Lisbon 6 weeks before departure!!!! #omegaflightstore £200 #awful	fear	2: moderate amount of fear can be inferred
+2018-En-00750	Man, don't believe the hype, this #DJKhaled comp is garbage. #sad #terrible #trumpofhiphop	fear	1: low amount of fear can be inferred
+2018-En-03029	@payne_quaray You might have been doing it for the wrong one. Don't fret 😟	fear	0: no fear can be inferred
+2018-En-01178	Looking forward to @CongletonFC playing @FCUnitedMcr tonight. 7.30 start  #comeonthebears	fear	0: no fear can be inferred
+2018-En-02831	@PrisUY Good point if let's say the Argentinian police would do 1/100 what they are doing we would see a lot of outrage by certain people.	fear	0: no fear can be inferred
+2018-En-00111	An ignominious end ... they changed everything from analog to digital! 😱 IKR? Everyone who still had an analog phone *had* to	fear	1: low amount of fear can be inferred
+2018-En-00105	On 1 side is the concern &amp; fear 4 our teens' safety &amp; happiness #thathorriblesuicidegame #terrifying #sosick (contd)	fear	3: high amount of fear can be inferred
+2018-En-01623	@KaiJest « crouch, as though she is about to attack. She launches herself into the air towards me and explode in tiny dazzling orbs of »	fear	0: no fear can be inferred
+2018-En-01418	@MaisieeeH I think the ending is about despair, and about not being able to escape the system... maybe?	fear	1: low amount of fear can be inferred
+2018-En-03585	I panic when someone says: 'I need to talk to you'.	fear	3: high amount of fear can be inferred
+2018-En-00636	Less than 7 weeks to go 	fear	0: no fear can be inferred
+2018-En-03244	Ashamed. How #EU citizens treated and made #insecure in #UK @AmberRuddHR @theresa_may It's on yr watch #fear#anger #distrust is flourishing	fear	3: high amount of fear can be inferred
+2018-En-03785	The more Russia stuff I watch, the more I think Clinton was setting Trump up for a legal attack after she was Prez. 	fear	0: no fear can be inferred
+2018-En-02630	Carly &amp; Theo Blair! Carly was camera shy but still enjoyed playing with her brother here at The Dog House Pet Resort!	fear	0: no fear can be inferred
+2018-En-04120	Colleague:'Shall I learn to code?'\nMe:'Are you ready to spend years swinging between boredom, fear and anxiety?'\nColl.:'...'\nMe:'I know...'	fear	0: no fear can be inferred
+2018-En-02273	@Outlookindia This is courage. The driver of shot down bus showed no courage. A natural scare of looming death threat made him flee fast.	fear	1: low amount of fear can be inferred
+2018-En-02071	yikes got my first job interview next week, haven't had one in years 	fear	1: low amount of fear can be inferred
+2018-En-02874	Do not be too #timid and #squeamish about your actions. All life is an experiment.	fear	0: no fear can be inferred
+2018-En-03435	@knowhowtohelp what a terrible company not had a working dishwasher now for 7-8 weeks awaiting 5 th engineer. I am disabled and need this !	fear	1: low amount of fear can be inferred
+2018-En-02714	I own lots of roller skate tools... and my new ones have different sizes on EVERY single screw 😭 #newskates #cry	fear	1: low amount of fear can be inferred
+2018-En-01000	Of course I've got a horrible cold and am breaking out 2 days before grad 👍🏼👍🏼👍🏼👍🏼👍🏼	fear	1: low amount of fear can be inferred
+2018-En-03281	Confidence c|mos not from always being right but from not fearing ho be wrong.-Peter ;. Mcintyre	fear	0: no fear can be inferred
+2018-En-02441	I'm perhaps an introvert according to the text, but i dont hesitate to be friend with anyone esp the open minded one(s).	fear	0: no fear can be inferred
+2018-En-03315	MOTIVATION TIP - Great #salespeople know how to increase #business by eliminating #consumer #complaints #concerns #fears and pet peeves !!	fear	0: no fear can be inferred
+2018-En-01614	So tired. All these freshies and all i'm unhappy at are these volunteers.	fear	0: no fear can be inferred
+2018-En-02728	Earth's sixth mass extinction event under way, scientists warn **basically  caused by Islamic Muslim terrorism which Obama dem- rats back*	fear	2: moderate amount of fear can be inferred
+2018-En-00943	I was taught, there's nothing out there to #fear; just go out there turn #dreams into #reality, use other people fears to your advantage.	fear	0: no fear can be inferred
+2018-En-02174	On that note, petition to take HPE for .5 credits so your horrific grade in there matters less.  #ORUFreshmenAdvice	fear	0: no fear can be inferred
+2018-En-03695	@Roberts_An28 Ahww noo don't be shy! I don't bite 😫❤	fear	0: no fear can be inferred
+2018-En-00597	My friend told me his dead wife's profile has been active within 24 hours on a dating site #onlinedating #nightmare	fear	2: moderate amount of fear can be inferred
+2018-En-03612	Going over the #script for this weekend! Can't wait to start #filmming! #actorslife #ActressLife #actress  #horrorfilm #HorrorMovies	fear	0: no fear can be inferred
+2018-En-00975	I actually hate Vision. Coming over from @emiswebsupport is like moving from Man City to QPR. A league below, past it and clouded in chaos.	fear	0: no fear can be inferred
+2018-En-02880	@Anagaitan09 @kayy_jnsa @lolbhappy @HamzaWamiq @AlissaViolet bully at school now you're bullying your bro	fear	1: low amount of fear can be inferred
+2018-En-02309	and CLEARLY all this #breathless coverage isn't covering the REAL #Collusion story - #DNC &amp; #UkraineCollusion !!	fear	0: no fear can be inferred
+2018-En-02571	@EllyySchlordt it's awful!	fear	1: low amount of fear can be inferred
+2018-En-01529	LogRhythm: LogRhythm helped First_Financial bank unify #threat data and #streamline responses. Learn how in this case study:… …	fear	0: no fear can be inferred
+2018-En-01565	@aidand472 I already do this is just to suppress suspicion xox	fear	0: no fear can be inferred
+2018-En-00951	When you're on a diet and your whole family orders pizza. 	fear	0: no fear can be inferred
+2018-En-01846	Skyq is 👌🏼 but it's about time @SkyUK sorted there internet out! 	fear	0: no fear can be inferred
+2018-En-03052	I may be #disabled ,  #discouraged , and #disappointed in gaining weight. But I am not #defeated . Gonna do @NerdFitness again! Who wit me?	fear	0: no fear can be inferred
+2018-En-01545	@RazdanNidhi Improve on the makeup dear to avoid reduction in viewership... 	fear	0: no fear can be inferred
+2018-En-00018	@telesynth_hot Generally an educated person speaks more than one language. #auspol #monolingual #lazy #smug #scared #snowflake	fear	0: no fear can be inferred
+2018-En-02709	Tmr is the most important day to determine my future.....I am really nervous xxx	fear	3: high amount of fear can be inferred
+2018-En-02944	i do love shack shake	fear	0: no fear can be inferred
+2018-En-03627	Ten: Amazing the snap power @AdrianMannarino gets off such a short back-swing! #threat @Wimbledon Rd of 16 #ATP 🎾🎾	fear	0: no fear can be inferred
+2018-En-03575	And I bet now, after people saw that horrid Dracula flick and the new Mummy, they'd prolly agree with me.	fear	0: no fear can be inferred
+2018-En-02721	@matthewamiller I'm still in awe that his clearance wasn't pulled long ago. Seems like security clearance means nothing anymore.	fear	0: no fear can be inferred
+2018-En-00017	Really sad to hear about terror attack on pilgrims. Condolences with victims family #NotInMyName	fear	3: high amount of fear can be inferred
+2018-En-01883	@NotJackKemp Wasn't sure if i was having a stroke or listening to BAD today because of Killers heat inversion. #killerinversion #terrible	fear	2: moderate amount of fear can be inferred
+2018-En-02708	@sundarpichai @Google Since when did someone break #chromecast for ALL MacBooks? PLS -We #despair at days wasted trying 2 make it work again	fear	2: moderate amount of fear can be inferred
+2018-En-00742	This nightmare is nearly over gang gang gang	fear	2: moderate amount of fear can be inferred
+2018-En-02108	Who is terrorist? A person who uses unlawful violence and intimidation, especially against civilians, in the pursuit of political aims.	fear	0: no fear can be inferred
+2018-En-00929	im shit at expressing my love to my family physically &amp; orally because im shy, so i do it secretly or those 'pa-simple moves' instead hehehe	fear	0: no fear can be inferred
+2018-En-02802	@PriyankKahar @narendramodi Don't worry Narendra Modi is not Manmohan Singh.	fear	0: no fear can be inferred
+2018-En-01715	@SabeloMario @a16z @JimHarris Testimony of how much BS were broadcasted these last year. Pigs are not flying after all. 	fear	0: no fear can be inferred
+2018-En-02305	Support your local #firefighters to help ensure they are able to carry out their job tonight without fear of attack or harassment. #nifrs	fear	0: no fear can be inferred
+2018-En-04105	@virginmedia Nope and never has despite tech support saying it's a network issue. Support and communication has been awful.	fear	0: no fear can be inferred
+2018-En-02440	Why hasn't my alarm gone off... 🤔😩⏰	fear	0: no fear can be inferred
+2018-En-02858	'A #pessimist sees the difficulty in every #opportunity; an #optimist sees the opportunity in every difficulty.' —Winston Churchill #quote	fear	0: no fear can be inferred
+2018-En-03557	Wow ... I don't know who Jocelyn Alice is, but judging by her rendition of Oh Canada, I'll never buy any of her music #AllStarGame #awful	fear	0: no fear can be inferred
+2018-En-00078	@maltsphere @politically_cor @PrisonPlanet @DonaldJTrumpJr There can be no true despair without hope. Isn't that what you're looking for?	fear	0: no fear can be inferred
+2018-En-03789	Difficult roads often lead to Beautiful destinations! #keepgoing #keeppushing #startsomewhere #key #start	fear	0: no fear can be inferred
+2018-En-01348	Yeah im more afraid	fear	3: high amount of fear can be inferred
+2018-En-03597	@espn This is goin to be as good as rocky vs hogan #terrible #ohnowhatisyoudoingbaby	fear	0: no fear can be inferred
+2018-En-03176	Ot6 still exist? #julid #deletesoon 	fear	0: no fear can be inferred
+2018-En-03688	You was born with a purpose to help make the world a better place not to sit and do nothing!!! - @Balrsclub #Motivation #LoveIsland #fear ✨	fear	0: no fear can be inferred
+2018-En-01646	I felt the microphone, and haunt.	fear	2: moderate amount of fear can be inferred
+2018-En-02973	I want a friendship group like in Friends 😧	fear	0: no fear can be inferred
+2018-En-02548	You always find the most comfortable position in bed after the alarm goes off	fear	0: no fear can be inferred
+2018-En-04135	@ShaneMalwa @MajorPoonia @devyanidilli I believe ur mekka n madina also dikling which u kiss. A dark dirty one	fear	0: no fear can be inferred
+2018-En-00762	@ElfinKate @CulturalWatch @aldaily @BullDeborah @SelinaNThompson @CSSDLondon @CSSDLondon Tedx 1st Sept #scared!	fear	3: high amount of fear can be inferred
+2018-En-03652	@1pmlunch I coloured my hair bright red AND had a dodgy fringe. #dreadful #nophotos #thankgoodness #betterblonde	fear	0: no fear can be inferred
+2018-En-02498	@NicolleDWallace @jheil @DonnyDeutsch He's spot on #terrifying	fear	2: moderate amount of fear can be inferred
+2018-En-04188	The wildest shit just happened at work I'm astounded	fear	0: no fear can be inferred
+2018-En-04091	He #takes his #job #seriously and isn’t #afraid to #let it be #known. #Realestate #Scottadlhoch #Realtor	fear	0: no fear can be inferred
+2018-En-03986	Heading to PNC today to get the ball going for my MA! #goingforit #nervous #excited	fear	1: low amount of fear can be inferred
+2018-En-02896	Welp.. I hope y'all don't have animosity towards me &amp; find this new one. 🙇🏽‍♀️	fear	0: no fear can be inferred
+2018-En-02950	@pattonoswalt @EricaRoman_ Amazing how folks are foaming at the mouth to judge. We're happy for you @pattonoswalt !!!!!!!!!!	fear	0: no fear can be inferred
+2018-En-02711	@SafaricomLtd Am in dire need of my 1gb	fear	0: no fear can be inferred
+2018-En-03263	@Good_Therapy and @CounsellorsCaf are talking about #depression today! What's trending in your community?	fear	0: no fear can be inferred
+2018-En-02337	Mothafuckas wanna adopt the dark, but I was born in it	fear	0: no fear can be inferred
+2018-En-02205	Usually the things you are most #afraid of are the most #worthwhile. #FACT #TeamFollowBack #rocktheretweet	fear	0: no fear can be inferred
+2018-En-04285	also, been kind of silent on s11 of the x-files because i am terrified that CC is going to screw it up! actually i know he will... #dreading	fear	3: high amount of fear can be inferred
+2018-En-00083	@insurextech   Do you have complete control over your website and twitter account again.  We're nervous and uneasy on ico day.	fear	3: high amount of fear can be inferred
+2018-En-02086	@sebastiankurz : We need more mutual #trust to increase #security &amp; fight #terrorism &amp; #radicalization in Europe #osce17AUT #Diplomacy140	fear	2: moderate amount of fear can be inferred
+2018-En-02391	that one nigga off twitter on 	fear	0: no fear can be inferred
+2018-En-01286	@cnn please get Sebstian Gorka off of my tv.  The whole trump admin. needs to stop deflecting by talking about Hillary.  #awful	fear	0: no fear can be inferred
+2018-En-03759	Hon. Miss Dashwood, whose manners very pretty face, she offended you have done before.	fear	0: no fear can be inferred
+2018-En-03265	We cannot let @Comcast #bully any #indiedev into paying them for a 'faster lane'. Most indie devs don't have these funds. But @EA does!	fear	0: no fear can be inferred
+2018-En-02263	I've developed a new philosophy... I only #dread one day at a time.	fear	1: low amount of fear can be inferred
+2018-En-03301	@AuralOrgasim Looking at babies just makes me cross my legs and wince 😂	fear	0: no fear can be inferred
+2018-En-03866	Model Town massacre represented the height of terrorism, savagery and oppression committed by the rulers\n#ArrestModelTownKillers	fear	3: high amount of fear can be inferred
+2018-En-03225	Beyond disappointed with @HeidiSomers clothing line and service. Lulu never asks questions about returns. Not getting money back. #horrible	fear	2: moderate amount of fear can be inferred
+2018-En-00183	@DavidLammy This kind of abuse is UNBELIEVABLE and an absolute disgrace. It makes me sad to see this #dismayed	fear	1: low amount of fear can be inferred
+2018-En-02796	To creepy guy who wont stop looking at my bag: I can easily kick your nuts &amp; I wont hesitate to crush them if you even dare try to take it.	fear	0: no fear can be inferred
+2018-En-03156	seeing sope perform otsukare always makes me happy no matter how much of a bad day I have	fear	0: no fear can be inferred
+2018-En-01986	Hello puss! Puss puss puss! Don't be afraid!	fear	0: no fear can be inferred
+2018-En-03598	Crazy magic - that moment when you have a fantastic idea for your next novel and the momentum builds! \nNothing better! \n #writing 	fear	0: no fear can be inferred
+2018-En-00713	@SpnTentation Thank you! My first solo run!  #excited #andnervous	fear	0: no fear can be inferred
+2018-En-00802	@sydboyd_ It used to scare me too...  But it's better this way.	fear	0: no fear can be inferred
+2018-En-03213	and you start to think that your new found home will be yours forever, with no threat in sight, until something or someone comes along...	fear	3: high amount of fear can be inferred
+2018-En-01450	@skillz_company Not much room in there 😱	fear	0: no fear can be inferred
+2018-En-00801	@MichaelGrantBks @BethellMarilyn @foxandfriends @realDonaldTrump You are a very bitter person.....sad!!	fear	0: no fear can be inferred
+2018-En-03197	I don't fear the unsettling demons inside of me. I let them conquer the weakest nook of my soul for that is the only provenance of my power.	fear	1: low amount of fear can be inferred
+2018-En-02905	Ask yourself this:\nIf the algae appears to be gone, is it really?\nIs it worth the risk?\n #algae #water #toxic #threat #methane #cancer	fear	2: moderate amount of fear can be inferred
+2018-En-02143	@rudeism At the time Geonet said major shaking reported in Auckland, Yet it was centered below Stewert Island. Classic Aucklanders	fear	1: low amount of fear can be inferred
+2018-En-03427	those who think poly is a stage whr u can relax abit, u're wrong. u're gonna b haunt by projects  and tutorials which is like tonnes ergh	fear	1: low amount of fear can be inferred
+2018-En-00507	That person that #TalksTooMuch it becomes fucking #frustrating &amp; you get #mad but u have to pretend ur interested cos ur a nice person	fear	1: low amount of fear can be inferred
+2018-En-00058	@thefinalwoman Yes! Mermaids and Scarecrows in short supply in #horror genre.	fear	0: no fear can be inferred
+2018-En-03604	dont #intimidate the powers that be; it just takes a look back, n whn the intimidateds start #intimidating u wont find a place to hide	fear	0: no fear can be inferred
+2018-En-01848	i have a constant underlying worry or fear that ill start liking someone who uses the XD face	fear	1: low amount of fear can be inferred
+2018-En-02736	@DonaldJTrumpJr This is the day you lot finally admitted it. May come back to haunt you	fear	0: no fear can be inferred
+2018-En-02876	Suicide Blast killed 11 people in Cameroon. #bomb #attack   #security #explosion	fear	3: high amount of fear can be inferred
+2018-En-01571	Again, this q. is brought to you by my slight feelings of irritation when I see 'obligated' over 'obliged', and I want to know if I'm right.	fear	0: no fear can be inferred
+2018-En-03239	@TerraJole is a bully.  plain and simple. 	fear	0: no fear can be inferred
+2018-En-02131	I love the nightmare before Christmas and Hercules so much	fear	0: no fear can be inferred
+2018-En-04218	I've never seen something so revolting, yet so irresistible as Wendy's Queso. I must have it	fear	0: no fear can be inferred
+2018-En-00537	@instaafp are we in for Lemar even though wenger was very coy about him in his press conference	fear	0: no fear can be inferred
+2018-En-00870	Centre puts entire security apparatus on highest alert following #terror attack on #Amarnath pilgrims.	fear	2: moderate amount of fear can be inferred
+2018-En-00569	@prisonerben1 Try explaining to Joe Public these charities do not simply give offenders 'treats' #despair	fear	0: no fear can be inferred
+2018-En-01948	Do you know how terrible that stuff is for you?	fear	2: moderate amount of fear can be inferred
+2018-En-04074	Even though it's the hardest. Maturity is walking away from people that threaten your peace of mind, self respect, morals, and self worth.	fear	0: no fear can be inferred
+2018-En-01320	@brfootball  he should come back to haunt them in UCL.	fear	0: no fear can be inferred
+2018-En-02705	May God grant us the ability to see His unfailing love fill the earth 🌏 #Psalm33:5 #awe	fear	0: no fear can be inferred
+2018-En-01142	@bobandtom @chickmcgee1 @ThatJoshArnold  Not religious, but a game that the Inuit women play - first one to laugh, or breathless, losses.	fear	0: no fear can be inferred
+2018-En-00500	@ABCTV @AuSenate @annabelcrabb I confess I didn't watch last week. #bad Are you going to do an episode on accessibility?	fear	0: no fear can be inferred
+2018-En-03698	@DVATW Trot on Dai bach,  however having read your timeline I dread to think what your #fantasy could be...	fear	2: moderate amount of fear can be inferred
+2018-En-00651	Appointment: 7:30AM\nOffice hours for today: 8AM-??PM\nMe:\nMe: anxiety?	fear	2: moderate amount of fear can be inferred
+2018-En-02983	@MeBeIssy I have now made this journey around Earth a total of 105,755 times since I began. #restless	fear	0: no fear can be inferred
+2018-En-00883	@TattooedTeaLady Omg what?! That's horrific!! Who can do something like that at all?! Xx	fear	2: moderate amount of fear can be inferred
+2018-En-04333	@CaxtonSupport I'm sorry but I don't know what DM stands for. I know a PM 😂. But sadly not a DM. It won't create an account to find.	fear	0: no fear can be inferred
+2018-En-01632	Feeling blind. New specs please? 😰	fear	0: no fear can be inferred
+2018-En-03555	“When the people fear the government there is tyranny, when the government fears the people there is liberty.”―Thomas Jefferson	fear	0: no fear can be inferred
+2018-En-01119	I cry whenever they call me mico chan 😭	fear	2: moderate amount of fear can be inferred
+2018-En-02746	New, and a bit alarming . . .	fear	2: moderate amount of fear can be inferred
+2018-En-02932	Quiet frankly appalled at the shocking working conditions for @CampNorthwood staff this year. Access to wi-fi prohibited. What's going on?!	fear	2: moderate amount of fear can be inferred
+2018-En-02697	@DiceMore I guess she got tired of her war on Tony that's been raging for about a year.	fear	0: no fear can be inferred
+2018-En-03765	It's a terrible feeling walking into a spider web,but I try and make myself happy w/ the possibility I could turn into spidergirl. #comickid	fear	1: low amount of fear can be inferred
+2018-En-03307	@GutoAberconwy Your majority is 635 members of the public- believe me you have offended rather more than 635 voters!	fear	0: no fear can be inferred
+2018-En-02351	Hey @Apple I hope you guys don't release that #horrendous looking copper color.  Might as well walk around with a pocket full of pennies 😂	fear	0: no fear can be inferred
+2018-En-02365	@BBCBreaking This type of shit is why I have some mistrust of the medical profession.  The cover up was more important than the patients.	fear	0: no fear can be inferred
+2018-En-01358	Once you've been hurt, you're so scared to get attached again, you have a fear that every person is going to break your ❤️💯	fear	2: moderate amount of fear can be inferred
+2018-En-03438	Each of ye separate FALLEN; if we quickening his wrath upon us, will only cause our PAIN to be more unbearable in that PIT.	fear	1: low amount of fear can be inferred
+2018-En-03536	#Saudi: #Qatar #US pact to end #terror funding won't end crisis &amp; #TrumpJr's #Russia meeting creates legal jeopardy - news @BloombergRadio	fear	2: moderate amount of fear can be inferred
+2018-En-00743	#Merkel has supported all #Israeli #terror initiatives opposing the #Palestinian bid for membership at the #UN.	fear	0: no fear can be inferred
+2018-En-00165	No offense to the girl next to me but dousing yourself with cheap cologne won't hide your rank smell	fear	0: no fear can be inferred
+2018-En-01114	I'm more a world half alive than half dead kind of poet. #poetry #climatechange #despair	fear	1: low amount of fear can be inferred
+2018-En-03682	@FS1 Get Donovan out of your soccer booth. He's awful. He's bitter. He makes me want to mute the tv. #horrid	fear	1: low amount of fear can be inferred
+2018-En-03422	Fed up of smiling at old people and getting dirty looks in return. Go fuck yourself Mildred you miserable prick	fear	0: no fear can be inferred
+2018-En-03410	Nothing more fun to do at a day like this 😭☔️🌧 #dark #rainy	fear	0: no fear can be inferred
+2018-En-01144	I see where Farrah gets her rudeness from. Her mother was as horrible to Dr Drew tonight  as she was. These women need help #TeenMomOG	fear	0: no fear can be inferred
+2018-En-00356	@Hydra_Lord #dread wouldn't be nearly as tense and terrifying without your superb narration and storytelling. An absolute thrill to watch.	fear	0: no fear can be inferred
+2018-En-00691	Found out the peraon i liked wanted to that someone else #sadness	fear	0: no fear can be inferred
+2018-En-02904	@dearhao ajdhsjfjs okAY you do seem nice im just intimidated ajfjdjf hmu sometime im awkward	fear	0: no fear can be inferred
+2018-En-02587	@Kara1818 I’m glad to hear that, Kara. Don’t hesitate to get in touch again if you need to! Cheryl	fear	0: no fear can be inferred
+2018-En-03654	Before... I fear of not having you in my life... Now... I fear of letting you back into my life. #fears	fear	3: high amount of fear can be inferred
+2018-En-00592	I'm all for writing that delivers disturbing images into the mind of the reader...when I'm the one writing it. #shudder #badvisual 😒	fear	0: no fear can be inferred
+2018-En-02217	@ahaf21 Maaaan... Fox &amp; The Hound ain't no joke. Also, Pinocchio is got damned terrifying. Legit horror film.	fear	1: low amount of fear can be inferred
+2018-En-01750	When you should be working, but you're shopping amazon prime deals instead... 😦	fear	0: no fear can be inferred
+2018-En-01752	@lc_bradley @MarvMach @OxfordPlayhouse I know *that* - I *mean* Emma Rice's Wise Children!!! #angelacarter #panic	fear	3: high amount of fear can be inferred
+2018-En-03632	*perusing the menu* I would like a green tea shake, please, with no whipped cream, but dusted with matcha. And perhaps a straw?	fear	0: no fear can be inferred
+2018-En-03075	@rohandes Lets see how this goes. We falter in SL and this goes downhill.	fear	0: no fear can be inferred
+2018-En-00335	When Jim Sheridan is standing next to you and you don't say A WORD!!! #facepalm #tonguetied 	fear	0: no fear can be inferred
+2018-En-02560	They love and want each other very much but they're timid and egoistical and just... just let your walls down!!!	fear	0: no fear can be inferred
+2018-En-02738	So I now have 3 pairs of shit arsehole neighbours; Any advice? #noisy #norespect #bigbuilding #awful #killinginthenameof	fear	1: low amount of fear can be inferred
+2018-En-03290	@AC360 Please, please do something about her! Where's Kayleigh, Jack, Jeff? Ugh. #awful #doctor?	fear	2: moderate amount of fear can be inferred
+2018-En-02857	you take horrible dick pics @LeafyIsHere	fear	0: no fear can be inferred
+2018-En-00751	#alarm Bel OC Limburg 157901 - Unknown address	fear	0: no fear can be inferred
+2018-En-01683	@hyde_myself Yes, Mom. That's my alarm XD	fear	0: no fear can be inferred
+2018-En-03628	(I've been shaking for the last 30 minutes, I've steadied to the point where I can type again lmao)	fear	2: moderate amount of fear can be inferred
+2018-En-00879	Studio window open- terrible smell of cooking from somewhere 	fear	0: no fear can be inferred
+2018-En-01352	Do you ever fall asleep before you set your alarm, but then the Lord wakes you up on time anyways 🙌🏻 #WontHeDoIt	fear	0: no fear can be inferred
+2018-En-02208	Over 9 hours, 6 trains and 7 stations only to be back where I started #nightmare	fear	2: moderate amount of fear can be inferred
+2018-En-01205	@LogitechUK Been there done that 	fear	0: no fear can be inferred
+2018-En-01768	@derickson178 Did it scare you?!	fear	0: no fear can be inferred
+2018-En-00134	Y'all hate anything y'all not apart of or don't understand.. #miserable	fear	2: moderate amount of fear can be inferred
+2018-En-01038	Article 370 must be abolished. Human rights must be denied to these NGOs, Separatist n terrorists who advocate peace n terrorism. @republic	fear	0: no fear can be inferred
+2018-En-00867	@BBCNews @theresa_may 'I'm dismayed at the UK decision to pull out of the EU and I've urged May to rejoin' - EUropean leaders 😉	fear	0: no fear can be inferred
+2018-En-02060	Dro and his teeth are still fine tho #insecure	fear	0: no fear can be inferred
+2018-En-01275	if jk realize what taehyung did can he do that to taehyung as a revenge? i would love to	fear	0: no fear can be inferred
+2018-En-04162	In order to #expand beyond the places that are familiar, you have to do things that scare you.	fear	0: no fear can be inferred
+2018-En-01338	@Za1d hota hai terrorism ka majhab hota hai and dat is Islam soldiers of allah killing innocent people around the world #RadicalIslam	fear	2: moderate amount of fear can be inferred
+2018-En-01265	Go harder when everyone else has had enough. #relentless #Cleaner	fear	0: no fear can be inferred
+2018-En-02130	ain't no sunshine when she's away ♫ 	fear	0: no fear can be inferred
+2018-En-03457	'It was straight out of Harry Potter' - how a simple Tinder and Chill turned into a fiery reactionary debacle	fear	0: no fear can be inferred
+2018-En-01078	My superpower is absorbing the anxiety of others until I can't breathe and my head is pounding.  #everyonechill	fear	2: moderate amount of fear can be inferred
+2018-En-00213	the thing about living near campus during the summer is that it's a ghost town but now everyone is back and im #annoyed	fear	0: no fear can be inferred
+2018-En-01710	@geoffschwartz agreed but it had tessie by dropkicks playing outside of gameplay.  #awful	fear	0: no fear can be inferred
+2018-En-00380	@DebraHorrocks @Fash_Rev have some shocking stats #fashionrevolution	fear	0: no fear can be inferred
+2018-En-00075	its #easy to be #unhappy 😐	fear	0: no fear can be inferred
+2018-En-03588	@gaybookgeek Yes, that immediately made me fearful of the rest of the books in the list.	fear	2: moderate amount of fear can be inferred
+2018-En-04031	Seriously, why do people punish children for 'sass'? Wit should be rewarded, not discouraged!	fear	0: no fear can be inferred
+2018-En-03648	let's do an action for #AmaranthYatra  Stand against this type of #shamless #activity give a one voice to against #terrorism #india	fear	0: no fear can be inferred
+2018-En-02938	@Josh_Loosemore_ You bottled it and deleted the picture😩 #scared 🙈🙈	fear	3: high amount of fear can be inferred
+2018-En-00149	@chuckwoolery I Feel sick reading this, when does it end? #dread #civil war? #sad	fear	2: moderate amount of fear can be inferred
+2018-En-00333	My main concern are the children and his wife thats if she is still stuck with him and if she is, then she's strong af. Jeez 😟	fear	2: moderate amount of fear can be inferred
+2018-En-01995	@voguelayout fback ☹	fear	0: no fear can be inferred
+2018-En-01977	Easiest subversive way to #bully someone in the workplace or any relationship still sits at ignoring their questions or comments or answers	fear	0: no fear can be inferred
+2018-En-03794	One chair is having the munchies. Are Alpacas edible? #afraid #WhattheFAC #SalientFAC #Salient2017	fear	0: no fear can be inferred
+2018-En-00756	I've seen the innocence leave your eyes. I still mourn this death.	fear	2: moderate amount of fear can be inferred
+2018-En-02741	Idiot, @realDonaldTrump, says dumb stuff about his idiot son.  #shocking #TheAppleDoesntFallFarFromTheTree	fear	0: no fear can be inferred
+2018-En-02433	I cannot see a rational way of bearing a grudge to him for that. I do not. Maybe because I do not live by Netflix and I do not care...	fear	0: no fear can be inferred
+2018-En-02747	When you watch @WSOP #MainEvent and play a small tourn. in your local 🇦🇹 cardroom. #limpedpot #familypot #horrible #polkish	fear	0: no fear can be inferred
+2018-En-01802	faint glimpse of the circling stars. Presently, as I went on, still gaining velocity, the palpitation of night and day merged into one	fear	0: no fear can be inferred
+2018-En-00417	@kylegriffin1 @tkdmike you mean the 🍊🤡 didn't tweet the correction...? #shocking	fear	0: no fear can be inferred
+2018-En-03788	When coming up with banal text to add to things note that 'BE HAPPY' is a lot of god damn pressure!\n#depression #anxiety	fear	3: high amount of fear can be inferred
+2018-En-03369	Too many of us are not living our #dreams because we are living our #fears.	fear	0: no fear can be inferred
+2018-En-03950	131: Lyttleton: Love can hope where reason would despair.	fear	0: no fear can be inferred
+2018-En-04010	Let me ask you a question:\n\nDid you REALLY just let #worry be your first response?\n\n#blink #breathe #startover #getchafaithup	fear	0: no fear can be inferred
+2018-En-00310	@crumbs_oh @tradasro @WingsScotland @theSNP @STVNews @Channel4News Since when was being 'fair to Scotland' a concern for the British state?	fear	0: no fear can be inferred
+2018-En-02981	I feel like it's taken me like 6 months to understand what net neutrality is but like...fucking capitalists I'm 	fear	0: no fear can be inferred
+2018-En-02023	It's a #disappointing #frightening #sickening realization @BetsyDeVosED WANTS kids to #fail... #parents need to #pushback &amp; #standup #NOW 😢	fear	3: high amount of fear can be inferred
+2018-En-04076	@JaapUnited Sule is going to be a terrific player. Wouldn't be surprised to see him get some game time this year.	fear	0: no fear can be inferred
+2018-En-02987	“Have no #fear of #perfection - you'll never reach it.” ― Salvador Dalí #Agile #designthinking	fear	0: no fear can be inferred
+2018-En-03979	Thousands of pickled certified ostrogoths ! #angry	fear	0: no fear can be inferred
+2018-En-04060	@dp_srk_rk It's going 3 only. He has berdych tomorrow. Nothing to worry. Easiest draw	fear	0: no fear can be inferred
+2018-En-02823	A joyless faith is not one for which Jesus died. #thegospel #joy #Jesus #happiness	fear	0: no fear can be inferred
+2018-En-00852	@Swamy39 #4 is brilliant to end terror	fear	0: no fear can be inferred
+2018-En-00227	@BlackPilledPete McCain is revolting	fear	0: no fear can be inferred
+2018-En-03603	Everything i tried on in the shop today was too small around bust area and next size up was too baggy everywhere else aahahha #nightmare	fear	0: no fear can be inferred
+2018-En-01115	@skottk @JesseAlderson I'm basically throwing the kitchen sink at this one.	fear	0: no fear can be inferred
+2018-En-02008	@nickjonas is coming for DePaul's welcome week and I'll be in Cali 🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄 #pissed	fear	0: no fear can be inferred
+2018-En-00692	@gmfb Ray Lewis in the middle of the raven defense again !! Oh lord !! #fear	fear	3: high amount of fear can be inferred
+2018-En-02282	House sitting for MIL. Feeding baby @ 3.45 and cat starts scratching at door. Mummy now needs a nappy :S #terrified #NeverAgain #nope	fear	3: high amount of fear can be inferred
+2018-En-03344	@TheVintageYear growl like a dog, see if she lifts herself off and gives you space?	fear	0: no fear can be inferred
+2018-En-00696	But DAMN the sight of them getting scared af makes me feeel SOOO BAD! Which they should feel afraid cause if their mom don't come n it them	fear	1: low amount of fear can be inferred
+2018-En-03441	@bradmillscan ... dump more -&gt; make the panic even bigger and make people sell at the bottom -&gt; buy low -&gt; pump.	fear	0: no fear can be inferred
+2018-En-01851	IK to PMLN: 'Darling, I will haunt you in your nightmares, dressed like a dream.' BEST THING EVER. #GameOverNawaz	fear	0: no fear can be inferred
+2018-En-04068	I'll have the first Question for Followers ready in a few. It's directed at all of you, so please don't be shy and respond when you can! 😀	fear	0: no fear can be inferred
+2018-En-03409	Absolutely blown away by @BatTheMusical this evening 😍 Such incredible sets, slick choreography and holy moly what insaaane vocals! #awe	fear	0: no fear can be inferred
+2018-En-00899	I'm #afraid he might kill me if I'm not good!	fear	3: high amount of fear can be inferred
+2018-En-02266	My new alarm is praying. I wake up in the morning feeling like @KeshaRose oh 😍 evolution	fear	0: no fear can be inferred
+2018-En-03030	@missmarilynx Hahaha @BigScottGibson almost fell off the sofa laughing at that point. The wee jump he did as if he was scared too 😭	fear	0: no fear can be inferred
+2018-En-02582	I'm so nervous I could puke + my body temp is rising ha ha ha ha ha	fear	2: moderate amount of fear can be inferred
+2018-En-00080	Alien Newborn - Alien: Resurrection (Sideshow Collectibles) - This thing really was an abomination! #horror #aliens #figures	fear	2: moderate amount of fear can be inferred
+2018-En-02315	Learning without thought is labor lost; thought without learning is perilous.  #Confucius	fear	0: no fear can be inferred
+2018-En-03152	#scared #paranormal I am gonna read Adam Ellis story 😆😬	fear	2: moderate amount of fear can be inferred
+2018-En-01845	I think that Nuclear weapon and Cyber weapon are big threats, but I think that the bigger threat is Scalar weapon ...\n#scalar #threat	fear	2: moderate amount of fear can be inferred
+2018-En-04095	2 more weeks! 😮😊  #painfree	fear	0: no fear can be inferred
+2018-En-02087	#Goals 'Too many of us are not living our dreams because we are living our #fears. ' --Les Brown #success	fear	0: no fear can be inferred
+2018-En-00345	What a tremendous initiative by @HitKPKD &amp; @ApolloHospitals  #SuperHitDonor	fear	0: no fear can be inferred
+2018-En-02740	Thanks @o2sbe for your medic and security help with my daughter tonight ❤️shame she missed @TheVampsband 	fear	0: no fear can be inferred
+2018-En-01976	Edge of my seat @GameOfThrones loved it #dragonsontheWall 	fear	0: no fear can be inferred
+2018-En-03063	@StadiumCampnou why is your phone and booking system so poor 	fear	0: no fear can be inferred
+2018-En-04061	@JoeGibbsRacing who designed that scheme for the interstate car? and how did whoever approves it, approve it??  #yuck	fear	0: no fear can be inferred
+2018-En-02493	This Wednesday @ChandlerBMusic #kickstarter begins! Y'all be READY! #ChandlerBayMusic #ChandlerBayEP #tantrum	fear	0: no fear can be inferred
+2018-En-02799	Does every #GOP have an #obnoxious #TWANG?  WTF?  Watching #FOX is #shocking!  More #hicks than I can stand!	fear	0: no fear can be inferred
+2018-En-01681	Haven't been on a holiday abroad in two years how depressing is that btw☹️	fear	0: no fear can be inferred
+2018-En-03119	is joy okay??? she looked really breathless on stage...	fear	1: low amount of fear can be inferred
+2018-En-03623	Big surprise the OTHER woman shouting into her phone pulled the wrong coat and I'm a little afraid of it?	fear	2: moderate amount of fear can be inferred
+2018-En-01077	i am revolting.	fear	0: no fear can be inferred
+2018-En-00460	Whitey's for dinner. Called ahead! #shake #burger #seasonedcurlyfries #havetoeatfast	fear	0: no fear can be inferred
+2018-En-01989	||: I'll stay offline today. Most likely. And Theo, don't hesitate to @ me anytime	fear	0: no fear can be inferred
+2018-En-00443	Man having sinuses is some of the weakest shit 😡 my face and head still hurting smh	fear	2: moderate amount of fear can be inferred
+2018-En-00331	Tip of the day: don't google filling a cavity if it's your first one ever. #terrified #firstcavity 😰	fear	2: moderate amount of fear can be inferred
+2018-En-02336	@BretWeinstein @TuckerCarlson We need to get you out of there and relocated to somewhere that isn't afraid of sunshine.	fear	1: low amount of fear can be inferred
+2018-En-04282	@suannelqr @CillizzaCNN No she incriminated herself with a multitude of felonies over her 2 1/2 decades of #terror on the US\n#MAGA\n#POTUS45	fear	0: no fear can be inferred
+2018-En-03678	i want my better days to be here already bc i cant handle any more anger, heartache, n disappointment\ni srsly cant withstand being human lol	fear	1: low amount of fear can be inferred
+2018-En-02461	@AdamBaldwin He left a long time ago. In fact, the Repubican party left the Repubican party a long time ago. #shocking #nonotreally	fear	1: low amount of fear can be inferred
+2018-En-00422	@F3Alpha #F3Roswell #Preblast\nI've been handed the keys to Roswell Area Park. See you in the gloom. Be ready to slip &amp; slide at 0530	fear	0: no fear can be inferred
+2018-En-02977	People look the other way rather than to stick to what is right and just. #sadthought #dismayed	fear	1: low amount of fear can be inferred
+2018-En-02477	@alxcxrte You're not a baby boy and you're sulking. Au contrairé. [Chuckles as I shake my head]	fear	0: no fear can be inferred
+2018-En-00796	@GunnerGale Miss Gale I'd really really appreciate a follow back!! I'm one of your biggest fans! 	fear	0: no fear can be inferred
+2018-En-03549	I'm so #awkward. When I have to have #nervous conversations, I get REALLY #loud. I don't get it. #sigh	fear	2: moderate amount of fear can be inferred
+2018-En-03123	I make nebulizer look sexy #DarthVader #breathless #sexy #nebulizer #girl	fear	0: no fear can be inferred
+2018-En-00556	@balbirpunj @sgurumurthy #Conversion is root cause of most acts of violence, wars &amp; #terrorism in history of human civilisation .. !!	fear	1: low amount of fear can be inferred
+2018-En-02870	So what they do is act covertly and it turns out that they are aware of each other and fear punishment for wanting to destroy others.	fear	0: no fear can be inferred
+2018-En-00114	@savoy__truffle @stellacreasy That's horrid. So sorry that happened. But glad your MP is so engaged.	fear	2: moderate amount of fear can be inferred
+2018-En-01112	@_mayatp Looks it's daisy in her natural habitat, doing her natural face, with the natural annoying growl that turns into a terrible bark	fear	1: low amount of fear can be inferred
+2018-En-02360	You can be discouraged by failure or you can learn from it. -- Thomas J. Watson,#motivationalquote,#success	fear	0: no fear can be inferred
+2018-En-03313	@PuddlesPityP Witnessed #totality, overcome with insane awe &amp; emotion. Son equated to witnessing your talent. #hegetsit #cry #eclipse2017	fear	0: no fear can be inferred
+2018-En-01314	Quote of the day comes from Queen Cersei herself @IAMLenaHeadey 'Power hungry people are fearful, otherwise why wouldn't you just chill?' 👏	fear	0: no fear can be inferred
+2018-En-01964	Gm and have a  #Tuesday!	fear	0: no fear can be inferred
+2018-En-01382	ugh going to college tm, so nervous.   #college #life #collegelife #newyearnewme	fear	3: high amount of fear can be inferred
+2018-En-04015	@jennvalley14 There would be no hesitation in naming 50 other things I'd rather be doing rn	fear	0: no fear can be inferred
+2018-En-00542	Everyone loves #horror #monster #zombies #clown #scary #Dracula #frankenstein #DarkSouls #darkside #IT #Metal	fear	0: no fear can be inferred
+2018-En-00243	You are MINE, my baby, my headache, my love, my smile, my frown, my wrong, my right, my pain, my happiness, my everything.	fear	0: no fear can be inferred
+2018-En-02034	@Aircel Its been 6months i am behind this issue, i will nit allow you guys to bully me around like this	fear	1: low amount of fear can be inferred
+2018-En-03933	Going to be a student nurse for 4 weeks eeeeppp #newexperience #scared #excitedmuch	fear	3: high amount of fear can be inferred
+2018-En-04124	@lukeWHC09 Hahaaa! Was fuming with that 😞😂	fear	0: no fear can be inferred
+2018-En-03108	Again headache 😰	fear	1: low amount of fear can be inferred
+2018-En-01121	Real Q abt #DonaldTrumpJr mtg not being asked- did they show him proof of #trumpdossier &amp; threaten to blackmail #resistance #Putinspuppet	fear	0: no fear can be inferred
+2018-En-03189	@johntassparker Well, at the time, I think there was that concern. Now it is all bright and shiny with a price tag to match.	fear	0: no fear can be inferred
+2018-En-02779	@glovesandtricks Me too! His eyebrow?? Ffff will haunt me forever	fear	1: low amount of fear can be inferred
+2018-En-03502	Here is the message Cnbc is sending they Don't care that Melissa Lee has a horrible smile or a that Joe Kernan needs braces	fear	0: no fear can be inferred
+2018-En-02049	If you're nervous about tomorrow's #Origin game, just remember, if it's a decider next year it will again be the 'biggest game of all time'	fear	1: low amount of fear can be inferred
+2018-En-00926	Williams Lake on evacuation alert as fires rage near the city of 10,000+. Developments from overnight + forecast - 5am @GlobalBCMorning	fear	1: low amount of fear can be inferred
+2018-En-03173	These horoscopes are terrible. Says I'm obsessed with myself 😂 that's really not me 🤷🏾‍♀️	fear	0: no fear can be inferred
+2018-En-04186	For Goldman, it proved to be a PR nightmare. The bank’s investment arm was blasted for snapping up what were labeled “hunger bonds,”	fear	1: low amount of fear can be inferred
+2018-En-01086	AHHHHHHHHHHHH #dread OMFG! It's so good...@JoinTeamAlpha @Hydra_Lord @executivegoth @matthewmercer @enthusiamy @vorpahlsword @satinephoenix	fear	0: no fear can be inferred
+2018-En-04355	To go back in time to the 1st grade so you can walk up and shove your bully on the playground. Little asshole.\n#StupidReasonsToUseTimeTravel	fear	0: no fear can be inferred
+2018-En-02284	reminds me a little of Monster (though on a tiny scale) and it has one of the most genuinely horrific villains I've ever seen	fear	1: low amount of fear can be inferred
+2018-En-02552	@taportugal I'm lost in translation with @taportugal #sad #tired #upset #noservice	fear	2: moderate amount of fear can be inferred
+2018-En-00958	Signs of Incipient Faggotry are the arsehole quivering and puckering.	fear	0: no fear can be inferred
+2018-En-01595	I've been awake for 451 days 23 hours and I'm sleepy and tired #weary #raspberrypi #nodered #bot #iot #sunshinecoast	fear	0: no fear can be inferred
+2018-En-02562	There is much in the world to make us #afraid. There is much more in our faith to make us #unafraid.	fear	0: no fear can be inferred
+2018-En-03216	Watching #ScottishOpenHeroChallenge from last night... Smoke, flames, tense sound effects and lively commentary.. #boring #dull #shite 🙈	fear	0: no fear can be inferred
+2018-En-02029	Just because you're having a shit time doesn't mean that others have to pussyfoot around you &amp; make their #anxiety worse..... 😡😡😡	fear	2: moderate amount of fear can be inferred
+2018-En-01769	@seydacanim The best of make up horror story...	fear	0: no fear can be inferred
+2018-En-03034	Once I'll graduate, I hope I'll have the time to start learning Finnish on my own because I've been putting it off for quite too long 😢	fear	0: no fear can be inferred
+2018-En-03446	Day 1 tom 😱	fear	0: no fear can be inferred
+2018-En-01680	The best kind of self harm is through the mind #depression	fear	2: moderate amount of fear can be inferred
+2018-En-00265	I have to be completely honest, this era triggered my anxiety quite a lot... the things Hayley talk about is what I have a big fear in...	fear	3: high amount of fear can be inferred
+2018-En-01975	Defin @GetSpectrum Worst.Internet.Service.Ever. The cancer of monopolies 	fear	0: no fear can be inferred
+2018-En-03215	I'm too scare to start a conversation	fear	3: high amount of fear can be inferred
+2018-En-01652	I'm also wheezing really hard. I decided to make up today, and then after I got to work realized it was mbbsd, and now I'm #intimidated	fear	2: moderate amount of fear can be inferred
+2018-En-02018	I need a blue water trip lots of functions no dresses #panic	fear	2: moderate amount of fear can be inferred
+2018-En-03748	@wine_mum_ @Bob_Lawblaw Please. Don't insult Goths.	fear	0: no fear can be inferred
+2018-En-00019	@ChristinaSNP All this great news.... it must be hurting some folk to be happy about this. 😊	fear	0: no fear can be inferred
+2018-En-02547	@mizuvera I hope didn't scare other people who owned this figure that he will move at midnight 😂	fear	0: no fear can be inferred
+2018-En-02140	If someone gives you a confidential memo regarding the President of U.S., and tells you to leak it to the press, alarm bells should  go off	fear	0: no fear can be inferred
+2018-En-04059	Premier League Teams should fear next seasons Arsenal's XI. #coyg #afc	fear	0: no fear can be inferred
+2018-En-02917	Watching a training video with @markproskills, in theory quality work, yet application was horrid and a product of poor coaching development	fear	0: no fear can be inferred
+2018-En-00129	@WackyThot @BaitseM There might be a spec of hope at the end of this horrific tunnel	fear	2: moderate amount of fear can be inferred
+2018-En-02871	@LadyScully I didn't. We all went out and got pissed down the local instead. 😄	fear	0: no fear can be inferred
+2018-En-04193	I give up! #simples #unhappy #fedup	fear	2: moderate amount of fear can be inferred
+2018-En-00964	I'm new to the #instructionalcoach world and would love to know your fave resources! I will be in a high school new to IC. #nervous #excited	fear	1: low amount of fear can be inferred
+2018-En-01647	#ease is a greater #threat to #progress than #hardship.	fear	0: no fear can be inferred
+2018-En-01349	@DPD_UK apparently u left a calling card... @ which address cos it certainly wasn't the address u were supposed to be delivering 2!!! #awful	fear	0: no fear can be inferred
+2018-En-04278	@weareremixes yeah he's delicious no need to threaten me	fear	0: no fear can be inferred
+2018-En-02729	#sebastiangorka is unwatchable and despicable! #nothuman #fascist #bully #liar #vomitinducing	fear	2: moderate amount of fear can be inferred
+2018-En-02632	Provide gainful employment to men and women so that they don't end up joining vigilante outfits or terror squads	fear	0: no fear can be inferred
+2018-En-01373	Noses are tumbleweed sages are lavender cats is horrid and so is a skittle	fear	0: no fear can be inferred
+2018-En-03526	@stephdavis77 Your parents should get you help not enable you &amp; you shouldn't drink when pregnant it can kill the baby! #horrid	fear	3: high amount of fear can be inferred
+2018-En-01626	on July 13th,1989 in #Vienna , #Ghassemlou &amp; his fellows was #terror by the agents of the #Iranian regime\n#Iran #Terrorism \n#twitterkurds	fear	0: no fear can be inferred
+2018-En-02229	@leezeldin all of this!If the GOP continues to back this mob connected man you will have tremendous regret in 2018 the voters will make sure	fear	0: no fear can be inferred
+2018-En-00038	@SpacePootler Just ran out of data… #shiver	fear	0: no fear can be inferred
+2018-En-02513	my name is sara, im 20 years old and i cant believe boiling an onion is making me cry	fear	0: no fear can be inferred
+2018-En-02725	Im not naive not to notice the way you looked at me, your seductions and discreet moves but you scare me honey to tell you quite frankly.	fear	2: moderate amount of fear can be inferred
+2018-En-00791	@zhukov43 I was fearing it'd go on as long as that...	fear	3: high amount of fear can be inferred
+2018-En-00954	Saddest part about messing up both my legs/ankles? I miss heels. Being a 7fg giant was fun. #sadness	fear	0: no fear can be inferred
+2018-En-00139	Sam all she fuckin said was about you meeting her rents on Friday which WAS GOING TO HAPPEN ANYWAY YOU DICK #cbb #cbbfinal #arsehole	fear	0: no fear can be inferred
+2018-En-02102	I really want a fucking knife that I'm not afraid to use!	fear	1: low amount of fear can be inferred
+2018-En-02911	@ComeJesusSoon trembled, the #earth quaked, and it became a very great #panic. [2/2]	fear	3: high amount of fear can be inferred
+2018-En-00386	Don't start anything prematurely, even when u do learn your lesson early enough, know when it's just ur fears or when u need to back it up	fear	0: no fear can be inferred
+2018-En-03521	oh and my alarm should be going off soon for the doctor so that's fun	fear	0: no fear can be inferred
+2018-En-00953	IT WASN'T ENOUGH 😢	fear	2: moderate amount of fear can be inferred
+2018-En-00346	@loosewomen #dreadful show. #embarrassing 🙊Bear needs to #CalmDown #tryingtoohard #hadtoturnoff	fear	0: no fear can be inferred
+2018-En-01310	one tweet:‘Over the coming weeks we'll be continuing to threaten various bluetick  dipsh**s with imprisonment under a socialist government.’	fear	2: moderate amount of fear can be inferred
+2018-En-00737	America...just a nation of two hundred million used car salesmen with all the money we need to buy guns and no qualm	fear	0: no fear can be inferred
+2018-En-03813	Don't ever frown upon someone chasing a dream. Remember you were once chasing one too. HUMILITY ......	fear	0: no fear can be inferred
+2018-En-02780	@BBCJamesCook You couldn't make this stuff up because would be deemed far too fanciful.... #alarming	fear	0: no fear can be inferred
+2018-En-00180	@ELLEUK Truly dreadful	fear	2: moderate amount of fear can be inferred
+2018-En-00824	Nole, you just can't go easy on a girl's heart can you? #Wimbledon 	fear	0: no fear can be inferred
+2018-En-04172	discouraged	fear	1: low amount of fear can be inferred
+2018-En-01894	A coworker took my eclipse glasses, her keys, her phone, and my lunch money. #scared	fear	3: high amount of fear can be inferred
+2018-En-01510	#MTPDaily, @DonnyDeutsch that look you've been giving the camera, so, umm, #angry? #frightened? #terrified? #IFeelYourPain #NotmyPresident	fear	2: moderate amount of fear can be inferred
+2018-En-01259	WOW this season is going to be GOOOOOOOOOOOOOOOOOOOOODDDDDDDDDDD AHHHHH #shocking and #Intense	fear	0: no fear can be inferred
+2018-En-04022	The point of maximum danger is the point of minimum fear.	fear	0: no fear can be inferred
+2018-En-00670	My only concern for my Dio claws	fear	1: low amount of fear can be inferred
+2018-En-04199	@Fdimoncar Advance/retard lever, decompression lever, oil pump and clutch 😱	fear	0: no fear can be inferred
+2018-En-01530	@AlaskaAir as a long time Gold &amp; near Million mile member just had a terrible customer service experience #disappointing	fear	0: no fear can be inferred
+2018-En-03516	Sometimes in #life ....\nSee the #statement itself #sounds so #temporary\nNothing is permanent isn't it?\nSo #never #worry let it go &amp; #moveon	fear	0: no fear can be inferred
+2018-En-02110	They cancelled Chewing Gum. #devastated	fear	0: no fear can be inferred
+2018-En-01042	Hate mail... gotta love it!\n#hate #writerslife #justsaying #begin #start #lovemylife #PositiveVibes	fear	0: no fear can be inferred
+2018-En-03807	hoseok was in a state of awe. it was his first time to see something like this, authentic/real after being groomed and growing up in the	fear	0: no fear can be inferred
+2018-En-00676	Club Night tonight @ Loe Beach is CANCELLED due to horrible, horrendous, inclement weather!!	fear	2: moderate amount of fear can be inferred
+2018-En-01601	i haven't had to speak maltese in over two years and now have relatives calling me about the trip and it's terrible 🙃	fear	2: moderate amount of fear can be inferred
+2018-En-01985	Thank you, @realDonaldTrump, for using the Afghanistan policy of #44... he was pretty smart! \n\nP.S. Do not look directly at the sun! #bad	fear	0: no fear can be inferred
+2018-En-04342	@s_navroop Bholenath ne apna Gussa toh nikaalna hai. Either the government helps take out Terrorism and do HIS work, Or the wrath is on GOVT	fear	1: low amount of fear can be inferred
+2018-En-02833	@WestHam_Central Hart is a good keeper, let's not kid ourselves. His kicking is poor which is my only concern.	fear	0: no fear can be inferred
+2018-En-02889	@MELANIE81227659 her with the hair today shocking	fear	0: no fear can be inferred
+2018-En-03100	Working with alergies is the most miserable shit in the world #miserable #alergies	fear	0: no fear can be inferred
+2018-En-01819	I think I have anger issues 😐	fear	0: no fear can be inferred
+2018-En-02370	OMG we're eating drinking in a restaurant and  so is a baby!!! Quell horror #YummyMummiesAU	fear	0: no fear can be inferred
+2018-En-02942	I've seen some get so discouraged in their old age becos they aren't physically able 2 do the things for God they used 2 do in their youth.	fear	0: no fear can be inferred
+2018-En-01916	This is true horror anime this one	fear	2: moderate amount of fear can be inferred
+2018-En-01716	@shomaristone @TIME Interestingly shocking and sad! American Judiciary is seriously flawed!	fear	2: moderate amount of fear can be inferred
+2018-En-02682	Today, no matter how desperate or dire your situation nothing is too difficult for God. (Jeremiah 32:27) #JustBreath #HeIsAble #Believe	fear	0: no fear can be inferred
+2018-En-02226	@ReporterLaurenB @Examiner Agree with @Examiner or you are of a lower intelligence would be your message there then? #dreadful	fear	0: no fear can be inferred
+2018-En-00973	Dying has never frighten me.\n\n#Castlevania.	fear	0: no fear can be inferred
+2018-En-02671	gagi i want to talk to my fanboy classmate lmao but im too shy lololol	fear	0: no fear can be inferred
+2018-En-01258	Feeling full of existential dread? Bash mass surveillance 🌱	fear	2: moderate amount of fear can be inferred
+2018-En-02338	and I don't want to spread it all over my twitter. It's my choice, but I, at least, needed to say this as I don't want to worry people.	fear	2: moderate amount of fear can be inferred
+2018-En-00366	Gotta do my best today and keep my happiness on and not let anything bring me down... big day today 💖🤘☇ #stoked 	fear	0: no fear can be inferred
+2018-En-02668	You know where not to get socks? At @hm #horrible I have to put rubber band in my ankles just to get thru a min w/out them falling off 🙄😑	fear	0: no fear can be inferred
+2018-En-02556	@Shann_Graham They were actually dire man wasn't expecting  to be so bad like	fear	2: moderate amount of fear can be inferred
+2018-En-03699	@jayteemuro Man people wont mourn the 9 chaps beheaded by terrorists. But they will mourn a corrupt killer politician	fear	2: moderate amount of fear can be inferred
+2018-En-02834	Have you ever just cried, because you were in the middle of some bomb rest and someone woke you up with an emergency. #sleep #cry #kms #dead	fear	3: high amount of fear can be inferred
+2018-En-03188	@ChrisCuomo Same as the bully in second grade. Classic.	fear	0: no fear can be inferred
+2018-En-01866	Earlier: where's #NotInMyName gang?\nNow: hope they have placards condemning Islamic terrorism. \nNext: ?	fear	0: no fear can be inferred
+2018-En-03692	@drstip @flock_of_ewe @cfsmtbation Yeah except then we just end up with Pence. 	fear	0: no fear can be inferred
+2018-En-03331	@ghenesnowdon @NoOneGOT2 @MochaUson Exactly  because of their  #bitterness   #FiatLoserIdiotAquinoFollower	fear	0: no fear can be inferred
+2018-En-02790	@btsportfootball he will haunt RM in the CL	fear	0: no fear can be inferred
+2018-En-00206	Uncharted 4 on Crushing is the least fun I've ever ha splaying a video game  	fear	0: no fear can be inferred
+2018-En-03624	Low key Dro f*cked Molly like he had a point to prove lmao 😂 #InsecureHBOِ #insecure #MollyOutHereWreckingHomes #repeatcycle	fear	0: no fear can be inferred
+2018-En-02257	@itstraceyporter Off with work related stress and anxiety	fear	2: moderate amount of fear can be inferred
+2018-En-00661	She writes a lot of songs, but she’s shy and doesn’t publish. [BOT]	fear	0: no fear can be inferred
+2018-En-03169	Poetry of love ❤️ #.I love you from my heart # I love you from my soul # I love you real # you are in my all things what can I do I'm shy oo	fear	0: no fear can be inferred
+2018-En-03241	we will send video to proper agency ,state workers harass the public to fuel the ego of Scott Arniel  and trial court what the bleep #bully	fear	0: no fear can be inferred
+2018-En-03285	@bera_jade @einnor_ go ahead &amp; #coon. Would love to see you get hit by a man. I bet you wouldn't find it funny #blackhatematters 	fear	0: no fear can be inferred
+2018-En-04375	@SprintCenter Please turn the A/C on #dieinginhere #hot #horrible	fear	1: low amount of fear can be inferred
+2018-En-03487	Catching up on Greys, almost couldn't make it through two episodes because of how sad the storyline was. Two best/worst eps for me. 	fear	0: no fear can be inferred
+2018-En-04330	i'm freezing in the sun, i'm burning in the run	fear	0: no fear can be inferred
+2018-En-01714	I always wake up before my alarm goes off 🙄	fear	0: no fear can be inferred
+2018-En-03595	Were starting an @insecurehbo club at my job. Every Monday we must be caught up on required watching. @opjumpstartlb @IssaRae 	fear	0: no fear can be inferred
+2018-En-00436	@Bethanblog Happy to help :) If there is anything we can do for you please don't hesitate to ask. - Thanks - James K	fear	0: no fear can be inferred
+2018-En-00913	@mythos1014 I think I will tomorrow. I ain't ready for all those feels though. 😥	fear	2: moderate amount of fear can be inferred
+2018-En-03602	@realDonaldTrump @LizCrokin Great #start for #MAGA ...	fear	0: no fear can be inferred
+2018-En-01521	Having a bad day @TescoIrl #nightmare	fear	3: high amount of fear can be inferred
+2018-En-02754	@cyclingweekly 'shocking' ???  Nah that's not Shocking . Richie Portes crash ...THAT WAS  shocking . #tourdefrance2017	fear	1: low amount of fear can be inferred
+2018-En-03374	What an amazing statement, really clears things up. @realDonaldTrump #believeme #tremendous #maga #russia	fear	0: no fear can be inferred
+2018-En-03961	@KatSekhotho @Lemii_LoCo Can you falter Katli?	fear	0: no fear can be inferred
+2018-En-02276	That was spooky! One of those water big roaches was crawling on my back. #terrible	fear	2: moderate amount of fear can be inferred
+2018-En-03235	Considering I am 101% fine with getting tattoos, blood tests terrify me and I AM HAVING TO GET ONE AAAAAHHHH	fear	3: high amount of fear can be inferred
+2018-En-04362	@Originalmalik2K @youFamousEnough @AnthonyMuraco Gg bro shouldn't have lost but it's cool	fear	0: no fear can be inferred
+2018-En-02466	@DavidJo52951945 No one is above the law, if there is suspicion that a soldier did something wrong, why shouldn't they be held accountable?	fear	0: no fear can be inferred
+2018-En-02877	Whoever decided to put chat functions on company websites for customer service deserves all the medals. I hate talking on the phone 	fear	0: no fear can be inferred
+2018-En-00554	One week on SW and going to gym. Smashed it #weekone  #goals #sw	fear	0: no fear can be inferred
+2018-En-04211	.@POTUS every other President has said you can really only govern foe 18 months until the re-elect. Why are you focused on 2020 now? #scared	fear	1: low amount of fear can be inferred
+2018-En-02020	I am so ready for an #adventure starting to get #bored and #restless need a buddy to #explore with someone who likes to do new things	fear	0: no fear can be inferred
+2018-En-01618	The poverty thing is something rarely mentioned about mental health problems. Especially by professionals or the media. #horrible	fear	1: low amount of fear can be inferred
+2018-En-03212	WTF ! @JonnyBones people love you, stay off the dick pills!!!  #goldensnitch	fear	0: no fear can be inferred
+2018-En-01984	Rise and shine #alarm #autotweet	fear	0: no fear can be inferred
+2018-En-03032	kokobop is such a weird name\nbut I remember that it is said to be more lit that growl and it is #EXO so I'm accepting the name	fear	0: no fear can be inferred
+2018-En-01079	@villodotexe This is the most fucking cursed FEHeroes unit I've ever had the displeasure of seeing	fear	0: no fear can be inferred
+2018-En-00286	@DOBrienAJC What did you do to rile up all the Roberts?	fear	0: no fear can be inferred
+2018-En-01562	Sector71-78 area is all full of #Immigrant #bangladeshi they are a #threat to us\nthey #steal #Rape #Kill #bully \n#SaveHindusInHindustan	fear	2: moderate amount of fear can be inferred
+2018-En-00572	#Kenya numerous children civilians police killed in recent terror attacks barely a word from government 1 minister dies non stop coverage	fear	2: moderate amount of fear can be inferred
+2018-En-03062	@justicemalala The Guptas is the middle man from hell. ..men with cigars sitting and plotting in the dark of night	fear	2: moderate amount of fear can be inferred
+2018-En-03737	#AmarnathTerrorAttack  Muslims are killing everywhere Syria Iraq Palestine Everyday beyond They say that Islam is terrorism shame on you	fear	1: low amount of fear can be inferred
+2018-En-04194	@CallumOBrien3 @PlymouthHerald Getting common place now I'm afraid ... even getting the 'on this day ' articles repeated ... !	fear	2: moderate amount of fear can be inferred
+2018-En-01212	TARED tabby abaci rabid each dabs	fear	0: no fear can be inferred
+2018-En-03574	Bus model and industry make huge diff to value - Soft cos cost structure scales diff than Hard co. Need to know when raising #vc #start	fear	0: no fear can be inferred
+2018-En-03423	John 14:27\nLet not your heart be troubled, neither let it be afraid. #peace #afraid	fear	0: no fear can be inferred
+2018-En-00451	They'll pollute workplaces, threaten the existence of others and destroy relations its all they know how to do without CONSEQURNCES	fear	2: moderate amount of fear can be inferred
+2018-En-02686	@exceptions Although I have a nice vulva, I choose not to intimidate other women with it.	fear	0: no fear can be inferred
+2018-En-00163	When people tell me they're a huge fan of #LordOfTheRings, but they've never read any of the books...\n\n#sadness #despair #misery #covfefe	fear	0: no fear can be inferred
+2018-En-04305	Well the new AA advert is absolutely terrifying 😭 #creepy #possessed #horrifying	fear	3: high amount of fear can be inferred
+2018-En-03701	'Believe me: seasons change. Feelings fade. Life goes on. Do me a favor: endure the late night rage of emotions. (1/2)	fear	0: no fear can be inferred
+2018-En-03835	@RegPCB I like a world where Love Island drarms is the worst thing I've got to worry about.	fear	0: no fear can be inferred
+2018-En-04137	I do not fear bugs, as being poor.	fear	0: no fear can be inferred
+2018-En-00293	@Brooksvb 😱 that's just terrible	fear	3: high amount of fear can be inferred
+2018-En-04300	'The greatest #mistake we make is living in constant #fear that we will make one!' #LiveYourLife #WorkLifeBalance #Career	fear	0: no fear can be inferred
+2018-En-03297	I'm so sick of that 'I'm done w. My ex na we're never getting back together' crap so You can get back together in like a month 😂	fear	0: no fear can be inferred
+2018-En-01698	How to get rich quick: Step 43. Get a suit fitted and panic.	fear	2: moderate amount of fear can be inferred
+2018-En-01414	2nd False Widow in my bedroom.The same place as the last. Thankfully @carlhulyer put it out #scaredtosleep #dontbiteme #notanother1 #phobia	fear	3: high amount of fear can be inferred
+2018-En-01083	@chrissyteigen That's a great book.  It will terrify you.	fear	0: no fear can be inferred
+2018-En-00301	the only problem people should have in the morning is burning their tounges on hot coffee (like i just did)	fear	0: no fear can be inferred
+2018-En-03996	.@PayPal  why do you always make it so incredibly difficult to do anything or get anything resolved?  #customerservice #sucks	fear	0: no fear can be inferred
+2018-En-03153	@tarabrazil2 Guess who got a ghd now😃😃 no need to dread coming up and getting ready in mine with my boots straighter	fear	0: no fear can be inferred
+2018-En-03693	Can't sleep!! Maybe #worry !!!!!! Or Maybe I need to Chang my pillow !! Maybe..!😏	fear	2: moderate amount of fear can be inferred
+2018-En-00699	The good thing about being a pessimist is that when I have low expectations all the time, I am pleasantly surprised more often. #pessimist	fear	0: no fear can be inferred
+2018-En-00323	@abpnewstv @narendramodi What action is the government contemplating to apprehend the culprits? Condemning the incident is not enough.	fear	0: no fear can be inferred
+2018-En-01189	My hittas a shake the spot if I point my finger	fear	0: no fear can be inferred
+2018-En-01430	@ggreenwald Macron slips up and has a moment of clarity &amp; common sense...now he is a raging racist. Sounds right. #LiberalLogic	fear	0: no fear can be inferred
+2018-En-00427	Is it too early in the year to watch SILENT NIGHT, DEADLY NIGHT and BLACK CHRISTMAS? #horror	fear	2: moderate amount of fear can be inferred
+2018-En-00303	@honeyfriess Now that's a #HappyThought to start your week!	fear	0: no fear can be inferred
+2018-En-04108	@TheSarahFader I don't even log on sometimes. 	fear	0: no fear can be inferred
+2018-En-03190	Tooth was not lettin me sleep last night #restless	fear	0: no fear can be inferred
+2018-En-00046	@mmatches100 your limited palettes are hecking gorgeous im just staring endlessly at this in awe while tears run down my face	fear	0: no fear can be inferred
+2018-En-00826	Lord... Thank you. Let it this be. 😁#excited #nervous #mixemotions	fear	0: no fear can be inferred
+2018-En-04269	@friskyako Sub, dub isnt awful but it just isnt justifiable enough to watch it over subbedd	fear	0: no fear can be inferred
+2018-En-01364	An email that will never be sent, a message that will remain unsaid, a voice never heard again. #loss #sorrow #Friends	fear	1: low amount of fear can be inferred
+2018-En-03324	Honestly Michael Clifford is so fucking ugly who let that rabid dog make music	fear	0: no fear can be inferred
+2018-En-04128	A little positivity for a dreary Tuesday.  From my little jar of positivity now available in my #Etsy store #selfhelp #HandmadeHour #anxiety	fear	0: no fear can be inferred
+2018-En-00262	Getting out of the car park could take longer  than the Jimmy Carr show ran #nightmare	fear	2: moderate amount of fear can be inferred
+2018-En-04239	'The prayer of the feeblest saint is a terror to Satan.'\n(Oswald Chambers)	fear	0: no fear can be inferred
+2018-En-01288	Game of Thrones was like The Revenant on high 🤔😂🐻🐉 #zombiebear #GameOfThrones #GOT #whitewalkers #terrifying #TheRevenant	fear	0: no fear can be inferred
+2018-En-03291	@edsheeran ballroom dancing class tomorrow, any advice for a first timer? 	fear	0: no fear can be inferred
+2018-En-01067	Received an award at work today.. doesn't mean I need to go up on stage... I'm good thanks. Let me just do my work. #stagefright #shaking 😳	fear	2: moderate amount of fear can be inferred
+2018-En-02953	It's now raining and I can hear thunder growl somewhere. Good day to read some more.	fear	0: no fear can be inferred
+2018-En-00829	So, basically, Donald Trump was so intimidated by Hillary Clinton that he sought foreign assistance (including cyberattacks) to 'win'?	fear	0: no fear can be inferred
+2018-En-01772	@davidgold @karren_brady My shirt did not arrive today as promised, I even pre-ordered it in June, who do I make my complaint to ? 	fear	0: no fear can be inferred
+2018-En-02607	@seanhannity Why are we still talking about the elections? It's like we're stuck in October 2016 but we still get older. 	fear	0: no fear can be inferred
+2018-En-02197	@UnitedStandMUFC So English clubs get over charged and other clubs like Real Madrid bully to get players on the cheap	fear	0: no fear can be inferred
+2018-En-00359	how i drink two 40s and im still somewhat sober ?	fear	0: no fear can be inferred
+2018-En-00583	@Channel9 how could you put this show on air !! Disrespectful to so many mums and families 😡	fear	0: no fear can be inferred
+2018-En-01629	I'm so done with all the despair I'm having	fear	2: moderate amount of fear can be inferred
+2018-En-01323	going to sleep was a bad idea i had a horrible nightmare abt what i hate the most in a nightmare but its fine im ok	fear	3: high amount of fear can be inferred
+2018-En-02506	*gen math class*\n\nms: what is the value of x in this eq'n?\n\nme: x is 10....tial dread and suffering is a prison without escape, only death.	fear	2: moderate amount of fear can be inferred
+2018-En-03642	They say ur a prdct of ur surroundings. A bit intimidated by the crazy amazing ppl I met @ @codecityco @n8walke @dianap_patton @DrMattKutz	fear	0: no fear can be inferred
+2018-En-02121	A good head and a good heart are always a formidable combination. (Nelson Mandela)	fear	0: no fear can be inferred
+2018-En-04138	Feeling #restless today for some unknown reason	fear	1: low amount of fear can be inferred
+2018-En-01902	Me and @DicksonEmily's snap streak is at 260, if that's not amazing I don't know what is #commitment	fear	0: no fear can be inferred
+2018-En-01249	.@AlistairBurtUK states that DfiD is working hard to ensure Palestine isn't funding terrorism #FCOQs	fear	0: no fear can be inferred
+2018-En-01514	And this kind of thing happens bc certain ppl play victim bc of their gender which is horrid. Own up to your mistake and apologize for it.	fear	0: no fear can be inferred
+2018-En-00400	I woke up too moody who gon Die today 😠	fear	1: low amount of fear can be inferred
+2018-En-01776	facts about all the horrific ways i could kill them if i were in fact those animals.	fear	2: moderate amount of fear can be inferred
+2018-En-03402	#start my YouTube channel techno ayan please follow friends	fear	0: no fear can be inferred
+2018-En-00805	I thought he cried over some of his relative death or something but when i know the truth . I just wanna burst out 😂	fear	0: no fear can be inferred
+2018-En-04034	Been so active these days. That now that I have a day off, I am soooo restless. :P Haven't been restless in months.	fear	0: no fear can be inferred
+2018-En-02621	Thought For The Day\n\nRemain Unruffled\n\n2 Thes 3:13 says 'But ye, brethren, be not weary in well doing.' For many years I have	fear	0: no fear can be inferred
+2018-En-01773	@JhaSanjay Good you are reminded - that's first step... \n\n2nd step, pls start practicing and spare us the horror of your tweets 😂	fear	0: no fear can be inferred
+2018-En-00514	Just watched #TheDarkTower &amp; I ask how did @StephenKing let them destroy a Literary masterpiece is beyond me. #crap #disappointment #fixit	fear	0: no fear can be inferred
+2018-En-03031	@DavidBegnaud So horrifying. I feel such sadness for the families.	fear	3: high amount of fear can be inferred
+2018-En-02168	What's wrong is always available so is what's right, you decide on what to focus. #success 	fear	0: no fear can be inferred
+2018-En-00074	@ananavarro Stop fearing and stop fearmongering. You are much better than that.	fear	1: low amount of fear can be inferred
+2018-En-00473	Don't be afraid to ask questions! He's real &amp; there's always a revelation.	fear	0: no fear can be inferred
+2018-En-00717	@bugwan Crown? Teaching the kiddies to have a flutter?	fear	0: no fear can be inferred
+2018-En-03639	@WhitneyJoyner @cassiidybrooke yeah you have not been the perfect patient like I was #dread	fear	2: moderate amount of fear can be inferred
+2018-En-00633	(y'all) #snap	fear	0: no fear can be inferred
+2018-En-01919	U was posting selfies in the gym last week now ur to scared to buy a McDonald's lol 😂 shows how much ur willing to lie	fear	0: no fear can be inferred
+2018-En-04156	I can't afford to be unhappy. I've made it this far and there isn't anything or anyone that's going to take my happiness away.	fear	0: no fear can be inferred
+2018-En-00629	Not all people are #concern, some are just enjoying seeing people in #miserable.	fear	2: moderate amount of fear can be inferred
+2018-En-04306	@DonaldJTrumpJr you look shook! #afraid #shook #impeach #youaregoingdown	fear	1: low amount of fear can be inferred
+2018-En-02997	Part of #danielhive #insecure i got you	fear	0: no fear can be inferred
+2018-En-02239	To represent the #logic re why I'm here doesn't #worry me! What #worries me is what I see before me #globally! That logic doesn't add up	fear	2: moderate amount of fear can be inferred
+2018-En-03448	LibertySeeds: realDonaldTrump LizCrokin Great #start for #MAGA ...	fear	0: no fear can be inferred
+2018-En-03771	Karma is real bitch 🖕🏼you can't just be mean and do horrid things without paying the price 😂	fear	0: no fear can be inferred
+2018-En-03278	@russ_kent @IsabelOakeshott Inexplicably well paid talking head who lectures in impenetrable consultu-speak #dire	fear	0: no fear can be inferred
+2018-En-01777	#Past #success or #failure is no #indicator of #future #performance DON'T be #afraid to take a #risk.	fear	0: no fear can be inferred
+2018-En-00952	It is more shameful to distrust our friends than to be deceived by them. - François de La Rochefoucauld #ALDUBersaryin5Days @lynieg88	fear	0: no fear can be inferred
+2018-En-04322	@Parlez_me_nTory @UKLabour Oh you are awful but I like you....	fear	0: no fear can be inferred
+2018-En-02304	@MJ_Boh_ this is a fucking dreadful opinion	fear	1: low amount of fear can be inferred
+2018-En-01907	Got a real bad feeling sharing a house with 8 people is going to be a nightmare	fear	3: high amount of fear can be inferred
+2018-En-01639	To recreate my romantic memories, I'd just put a chip on my shoulder  #masterchefau	fear	0: no fear can be inferred
+2018-En-03224	45 admits that decisions are harder when you sit in the Oval Office.  #dumbasastick #terrifying	fear	3: high amount of fear can be inferred
+2018-En-03419	@Scriblit @TheMendozaWoman Ugh! Not those vile men again. 😱	fear	1: low amount of fear can be inferred
+2018-En-00875	@HuffPostUK As comical as this I really do despair for this country.	fear	0: no fear can be inferred
+2018-En-04058	y'all spend every paycheck on a new pack of drugs to sell or guns y'all just threaten people with...	fear	1: low amount of fear can be inferred
+2018-En-02814	I fw @ralofamgoon he don't hesitate to speak his mind	fear	0: no fear can be inferred
+2018-En-04069	@blonderella26 @Seahawksfan7777 @Shitlery @afern_alex @eugenegu @tonyposnanski @realDonaldTrump She's getting mad just like we like it 🤣	fear	0: no fear can be inferred
+2018-En-01465	I've been wanting to do a shoot at the waterfall but after I saw a snake at the river I'm scared now 🙁	fear	3: high amount of fear can be inferred
+2018-En-00854	Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict. William Ellery Channing	fear	0: no fear can be inferred
+2018-En-00731	@YourHorrorHost &amp; @pdeblassieiii THANK YOU for the retweets. Much #appreciated!!! #horror #monsters #MonsterBrawl @Sirens_Call	fear	0: no fear can be inferred
+2018-En-02606	u can get an oreo shake at burger king	fear	0: no fear can be inferred
+2018-En-01287	#JotD What did King George think of the American colonists? He thought they were revolting!	fear	0: no fear can be inferred
+2018-En-03601	#Hateful , #horrible , #horrendous ... = last night's speech in summary @cnnbrk @NewDay @CNN #PhoenixProtests #PhoenixRally	fear	2: moderate amount of fear can be inferred
+2018-En-03185	When your at work and the button comes off your shorts 😐  #fatty	fear	0: no fear can be inferred
+2018-En-04079	@shuchikalra @lMonicaSpringsl Don't scare me I'm already scared	fear	3: high amount of fear can be inferred
+2018-En-01303	#AmarnathTerrorAttack saddened to hear this ....need to take strict action against #terrorism ...	fear	2: moderate amount of fear can be inferred
+2018-En-00855	@OliviaSundberg1 thanks for this – the perspective is shocking. it's getting to a point where it's near that number every week now.	fear	0: no fear can be inferred
+2018-En-02013	Quick annoyingly vague scream into the void: AAAAAAAAAAGH. I'm nervous, excited, terrified, trying not to get my hopes up	fear	3: high amount of fear can be inferred
+2018-En-03872	Actually gunna miss America a lot 😰	fear	0: no fear can be inferred
+2018-En-03468	@kathryn_dennis keep your head clear an focused. Do not let T intimidate you or use your children to silence you! Hate when a man does that!	fear	0: no fear can be inferred
+2018-En-01271	@MargoGray48 @waff48 @trentnews @katcampbellwx Good morning Margo! We are😀have a terrific Tuesday dear	fear	0: no fear can be inferred
+2018-En-02766	Tomorrow should be interesting if info is being released re away priority &amp; Canalside membership! #outrage #htafc	fear	1: low amount of fear can be inferred
+2018-En-02805	We are hard-pressed on everyside, yet't crushed; we are perplexed but't in despair; persecuted, but't forsaken; struck down, but't destroyed	fear	1: low amount of fear can be inferred
+2018-En-00034	9. So to summarize... Aman, Norwood and Mitchell clearly lead the field in resources, though Mitchell's burn rate is alarming.	fear	0: no fear can be inferred
+2018-En-00416	@lomadia heard of Remothered? Indie horror game. Writing/VA is amateur and the protagonist looks like Jodie Foster but may be good?	fear	0: no fear can be inferred
+2018-En-02431	8Am: 😣\n9Am: 😊\n10Am:😥\n11Am: 🤤\n12Pm: 😟\n1 Pm: 😱 \n1:30 Pm: ☺\n\n*dafuq mind calma te*	fear	0: no fear can be inferred
+2018-En-00831	@altontowers Loves the rich!!! Fuck us 'working class folk' and our kids! #fuming #joke #scandalous #disgusting #altontowers  😡😡	fear	1: low amount of fear can be inferred
+2018-En-00596	How fast the car can speed in not the concern but can the car stop in time incase of an emergency that is what u shud think about.	fear	1: low amount of fear can be inferred
+2018-En-00115	I'm the wholesome drunk that sends people memes and compliments them at 2am on snap	fear	0: no fear can be inferred
+2018-En-01745	@LHTide1 not #horrific but..\n#CUDDLY!	fear	0: no fear can be inferred
+2018-En-01843	@SAVAGEKERMlT don't #worry, froggy\nit will SOON be TIME for #FROGFEARFRIDAY!	fear	0: no fear can be inferred
+2018-En-00094	@AntiGOPActivist @HuffPostPol Christy is a bigger piece of shit then trump is and a bully.	fear	0: no fear can be inferred
+2018-En-00312	this one lady literally parked next to me and scared the shit out of me 🙃	fear	3: high amount of fear can be inferred
+2018-En-01560	@Sceptic_1985 I think we underestimate them at our peril. IMHO Bannon, Ryan, McConnell, ect. will accomplish terrible things if allowed to.	fear	0: no fear can be inferred
+2018-En-02242	If ISIS is beheaded, they will be much easier to defeat, fewer casualties - so the theory goes. #terrorism	fear	2: moderate amount of fear can be inferred
+2018-En-03560	All I want to do is sleep. My dreams are bizarre, but still an escape from my problems. Is this #anxiety, #depression, or both? #tiredoflife	fear	3: high amount of fear can be inferred
+2018-En-01800	Plz explain why my Spotify is playing Marilyn Manson on repeat bc this is a very loud start to my morning &amp; not appreciated😳	fear	0: no fear can be inferred
+2018-En-02916	Yay... a big shout out for my friend @GuptaJuhi90 . Welcoming her back on twitter. She a terrific writer. Stay tuned for tweets.	fear	0: no fear can be inferred
+2018-En-02933	Why does the president of the US tweet like Regina George? 	fear	0: no fear can be inferred
+2018-En-02176	fuckfuckfuck my hands are shaking	fear	3: high amount of fear can be inferred
+2018-En-03008	Who will help me to be a Millionaire? #business #small_business #Millionaire #start_small_business #money #start #my #business\n:);)	fear	0: no fear can be inferred
+2018-En-02670	@GodAllMighty12 Which articles did you try? 😱 I tried 5 very different, obscure, ones and it always worked.	fear	0: no fear can be inferred
+2018-En-04224	Sweet merciful crap that was some bad singing at the #MLBAllStarGame tonight. Anthem and God Bless, both. #wrongnotes #outoftune 	fear	0: no fear can be inferred
+2018-En-01840	@LovinUnited That'll be Madrid throwing a huff over Morata and De Gea. Fuck them	fear	0: no fear can be inferred
+2018-En-01709	The hotel alarm clock keeps going off at 5 am every morning and idk how to unplug it/turn it off 😤	fear	0: no fear can be inferred
+2018-En-02550	@emilyhroderick Electronics also have foibles, personality faults, like to sulk and crash just like humans... switch off and desolder	fear	0: no fear can be inferred
+2018-En-03946	we averaging 2 anxiety attacks a day now. 'chea.	fear	3: high amount of fear can be inferred
+2018-En-02839	@LondonEconomic Sometimes our judiciary just leaves you breathless and speechless.	fear	0: no fear can be inferred
+2018-En-00931	It's #NationalFrenchFryDay and I'm working at McDonald's. #frightened	fear	2: moderate amount of fear can be inferred
+2018-En-03101	@SkyNews Just taking a lunch break from work - notice yet again work shy labour left out in force , the decisions been made just crack on	fear	0: no fear can be inferred
+2018-En-04284	Okay this girl On teen mom is screaming but she only 2 cm dilated 😭 when I was 2 cm I was just pissed bc she wouldn't give me water	fear	1: low amount of fear can be inferred
+2018-En-02147	@FootyAccums Haha nightmare	fear	0: no fear can be inferred
+2018-En-04230	So happy I get paid tomorrow so I can sort my bloody hair out before holiday 	fear	0: no fear can be inferred
+2018-En-00765	TFW you, a superhero introvert, have to let strangers into your house to mess around w the bathroom plumbing.  #thecatsandIarehiding	fear	0: no fear can be inferred
+2018-En-00315	you: oh boy! time to talk about a new game\ngod: you can't compare it to dark souls\nyou: trembling, sweating, about to scream	fear	1: low amount of fear can be inferred
+2018-En-03761	When you wake up early to workout and then the fitness room smells awful, so you come back to your room to do core...	fear	0: no fear can be inferred
+2018-En-02136	Life is too short to hide your feelings. Don't be afraid to say what you feel.	fear	0: no fear can be inferred
+2018-En-03618	@pilvrrvmirez Every #girl #nightmare ha ha ha (~.~)!!	fear	0: no fear can be inferred
+2018-En-02681	We have a GLOBAL problem: Illicit trade in #tobacco products presents a serious #threat to public #health. #UNTobaccocontrol @FCTCofficial	fear	2: moderate amount of fear can be inferred
+2018-En-00328	@WthrmnSlaughter whew! I was nervous!! 🙌🏽🙌🏽	fear	1: low amount of fear can be inferred
+2018-En-03801	The one most important thing we forget. That we need to denounce terrorism, not stoke communalism  #AmarnathTerrorAttack	fear	1: low amount of fear can be inferred
+2018-En-02995	@LeahRemini These stories are so #heartbreaking #ScientologyTheAftermath Please continue to bring #truth to the surface. Ur helping humanity	fear	0: no fear can be inferred
+2018-En-03586	Bout to start the scariest video of my life😱👎 #SoNotReady 	fear	3: high amount of fear can be inferred
+2018-En-02067	Gutted for #andymurray. #sadness #balls #Wimbledon2017 🎾😬🎾	fear	0: no fear can be inferred
+2018-En-01829	@nkrrao karamadai ranganatha. Pallikondeeswarar shiva. Some more avl. Dont outrage without reason @kalps1616	fear	0: no fear can be inferred
+2018-En-00518	@StuartCamp My dad ordered my tickets for the show in Hamburg, his name is now printed on the tickets, is the same surname enough? #panic	fear	3: high amount of fear can be inferred
+2018-En-03103	@ActuallyNPH @RealJamesWoods I didn't realize you weren't acting... You actually are that guy. #smh  #Hercules #ghostsofmississippi	fear	0: no fear can be inferred
+2018-En-03983	So exhausted I could cry 😭	fear	2: moderate amount of fear can be inferred
+2018-En-04043	I'm an Indians fan so, I hate Joe Buck. Im glad he looks old af now. 😂 #bitter #AllStarGame	fear	0: no fear can be inferred
+2018-En-00785	My head is bloody, but unbowed. \nI front unfeared the threat of space \nAnd dwindle into dark again.	fear	1: low amount of fear can be inferred
+2018-En-00125	@foreignoffice Qs called on #HMG to condemn terrorist murders of #HinduPilgrims #AmarnathYatra in #J&amp;K &amp; help #India apprehend terrorists	fear	2: moderate amount of fear can be inferred
+2018-En-02267	'Suddenly I can do so much, &amp; it feels like my brother was holding my back in a way, &amp; that feels like a horrible thing to say' #InsightSBS	fear	1: low amount of fear can be inferred
+2018-En-00423	What does this buffoon and his team have to do for you trump fans to bail!!?? #confused 	fear	0: no fear can be inferred
+2018-En-02715	Lugubrious face, crestfallen eyes, forlorn heart and an agitated soul seeking serenity.	fear	0: no fear can be inferred
+2018-En-02690	Are you #different?! Don't be #afraid, just keep #calm and be what you are :)	fear	0: no fear can be inferred
+2018-En-01427	i'll never delete someone off facebook. it gives them a satisfaction that someone intimidated and i most certainly am not.	fear	0: no fear can be inferred
+2018-En-00523	#AmarnathYatra atck is not #terrorism it is #HinduHolocaust happening 4 last 1000 years @narendramodi can't solve this #AmarnathTerrorAttack	fear	2: moderate amount of fear can be inferred
+2018-En-01379	When being #productive (doing the things that NEED to be done), #anxiety levels decrease &amp; #libido increases. #personalsexuality	fear	0: no fear can be inferred
+2018-En-02861	Grumpy AF today #badsleep  #grumpy	fear	0: no fear can be inferred
+2018-En-02402	@laurierecords The worst is getting so very close to life changing contracts and coming up short.  Feels like starting over. :-/ #relentless	fear	1: low amount of fear can be inferred
+2018-En-01021	No, I'm not 'depressed because of the weather,' I'm depressed because I have #depression #sicknotweak	fear	2: moderate amount of fear can be inferred
+2018-En-03343	My soon to be ex wife needs to learn to chill out &amp; smile 	fear	0: no fear can be inferred
+2018-En-01306	@OddNMacabre #TuesdayThoughts #horror damn it's tough to chose. But I will go to camp crystal lake but not as counselors😁	fear	0: no fear can be inferred
+2018-En-02570	@PSHalabi what are the current statistics concerning 'backdoor abortions'. If alarming, what preemptive measures are in place?	fear	1: low amount of fear can be inferred
+2018-En-00539	Dro is everything to me 	fear	0: no fear can be inferred
+2018-En-03130	'I think our dreams can motivate us more than our fears can paralyze us.'  ~  Chris Hogan  #dreams #fears #life	fear	0: no fear can be inferred
+2018-En-03711	@jaimitoelcrack7 Seriously...I've been sitting here for five minutes watching this in awe. It never gets less amazing.	fear	0: no fear can be inferred
+2018-En-03582	Don't be afraid of your fears. Their purpose is not to frighten you, but enlighten you and lead you into a better future. #dailycraig #fear	fear	0: no fear can be inferred
+2018-En-00704	Does #fear of #Missions still have a hold on you? Are you so busy looking for opportunities you cannot see anything else? Matthew 10: 27-33	fear	0: no fear can be inferred
+2018-En-00726	@EXOGlobal I can't wait , I'm shaking	fear	2: moderate amount of fear can be inferred
+2018-En-03111	Me at Start of Semester Expecting = A+\nAfter Mids = B+\nAfter Finals = Passing Marks\n\nThinking to quit MS. 😡	fear	1: low amount of fear can be inferred
+2018-En-00284	-whatever life gives you even if it hurts, just be strong and act the way you always do because strong walls shake but never collapse	fear	0: no fear can be inferred
+2018-En-00609	At least @LewisHamilton not turning up is not the most outrageous thing at #F1Live #Kaiserchiefs 	fear	0: no fear can be inferred
+2018-En-01508	(Looking forward to Charles tweets more than the announcement)!\n[-Q] #nervous	fear	2: moderate amount of fear can be inferred
+2018-En-01254	Not being able to jump on #mechwarrioronline is killing me . #awful #internet	fear	0: no fear can be inferred
+2018-En-00587	'If I allow my worry to consume me - all that I worry about will be given the opportunity to manifest.' ~ #Eleesha ღ #quote #worry #trust	fear	2: moderate amount of fear can be inferred
+2018-En-00304	Thank God for grace 	fear	0: no fear can be inferred
+2018-En-01559	@Adnan__786__ @AsYouNotWish Dont worry Indian army is on its ways to dispatch all Terrorists to Hell	fear	1: low amount of fear can be inferred
+2018-En-03636	@ABC We miss James Comey....he seemed to bring some order to the horrific chaos. We pray for you dear American friends... and Trump voters!	fear	1: low amount of fear can be inferred
+2018-En-04113	@sofisuuu i know 😰	fear	0: no fear can be inferred
+2018-En-02710	When Austin lets u take a rest day #tears #happy #crying #amazing #bestdayever #kindasad #cantfeelmyarms #actuallydieing	fear	0: no fear can be inferred
+2018-En-02539	Mima tremendous at bringing the noise.	fear	0: no fear can be inferred
+2018-En-04299	awoke from an actual nightmare about unicode normalization	fear	1: low amount of fear can be inferred
+2018-En-02836	@BHIndepMO ha! no perception needed -- just facts. it's a bunch of dudes in suits trying to gobble up money while they're in power #shocking	fear	0: no fear can be inferred
+2018-En-01236	@denisebatters I blame @stephenharper for these terrible terrible rules. 	fear	2: moderate amount of fear can be inferred
+2018-En-00869	There's so much anxiety w/i the PGR/ECR community that I think sometimes we forget PhDs are awesome &amp; cool, not just bane of existence	fear	0: no fear can be inferred
+2018-En-00178	Why do Liberal Americans spend so much time crying? And when they aren't crying they're burning the US flag or protesting! Embarrassing!😲😲🤧🤧	fear	0: no fear can be inferred
+2018-En-03092	Marriage is the place where two WHOLE pple are supposed to come together not a broken sick person seeking fixing it's a terrible arrangement	fear	2: moderate amount of fear can be inferred
+2018-En-02045	@Ellpeck I fear that you could die by your self, that scares me. My own death not which could be any time in my age.	fear	3: high amount of fear can be inferred
+2018-En-01724	Thinking more, KD winning #BestChampionshipPerformance at the @ESPYS is as bad as Jason Garrett winning Coach of the Year.  #justno	fear	0: no fear can be inferred
+2018-En-03424	People who say nmu are the worst, something has to be going on, tell me I wanna know bout your life that's why I fucking asked, I care 😤	fear	1: low amount of fear can be inferred
+2018-En-03179	What can you say about @rogerfederer #awestruck.....	fear	0: no fear can be inferred
+2018-En-03720	@FlamingGrillby 'my own mistakes?' Grisk asked - well, more of a growl 'My mistakes meant that I could /learn/ from them and improve!'	fear	0: no fear can be inferred
+2018-En-02631	@ThomasSanders I am having anxiety right now because I don't know it's gonna happen	fear	3: high amount of fear can be inferred
+2018-En-04159	@XDeviantOnex We took a trip to Ireland right before we bought our home.  No way I could do it now.  I dread taking 2 days off of work.	fear	2: moderate amount of fear can be inferred
+2018-En-03317	I never dread.... I'm dreading😣😲👎	fear	3: high amount of fear can be inferred
+2018-En-02134	Jellyfish are turtles' food, turtles that you kill by throwing YOUR plastic wastes in the sea. So don't complain when they sting your ass.	fear	0: no fear can be inferred
+2018-En-02990	In need of a change! #restless	fear	0: no fear can be inferred
+2018-En-02437	@GMB @susannareid100 I had #Parkinson's aged 10 I would have failed my #SATs #tremor but it's no reflection at all on my intelligence !!	fear	0: no fear can be inferred
+2018-En-01959	Library vendors sometimes really irritate me, esp. when a new owner has little commitment to what was once a great product + poor manners.	fear	0: no fear can be inferred
+2018-En-00186	Nicole: we have to go somewhere warm and tropical\nMe: okay where?\nNicole: Oakland\n\nWhy does no one in my life ever look at a map?? #lost	fear	0: no fear can be inferred
+2018-En-02052	genuinely think im dying boys n girls never felt so awful in my LIFE x	fear	2: moderate amount of fear can be inferred
+2018-En-03447	YOU MIGHT BE TRYING TO FILL THE VOID IN YOUR #HEART WITH ALL SORTS OF THINGS BUT THAT PLACE BELONGS TO JESUS CHRIST #music #worry #love #SMM	fear	0: no fear can be inferred
+2018-En-04083	@ANI_news Sir, what about 2G, 3G, 4G, Coalgate, scams Parliament Attack, Mumbai terror attacks despite intelligence input.	fear	1: low amount of fear can be inferred
+2018-En-02899	God's help for Israel in Isaiah 41:10, is for u today. Don’t be afraid or discouraged, He's ur God who will strengthen, help &amp; hold u up.	fear	0: no fear can be inferred
+2018-En-03012	@WILLLANNO Man u r just bitter about Manu making great strides...	fear	0: no fear can be inferred
+2018-En-02406	@balleralert @akadmiks these kind of cops are the reason people hate cops &amp; cant trust anything 	fear	1: low amount of fear can be inferred
+2018-En-02693	The Republicans need to offer a detailed and competitive plan, if they don't buy counter terrorism, or their own plan.	fear	0: no fear can be inferred
+2018-En-03104	Soooo @IssaRae we need longer episodes 🙏🏽🙏🏽😫😫 #insecure	fear	1: low amount of fear can be inferred
+2018-En-01084	@jonesy031184 Yeah I've had that, l say hopefully you'll never get it then you horrific waste of skin.	fear	1: low amount of fear can be inferred
+2018-En-03546	♪ Racing all around the seven seas\nChasing all the girls and making robberies\n'Causing panic everywhere they go\nParty-hardy on Titanic... ♪	fear	0: no fear can be inferred
+2018-En-03327	The only thing more shocking than the truth are the lies people tell to cover it up.	fear	1: low amount of fear can be inferred
+2018-En-02784	@bookingcom Also never got me a replacement taxi so I was forced to get a new one and transport myself! #terrible #twohourwait #nohelp contd	fear	1: low amount of fear can be inferred
+2018-En-01762	Why would Mourinho be talking about Lacazette??  He doesn't worry about other club's players.  That's Klopp and Wenger's job	fear	0: no fear can be inferred
+2018-En-04049	@FoxySnaps @NengoHD @SGalehaut How did you attend men 😱	fear	0: no fear can be inferred
+2018-En-02166	If your only response to this current political crap show is 'but Hillary!!' Or 'but Obama!!' you need to start looking for a new argument.	fear	0: no fear can be inferred
+2018-En-03514	Smartest way through any complex, hard &amp; lengthy negotiation is to #consult, not #insult - #BoJo please take note. Never too late to learn!	fear	0: no fear can be inferred
+2018-En-00022	@RepLeeZeldin Horrible CNN interview.  U can't talk urself out if a paper bag. U don't even buy the crap that was coming out of ur mouth. 👎	fear	0: no fear can be inferred
+2018-En-02985	@shelby_Billsfan @buffalobills They kinda hafta be these days. #bleak 😬	fear	0: no fear can be inferred
+2018-En-03245	@SenFeinstein @SenatorDurbin @SenFranken will @GOP donors like @HobbyLobby be prosecuted by FBI Dir for known #materialsupport 	fear	0: no fear can be inferred
+2018-En-01950	Mockingbird started playing a random shake it off playlist. #TweetBot	fear	0: no fear can be inferred
+2018-En-03109	@KillingTheTown is always awesome. But having @ShaneHelmsCom on too? That makes it #tremendous	fear	0: no fear can be inferred
+2018-En-04161	I'll control my #anger... if you can manage your #stupidity. #TeamFollowBack #相互フォロー #fact #figuremeout	fear	0: no fear can be inferred
+2018-En-00188	My body literally shaking, I ain't running on enough sleep to be getting this pissed off	fear	2: moderate amount of fear can be inferred
+2018-En-03630	I definitely know my karaoke song now so hmu and it's by Britney shocking	fear	0: no fear can be inferred
+2018-En-03158	@jeonahjumma dont worry abt it bb	fear	0: no fear can be inferred
+2018-En-02429	There are parts of you that wants the sadness. Find them out, ask them why	fear	0: no fear can be inferred
+2018-En-01169	What is this inane waffling nonsense that @BBCSport @bbctennis is forcing us to endure every time John Inverdale takes the mic. #dreadful	fear	0: no fear can be inferred
+2018-En-01455	@SOUNDK2022 always panic before the presentation.. &gt;.&lt;'	fear	2: moderate amount of fear can be inferred
+2018-En-02915	@asksheilas I've tried to get through 3 times today and waited 20 mins each time, what do I have to do to get through?! 	fear	1: low amount of fear can be inferred
+2018-En-00494	@RightNewsUK Poor dogs! Have to bite that sun of a bitch! 😠	fear	0: no fear can be inferred
+2018-En-00397	#AmarnathTerrorAttack @narendramodi @rajnathsingh cn u plz ans wt u r afrd of or wt stpng u to end #terrorism wn whol #India is stndng wth u	fear	2: moderate amount of fear can be inferred
+2018-En-01345	i know it shouldn't discourage me but i just really wanna create something amazing and outstanding	fear	0: no fear can be inferred
+2018-En-03613	Finished #LayersofFear by @BlooberTeam. Great psychological horror game with its own unique flair. Jump scares galore, but also subtlety.	fear	1: low amount of fear can be inferred
+2018-En-03531	@sailorm318 @LandonVegaXXX Where's the picture? 😰	fear	0: no fear can be inferred
+2018-En-01684	blood rage	fear	0: no fear can be inferred
+2018-En-03503	It's 2017 and there still isn't an app to stop you from drunk texting #rage	fear	0: no fear can be inferred
+2018-En-03171	I am #extremely #talented and had #manyexperiences people wouldn't #wish #for and #dread yet had amazing moments too... #life #psychic	fear	0: no fear can be inferred
+2018-En-03164	Sad to hear interviews w/ Trump voters, now terrified abt losing healthcare\n\n#npr #cnn #HuffPostPol #nyt #WaPo #AP_Politics #BBCnews #msnbc	fear	2: moderate amount of fear can be inferred
+2018-En-03541	Johnny doesn't seem like the suicidal type #suspicion #tcmparty	fear	1: low amount of fear can be inferred
+2018-En-03533	@ArcadeGirl64 I actually really like hearing your thoughts either way, don't hesitate to share :)	fear	0: no fear can be inferred
+2018-En-04208	Battery drain &amp; a red hot iPhone (again) 🙁 #iOS11beta3	fear	1: low amount of fear can be inferred
+2018-En-01381	When you dread going to work early in the morning but you always come back home happy &amp; smiling 💕 #goodday 😎	fear	0: no fear can be inferred
+2018-En-00471	@goldengateblond @marygauthier_ Goal posts moved out of America &amp; inching closer to #Russia #horrific. #treason	fear	2: moderate amount of fear can be inferred
+2018-En-01608	@Jamiebower first second on #WillTNT is music to my ears 😭❤️ #shaking #missedyou	fear	0: no fear can be inferred
+2018-En-01792	OH YEON SO's kdrama is so nice and i am still in awe that she and dara are friends now.. hope they can have kdrama soon!	fear	0: no fear can be inferred
+2018-En-03193	@coachforward Respect breeds cooperation whereas fear breeds doubt. Well said	fear	0: no fear can be inferred
+2018-En-01058	I'm so sorry\nfor so many things\nI never say it\nmy burden to bear\nSo tired of talking\neven dreams grow stale\nMadness a relief\nto my #despair?	fear	1: low amount of fear can be inferred
+2018-En-01893	The Audacity of Rampant Government!  #threaten	fear	1: low amount of fear can be inferred
+2018-En-00464	Let's wake up to @GMB and see @piersmorgan and then want to put your fist through the television #talkstripe #tosspot  #gobshite	fear	0: no fear can be inferred
+2018-En-03797	The wave of militancy and #terrorism has been almost destroyed in #Fata by the efforts of #PakArmy #ThankUBajwaFairPakistan	fear	0: no fear can be inferred
+2018-En-04106	Galaxy Global Eatery is terrific! Like free stuff? Lyft gets you here FREE with code OATH	fear	0: no fear can be inferred
+2018-En-01264	I got to ride with and witness Amanda Coker break a 77 year old bicycling world record. Awesome athlete!  #amandacoker #tdf #relentless	fear	0: no fear can be inferred
+2018-En-04071	#My #Mind is free of all aspects of #fear and #pain &amp; talk with me to produce #positive thought.\n#affirmation #thought #focus\nPlease retweet	fear	0: no fear can be inferred
+2018-En-03607	@call_me_salome I really, really hope my kidney holds up 	fear	1: low amount of fear can be inferred
+2018-En-01106	@jeonquality i chose the right one TIWALA PLS 😰	fear	0: no fear can be inferred
+2018-En-04130	James to Bayern is probably the smartest choice for him.\n\nAnd, frankly, this kind of scares me 😲	fear	2: moderate amount of fear can be inferred
+2018-En-02673	who knew magnus bane with teary eyes and trembling lips would be my downfall	fear	0: no fear can be inferred
+2018-En-04166	Today is already off to a great start..... 🙄 	fear	0: no fear can be inferred
+2018-En-03741	#Overheard: 'I don't really like dogs.' I DON'T FEEL SAFE IN THIS PLACE. Clearly a hostile environment!  #bigly #covfefe #TrustNoOne	fear	2: moderate amount of fear can be inferred
+2018-En-02350	Step one in dealing with someone who is 'in an open marriage'---Hear it from BOTH parties FIRST! 🤦🏾‍♀️ #InsecureHBO  	fear	0: no fear can be inferred
+2018-En-00261	@OddNMacabre I Definitely would go the Elm Street way!! More #horror right!?😀	fear	0: no fear can be inferred
+2018-En-02852	Never stay silent or let anyone intimidate you into silence.  Lets make the world a better, safer place for kids #wallofsilence	fear	0: no fear can be inferred
+2018-En-03443	better care about yourself than about others because others wont care about you #lonely #sad #depressed	fear	2: moderate amount of fear can be inferred
+2018-En-00684	I feel so intimidated talking to chicken now that I know how pretty she is	fear	2: moderate amount of fear can be inferred
+2018-En-02638	huddling before flames\ndon't let poetry scare you\nproduction is wild\n#haiku	fear	0: no fear can be inferred
+2018-En-03353	@HSBC_HK you are a joke bank. I despair at your complete lack of common sense. The UK however, gets it. WTF is wrong​ with you ?	fear	0: no fear can be inferred
+2018-En-02398	@keval_91 @ChopdUK Sort it out @ChopdUK 	fear	0: no fear can be inferred
+2018-En-00897	Of course Molina #bitter	fear	0: no fear can be inferred
+2018-En-04258	@BugsySeigal been reading your Twitter this lunchtime... you're very angry aren't you 😂😂	fear	0: no fear can be inferred
+2018-En-02323	A person #hates u for 1 of 3 reasons. They 1) want 2b U; 2) #hate themselves. 3) C U as a #threat. (&amp; don't tell me hate doesn't exist!)	fear	0: no fear can be inferred
+2018-En-00112	'I have a problem with authority.'\n\n'Oh, you mean you hate being told what to do?'\n\n'No. Authority figures just terrify me.'\n\n#SocialAnxiety	fear	3: high amount of fear can be inferred
+2018-En-03210	In this state of #terror, you are far more susceptible to #addiction. 🤔\n\nAlso more likely to spend your #money in attempt to feel better.	fear	2: moderate amount of fear can be inferred
+2018-En-03187	I am trying to get through to the #RAC because I've had a car collision..been waiting in a queue for 16 minutes #shocking	fear	1: low amount of fear can be inferred
+2018-En-03059	I start my day thanking my stars. Then I see my colleague walk away early (notice period- honeymoon scenes) and I wonder 'WHY GOD WHY !'	fear	0: no fear can be inferred
+2018-En-00528	@itvnews Pound has dropped despite #UK #Govt proposals - duh it's #BECAUSE of the #idiocy &amp; #arrogance of them that it's #dropped ☹️	fear	2: moderate amount of fear can be inferred
+2018-En-02504	@itsjordansroom Good morning to you too young lady hope your Tuesday's terrific	fear	0: no fear can be inferred
+2018-En-01674	When I get clear on what actions to take, my #fear transforms into excitement because I am in step-by-precious-step action. Can you relate?	fear	0: no fear can be inferred
+2018-En-02795	#PMDD symptoms: Feelings of #sadness or #despair, or even thoughts of suicide.	fear	3: high amount of fear can be inferred
+2018-En-01660	sometimes I think I'm just #afraid as a person	fear	2: moderate amount of fear can be inferred
+2018-En-01891	@AGT #shocking loss of talented young man#prayers#pray for his family	fear	1: low amount of fear can be inferred
+2018-En-01451	@Squishy_Derg @FiskVelox @Introdile nervous laughter ensues	fear	1: low amount of fear can be inferred
+2018-En-02567	Just asked someone for help and to low key be my mentor #adulthood #anxiety	fear	2: moderate amount of fear can be inferred
+2018-En-01900	For every one concept I try to cram into my brain, I feel like I'm pushing out three. #panic	fear	3: high amount of fear can be inferred
+2018-En-04073	Daniel killing her ex doeee🍫🍫🍫😛 #insecure	fear	2: moderate amount of fear can be inferred
+2018-En-00979	It's irrelevant having a skinny body when you have a vile personality #bully	fear	1: low amount of fear can be inferred
+2018-En-02207	@theviberide great workout this morning alongside @Emily_Gagnon thx #Courtney my legs are still 	fear	0: no fear can be inferred
+2018-En-03862	@kimberlee__xox awe thanks you so much ❤️❤️ love you too	fear	0: no fear can be inferred
+2018-En-03507	@TajFalaknuma #horrible experience #not satisfied #low on standards	fear	0: no fear can be inferred
+2018-En-02974	@ThinkinOwtLoud 2% then run round like an idiot looking for charger! #panic	fear	3: high amount of fear can be inferred
+2018-En-02609	When you call the sick line hysterically crying. #awkward #anxiety #depression. Prob gonna get fired. 💔lol	fear	2: moderate amount of fear can be inferred
+2018-En-01690	@kristenyoonsoo @melvillmatic anxiety	fear	2: moderate amount of fear can be inferred
+2018-En-03011	Have to go to a occupational services place for a drug test. Yet they don't know what the heck is going on. Just great! #blah #😡	fear	0: no fear can be inferred
+2018-En-02272	All the proud parents on fb about their kids school report and am shitting myself for Graces arriving 😂😂😂  #troublemaker	fear	0: no fear can be inferred
+2018-En-02006	@javed1059 @sohitshanti @aajtak No ..there are a lot of questions that are creating suspicion. Plz don't take it otherwise.	fear	0: no fear can be inferred
+2018-En-03426	I LOVE @AerialWarehouse - conquering my #fears and gaining #strength and #grace 💪🏼💫💜 #aerialsilks #aerialarts	fear	0: no fear can be inferred
+2018-En-04040	And let the depression take the stage once more 🙃	fear	2: moderate amount of fear can be inferred
+2018-En-03608	All these boring stations with this side bully just being tough on someone sha\n... 😞😑😑😑	fear	0: no fear can be inferred
+2018-En-03223	@charlieaingham It just reminds us of the 90s &amp; early 00s. 'I'll have a pinot grigio' still makes us shudder.	fear	0: no fear can be inferred
+2018-En-01703	@realYoshiPlayer No offense, but this post makes you look like an opinion disrespecter.	fear	0: no fear can be inferred
+2018-En-02118	@kleague_kilt @Takeuchee I never knew the situation was so dire!	fear	2: moderate amount of fear can be inferred
+2018-En-04254	I can't believe a burrito was left on this sink and nobody though to trash it	fear	0: no fear can be inferred
+2018-En-03894	If the teaser trailer 4 @ITMovieOfficial cud stop appearing after /every/ other advert that'd be great #ITMovie  #phobia #scaredmuch #clown	fear	1: low amount of fear can be inferred
+2018-En-01882	Kidnapping and hostage-taking threats are on the rise. #civics #war 	fear	2: moderate amount of fear can be inferred
+2018-En-03922	@whatthefarrugia still trembling	fear	3: high amount of fear can be inferred
+2018-En-01918	Why so sensitive?! Did someone put you in your place???? #awe #shutthefuckup	fear	0: no fear can be inferred
+2018-En-01448	its horribly gloomy out rn and im flourishing	fear	2: moderate amount of fear can be inferred
+2018-En-01631	I'm shaking in my boots now. The Taffia are in full flow 😂😂	fear	0: no fear can be inferred
+2018-En-00245	Look at those U ❤️ like #Okja looks at #Mija - Be a #Mija &amp; help sum1 in need-remem 🐖🦃🐓🐄🐾feel just as we do.. #love #fear #longing and #pain	fear	0: no fear can be inferred
+2018-En-03172	It's not length, it's A #gnawing #sense of #dread.	fear	2: moderate amount of fear can be inferred
+2018-En-02919	if we're mutuals don't hesitate to kit fisto's lightsaber ;)	fear	0: no fear can be inferred
+2018-En-03874	4. Honestly all of them they all seem so nice but I'm #intimidated	fear	3: high amount of fear can be inferred
+2018-En-04262	#Media will debate, politicians will blame each other, on the ground it feels amply clear #India stands defeated against #terror. #Breaking	fear	2: moderate amount of fear can be inferred
+2018-En-03221	I am a terrible person. I have a viscerally negative reaction to Big Bird's new voice on Sesame Street. #shudder #nope	fear	2: moderate amount of fear can be inferred
+2018-En-01064	@Liz_Hanbury Oh no, jumper on again, has it turned colder? 😟 Have a terrific day🙋🏼🌸🌼🌻💕💕	fear	0: no fear can be inferred
+2018-En-01483	He aint flinch tho, I'll give him that lol	fear	0: no fear can be inferred
+2018-En-01973	Great game of tennis this one 👌🏻👌🏻🎾 #nervous	fear	1: low amount of fear can be inferred
+2018-En-03581	Mayweather's trash talking is on par with Nate Diaz #terrible would love to see McGregor KO him #MayweatherVsMcGregor	fear	0: no fear can be inferred
+2018-En-01082	Request MRI 2 years ago, Neuro only requested last year, I'm still waiting on appointment  #mssucks #healthcareFail	fear	0: no fear can be inferred
+2018-En-03084	He who. can suppress a moment's anger, may prevent many days' sorrow. Chinese Proverbs\n\n#MakingMEGATurkeyWithMcLisse	fear	0: no fear can be inferred
+2018-En-01850	This happened the last time I was painting 	fear	0: no fear can be inferred
+2018-En-04094	@1DJigglypuff It will haunt me now till i make a cover 😂😩	fear	2: moderate amount of fear can be inferred
+2018-En-04013	@ntyrbbygrl U make my heart flutter	fear	0: no fear can be inferred
+2018-En-03718	@ADubiousPronoun 🤦🏻‍♀️  We were warned.  And now we basically only have the choice between Trump, Pence, Ryan, et al for POTUS 🤢 	fear	0: no fear can be inferred
+2018-En-01356	@virginmedia have the worst customer service I have ever encountered - I am disgusted. Please contact me @richardbranson #appalled 	fear	1: low amount of fear can be inferred
+2018-En-02115	Our guidance counselor told us to start preparing for the entrance exam in different universities and I'm so nervous and tense	fear	3: high amount of fear can be inferred
+2018-En-02768	I'm still feeling some type of way about Viserion. #GameOfThrones #crying #stresseating	fear	2: moderate amount of fear can be inferred
+2018-En-00223	'You have an amazing problem here' - @sbxr has spotted a huge privacy issue for TracTAG 😱 #SharkTankAU	fear	0: no fear can be inferred
+2018-En-02751	This time tomorrow I'll be at the airport for the first trek of my journey to America 👀  #alone	fear	0: no fear can be inferred
+2018-En-03802	I think I have to finally admit that I need to see a dentist 😢 little bit toothache last night 😓 #fear #scared #phobia	fear	3: high amount of fear can be inferred
+2018-En-00864	@PinkBelgium Ya, writes horror so everything today in the world looks normal to this dark individual	fear	1: low amount of fear can be inferred
+2018-En-03505	@findingclea im sorry i voted jeans &lt;/3 u look banging who tf needs food anyway when ur a student existential dread feeds us	fear	1: low amount of fear can be inferred
+2018-En-02860	It's okay sus. Let that hurt go 🤗 * that's me hugging ya bitter ass * 😂😂😂	fear	0: no fear can be inferred
+2018-En-00834	Lost my glasses right before I'm supposed to see a movie at the Chinese Theater. #pissed	fear	1: low amount of fear can be inferred
+2018-En-00598	@amarakhbaranth1 Not answered my question - when the #AmarnathTerrorAttack perps are killed like rabid dogs will you praise army?	fear	0: no fear can be inferred
+2018-En-02040	hate tan lines but refuse to tan at a salon anymore. 🙄 	fear	0: no fear can be inferred
+2018-En-03463	@POLITICOEurope Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...	fear	0: no fear can be inferred
+2018-En-03222	@LePetitChatNYC @NYGovCuomo @MTA ugh i dread having to ride those trains again	fear	0: no fear can be inferred
+2018-En-00733	Then daddy wanna call talking bout wake up and shake that ass 🤦🏽‍♀️🤦🏽‍♀️🤦🏽‍♀️	fear	0: no fear can be inferred
+2018-En-02196	When USPS says your @DBHGaming order arrived a week ago but you haven't seen it. Nows a great time to panic 😰	fear	2: moderate amount of fear can be inferred
+2018-En-02359	And this, our life, exempt from public haunt, finds tongues in trees, books in the running brooks, sermons in stones, and good in everythin…	fear	0: no fear can be inferred
+2018-En-01554	Avoid facial cleansers containing harsh chemicals which irritate and weaken the protective barrier of skin. Use natural cleansers.	fear	0: no fear can be inferred
+2018-En-01330	ENTRYLOG: CSEternity- With time on my hands for half an hour, I feel slightly melancholy, for some reason….\n  .	fear	0: no fear can be inferred
+2018-En-01404	@3_mile_rock Indeed 😲\nAlways a #worry for our #homeland #Gibraltar #Spain \n#Tale or #foretelling #future\n#great #short #story	fear	2: moderate amount of fear can be inferred
+2018-En-02183	yukwon no video do zico the world is shaking	fear	0: no fear can be inferred
+2018-En-03777	Note to self: Don’t get discouraged by what you’re going through. Your time is coming. Where you are is not where you’re going to stay.	fear	0: no fear can be inferred
+2018-En-04237	@skhumbi First it was steaming pussy with garlic now this 😰 ao i give up	fear	0: no fear can be inferred
+2018-En-03000	i'm actually trying to find excuses to go out after interaction day on friday but i'm afraid that my mom will scold me even more lol	fear	2: moderate amount of fear can be inferred
+2018-En-04009	Thankful for...job, healthy, sober, happy as hell about things...still have a panic attacks every time I put my sunglasses on.	fear	2: moderate amount of fear can be inferred
+2018-En-01032	When you baby has their first temperature and all you do is worry #firsttimemum #firsttimemom #newborn #baby #sickbaby #worry	fear	3: high amount of fear can be inferred
+2018-En-01924	Every day I dread doing an 8 hour shift in retail 🙂	fear	2: moderate amount of fear can be inferred
+2018-En-01693	Any #GOP senator who refuses to #RepealAndReplace needs to bear the #wrath of their constituents @ polls home state!  #healthcare #price2pay	fear	0: no fear can be inferred
+2018-En-04206	the teacher gave us assignment to write a letter on why we should bpe hired (hypothetically) and i'm having a mental breakdown &amp; anxiety	fear	3: high amount of fear can be inferred
+2018-En-02868	Fear is an Illusion -Michael Jordan #WednesdayWisdom  #illusion	fear	0: no fear can be inferred
+2018-En-00911	#horror fiends... what should I watch on @horror_channel or @NetflixUK tonight???	fear	0: no fear can be inferred
+2018-En-03364	@JustinJeffre mornin sexy phantom crush hottie happy tremendous totally fun Tuesday love n hugs enjoy it xxoo love yas tons n bunches xxoo	fear	0: no fear can be inferred
+2018-En-02954	You can clearly appreciate the sub-harmonics in both...-ONE💯😂😂😂👍🏿 	fear	0: no fear can be inferred
+2018-En-01870	@KeithOlbermann  'out of his motherfucking mind'.... don't think anyone could say it any better. #terrifying #biggestcrybabyinhistory	fear	2: moderate amount of fear can be inferred
+2018-En-04246	These restless nights and early mornings aren't good. 😫😪	fear	0: no fear can be inferred
+2018-En-01546	@ellagallagher Thing is tho my pout was actually serious	fear	0: no fear can be inferred
+2018-En-00285	Goddamn fucking piece of shit panic attacks...	fear	3: high amount of fear can be inferred
+2018-En-02080	i know my moods are dreadful when i sleep for 14 hours naturally\n\nwould rather be sleeping right now to be honest though	fear	0: no fear can be inferred
+2018-En-04373	Joker's job is to make public smile &amp; not spread hatred by d way. @Ra_Bies	fear	0: no fear can be inferred
+2018-En-03117	Shitty is the worst feeling ever #depressed #anxiety	fear	3: high amount of fear can be inferred
+2018-En-04063	@Teenique yessss waiting for an epi is for the birds. it sucks. im waiting for walking dead new season😩 	fear	0: no fear can be inferred
+2018-En-02913	@rob_bennett OMG! Are you kidding me with this? I thought Pence was bad but they had to go even farther! 	fear	0: no fear can be inferred
+2018-En-02274	The number of ppl who took it the wrong way is not that alarming, but srsly why do u think lyt dat man oy 😊	fear	0: no fear can be inferred
+2018-En-02363	Fear not @lisajnc1951, God is with you, don't be discouraged, for He is your God, He strengthens and helps you at all time. Is 41:10	fear	0: no fear can be inferred
+2018-En-00131	As horrid as it will be to see him move on, let's not rewrite history, he's been our best servant under Hughes, none have out shone him	fear	2: moderate amount of fear can be inferred
+2018-En-03496	The best bridge between despair and hope is a good night's sleep.	fear	0: no fear can be inferred
+2018-En-04378	Have funny feeling this #mayweather #McGregor will become a trilogy. Why make 550 million? When you can make it 3x hmmm #suspicion ? 💵💰	fear	0: no fear can be inferred
+2018-En-04011	@AnteHarper I always preferred the quiver	fear	0: no fear can be inferred
+2018-En-00340	' #TheXFactor returns next week ' exclaims the 'trend' notification.\n\nOh deep fucking joy, exclaims I. #dreadful  #pastitsselldate #quitit 💤	fear	0: no fear can be inferred
+2018-En-01857	@bookish_yogi It's been a little Twitter saga lately. The tea thing is horrific, plus they never have fresh milk to put in it.	fear	0: no fear can be inferred
+2018-En-01107	'...built in #order to #start #afresh. Such #thoughts caused #energy to #flag, and #people concerned...' (The #City CoA)	fear	0: no fear can be inferred
+2018-En-00594	@hymie094 Me too.....without hesitation.	fear	0: no fear can be inferred
+2018-En-03501	@cragget @adamliaw if I catch you making tea with water boiled up to 100 degrees, there will be dire consequences	fear	0: no fear can be inferred
+2018-En-00150	Just a side #thought, everything takes #time and #effort ... #annoyed	fear	0: no fear can be inferred
+2018-En-01471	@VodafoneIN Network bandwidth died after 9gb offer reedemed, damaging loyal customer relations  #improve	fear	0: no fear can be inferred
+2018-En-00548	Phil Spencer: Find me a Home.... #shocking #housingcrisis	fear	2: moderate amount of fear can be inferred
+2018-En-01694	@morganwill_x @ITV @georgiadavies73 It's back to haunt us	fear	2: moderate amount of fear can be inferred
+2018-En-01490	Chad and Sarah is honestly me and my ex 10 years ago 😂😂 #CBB #horrifying	fear	1: low amount of fear can be inferred
+2018-En-04176	#worry leads to tension and pressure #prayer leads to peace	fear	0: no fear can be inferred
+2018-En-01739	if anyone has any tips to help me worry less then hmu	fear	2: moderate amount of fear can be inferred
+2018-En-02855	@BBCNews @BBCBreaking I don't think it's very funny you guys bullying a man for struggling to put on a poncho #bully #bullies #bbc	fear	0: no fear can be inferred
+2018-En-03421	@TalkTalk Why bother , online people who I started with , no joy with them either , they were the ones who said they'd call 	fear	0: no fear can be inferred
+2018-En-01998	Like no joke why is #insecure my life! On the real someone has some explaining to do 😳	fear	1: low amount of fear can be inferred
+2018-En-00166	@aena_lene I want to snatch that beanie 🙃 tbh I'm kinda scared as well 😂	fear	1: low amount of fear can be inferred
+2018-En-00847	@KatRamsland 'call to action by TV host John Oliver, who urged viewers to leave comments expressing their displeasure at the FCC's policies.	fear	0: no fear can be inferred
+2018-En-03242	@BenWillisUK @mushenska @ceciliacw @orionbooks It's EXCELLENT! #grippedbyfear #fearful #fearsome #fearfearfear	fear	1: low amount of fear can be inferred
+2018-En-03882	……Of course not, and I am quite dismayed by the ludicrous nature of her claim.	fear	0: no fear can be inferred
+2018-En-02275	@EboniKWilliams is only matched by Star Jones in number of times she mentions her law degree. #FoxNewsSpecialists #insecure	fear	0: no fear can be inferred
+2018-En-01105	Is it okay to think you are going to die alone? #sadness	fear	2: moderate amount of fear can be inferred
+2018-En-04235	I graduated yesterday and already had 8 family members asking what job I've got now 😂 #nightmare	fear	1: low amount of fear can be inferred
+2018-En-02330	@BDSixsmith @J_Bloodworth This is very complex. So, I can't share images I've taken because that would spread intimidation but	fear	0: no fear can be inferred
+2018-En-03566	@WxLadyFelicia @WPTV @FOX29WFLX @cityofboynton That's a horrible picture cause it makes me jealous I am not there.	fear	0: no fear can be inferred
+2018-En-01607	Last night was the first night I slept by myself in 3 weeks and it was awful.	fear	2: moderate amount of fear can be inferred
+2018-En-02595	12 PM Reminder: You are ok. You are safe. Don't panic. #anxiety #calm #panic	fear	1: low amount of fear can be inferred
+2018-En-03584	Scared to leave the routine but excited to break out the mould 😖 #scared #confused #happy #undecided #excited	fear	2: moderate amount of fear can be inferred
+2018-En-01442	literally I'm baby momma status everyone I date wants to start a fam I'm like yo do I just come off as fertile and mom ish	fear	0: no fear can be inferred
+2018-En-00376	@iamjannn And life is a nightmare	fear	2: moderate amount of fear can be inferred
+2018-En-01270	@djsantero I'm feeling bad for the family dog.  #nightmare	fear	2: moderate amount of fear can be inferred
+2018-En-00445	@Monarch Really??? I've had to hang up! 	fear	0: no fear can be inferred
+2018-En-01905	@ARnews1936 @kdsats72 Americans do not spank their children, and they are a God fearing people who knows the biggest sin is hypocrisy.	fear	0: no fear can be inferred
+2018-En-02089	@NexaExperience Most pathetic after service experience for Baleno servicing, #horrible Feel i have made a mistake buying	fear	2: moderate amount of fear can be inferred
+2018-En-02999	The hype is real. #SagasOfSundry #dread is amazing. @JoinTeamAlpha	fear	0: no fear can be inferred
+2018-En-00787	@KokuKokuBoo It's kay. They were my main healer/caster in HW...but not for SB (for now) sadly.	fear	0: no fear can be inferred
+2018-En-02961	nothing better than going on holiday when the weathers grim at home	fear	0: no fear can be inferred
+2018-En-00191	The real question is why am I still up!? #cantsleep #restless	fear	0: no fear can be inferred
+2018-En-04377	Horny. Anyone? #horny #bi #sex #london #snapchat #gaysnap #hornysnap #snapchatgay #snapchathorny #gaysnapchat #hornysnapchat #snapgay #snap	fear	0: no fear can be inferred
+2018-En-01572	Watching #insecure ... this bitch cheating on her loyal ass Boyfriend! And she makes breakfast to stay happy 🙄	fear	0: no fear can be inferred
+2018-En-04175	@Miss_Wisconsin It's amazing what not being told no enough can raise. #horrid	fear	0: no fear can be inferred
+2018-En-00429	One arm around my waist, hand down my crouch to pull me towards yourself with. You behind my back, jeans around your ankles you inside	fear	0: no fear can be inferred
+2018-En-03112	I'm extra lazy today 😟	fear	0: no fear can be inferred
+2018-En-01057	That maybe she just lost her job in the recession and is trying out a new career path	fear	0: no fear can be inferred
+2018-En-00652	@JeffreeStar may I ask a question please #scared	fear	3: high amount of fear can be inferred
+2018-En-02373	@ReonPirray What about their ball skills.\nThey back themselves.\nSicily has been tremendous down back	fear	0: no fear can be inferred
+2018-En-03629	Dear fellow #humans do not fall in #despair ! Soon we'll #drink #beer in #satanists élites skulls, #celebrating #end of #kakocracy 🐬	fear	0: no fear can be inferred
+2018-En-00270	She gave me a serious fright #scared #loveMyCat	fear	3: high amount of fear can be inferred
+2018-En-00619	@bambustyk He looks scared and burdened, but he withstands all that and comeback stronger! 😭 I'm crying, he is so strong 👍🏻	fear	0: no fear can be inferred
+2018-En-02488	This the way I rage, \n\non sum wopstar shit ⭐️	fear	0: no fear can be inferred
+2018-En-02443	@joeAlane @KayleyHignell Think too timid. I think a £50 fee for all for ETs as suggested by @Wonkypolicywonk is way to go.	fear	0: no fear can be inferred
