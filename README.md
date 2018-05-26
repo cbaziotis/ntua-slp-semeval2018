@@ -30,7 +30,7 @@ You can download one of the following word embeddings:
 - [twitter.200d.txt](https://mega.nz/#!W5BXBISB!Vu19nme_shT3RjVL4Pplu8PuyaRH5M5WaNwTYK4Rxes): 200 dimensional embeddings
 - [twitter.300d.txt](https://mega.nz/#!u4hFAJpK!UeZ5ERYod-SwrekW-qsPSsl-GYwLFQkh06lPTR7K93I): 300 dimensional embeddings
 
-Place the file(s) in `/embeddings` folder, for the program to find it.
+Put the embedding files in the `/embeddings` folder.
 
 ### Example 
 You can test that you have a working setup by training 
