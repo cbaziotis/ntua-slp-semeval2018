@@ -32,6 +32,14 @@ You can download one of the following word embeddings:
 
 Place the file(s) in `/embeddings` folder, for the program to find it.
 
+### Example 
+You can test that you have a working setup by training 
+a sentiment analysis model on [SemEval 2017 Task 4A](http://alt.qcri.org/semeval2017/task4/), 
+which is used for pretraining for Task 1.  
+```bash
+python model/pretraining/sentiment2017.py
+```
+
 # Documentation 
 
 ### Project Structure
