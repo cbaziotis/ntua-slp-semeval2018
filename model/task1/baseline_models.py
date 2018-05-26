@@ -1,9 +1,9 @@
 import numpy
 
-from semeval2018.data.task1 import parse
-from semeval2018.model.configs import TASK1_VREG, TASK1_EIOC, TASK1_EC, \
+from dataloaders.task1 import parse
+from model.params import TASK1_VREG, TASK1_EIOC, TASK1_EC, \
     TASK1_EIREG, TASK1_VOC
-from semeval2018.util.nlp import twitter_preprocess
+from utils.nlp import twitter_preprocess
 
 
 def train_ei_reg(emotion, model, evaluation, preprocessor=None):

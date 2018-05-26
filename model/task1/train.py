@@ -12,7 +12,7 @@ pretrained = None
 # pretrained = "SEMEVAL_2017_att-rnn_word_0.6899"
 finetune = True
 unfreeze = 0
-task = 1
+task = 5
 emotion = "joy"
 
 if pretrained is not None:

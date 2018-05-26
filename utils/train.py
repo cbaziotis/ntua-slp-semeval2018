@@ -148,7 +148,7 @@ def get_pipeline(task, criterion=None, eval=False):
         if task == "bclf":
             loss = criterion(outputs.view(-1), labels.float())
         else:
-            loss = criterion(outputs, labels)
+            loss = criterion(outputs.squeeze(), labels)
 
         return outputs, labels, attentions, loss
 

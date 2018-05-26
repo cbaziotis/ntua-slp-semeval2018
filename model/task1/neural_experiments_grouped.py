@@ -1,6 +1,6 @@
 import argparse
 
-from semeval2018.model.task1.neural_models import train_ei_reg, train_ei_oc, \
+from model.task1.neural_models import train_ei_reg, train_ei_oc, \
     train_v_reg, train_v_oc, train_e_c
 
 tasks = """

@@ -53,7 +53,7 @@ def train_ei_reg(emotion, pretrained=None, finetune=True, unfreeze=0):
     name = model_config["name"] + "_" + emotion
     trainer = define_trainer("reg", config=model_config, name=name,
                              datasets=datasets,
-                             monitor="gold",
+                             monitor="dev",
                              pretrained=pretrained, finetune=finetune)
 
     model_training(trainer, model_config["epochs"], unfreeze=unfreeze)
@@ -113,7 +113,7 @@ def train_ei_oc(emotion, pretrained=None, finetune=True, unfreeze=0):
     name = model_config["name"] + "_" + emotion
     trainer = define_trainer("clf", config=model_config, name=name,
                              datasets=datasets,
-                             monitor="gold",
+                             monitor="dev",
                              ordinal=True,
                              pretrained=pretrained,
                              finetune=finetune)
@@ -178,7 +178,7 @@ def train_v_reg(pretrained=None, finetune=True, unfreeze=0):
     name = model_config["name"]
     trainer = define_trainer("reg", config=model_config, name=name,
                              datasets=datasets,
-                             monitor="gold",
+                             monitor="dev",
                              pretrained=pretrained, finetune=finetune)
 
     model_training(trainer, model_config["epochs"], unfreeze=unfreeze)
@@ -246,7 +246,7 @@ def train_v_oc(pretrained=None, finetune=True, unfreeze=0):
     name = model_config["name"]
     trainer = define_trainer("clf", config=model_config, name=name,
                              datasets=datasets,
-                             monitor="gold",
+                             monitor="dev",
                              ordinal=True,
                              label_transformer=transformer,
                              pretrained=pretrained,
