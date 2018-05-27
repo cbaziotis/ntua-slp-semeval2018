@@ -21,18 +21,18 @@ For training the word embeddings we used
 [Gensim's implementation](https://radimrehurek.com/gensim/) 
 of word2vec.
 For preprocessing the tweets we used [ekphrasis](https://github.com/cbaziotis/ekphrasis).
-Finally, used the following parameteres for training the word2vec embeddings: 
+Finally, we used the following parameteres for training the embeddings: 
 `window_size = 6`, `negative_sampling = 5` and `min_count = 20`.
 
-You can download one of the following word embeddings:
+We freely share our pre-trained embeddings:
 - [ntua_twitter_300.txt](https://drive.google.com/open?id=1b-w7xf0d4zFmVoe9kipBHUwfoefFvU2t): 
 300 dimensional embeddings.
 - [ntua_twitter_affect_310.txt](https://drive.google.com/open?id=11zrXc1h_saJsMT6eo0VARKeZuzvK2bU0): 
 310 dimensional embeddings, consisting of 300d word2vec embeddings + 10 affective dimensions.
 
-Finally, put the downloaded embeddings file in `/embeddings` folder.
+Finally, you should put the downloaded embeddings file in the `/embeddings` folder.
 
-#### 3 - Update mode configs
+#### 3 - Update model configs
 Our model definitions are stored in a python configuration file. 
 Each config contains the model parameters and things like the batch size, 
 number of epochs and embeddings file. You should update the 
@@ -40,9 +40,9 @@ number of epochs and embeddings file. You should update the
 
 
 ### Example - Sentiment Analysis on SemEval 2017 Task 4A
-You can test that you have a working setup by training 
+You can test that you have a working setup, by training 
 a sentiment analysis model on [SemEval 2017 Task 4A](http://alt.qcri.org/semeval2017/task4/), 
-which is used for pretraining for Task 1.  
+which is used as a source task for transfer learning in Task 1.  
 
 First, start the visdom server, which is needed for visualizing 
 the training progress.
