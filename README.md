@@ -44,8 +44,8 @@ You can test that you have a working setup, by training
 a sentiment analysis model on [SemEval 2017 Task 4A](http://alt.qcri.org/semeval2017/task4/), 
 which is used as a source task for transfer learning in Task 1.  
 
-First, start the visdom server, which is needed for visualizing 
-the training progress.
+First, start the [visdom](https://github.com/facebookresearch/visdom) server, 
+which is needed for visualizing the training progress.
 ```bash
 python -m visdom.server
 ```
