@@ -23,16 +23,25 @@ For training the word embeddings we used
 [Gensim's implementation](https://radimrehurek.com/gensim/) 
 of word2vec.
 For preprocessing the tweets we used [ekphrasis](https://github.com/cbaziotis/ekphrasis).
+Finally, used the following parameteres for training the word2vec embeddings: 
+`window_size = 6`, `negative_sampling = 5` and `min_count = 20`.
 
 You can download one of the following word embeddings:
-- [twitter.50d.txt](https://mega.nz/#!zsQXmZYI!M_y65hkHdY88iC3I8Yeo7N9IRBI4D9mrpz016fqiXwQ): 50 dimensional embeddings
-- [twitter.100d.txt](https://mega.nz/#!OsYTjIrQ!gLp6YLa0A3ncXjaUffbgL2RtUI74bvSkUKpflAS0OyQ): 100 dimensional embeddings
-- [twitter.200d.txt](https://mega.nz/#!W5BXBISB!Vu19nme_shT3RjVL4Pplu8PuyaRH5M5WaNwTYK4Rxes): 200 dimensional embeddings
-- [twitter.300d.txt](https://mega.nz/#!u4hFAJpK!UeZ5ERYod-SwrekW-qsPSsl-GYwLFQkh06lPTR7K93I): 300 dimensional embeddings
+- [ntua_twitter_300.txt](https://drive.google.com/open?id=1b-w7xf0d4zFmVoe9kipBHUwfoefFvU2t): 
+300 dimensional embeddings.
+- [ntua_twitter_affect_310.txt](https://drive.google.com/open?id=11zrXc1h_saJsMT6eo0VARKeZuzvK2bU0): 
+310 dimensional embeddings, consisting of 300d word2vec embeddings + 10 affective dimensions.
 
-Put the embedding files in the `/embeddings` folder.
+**Important**: Finally, put the embeddings file in `/embeddings` folder.
 
-### Example 
+#### 3 - Update mode configs
+Our model definitions are stored in a python configuration file. 
+Each config contains the model parameters and things like the batch size, 
+number of epochs and embeddings file. You should update the 
+`embeddings_file` parameter in the model's configuration in `model/params.py`.
+
+
+### Example - Sentiment Analysis on SemEval 2017 Task 4A
 You can test that you have a working setup by training 
 a sentiment analysis model on [SemEval 2017 Task 4A](http://alt.qcri.org/semeval2017/task4/), 
 which is used for pretraining for Task 1.  
@@ -43,6 +52,10 @@ python model/pretraining/sentiment2017.py
 # Documentation 
 
 ### Project Structure
+In order to make our codebase more accessible and easier to extend, 
+we provide an overview of the structure of our project. 
+The most important parts will be covered in greater detail.
+
 - `datasets`: contains the datasets for the pretrainig (SemEval 2017 - Task4A) 
 - `dataloaders` - contains scripts for loading the datasets
               and for tasks 1, 2 and 3 
@@ -67,4 +80,5 @@ python model/pretraining/sentiment2017.py
 - `trained`: this is where all the model checkpoints are saved.
 - `utils`: contains helper functions
 
-Full documentation of the source code will be posted soon.
+
+**Note**: Full documentation of the source code will be posted soon.
