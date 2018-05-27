@@ -1,11 +1,9 @@
 # Overview
-
 This repository contains the source code of the models submitted 
 by NTUA-SLP team in SemEval 2018 tasks 1, 2 and 3.
 - Task 1: Affect in Tweets https://arxiv.org/abs/1804.06658
 - Task 2: Multilingual Emoji Prediction https://arxiv.org/abs/1804.06657
 - Task 3: Irony Detection in English Tweets https://arxiv.org/abs/1804.06659
-
 
 ## Prerequisites
 Please follow the steps below in order to be able to train our models:
@@ -32,7 +30,7 @@ You can download one of the following word embeddings:
 - [ntua_twitter_affect_310.txt](https://drive.google.com/open?id=11zrXc1h_saJsMT6eo0VARKeZuzvK2bU0): 
 310 dimensional embeddings, consisting of 300d word2vec embeddings + 10 affective dimensions.
 
-**Important**: Finally, put the embeddings file in `/embeddings` folder.
+Finally, put the downloaded embeddings file in `/embeddings` folder.
 
 #### 3 - Update mode configs
 Our model definitions are stored in a python configuration file. 
@@ -45,13 +43,28 @@ number of epochs and embeddings file. You should update the
 You can test that you have a working setup by training 
 a sentiment analysis model on [SemEval 2017 Task 4A](http://alt.qcri.org/semeval2017/task4/), 
 which is used for pretraining for Task 1.  
+
+First, start the visdom server, which is needed for visualizing 
+the training progress.
+```bash
+python -m visdom.server
+```
+
+Then just run the experiment.
 ```bash
 python model/pretraining/sentiment2017.py
 ```
 
 # Documentation 
 
-### Project Structure
+### TL;DR
+- If you only care about the source code of our deep-learning models, 
+then look at the PyTorch modules in `modules/nn/`. 
+- In particular, `modules/nn/attention.py` contains an implementation 
+of a self-attention mechanism, which supports multi-layer attention.
+- The scripts for running an experiment are stored in `model/taskX`.
+
+#### Project Structure
 In order to make our codebase more accessible and easier to extend, 
 we provide an overview of the structure of our project. 
 The most important parts will be covered in greater detail.
