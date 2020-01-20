@@ -136,7 +136,7 @@ TASK2_A = {
     "batch_train": 32,
     "batch_eval": 32,
    "epochs": 50,
-    "embeddings_file": "pca_applied_on_glove.6B.100d_1",
+    "embeddings_file": "word2vec_300_6_20_neg",
     "embed_dim": 300,
     "embed_finetune": False,
     "embed_noise": 0.2,
