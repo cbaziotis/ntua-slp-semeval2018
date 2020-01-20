@@ -99,14 +99,36 @@ def load_datasets(datasets, train_batch_size, eval_batch_size, token_type,
     return loaders
 
 
-def load_embeddings(model_conf):
-    word_vectors = os.path.join(BASE_PATH, "embeddings",
-                                "{}.txt".format(model_conf["embeddings_file"]))
-    word_vectors_size = model_conf["embed_dim"]
+def load_embeddings(
+        model_conf,
+        absolute_path=False, embedding_size_auto_detect=None):
+    if not absolute_path:
+        word_vectors = os.path.join(
+            BASE_PATH, "embeddings",
+            "{}.txt".format(model_conf["embeddings_file"]))
+    else:
+        '''Absolute Path.'''
+        word_vectors = model_conf["embeddings_file"]
+
+    if embedding_size_auto_detect is not None:
+        word_vectors_size = detect_embedding_dim(word_vectors)
+    else:
+        word_vectors_size = model_conf["embed_dim"]
 
     # load word embeddings
     print("loading word embeddings...")
     return load_word_vectors(word_vectors, word_vectors_size)
+
+
+def detect_embedding_dim(embedding_file):
+    """
+    Auto detecting the dimensionality of embedding file.
+    :param embedding_file:
+    :return:
+    """
+    with open(embedding_file, 'r', encoding="utf8") as file:
+        for line in file:
+            return len(line.strip().split()) - 1
 
 
 def get_pipeline(task, criterion=None, eval=False):
@@ -229,7 +251,9 @@ def define_trainer(task,
                    pretrained=None,
                    finetune=None,
                    label_transformer=None,
-                   disable_cache=False):
+                   disable_cache=False,
+                   absolute_path=False,
+                   embedding_size_auto_detect=None):
     """
 
     Args:
@@ -273,7 +297,9 @@ def define_trainer(task,
     ########################################################################
     word2idx = None
     if _config["token_type"] == "word":
-        word2idx, idx2word, embeddings = load_embeddings(_config)
+        word2idx, idx2word, embeddings = load_embeddings(_config,
+                                                         absolute_path,
+                                                         embedding_size_auto_detect)
 
     ########################################################################
     # DATASET
