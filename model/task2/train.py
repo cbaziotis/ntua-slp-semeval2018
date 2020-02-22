@@ -16,7 +16,9 @@ datasets = {
 
 name = "_".join([model_config["name"]])
 
-trainer = define_trainer("clf", config=model_config, name=name,
-                         datasets=datasets, monitor="gold")
+trainer = define_trainer(
+    "clf", config=model_config, name=name,
+    datasets=datasets, monitor="gold",
+    absolute_path=False, embedding_size_auto_detect=True)
 
 model_training(trainer, model_config["epochs"], checkpoint=True)

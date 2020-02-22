@@ -6,3 +6,6 @@ nltk==3.2.4
 ekphrasis==0.4.9
 torch==0.4.0
 numpy==1.13.1
+ftfy
+ujson
+colorama
