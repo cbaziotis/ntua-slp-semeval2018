@@ -5,7 +5,7 @@ visdom==0.1.7
 nltk==3.2.4
 ekphrasis==0.4.9
 torch==0.4.0
-numpy==1.13.1
+numpy==1.21.0
 ftfy
 ujson
 colorama
